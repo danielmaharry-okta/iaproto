@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Manage access on Hugo Techdoc Theme</title>
-    <link>http://localhost:1313/build/manage-access/index.html</link>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-access/index.html</link>
     <description>Recent content in Manage access on Hugo Techdoc Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/build/manage-access/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/build/manage-access/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Manage user access to your API Service</title>
-      <link>http://localhost:1313/build/manage-access/manage-user-access-to-your-api-service/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-access/manage-user-access-to-your-api-service/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/build/manage-access/manage-user-access-to-your-api-service/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-access/manage-user-access-to-your-api-service/index.html</guid>
       <description>Manage user access to your API Service In Phase 1?: &amp;ldquo;Yes, content defined as a dynamic index&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, it&amp;rsquo;s &amp;ldquo;glue&amp;rdquo; documentation not related to the product help docs
@@ -22,9 +22,9 @@ This document type is designed to automatically generate and display a list of c
     </item>
     <item>
       <title>Access Okta APIs using OAuth</title>
-      <link>http://localhost:1313/build/manage-access/access-okta-apis-using-oauth/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-access/access-okta-apis-using-oauth/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/build/manage-access/access-okta-apis-using-oauth/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-access/access-okta-apis-using-oauth/index.html</guid>
       <description>Access Okta APIs using OAuth In Phase 1?: &amp;ldquo;Yes, content defined as a dynamic index&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, it&amp;rsquo;s &amp;ldquo;glue&amp;rdquo; documentation not related to the product help docs
@@ -35,9 +35,9 @@ This document type is designed to automatically generate and display a list of c
     </item>
     <item>
       <title>Limit scopes for particular clients</title>
-      <link>http://localhost:1313/build/manage-access/limit-scopes-for-particular-clients/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-access/limit-scopes-for-particular-clients/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/build/manage-access/limit-scopes-for-particular-clients/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-access/limit-scopes-for-particular-clients/index.html</guid>
       <description>Limit scopes for particular clients In Phase 1?: &amp;ldquo;Yes, but we postpoine guide breakup to a later phase.&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
@@ -48,9 +48,9 @@ Links to original docs: - The &amp;ldquo;Limit which scopes some clients can acc
     </item>
     <item>
       <title>Configure a custom access token lifetime</title>
-      <link>http://localhost:1313/build/manage-access/configure-a-custom-access-token-lifetime/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-access/configure-a-custom-access-token-lifetime/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/build/manage-access/configure-a-custom-access-token-lifetime/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-access/configure-a-custom-access-token-lifetime/index.html</guid>
       <description>Configure a custom access token lifetime In Phase 1?: &amp;ldquo;Yes, but we postpoine guide breakup to a later phase.&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
@@ -61,9 +61,9 @@ Links to original docs: - The &amp;ldquo;Configure a custom access token lifetim
     </item>
     <item>
       <title>Require an additional authenticator for users in a group</title>
-      <link>http://localhost:1313/build/manage-access/require-an-additional-authenticator-for-users-in-a-group/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-access/require-an-additional-authenticator-for-users-in-a-group/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/build/manage-access/require-an-additional-authenticator-for-users-in-a-group/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-access/require-an-additional-authenticator-for-users-in-a-group/index.html</guid>
       <description>Require an additional authenticator for users in a group In Phase 1?: &amp;ldquo;Yes, but we postpoine guide breakup to a later phase.&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
@@ -74,9 +74,9 @@ Links to original docs: - Configure a global session policy and authentication p
     </item>
     <item>
       <title>Require an additional authenticator when outside of US</title>
-      <link>http://localhost:1313/build/manage-access/require-an-additional-authenticator-when-outside-of-us/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-access/require-an-additional-authenticator-when-outside-of-us/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/build/manage-access/require-an-additional-authenticator-when-outside-of-us/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-access/require-an-additional-authenticator-when-outside-of-us/index.html</guid>
       <description>Require an additional authenticator when outside of US In Phase 1?: &amp;ldquo;Yes, but we postpoine guide breakup to a later phase.&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
@@ -87,9 +87,9 @@ Links to original docs: - Configure a global session policy and authentication p
     </item>
     <item>
       <title>Test your access configurations with an simulation</title>
-      <link>http://localhost:1313/build/manage-access/test-your-access-configurations-with-an-simulation/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-access/test-your-access-configurations-with-an-simulation/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/build/manage-access/test-your-access-configurations-with-an-simulation/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-access/test-your-access-configurations-with-an-simulation/index.html</guid>
       <description>Test your access configurations with an simulation In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
@@ -101,9 +101,9 @@ Content type: How-to: developer focused</description>
     </item>
     <item>
       <title>Enable a user consent dialog for an app</title>
-      <link>http://localhost:1313/build/manage-access/enable-a-user-consent-dialog-for-an-app/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-access/enable-a-user-consent-dialog-for-an-app/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/build/manage-access/enable-a-user-consent-dialog-for-an-app/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-access/enable-a-user-consent-dialog-for-an-app/index.html</guid>
       <description>Enable a user consent dialog for an app In Phase 1?: &amp;ldquo;Yes, but for phase 1 keep changes to existing doc as minimal as possible&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
@@ -113,9 +113,9 @@ Target personas: WIC App Developer,Experienced IAM developer</description>
     </item>
     <item>
       <title>Set up delegated access to a resource</title>
-      <link>http://localhost:1313/build/manage-access/set-up-delegated-access-to-a-resource/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-access/set-up-delegated-access-to-a-resource/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/build/manage-access/set-up-delegated-access-to-a-resource/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-access/set-up-delegated-access-to-a-resource/index.html</guid>
       <description>Set up delegated access to a resource In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
@@ -126,9 +126,9 @@ Changes to be made: Update title</description>
     </item>
     <item>
       <title>Step up authentication based on access request using ACR</title>
-      <link>http://localhost:1313/build/manage-access/step-up-authentication-based-on-access-request-using-acr/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-access/step-up-authentication-based-on-access-request-using-acr/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/build/manage-access/step-up-authentication-based-on-access-request-using-acr/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-access/step-up-authentication-based-on-access-request-using-acr/index.html</guid>
       <description>Step up authentication based on access request using ACR In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
@@ -140,9 +140,9 @@ Content type: How-to: developer focused</description>
     </item>
     <item>
       <title>Manage access to Org objects with role assignments</title>
-      <link>http://localhost:1313/build/manage-access/manage-access-to-org-objects-with-role-assignments/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-access/manage-access-to-org-objects-with-role-assignments/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/build/manage-access/manage-access-to-org-objects-with-role-assignments/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-access/manage-access-to-org-objects-with-role-assignments/index.html</guid>
       <description>Manage access to Org objects with role assignments In Phase 1?: &amp;ldquo;No, new content can be created at later phase.&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers

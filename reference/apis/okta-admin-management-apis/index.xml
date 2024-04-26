@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Okta Admin Management APIs on Hugo Techdoc Theme</title>
-    <link>http://localhost:1313/reference/apis/okta-admin-management-apis/index.html</link>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/index.html</link>
     <description>Recent content in Okta Admin Management APIs on Hugo Techdoc Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/reference/apis/okta-admin-management-apis/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Agent Pools</title>
-      <link>http://localhost:1313/reference/apis/okta-admin-management-apis/agent-pools/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/agent-pools/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/apis/okta-admin-management-apis/agent-pools/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/agent-pools/index.html</guid>
       <description>Agent Pools API In Phase 2?: TBD
 Group Notes Group description: Straight port from Redocly
 Content Notes New or existing doc?: Existing doc: no changes identified
@@ -22,9 +22,9 @@ A comprehensive description of the API, including endpoints, methods, parameters
     </item>
     <item>
       <title>API Service Integrations</title>
-      <link>http://localhost:1313/reference/apis/okta-admin-management-apis/api-service-integrations/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/api-service-integrations/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/apis/okta-admin-management-apis/api-service-integrations/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/api-service-integrations/index.html</guid>
       <description>API Service Integrations API In Phase 2?: TBD
 Group Notes Group description: Straight port from Redocly
 Content Notes New or existing doc?: Existing doc: no changes identified
@@ -35,9 +35,9 @@ A comprehensive description of the API, including endpoints, methods, parameters
     </item>
     <item>
       <title>API Tokens</title>
-      <link>http://localhost:1313/reference/apis/okta-admin-management-apis/api-tokens/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/api-tokens/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/apis/okta-admin-management-apis/api-tokens/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/api-tokens/index.html</guid>
       <description>API Tokens API In Phase 2?: TBD
 Group Notes Group description: Straight port from Redocly
 Content Notes New or existing doc?: Existing doc: no changes identified
@@ -48,9 +48,9 @@ A comprehensive description of the API, including endpoints, methods, parameters
     </item>
     <item>
       <title>Applications</title>
-      <link>http://localhost:1313/reference/apis/okta-admin-management-apis/applications/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/applications/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/apis/okta-admin-management-apis/applications/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/applications/index.html</guid>
       <description>Applications API In Phase 2?: TBD
 Group Notes Group description: Straight port from Redocly
 Content Notes New or existing doc?: Existing doc: no changes identified
@@ -61,9 +61,9 @@ A comprehensive description of the API, including endpoints, methods, parameters
     </item>
     <item>
       <title>Application Connections</title>
-      <link>http://localhost:1313/reference/apis/okta-admin-management-apis/application-connections/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/application-connections/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/apis/okta-admin-management-apis/application-connections/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/application-connections/index.html</guid>
       <description>Application Connections API In Phase 2?: TBD
 Group Notes Group description: Straight port from Redocly
 Content Notes New or existing doc?: Existing doc: no changes identified
@@ -74,9 +74,9 @@ A comprehensive description of the API, including endpoints, methods, parameters
     </item>
     <item>
       <title>Application Features</title>
-      <link>http://localhost:1313/reference/apis/okta-admin-management-apis/application-features/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/application-features/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/apis/okta-admin-management-apis/application-features/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/application-features/index.html</guid>
       <description>Application Features API In Phase 2?: TBD
 Group Notes Group description: Straight port from Redocly
 Content Notes New or existing doc?: Existing doc: no changes identified
@@ -87,9 +87,9 @@ A comprehensive description of the API, including endpoints, methods, parameters
     </item>
     <item>
       <title>Application Credentials</title>
-      <link>http://localhost:1313/reference/apis/okta-admin-management-apis/application-credentials/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/application-credentials/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/apis/okta-admin-management-apis/application-credentials/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/application-credentials/index.html</guid>
       <description>Application Credentials API In Phase 2?: TBD
 Group Notes Group description: Straight port from Redocly
 Content Notes New or existing doc?: Existing doc: no changes identified
@@ -100,9 +100,9 @@ A comprehensive description of the API, including endpoints, methods, parameters
     </item>
     <item>
       <title>Application Grants</title>
-      <link>http://localhost:1313/reference/apis/okta-admin-management-apis/application-grants/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/application-grants/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/apis/okta-admin-management-apis/application-grants/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/application-grants/index.html</guid>
       <description>Application Grants API In Phase 2?: TBD
 Group Notes Group description: Straight port from Redocly
 Content Notes New or existing doc?: Existing doc: no changes identified
@@ -113,9 +113,9 @@ A comprehensive description of the API, including endpoints, methods, parameters
     </item>
     <item>
       <title>Application Groups</title>
-      <link>http://localhost:1313/reference/apis/okta-admin-management-apis/application-groups/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/application-groups/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/apis/okta-admin-management-apis/application-groups/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/application-groups/index.html</guid>
       <description>Application Groups API In Phase 2?: TBD
 Group Notes Group description: Straight port from Redocly
 Content Notes New or existing doc?: Existing doc: no changes identified
@@ -126,9 +126,9 @@ A comprehensive description of the API, including endpoints, methods, parameters
     </item>
     <item>
       <title>Application Logos</title>
-      <link>http://localhost:1313/reference/apis/okta-admin-management-apis/application-logos/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/application-logos/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/apis/okta-admin-management-apis/application-logos/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/application-logos/index.html</guid>
       <description>Application Logos API In Phase 2?: TBD
 Group Notes Group description: Straight port from Redocly
 Content Notes New or existing doc?: Existing doc: no changes identified
@@ -139,9 +139,9 @@ A comprehensive description of the API, including endpoints, methods, parameters
     </item>
     <item>
       <title>Okta Application Settings</title>
-      <link>http://localhost:1313/reference/apis/okta-admin-management-apis/okta-application-settings/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/okta-application-settings/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/apis/okta-admin-management-apis/okta-application-settings/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/okta-application-settings/index.html</guid>
       <description>Okta Application Settings API In Phase 2?: TBD
 Group Notes Group description: Straight port from Redocly
 Content Notes New or existing doc?: Existing doc: no changes identified
@@ -152,9 +152,9 @@ A comprehensive description of the API, including endpoints, methods, parameters
     </item>
     <item>
       <title>Application Policies</title>
-      <link>http://localhost:1313/reference/apis/okta-admin-management-apis/application-policies/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/application-policies/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/apis/okta-admin-management-apis/application-policies/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/application-policies/index.html</guid>
       <description>Application Policies API In Phase 2?: TBD
 Group Notes Group description: Straight port from Redocly
 Content Notes New or existing doc?: Existing doc: no changes identified
@@ -165,9 +165,9 @@ A comprehensive description of the API, including endpoints, methods, parameters
     </item>
     <item>
       <title>Application SSO</title>
-      <link>http://localhost:1313/reference/apis/okta-admin-management-apis/application-sso/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/application-sso/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/apis/okta-admin-management-apis/application-sso/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/application-sso/index.html</guid>
       <description>Application SSO API In Phase 2?: TBD
 Group Notes Group description: Straight port from Redocly
 Content Notes New or existing doc?: Existing doc: no changes identified
@@ -178,9 +178,9 @@ A comprehensive description of the API, including endpoints, methods, parameters
     </item>
     <item>
       <title>Application Tokens</title>
-      <link>http://localhost:1313/reference/apis/okta-admin-management-apis/application-tokens/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/application-tokens/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/apis/okta-admin-management-apis/application-tokens/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/application-tokens/index.html</guid>
       <description>Application Tokens API In Phase 2?: TBD
 Group Notes Group description: Straight port from Redocly
 Content Notes New or existing doc?: Existing doc: no changes identified
@@ -191,9 +191,9 @@ A comprehensive description of the API, including endpoints, methods, parameters
     </item>
     <item>
       <title>Application Users</title>
-      <link>http://localhost:1313/reference/apis/okta-admin-management-apis/application-users/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/application-users/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/apis/okta-admin-management-apis/application-users/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/application-users/index.html</guid>
       <description>Application Users API In Phase 2?: TBD
 Group Notes Group description: Straight port from Redocly
 Content Notes New or existing doc?: Existing doc: no changes identified
@@ -204,9 +204,9 @@ A comprehensive description of the API, including endpoints, methods, parameters
     </item>
     <item>
       <title>Attack Protection</title>
-      <link>http://localhost:1313/reference/apis/okta-admin-management-apis/attack-protection/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/attack-protection/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/apis/okta-admin-management-apis/attack-protection/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/attack-protection/index.html</guid>
       <description>Attack Protection API In Phase 2?: TBD
 Group Notes Group description: Straight port from Redocly
 Content Notes New or existing doc?: Existing doc: no changes identified
@@ -217,9 +217,9 @@ A comprehensive description of the API, including endpoints, methods, parameters
     </item>
     <item>
       <title>Authenticators</title>
-      <link>http://localhost:1313/reference/apis/okta-admin-management-apis/authenticators/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/authenticators/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/apis/okta-admin-management-apis/authenticators/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/authenticators/index.html</guid>
       <description>Authenticators API In Phase 2?: TBD
 Group Notes Group description: Straight port from Redocly
 Content Notes New or existing doc?: Existing doc: no changes identified
@@ -230,9 +230,9 @@ A comprehensive description of the API, including endpoints, methods, parameters
     </item>
     <item>
       <title>Authorization Servers</title>
-      <link>http://localhost:1313/reference/apis/okta-admin-management-apis/authorization-servers/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/authorization-servers/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/apis/okta-admin-management-apis/authorization-servers/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/authorization-servers/index.html</guid>
       <description>Authorization Servers API In Phase 2?: TBD
 Group Notes Group description: Straight port from Redocly
 Content Notes New or existing doc?: Existing doc: no changes identified
@@ -243,9 +243,9 @@ A comprehensive description of the API, including endpoints, methods, parameters
     </item>
     <item>
       <title>Associated Authorization Servers</title>
-      <link>http://localhost:1313/reference/apis/okta-admin-management-apis/associated-authorization-servers/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/associated-authorization-servers/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/apis/okta-admin-management-apis/associated-authorization-servers/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/associated-authorization-servers/index.html</guid>
       <description>Associated Authorization Servers API In Phase 2?: TBD
 Group Notes Group description: Straight port from Redocly
 Content Notes New or existing doc?: Existing doc: no changes identified
@@ -256,9 +256,9 @@ A comprehensive description of the API, including endpoints, methods, parameters
     </item>
     <item>
       <title>Authorization Server Claims</title>
-      <link>http://localhost:1313/reference/apis/okta-admin-management-apis/authorization-server-claims/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/authorization-server-claims/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/apis/okta-admin-management-apis/authorization-server-claims/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/authorization-server-claims/index.html</guid>
       <description>Authorization Server Claims API In Phase 2?: TBD
 Group Notes Group description: Straight port from Redocly
 Content Notes New or existing doc?: Existing doc: no changes identified
@@ -269,9 +269,9 @@ A comprehensive description of the API, including endpoints, methods, parameters
     </item>
     <item>
       <title>Behavior Rules</title>
-      <link>http://localhost:1313/reference/apis/okta-admin-management-apis/behavior-rules/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/behavior-rules/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/apis/okta-admin-management-apis/behavior-rules/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/behavior-rules/index.html</guid>
       <description>Behavior Rules API In Phase 2?: TBD
 Group Notes Group description: Straight port from Redocly
 Content Notes New or existing doc?: Existing doc: no changes identified
@@ -282,9 +282,9 @@ A comprehensive description of the API, including endpoints, methods, parameters
     </item>
     <item>
       <title>CAPTCHAs</title>
-      <link>http://localhost:1313/reference/apis/okta-admin-management-apis/captchas/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/captchas/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/apis/okta-admin-management-apis/captchas/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/captchas/index.html</guid>
       <description>CAPTCHAs API In Phase 2?: TBD
 Group Notes Group description: Straight port from Redocly
 Content Notes New or existing doc?: Existing doc: no changes identified
@@ -295,9 +295,9 @@ A comprehensive description of the API, including endpoints, methods, parameters
     </item>
     <item>
       <title>Custom Domains</title>
-      <link>http://localhost:1313/reference/apis/okta-admin-management-apis/custom-domains/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/custom-domains/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/apis/okta-admin-management-apis/custom-domains/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/custom-domains/index.html</guid>
       <description>Custom Domains API In Phase 2?: TBD
 Group Notes Group description: Straight port from Redocly
 Content Notes New or existing doc?: Existing doc: no changes identified
@@ -308,9 +308,9 @@ A comprehensive description of the API, including endpoints, methods, parameters
     </item>
     <item>
       <title>Customizations</title>
-      <link>http://localhost:1313/reference/apis/okta-admin-management-apis/customizations/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/customizations/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/apis/okta-admin-management-apis/customizations/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/customizations/index.html</guid>
       <description>Customizations API In Phase 2?: TBD
 Group Notes Group description: Straight port from Redocly
 Content Notes New or existing doc?: Existing doc: no changes identified
@@ -321,9 +321,9 @@ A comprehensive description of the API, including endpoints, methods, parameters
     </item>
     <item>
       <title>Devices</title>
-      <link>http://localhost:1313/reference/apis/okta-admin-management-apis/devices/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/devices/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/apis/okta-admin-management-apis/devices/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/devices/index.html</guid>
       <description>Devices API In Phase 2?: TBD
 Group Notes Group description: Straight port from Redocly
 Content Notes New or existing doc?: Existing doc: no changes identified
@@ -334,9 +334,9 @@ A comprehensive description of the API, including endpoints, methods, parameters
     </item>
     <item>
       <title>Device Assurance Policies</title>
-      <link>http://localhost:1313/reference/apis/okta-admin-management-apis/device-assurance-policies/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/device-assurance-policies/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/apis/okta-admin-management-apis/device-assurance-policies/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/device-assurance-policies/index.html</guid>
       <description>Device Assurance Policies API In Phase 2?: TBD
 Group Notes Group description: Straight port from Redocly
 Content Notes New or existing doc?: Existing doc: no changes identified
@@ -347,9 +347,9 @@ A comprehensive description of the API, including endpoints, methods, parameters
     </item>
     <item>
       <title>Email Domains</title>
-      <link>http://localhost:1313/reference/apis/okta-admin-management-apis/email-domains/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/email-domains/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/apis/okta-admin-management-apis/email-domains/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/email-domains/index.html</guid>
       <description>Email Domains API In Phase 2?: TBD
 Group Notes Group description: Straight port from Redocly
 Content Notes New or existing doc?: Existing doc: no changes identified
@@ -360,9 +360,9 @@ A comprehensive description of the API, including endpoints, methods, parameters
     </item>
     <item>
       <title>Email Servers</title>
-      <link>http://localhost:1313/reference/apis/okta-admin-management-apis/email-servers/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/email-servers/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/apis/okta-admin-management-apis/email-servers/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/email-servers/index.html</guid>
       <description>Email Servers API In Phase 2?: TBD
 Group Notes Group description: Straight port from Redocly
 Content Notes New or existing doc?: Existing doc: no changes identified
@@ -373,9 +373,9 @@ A comprehensive description of the API, including endpoints, methods, parameters
     </item>
     <item>
       <title>Event Hooks</title>
-      <link>http://localhost:1313/reference/apis/okta-admin-management-apis/event-hooks/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/event-hooks/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/apis/okta-admin-management-apis/event-hooks/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/event-hooks/index.html</guid>
       <description>Event Hooks API In Phase 2?: TBD
 Group Notes Group description: Straight port from Redocly
 Content Notes New or existing doc?: Existing doc: no changes identified
@@ -386,9 +386,9 @@ A comprehensive description of the API, including endpoints, methods, parameters
     </item>
     <item>
       <title>Features</title>
-      <link>http://localhost:1313/reference/apis/okta-admin-management-apis/features/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/features/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/apis/okta-admin-management-apis/features/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/features/index.html</guid>
       <description>Features API In Phase 2?: TBD
 Group Notes Group description: Straight port from Redocly
 Content Notes New or existing doc?: Existing doc: no changes identified
@@ -399,9 +399,9 @@ A comprehensive description of the API, including endpoints, methods, parameters
     </item>
     <item>
       <title>Groups</title>
-      <link>http://localhost:1313/reference/apis/okta-admin-management-apis/groups/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/groups/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/apis/okta-admin-management-apis/groups/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/groups/index.html</guid>
       <description>Groups API In Phase 2?: TBD
 Group Notes Group description: Straight port from Redocly
 Content Notes New or existing doc?: Existing doc: no changes identified
@@ -412,9 +412,9 @@ A comprehensive description of the API, including endpoints, methods, parameters
     </item>
     <item>
       <title>Hook Keys</title>
-      <link>http://localhost:1313/reference/apis/okta-admin-management-apis/hook-keys/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/hook-keys/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/apis/okta-admin-management-apis/hook-keys/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/hook-keys/index.html</guid>
       <description>Hook Keys API In Phase 2?: TBD
 Group Notes Group description: Straight port from Redocly
 Content Notes New or existing doc?: Existing doc: no changes identified
@@ -425,9 +425,9 @@ A comprehensive description of the API, including endpoints, methods, parameters
     </item>
     <item>
       <title>Identity Providers</title>
-      <link>http://localhost:1313/reference/apis/okta-admin-management-apis/identity-providers/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/identity-providers/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/apis/okta-admin-management-apis/identity-providers/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/identity-providers/index.html</guid>
       <description>Identity Providers API In Phase 2?: TBD
 Group Notes Group description: Straight port from Redocly
 Content Notes New or existing doc?: Existing doc: no changes identified
@@ -438,9 +438,9 @@ A comprehensive description of the API, including endpoints, methods, parameters
     </item>
     <item>
       <title>Identity Sources</title>
-      <link>http://localhost:1313/reference/apis/okta-admin-management-apis/identity-sources/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/identity-sources/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/apis/okta-admin-management-apis/identity-sources/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/identity-sources/index.html</guid>
       <description>Identity Sources API In Phase 2?: TBD
 Group Notes Group description: Straight port from Redocly
 Content Notes New or existing doc?: Existing doc: no changes identified
@@ -451,9 +451,9 @@ A comprehensive description of the API, including endpoints, methods, parameters
     </item>
     <item>
       <title>Inline Hooks</title>
-      <link>http://localhost:1313/reference/apis/okta-admin-management-apis/inline-hooks/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/inline-hooks/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/apis/okta-admin-management-apis/inline-hooks/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/inline-hooks/index.html</guid>
       <description>Inline Hooks API In Phase 2?: TBD
 Group Notes Group description: Straight port from Redocly
 Content Notes New or existing doc?: Existing doc: no changes identified
@@ -464,9 +464,9 @@ A comprehensive description of the API, including endpoints, methods, parameters
     </item>
     <item>
       <title>Linked Objects</title>
-      <link>http://localhost:1313/reference/apis/okta-admin-management-apis/linked-objects/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/linked-objects/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/apis/okta-admin-management-apis/linked-objects/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/linked-objects/index.html</guid>
       <description>Linked Objects API In Phase 2?: TBD
 Group Notes Group description: Straight port from Redocly
 Content Notes New or existing doc?: Existing doc: no changes identified
@@ -477,9 +477,9 @@ A comprehensive description of the API, including endpoints, methods, parameters
     </item>
     <item>
       <title>Log Streaming</title>
-      <link>http://localhost:1313/reference/apis/okta-admin-management-apis/log-streaming/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/log-streaming/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/apis/okta-admin-management-apis/log-streaming/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/log-streaming/index.html</guid>
       <description>Log Streaming API In Phase 2?: TBD
 Group Notes Group description: Straight port from Redocly
 Content Notes New or existing doc?: Existing doc: no changes identified
@@ -490,9 +490,9 @@ A comprehensive description of the API, including endpoints, methods, parameters
     </item>
     <item>
       <title>Network Zones</title>
-      <link>http://localhost:1313/reference/apis/okta-admin-management-apis/network-zones/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/network-zones/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/apis/okta-admin-management-apis/network-zones/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/network-zones/index.html</guid>
       <description>Network Zones API In Phase 2?: TBD
 Group Notes Group description: Straight port from Redocly
 Content Notes New or existing doc?: Existing doc: no changes identified
@@ -503,9 +503,9 @@ A comprehensive description of the API, including endpoints, methods, parameters
     </item>
     <item>
       <title>Org Settings</title>
-      <link>http://localhost:1313/reference/apis/okta-admin-management-apis/org-settings/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/org-settings/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/apis/okta-admin-management-apis/org-settings/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/org-settings/index.html</guid>
       <description>Org Settings API In Phase 2?: TBD
 Group Notes Group description: Straight port from Redocly
 Content Notes New or existing doc?: Existing doc: no changes identified
@@ -516,9 +516,9 @@ A comprehensive description of the API, including endpoints, methods, parameters
     </item>
     <item>
       <title>Policies</title>
-      <link>http://localhost:1313/reference/apis/okta-admin-management-apis/policies/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/policies/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/apis/okta-admin-management-apis/policies/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/policies/index.html</guid>
       <description>Policies API In Phase 2?: TBD
 Group Notes Group description: Straight port from Redocly
 Content Notes New or existing doc?: Existing doc: no changes identified
@@ -529,9 +529,9 @@ A comprehensive description of the API, including endpoints, methods, parameters
     </item>
     <item>
       <title>Principal Rate Limits</title>
-      <link>http://localhost:1313/reference/apis/okta-admin-management-apis/principal-rate-limits/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/principal-rate-limits/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/apis/okta-admin-management-apis/principal-rate-limits/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/principal-rate-limits/index.html</guid>
       <description>Principal Rate Limits API In Phase 2?: TBD
 Group Notes Group description: Straight port from Redocly
 Content Notes New or existing doc?: Existing doc: no changes identified
@@ -542,9 +542,9 @@ A comprehensive description of the API, including endpoints, methods, parameters
     </item>
     <item>
       <title>Profile Mappings</title>
-      <link>http://localhost:1313/reference/apis/okta-admin-management-apis/profile-mappings/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/profile-mappings/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/apis/okta-admin-management-apis/profile-mappings/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/profile-mappings/index.html</guid>
       <description>Profile Mappings API In Phase 2?: TBD
 Group Notes Group description: Straight port from Redocly
 Content Notes New or existing doc?: Existing doc: no changes identified
@@ -555,9 +555,9 @@ A comprehensive description of the API, including endpoints, methods, parameters
     </item>
     <item>
       <title>Push Providers</title>
-      <link>http://localhost:1313/reference/apis/okta-admin-management-apis/push-providers/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/push-providers/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/apis/okta-admin-management-apis/push-providers/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/push-providers/index.html</guid>
       <description>Push Providers API In Phase 2?: TBD
 Group Notes Group description: Straight port from Redocly
 Content Notes New or existing doc?: Existing doc: no changes identified
@@ -568,9 +568,9 @@ A comprehensive description of the API, including endpoints, methods, parameters
     </item>
     <item>
       <title>Rate Limit Settings</title>
-      <link>http://localhost:1313/reference/apis/okta-admin-management-apis/rate-limit-settings/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/rate-limit-settings/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/apis/okta-admin-management-apis/rate-limit-settings/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/rate-limit-settings/index.html</guid>
       <description>Rate Limit Settings API In Phase 2?: TBD
 Group Notes Group description: Straight port from Redocly
 Content Notes New or existing doc?: Existing doc: no changes identified
@@ -581,9 +581,9 @@ A comprehensive description of the API, including endpoints, methods, parameters
     </item>
     <item>
       <title>Resource Sets</title>
-      <link>http://localhost:1313/reference/apis/okta-admin-management-apis/resource-sets/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/resource-sets/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/apis/okta-admin-management-apis/resource-sets/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/resource-sets/index.html</guid>
       <description>Resource Sets API In Phase 2?: TBD
 Group Notes Group description: Straight port from Redocly
 Content Notes New or existing doc?: Existing doc: no changes identified
@@ -594,9 +594,9 @@ A comprehensive description of the API, including endpoints, methods, parameters
     </item>
     <item>
       <title>Risk Events</title>
-      <link>http://localhost:1313/reference/apis/okta-admin-management-apis/risk-events/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/risk-events/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/apis/okta-admin-management-apis/risk-events/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/risk-events/index.html</guid>
       <description>Risk Events API In Phase 2?: TBD
 Group Notes Group description: Straight port from Redocly
 Content Notes New or existing doc?: Existing doc: no changes identified
@@ -607,9 +607,9 @@ A comprehensive description of the API, including endpoints, methods, parameters
     </item>
     <item>
       <title>Risk Providers</title>
-      <link>http://localhost:1313/reference/apis/okta-admin-management-apis/risk-providers/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/risk-providers/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/apis/okta-admin-management-apis/risk-providers/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/risk-providers/index.html</guid>
       <description>Risk Providers API In Phase 2?: TBD
 Group Notes Group description: Straight port from Redocly
 Content Notes New or existing doc?: Existing doc: no changes identified
@@ -620,9 +620,9 @@ A comprehensive description of the API, including endpoints, methods, parameters
     </item>
     <item>
       <title>Roles</title>
-      <link>http://localhost:1313/reference/apis/okta-admin-management-apis/roles/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/roles/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/apis/okta-admin-management-apis/roles/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/roles/index.html</guid>
       <description>Roles API In Phase 2?: TBD
 Group Notes Group description: Straight port from Redocly
 Content Notes New or existing doc?: Existing doc: no changes identified
@@ -633,9 +633,9 @@ A comprehensive description of the API, including endpoints, methods, parameters
     </item>
     <item>
       <title>Role Assignments</title>
-      <link>http://localhost:1313/reference/apis/okta-admin-management-apis/role-assignments/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/role-assignments/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/apis/okta-admin-management-apis/role-assignments/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/role-assignments/index.html</guid>
       <description>Role Assignments API In Phase 2?: TBD
 Group Notes Group description: Straight port from Redocly
 Content Notes New or existing doc?: Existing doc: no changes identified
@@ -646,9 +646,9 @@ A comprehensive description of the API, including endpoints, methods, parameters
     </item>
     <item>
       <title>Role Targets</title>
-      <link>http://localhost:1313/reference/apis/okta-admin-management-apis/role-targets/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/role-targets/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/apis/okta-admin-management-apis/role-targets/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/role-targets/index.html</guid>
       <description>Role Targets API In Phase 2?: TBD
 Group Notes Group description: Straight port from Redocly
 Content Notes New or existing doc?: Existing doc: no changes identified
@@ -659,9 +659,9 @@ A comprehensive description of the API, including endpoints, methods, parameters
     </item>
     <item>
       <title>Schemas</title>
-      <link>http://localhost:1313/reference/apis/okta-admin-management-apis/schemas/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/schemas/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/apis/okta-admin-management-apis/schemas/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/schemas/index.html</guid>
       <description>Schemas API In Phase 2?: TBD
 Group Notes Group description: Straight port from Redocly
 Content Notes New or existing doc?: Existing doc: no changes identified
@@ -672,9 +672,9 @@ A comprehensive description of the API, including endpoints, methods, parameters
     </item>
     <item>
       <title>Sessions</title>
-      <link>http://localhost:1313/reference/apis/okta-admin-management-apis/sessions/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/sessions/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/apis/okta-admin-management-apis/sessions/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/sessions/index.html</guid>
       <description>Sessions API In Phase 2?: TBD
 Group Notes Group description: Straight port from Redocly
 Content Notes New or existing doc?: Existing doc: no changes identified
@@ -685,9 +685,9 @@ A comprehensive description of the API, including endpoints, methods, parameters
     </item>
     <item>
       <title>Subscriptions</title>
-      <link>http://localhost:1313/reference/apis/okta-admin-management-apis/subscriptions/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/subscriptions/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/apis/okta-admin-management-apis/subscriptions/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/subscriptions/index.html</guid>
       <description>Subscriptions API In Phase 2?: TBD
 Group Notes Group description: Straight port from Redocly
 Content Notes New or existing doc?: Existing doc: no changes identified
@@ -698,9 +698,9 @@ A comprehensive description of the API, including endpoints, methods, parameters
     </item>
     <item>
       <title>System Log</title>
-      <link>http://localhost:1313/reference/apis/okta-admin-management-apis/system-log/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/system-log/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/apis/okta-admin-management-apis/system-log/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/system-log/index.html</guid>
       <description>System Log API In Phase 2?: TBD
 Group Notes Group description: Straight port from Redocly
 Content Notes New or existing doc?: Existing doc: no changes identified
@@ -711,9 +711,9 @@ A comprehensive description of the API, including endpoints, methods, parameters
     </item>
     <item>
       <title>SMS Templates</title>
-      <link>http://localhost:1313/reference/apis/okta-admin-management-apis/sms-templates/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/sms-templates/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/apis/okta-admin-management-apis/sms-templates/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/sms-templates/index.html</guid>
       <description>SMS Templates API In Phase 2?: TBD
 Group Notes Group description: Straight port from Redocly
 Content Notes New or existing doc?: Existing doc: no changes identified
@@ -724,9 +724,9 @@ A comprehensive description of the API, including endpoints, methods, parameters
     </item>
     <item>
       <title>ThreatInsight</title>
-      <link>http://localhost:1313/reference/apis/okta-admin-management-apis/threatinsight/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/threatinsight/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/apis/okta-admin-management-apis/threatinsight/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/threatinsight/index.html</guid>
       <description>ThreatInsight API In Phase 2?: TBD
 Group Notes Group description: Straight port from Redocly
 Content Notes New or existing doc?: Existing doc: no changes identified
@@ -737,9 +737,9 @@ A comprehensive description of the API, including endpoints, methods, parameters
     </item>
     <item>
       <title>Trusted Origins</title>
-      <link>http://localhost:1313/reference/apis/okta-admin-management-apis/trusted-origins/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/trusted-origins/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/apis/okta-admin-management-apis/trusted-origins/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/trusted-origins/index.html</guid>
       <description>Trusted Origins API In Phase 2?: TBD
 Group Notes Group description: Straight port from Redocly
 Content Notes New or existing doc?: Existing doc: no changes identified
@@ -750,9 +750,9 @@ A comprehensive description of the API, including endpoints, methods, parameters
     </item>
     <item>
       <title>UI Schema</title>
-      <link>http://localhost:1313/reference/apis/okta-admin-management-apis/ui-schema/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/ui-schema/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/apis/okta-admin-management-apis/ui-schema/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/ui-schema/index.html</guid>
       <description>UI Schema API In Phase 2?: TBD
 Group Notes Group description: Straight port from Redocly
 Content Notes New or existing doc?: Existing doc: no changes identified
@@ -763,9 +763,9 @@ A comprehensive description of the API, including endpoints, methods, parameters
     </item>
     <item>
       <title>Users</title>
-      <link>http://localhost:1313/reference/apis/okta-admin-management-apis/users/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/users/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/apis/okta-admin-management-apis/users/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/users/index.html</guid>
       <description>Users API In Phase 2?: TBD
 Group Notes Group description: Straight port from Redocly
 Content Notes New or existing doc?: Existing doc: no changes identified
@@ -776,9 +776,9 @@ A comprehensive description of the API, including endpoints, methods, parameters
     </item>
     <item>
       <title>User Factors</title>
-      <link>http://localhost:1313/reference/apis/okta-admin-management-apis/user-factors/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/user-factors/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/apis/okta-admin-management-apis/user-factors/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/user-factors/index.html</guid>
       <description>User Factors API In Phase 2?: TBD
 Group Notes Group description: Straight port from Redocly
 Content Notes New or existing doc?: Existing doc: no changes identified
@@ -789,9 +789,9 @@ A comprehensive description of the API, including endpoints, methods, parameters
     </item>
     <item>
       <title>WebAuthn Preregistration</title>
-      <link>http://localhost:1313/reference/apis/okta-admin-management-apis/webauthn-preregistration/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/webauthn-preregistration/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/apis/okta-admin-management-apis/webauthn-preregistration/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/webauthn-preregistration/index.html</guid>
       <description>WebAuthn Preregistration API In Phase 2?: TBD
 Group Notes Group description: Straight port from Redocly
 Content Notes New or existing doc?: Existing doc: no changes identified
@@ -802,9 +802,9 @@ A comprehensive description of the API, including endpoints, methods, parameters
     </item>
     <item>
       <title>User Types</title>
-      <link>http://localhost:1313/reference/apis/okta-admin-management-apis/user-types/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/user-types/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/apis/okta-admin-management-apis/user-types/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/user-types/index.html</guid>
       <description>User Types API In Phase 2?: TBD
 Group Notes Group description: Straight port from Redocly
 Content Notes New or existing doc?: Existing doc: no changes identified

@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Reference on Hugo Techdoc Theme</title>
-    <link>http://localhost:1313/reference/index.html</link>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/index.html</link>
     <description>Recent content in Reference on Hugo Techdoc Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/reference/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/reference/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>APIs</title>
-      <link>http://localhost:1313/reference/apis/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/apis/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/index.html</guid>
       <description>The Okta APIs In Phase 1?: &amp;ldquo;Yes, phase 1 version can be a very simple guide hub.&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, it&amp;rsquo;s &amp;ldquo;glue&amp;rdquo; documentation not related to the product help docs
@@ -22,9 +22,9 @@ Internal workshop session: Session 2 - Team 1 chose the APIs group.</description
     </item>
     <item>
       <title>SDKs</title>
-      <link>http://localhost:1313/reference/sdks/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/sdks/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/sdks/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/sdks/index.html</guid>
       <description>SDKs In Phase 1?: &amp;ldquo;Yes, since it&amp;rsquo;s a new doc pulling from existing content&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
@@ -35,9 +35,9 @@ Target personas: WIC App Developer,Experienced IAM developer</description>
     </item>
     <item>
       <title>Velocity template language</title>
-      <link>http://localhost:1313/reference/velocity-template-language/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/velocity-template-language/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/velocity-template-language/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/velocity-template-language/index.html</guid>
       <description>Velocity template language In Phase 1?: &amp;ldquo;Yes, since it&amp;rsquo;s a new doc pulling from existing content&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
@@ -48,9 +48,9 @@ A list of all supported variables and a link to the VLT page All email templates
     </item>
     <item>
       <title>Okta expression language</title>
-      <link>http://localhost:1313/reference/okta-expression-language/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/okta-expression-language/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/okta-expression-language/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/okta-expression-language/index.html</guid>
       <description>Okta expression language In Phase 1?: &amp;ldquo;Yes, since it&amp;rsquo;s a new doc pulling from existing content&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
@@ -58,9 +58,9 @@ Group Notes Group description: At the moment, there are two documents. The main 
     </item>
     <item>
       <title>Dictionary</title>
-      <link>http://localhost:1313/reference/dictionary/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/dictionary/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/dictionary/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/dictionary/index.html</guid>
       <description>Terminology dictionary In Phase 1?: &amp;ldquo;No, new content can be created at later phase.&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
@@ -71,9 +71,9 @@ A list of terms and definitions specific to the product, service, or domain, hel
     </item>
     <item>
       <title>Roles, resources, and permissions</title>
-      <link>http://localhost:1313/reference/roles-resources-and-permissions/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/roles-resources-and-permissions/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/roles-resources-and-permissions/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/roles-resources-and-permissions/index.html</guid>
       <description>Manage access to Org objects with role assignments In Phase 1?: &amp;ldquo;Yes, since it&amp;rsquo;s a new doc pulling from existing content&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers

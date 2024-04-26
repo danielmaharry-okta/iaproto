@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Manage user sessions on Hugo Techdoc Theme</title>
-    <link>http://localhost:1313/build/manage-user-sessions/index.html</link>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-sessions/index.html</link>
     <description>Recent content in Manage user sessions on Hugo Techdoc Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/build/manage-user-sessions/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-sessions/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Session management best practices</title>
-      <link>http://localhost:1313/build/manage-user-sessions/session-management-best-practices/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-sessions/session-management-best-practices/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/build/manage-user-sessions/session-management-best-practices/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-sessions/session-management-best-practices/index.html</guid>
       <description>Session management best practices In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
@@ -23,9 +23,9 @@ This content type is focused on more detailed, topic-specific discussions that c
     </item>
     <item>
       <title>Manage your user sessions</title>
-      <link>http://localhost:1313/build/manage-user-sessions/manage-your-user-sessions/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-sessions/manage-your-user-sessions/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/build/manage-user-sessions/manage-your-user-sessions/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-sessions/manage-your-user-sessions/index.html</guid>
       <description>Manage your user sessions In Phase 1?: &amp;ldquo;Yes, but for phase 1 keep changes to existing doc as minimal as possible&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
@@ -36,9 +36,9 @@ This is a useful article that is currently in upgrades. It makes more sense to b
     </item>
     <item>
       <title>Retrieving the cookie session in the Classic Engine</title>
-      <link>http://localhost:1313/build/manage-user-sessions/retrieving-the-cookie-session-in-the-classic-engine/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-sessions/retrieving-the-cookie-session-in-the-classic-engine/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/build/manage-user-sessions/retrieving-the-cookie-session-in-the-classic-engine/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-sessions/retrieving-the-cookie-session-in-the-classic-engine/index.html</guid>
       <description>Retrieving the cookie session in the Classic Engine In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
@@ -50,9 +50,9 @@ Content type: How-to: developer focused</description>
     </item>
     <item>
       <title>Keep a user sign-in session alive with a refresh token</title>
-      <link>http://localhost:1313/build/manage-user-sessions/keep-a-user-sign-in-session-alive-with-a-refresh-token/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-sessions/keep-a-user-sign-in-session-alive-with-a-refresh-token/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/build/manage-user-sessions/keep-a-user-sign-in-session-alive-with-a-refresh-token/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-sessions/keep-a-user-sign-in-session-alive-with-a-refresh-token/index.html</guid>
       <description>Keep a user sign-in session alive with a refresh token In Phase 1?: &amp;ldquo;Yes, content defined as a dynamic index&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, it&amp;rsquo;s &amp;ldquo;glue&amp;rdquo; documentation not related to the product help docs

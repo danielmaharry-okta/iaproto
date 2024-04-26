@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Secure on Hugo Techdoc Theme</title>
-    <link>http://localhost:1313/build/secure/index.html</link>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/build/secure/index.html</link>
     <description>Recent content in Secure on Hugo Techdoc Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/build/secure/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/build/secure/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Secure your tokens</title>
-      <link>http://localhost:1313/build/secure/secure-your-tokens/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/secure/secure-your-tokens/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/build/secure/secure-your-tokens/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/secure/secure-your-tokens/index.html</guid>
       <description>Secure your tokens In Phase 1?: &amp;ldquo;Yes, content defined as a dynamic index&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, it&amp;rsquo;s &amp;ldquo;glue&amp;rdquo; documentation not related to the product help docs
@@ -22,9 +22,9 @@ This document type is designed to automatically generate and display a list of c
     </item>
     <item>
       <title>Rotate your apps client secrets</title>
-      <link>http://localhost:1313/build/secure/rotate-your-apps-client-secrets/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/secure/rotate-your-apps-client-secrets/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/build/secure/rotate-your-apps-client-secrets/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/secure/rotate-your-apps-client-secrets/index.html</guid>
       <description>Rotate your app&amp;rsquo;s client secrets In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
@@ -34,9 +34,9 @@ Target personas: WIC App Developer,Experienced IAM developer</description>
     </item>
     <item>
       <title>Secure your Okta API authentication with JWTs </title>
-      <link>http://localhost:1313/build/secure/secure-your-okta-api-authentication-with-jwts/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/secure/secure-your-okta-api-authentication-with-jwts/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/build/secure/secure-your-okta-api-authentication-with-jwts/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/secure/secure-your-okta-api-authentication-with-jwts/index.html</guid>
       <description>Secure your Okta API authentication with JWTs In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
@@ -49,9 +49,9 @@ Goal-oriented. Similar to a how-to but the focus is more technical and geared to
     </item>
     <item>
       <title>Add a third-party risk provider</title>
-      <link>http://localhost:1313/build/secure/add-a-third-party-risk-provider/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/secure/add-a-third-party-risk-provider/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/build/secure/add-a-third-party-risk-provider/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/secure/add-a-third-party-risk-provider/index.html</guid>
       <description>Add a third-party risk provider In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers

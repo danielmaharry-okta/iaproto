@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sign with with username and password on Hugo Techdoc Theme</title>
-    <link>http://localhost:1313/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sign-in-widget-more-customizable/sign-with-with-username-and-password/index.html</link>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sign-in-widget-more-customizable/sign-with-with-username-and-password/index.html</link>
     <description>Recent content in Sign with with username and password on Hugo Techdoc Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sign-in-widget-more-customizable/sign-with-with-username-and-password/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sign-in-widget-more-customizable/sign-with-with-username-and-password/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

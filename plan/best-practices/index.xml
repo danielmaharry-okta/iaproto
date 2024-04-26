@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Best practices on Hugo Techdoc Theme</title>
-    <link>http://localhost:1313/plan/best-practices/index.html</link>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/plan/best-practices/index.html</link>
     <description>Recent content in Best practices on Hugo Techdoc Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/plan/best-practices/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/plan/best-practices/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Passwordless</title>
-      <link>http://localhost:1313/plan/best-practices/passwordless/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/plan/best-practices/passwordless/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/plan/best-practices/passwordless/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/plan/best-practices/passwordless/index.html</guid>
       <description>Implementing passwordless In Phase 1?: &amp;ldquo;Yes, since it&amp;rsquo;s a new doc pulling from existing content&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers

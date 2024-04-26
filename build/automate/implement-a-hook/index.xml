@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Implement a hook on Hugo Techdoc Theme</title>
-    <link>http://localhost:1313/build/automate/implement-a-hook/index.html</link>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/implement-a-hook/index.html</link>
     <description>Recent content in Implement a hook on Hugo Techdoc Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/build/automate/implement-a-hook/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/build/automate/implement-a-hook/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Set up your hooks project</title>
-      <link>http://localhost:1313/build/automate/implement-a-hook/set-up-your-hooks-project/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/implement-a-hook/set-up-your-hooks-project/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/build/automate/implement-a-hook/set-up-your-hooks-project/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/implement-a-hook/set-up-your-hooks-project/index.html</guid>
       <description>Set up your hooks project In Phase 1?: &amp;ldquo;Yes, but for phase 1 keep changes to existing doc as minimal as possible&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
@@ -22,9 +22,9 @@ Changes to be made: A new doc that describes how to set up a project that is the
     </item>
     <item>
       <title>Subscribe to an event hook</title>
-      <link>http://localhost:1313/build/automate/implement-a-hook/subscribe-to-an-event-hook/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/implement-a-hook/subscribe-to-an-event-hook/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/build/automate/implement-a-hook/subscribe-to-an-event-hook/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/implement-a-hook/subscribe-to-an-event-hook/index.html</guid>
       <description>Subscribe to an event hook In Phase 1?: &amp;ldquo;Yes, content defined as a dynamic index&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, it&amp;rsquo;s &amp;ldquo;glue&amp;rdquo; documentation not related to the product help docs
@@ -35,9 +35,9 @@ Content type: Dynamic Index</description>
     </item>
     <item>
       <title>Add functionality with an Inline hook</title>
-      <link>http://localhost:1313/build/automate/implement-a-hook/add-functionality-with-an-inline-hook/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/implement-a-hook/add-functionality-with-an-inline-hook/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/build/automate/implement-a-hook/add-functionality-with-an-inline-hook/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/implement-a-hook/add-functionality-with-an-inline-hook/index.html</guid>
       <description>Add functionality with an Inline hook In Phase 1?: &amp;ldquo;Yes, content defined as a dynamic index&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, it&amp;rsquo;s &amp;ldquo;glue&amp;rdquo; documentation not related to the product help docs

@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Okta Terraform Provider on Hugo Techdoc Theme</title>
-    <link>http://localhost:1313/build/automate/okta-terraform-provider/index.html</link>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/okta-terraform-provider/index.html</link>
     <description>Recent content in Okta Terraform Provider on Hugo Techdoc Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/build/automate/okta-terraform-provider/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/build/automate/okta-terraform-provider/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Terraform overview</title>
-      <link>http://localhost:1313/build/automate/okta-terraform-provider/terraform-overview/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/okta-terraform-provider/terraform-overview/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/build/automate/okta-terraform-provider/terraform-overview/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/okta-terraform-provider/terraform-overview/index.html</guid>
       <description>Terraform overview In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
@@ -23,9 +23,9 @@ This content type is focused on more detailed, topic-specific discussions that c
     </item>
     <item>
       <title>Enable Terraform access</title>
-      <link>http://localhost:1313/build/automate/okta-terraform-provider/enable-terraform-access/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/okta-terraform-provider/enable-terraform-access/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/build/automate/okta-terraform-provider/enable-terraform-access/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/okta-terraform-provider/enable-terraform-access/index.html</guid>
       <description>Enable Terraform access for your Okta org In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
@@ -37,9 +37,9 @@ Goal-oriented. Focused on developing a solution for a specific use case.</descri
     </item>
     <item>
       <title>Manage user access</title>
-      <link>http://localhost:1313/build/automate/okta-terraform-provider/manage-user-access/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/okta-terraform-provider/manage-user-access/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/build/automate/okta-terraform-provider/manage-user-access/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/okta-terraform-provider/manage-user-access/index.html</guid>
       <description>Manage user access In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
@@ -47,9 +47,9 @@ Group Notes Group description: - The current preference is to keep manage user a
     </item>
     <item>
       <title>Manage groups</title>
-      <link>http://localhost:1313/build/automate/okta-terraform-provider/manage-groups/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/okta-terraform-provider/manage-groups/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/build/automate/okta-terraform-provider/manage-groups/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/okta-terraform-provider/manage-groups/index.html</guid>
       <description>Manage groups In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
@@ -62,9 +62,9 @@ Content type: How-to: developer focused</description>
     </item>
     <item>
       <title>Manage authentication services</title>
-      <link>http://localhost:1313/build/automate/okta-terraform-provider/manage-authentication-services/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/okta-terraform-provider/manage-authentication-services/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/build/automate/okta-terraform-provider/manage-authentication-services/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/okta-terraform-provider/manage-authentication-services/index.html</guid>
       <description>Manage authentication services In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
@@ -73,9 +73,9 @@ Content Notes New or existing doc?: Existing doc: changes needed</description>
     </item>
     <item>
       <title>Customize end-user experience</title>
-      <link>http://localhost:1313/build/automate/okta-terraform-provider/customize-end-user-experience/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/okta-terraform-provider/customize-end-user-experience/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/build/automate/okta-terraform-provider/customize-end-user-experience/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/okta-terraform-provider/customize-end-user-experience/index.html</guid>
       <description>Customize end-user experience In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
@@ -88,9 +88,9 @@ Goal-oriented. Focused on developing a solution for a specific use case.</descri
     </item>
     <item>
       <title>Control Terraform access</title>
-      <link>http://localhost:1313/build/automate/okta-terraform-provider/control-terraform-access/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/okta-terraform-provider/control-terraform-access/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/build/automate/okta-terraform-provider/control-terraform-access/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/okta-terraform-provider/control-terraform-access/index.html</guid>
       <description>Control Terraform access In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
@@ -103,9 +103,9 @@ Goal-oriented. Focused on developing a solution for a specific use case.</descri
     </item>
     <item>
       <title>Optimize Terraform access</title>
-      <link>http://localhost:1313/build/automate/okta-terraform-provider/optimize-terraform-access/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/okta-terraform-provider/optimize-terraform-access/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/build/automate/okta-terraform-provider/optimize-terraform-access/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/okta-terraform-provider/optimize-terraform-access/index.html</guid>
       <description>Optimize Terraform access In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers

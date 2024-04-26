@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Understand SAML on Hugo Techdoc Theme</title>
-    <link>http://localhost:1313/learn/understand-saml/index.html</link>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/understand-saml/index.html</link>
     <description>Recent content in Understand SAML on Hugo Techdoc Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/learn/understand-saml/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/learn/understand-saml/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Overview</title>
-      <link>http://localhost:1313/learn/understand-saml/overview/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/understand-saml/overview/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/learn/understand-saml/overview/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/learn/understand-saml/overview/index.html</guid>
       <description>SAML Overview In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
@@ -23,9 +23,9 @@ Content type: Conceptual overview</description>
     </item>
     <item>
       <title>Service provider Initiated flow</title>
-      <link>http://localhost:1313/learn/understand-saml/service-provider-initiated-flow/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/understand-saml/service-provider-initiated-flow/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/learn/understand-saml/service-provider-initiated-flow/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/learn/understand-saml/service-provider-initiated-flow/index.html</guid>
       <description>Service Provider Initiated Flow In Phase 1?: &amp;ldquo;Yes, but for phase 1 keep changes to existing doc as minimal as possible&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
@@ -35,9 +35,9 @@ Changes to be made: Title change to Service provider initiated flow. There are t
     </item>
     <item>
       <title>FAQ</title>
-      <link>http://localhost:1313/learn/understand-saml/faq/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/understand-saml/faq/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/learn/understand-saml/faq/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/learn/understand-saml/faq/index.html</guid>
       <description>SAML FAQ In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers

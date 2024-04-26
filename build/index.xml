@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Build on Hugo Techdoc Theme</title>
-    <link>http://localhost:1313/build/index.html</link>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/build/index.html</link>
     <description>Recent content in Build on Hugo Techdoc Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/build/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/build/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Get started</title>
-      <link>http://localhost:1313/build/get-started/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/get-started/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/build/get-started/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/get-started/index.html</guid>
       <description>Get started In Phase 1?: &amp;ldquo;Yes, content defined as a dynamic index&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, it&amp;rsquo;s &amp;ldquo;glue&amp;rdquo; documentation not related to the product help docs
@@ -23,9 +23,9 @@ Content type: Dynamic Index</description>
     </item>
     <item>
       <title>Authenticate</title>
-      <link>http://localhost:1313/build/authenticate/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/build/authenticate/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/index.html</guid>
       <description>Authenticate In Phase 1?: &amp;ldquo;Yes, but for phase 1 keep changes to existing doc as minimal as possible&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, it&amp;rsquo;s &amp;ldquo;glue&amp;rdquo; documentation not related to the product help docs
@@ -34,9 +34,9 @@ Currently splitting authentication by functionality. We can either lead the spli
     </item>
     <item>
       <title>Secure</title>
-      <link>http://localhost:1313/build/secure/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/secure/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/build/secure/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/secure/index.html</guid>
       <description>Secure In Phase 1?: &amp;ldquo;Yes, phase 1 version can be a very simple guide hub.&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, it&amp;rsquo;s &amp;ldquo;glue&amp;rdquo; documentation not related to the product help docs
@@ -47,9 +47,9 @@ This type of document serves as a central navigational starting point within a l
     </item>
     <item>
       <title>Manage user sessions</title>
-      <link>http://localhost:1313/build/manage-user-sessions/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-sessions/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/build/manage-user-sessions/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-sessions/index.html</guid>
       <description>Manage user sessions In Phase 1?: &amp;ldquo;Yes, content defined as a dynamic index&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
@@ -60,9 +60,9 @@ This document type is designed to automatically generate and display a list of c
     </item>
     <item>
       <title>Manage access</title>
-      <link>http://localhost:1313/build/manage-access/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-access/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/build/manage-access/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-access/index.html</guid>
       <description>Manage access In Phase 1?: &amp;ldquo;Yes, phase 1 version can be a very simple guide hub.&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, it&amp;rsquo;s &amp;ldquo;glue&amp;rdquo; documentation not related to the product help docs
@@ -73,9 +73,9 @@ Content type: Guide Hub</description>
     </item>
     <item>
       <title>Manage user accounts</title>
-      <link>http://localhost:1313/build/manage-user-accounts/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-accounts/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/build/manage-user-accounts/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-accounts/index.html</guid>
       <description>Manage user accounts In Phase 1?: &amp;ldquo;Yes, content defined as a dynamic index&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, it&amp;rsquo;s &amp;ldquo;glue&amp;rdquo; documentation not related to the product help docs
@@ -87,9 +87,9 @@ Target personas: WIC App Developer,Experienced IAM developer</description>
     </item>
     <item>
       <title>Federate identities</title>
-      <link>http://localhost:1313/build/federate-identities/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/federate-identities/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/build/federate-identities/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/federate-identities/index.html</guid>
       <description>Federate identities In Phase 1?: &amp;ldquo;Yes, phase 1 version can be a very simple guide hub.&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, it&amp;rsquo;s &amp;ldquo;glue&amp;rdquo; documentation not related to the product help docs
@@ -98,9 +98,9 @@ Anything regarding syncing users across different systems User authentication us
     </item>
     <item>
       <title>Customize</title>
-      <link>http://localhost:1313/build/customize/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/customize/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/build/customize/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/customize/index.html</guid>
       <description>Customize In Phase 1?: &amp;ldquo;Yes, content defined as a dynamic index&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, it&amp;rsquo;s &amp;ldquo;glue&amp;rdquo; documentation not related to the product help docs
@@ -109,9 +109,9 @@ Saying this, I do believe we can make it more clear which guide targets which so
     </item>
     <item>
       <title>Automate</title>
-      <link>http://localhost:1313/build/automate/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/build/automate/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/index.html</guid>
       <description>Automate In Phase 1?: &amp;ldquo;Yes, content defined as a dynamic index&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, it&amp;rsquo;s &amp;ldquo;glue&amp;rdquo; documentation not related to the product help docs
@@ -123,9 +123,9 @@ This document type is designed to automatically generate and display a list of c
     </item>
     <item>
       <title>Okta Workflows</title>
-      <link>http://localhost:1313/build/orchestrate/okta-workflows/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/orchestrate/okta-workflows/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/build/orchestrate/okta-workflows/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/orchestrate/okta-workflows/index.html</guid>
       <description>Okta Workflows In Phase 1?: &amp;ldquo;No, new content can be created at later phase.&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: Maybe. If a help doc already exists, this doc can be a summary redirect to the main help doc page.
@@ -134,9 +134,9 @@ Allows developers to navigate to workflow content within developer docs even tho
     </item>
     <item>
       <title>Deploy </title>
-      <link>http://localhost:1313/build/deploy/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/deploy/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/build/deploy/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/deploy/index.html</guid>
       <description>Deploy your sign-in solution In Phase 1?: &amp;ldquo;Yes, content defined as a dynamic index&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, it&amp;rsquo;s &amp;ldquo;glue&amp;rdquo; documentation not related to the product help docs
@@ -145,9 +145,9 @@ Content Notes New or existing doc?: New doc - new content</description>
     </item>
     <item>
       <title>Migrate users</title>
-      <link>http://localhost:1313/build/migrate-users/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/migrate-users/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/build/migrate-users/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/migrate-users/index.html</guid>
       <description>Migrate your users to Okta In Phase 1?: &amp;ldquo;Yes, content defined as a dynamic index&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, it&amp;rsquo;s &amp;ldquo;glue&amp;rdquo; documentation not related to the product help docs
@@ -157,9 +157,9 @@ Target personas: WIC App Developer,Experienced IAM developer</description>
     </item>
     <item>
       <title>Report and Monitor</title>
-      <link>http://localhost:1313/build/report-and-monitor/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/report-and-monitor/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/build/report-and-monitor/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/report-and-monitor/index.html</guid>
       <description>Report and Monitor In Phase 1?: &amp;ldquo;Yes, content defined as a dynamic index&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, it&amp;rsquo;s &amp;ldquo;glue&amp;rdquo; documentation not related to the product help docs
@@ -169,9 +169,9 @@ Target personas: WIC App Developer,Experienced IAM developer</description>
     </item>
     <item>
       <title>Upgrade</title>
-      <link>http://localhost:1313/build/upgrade/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/upgrade/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/build/upgrade/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/upgrade/index.html</guid>
       <description>Upgrade In Phase 1?: &amp;ldquo;Yes, content defined as a dynamic index&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, it&amp;rsquo;s &amp;ldquo;glue&amp;rdquo; documentation not related to the product help docs

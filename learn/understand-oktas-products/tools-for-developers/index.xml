@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tools for developers on Hugo Techdoc Theme</title>
-    <link>http://localhost:1313/learn/understand-oktas-products/tools-for-developers/index.html</link>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/understand-oktas-products/tools-for-developers/index.html</link>
     <description>Recent content in Tools for developers on Hugo Techdoc Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/learn/understand-oktas-products/tools-for-developers/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/learn/understand-oktas-products/tools-for-developers/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test SAML app with SAML Tracer</title>
-      <link>http://localhost:1313/learn/understand-oktas-products/tools-for-developers/test-saml-app-with-saml-tracer/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/understand-oktas-products/tools-for-developers/test-saml-app-with-saml-tracer/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/learn/understand-oktas-products/tools-for-developers/test-saml-app-with-saml-tracer/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/learn/understand-oktas-products/tools-for-developers/test-saml-app-with-saml-tracer/index.html</guid>
       <description>Test SAML app with SAML Tracer In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
@@ -23,9 +23,9 @@ Goal-oriented. Focused on developing a solution for a specific use case.</descri
     </item>
     <item>
       <title>Testing sign-in with Postman</title>
-      <link>http://localhost:1313/learn/understand-oktas-products/tools-for-developers/testing-sign-in-with-postman/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/understand-oktas-products/tools-for-developers/testing-sign-in-with-postman/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/learn/understand-oktas-products/tools-for-developers/testing-sign-in-with-postman/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/learn/understand-oktas-products/tools-for-developers/testing-sign-in-with-postman/index.html</guid>
       <description>Testing sign-in with Postman In Phase 1?: &amp;ldquo;No, new content can be created at later phase.&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
@@ -36,9 +36,9 @@ Goal-oriented. Focused on developing a solution for a specific use case. Develop
     </item>
     <item>
       <title>Test the Okta APIs with Postman</title>
-      <link>http://localhost:1313/learn/understand-oktas-products/tools-for-developers/test-the-okta-apis-with-postman/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/understand-oktas-products/tools-for-developers/test-the-okta-apis-with-postman/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/learn/understand-oktas-products/tools-for-developers/test-the-okta-apis-with-postman/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/learn/understand-oktas-products/tools-for-developers/test-the-okta-apis-with-postman/index.html</guid>
       <description>Test the Okta APIs with Postman In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
@@ -50,9 +50,9 @@ Goal-oriented. Focused on developing a solution for a specific use case. Develop
     </item>
     <item>
       <title>Postman Collections</title>
-      <link>http://localhost:1313/learn/understand-oktas-products/tools-for-developers/postman-collections/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/understand-oktas-products/tools-for-developers/postman-collections/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/learn/understand-oktas-products/tools-for-developers/postman-collections/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/learn/understand-oktas-products/tools-for-developers/postman-collections/index.html</guid>
       <description>Using the Postman collections In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers

@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Flows (grant types) on Hugo Techdoc Theme</title>
-    <link>http://localhost:1313/learn/understand-oauth-and-openid-connect/oauth-and-oidc-explained/flows-grant-types/index.html</link>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/understand-oauth-and-openid-connect/oauth-and-oidc-explained/flows-grant-types/index.html</link>
     <description>Recent content in Flows (grant types) on Hugo Techdoc Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/learn/understand-oauth-and-openid-connect/oauth-and-oidc-explained/flows-grant-types/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/learn/understand-oauth-and-openid-connect/oauth-and-oidc-explained/flows-grant-types/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Authorization code flow</title>
-      <link>http://localhost:1313/learn/understand-oauth-and-openid-connect/oauth-and-oidc-explained/flows-grant-types/authorization-code-flow/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/understand-oauth-and-openid-connect/oauth-and-oidc-explained/flows-grant-types/authorization-code-flow/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/learn/understand-oauth-and-openid-connect/oauth-and-oidc-explained/flows-grant-types/authorization-code-flow/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/learn/understand-oauth-and-openid-connect/oauth-and-oidc-explained/flows-grant-types/authorization-code-flow/index.html</guid>
       <description>Authorization code flow In Phase 1?: &amp;ldquo;Yes, but for phase 1 we can keep all flows one guide&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
@@ -22,9 +22,9 @@ Implement authorization by grant type (Authorization code dimension): https://de
     </item>
     <item>
       <title>Authorization code flow with PKCE</title>
-      <link>http://localhost:1313/learn/understand-oauth-and-openid-connect/oauth-and-oidc-explained/flows-grant-types/authorization-code-flow-with-pkce/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/understand-oauth-and-openid-connect/oauth-and-oidc-explained/flows-grant-types/authorization-code-flow-with-pkce/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/learn/understand-oauth-and-openid-connect/oauth-and-oidc-explained/flows-grant-types/authorization-code-flow-with-pkce/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/learn/understand-oauth-and-openid-connect/oauth-and-oidc-explained/flows-grant-types/authorization-code-flow-with-pkce/index.html</guid>
       <description>Authorization code flow with PKCE In Phase 1?: &amp;ldquo;Yes, but for phase 1 we can keep all flows one guide&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
@@ -35,9 +35,9 @@ Implement authorization by grant type (Authorization with PKCE code dimension): 
     </item>
     <item>
       <title>Client credentials flow</title>
-      <link>http://localhost:1313/learn/understand-oauth-and-openid-connect/oauth-and-oidc-explained/flows-grant-types/client-credentials-flow/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/understand-oauth-and-openid-connect/oauth-and-oidc-explained/flows-grant-types/client-credentials-flow/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/learn/understand-oauth-and-openid-connect/oauth-and-oidc-explained/flows-grant-types/client-credentials-flow/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/learn/understand-oauth-and-openid-connect/oauth-and-oidc-explained/flows-grant-types/client-credentials-flow/index.html</guid>
       <description>Client credentials flow In Phase 1?: &amp;ldquo;Yes, but for phase 1 we can keep all flows one guide&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
@@ -48,9 +48,9 @@ Implement authorization by grant type (Client credential flow dimension):https:/
     </item>
     <item>
       <title>CIBA flow</title>
-      <link>http://localhost:1313/learn/understand-oauth-and-openid-connect/oauth-and-oidc-explained/flows-grant-types/ciba-flow/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/understand-oauth-and-openid-connect/oauth-and-oidc-explained/flows-grant-types/ciba-flow/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/learn/understand-oauth-and-openid-connect/oauth-and-oidc-explained/flows-grant-types/ciba-flow/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/learn/understand-oauth-and-openid-connect/oauth-and-oidc-explained/flows-grant-types/ciba-flow/index.html</guid>
       <description>Client Initiated Backchannel Authentication Flow (CIBA) flow In Phase 1?: &amp;ldquo;Yes, but for phase 1 we can keep all flows one guide&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
@@ -61,9 +61,9 @@ Transactional verification using CIBA: https://developer.</description>
     </item>
     <item>
       <title>Interaction code flow extension</title>
-      <link>http://localhost:1313/learn/understand-oauth-and-openid-connect/oauth-and-oidc-explained/flows-grant-types/interaction-code-flow-extension/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/understand-oauth-and-openid-connect/oauth-and-oidc-explained/flows-grant-types/interaction-code-flow-extension/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/learn/understand-oauth-and-openid-connect/oauth-and-oidc-explained/flows-grant-types/interaction-code-flow-extension/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/learn/understand-oauth-and-openid-connect/oauth-and-oidc-explained/flows-grant-types/interaction-code-flow-extension/index.html</guid>
       <description>Interaction code grant type extension In Phase 1?: &amp;ldquo;Yes, for phase 1 existing content can be minimally updated.&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers

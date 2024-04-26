@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>APIs on Hugo Techdoc Theme</title>
-    <link>http://localhost:1313/reference/apis/index.html</link>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/index.html</link>
     <description>Recent content in APIs on Hugo Techdoc Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/reference/apis/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Manage access to Oktas APIs</title>
-      <link>http://localhost:1313/reference/apis/manage-access-to-oktas-apis/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/manage-access-to-oktas-apis/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/apis/manage-access-to-oktas-apis/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/manage-access-to-oktas-apis/index.html</guid>
       <description>Manage access to Okta&amp;rsquo;s APIs In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
@@ -22,9 +22,9 @@ Description: This doc is in two places in the IA. Discuss with @Dan Maharry</des
     </item>
     <item>
       <title>Using OIDC and OAuth with Oktas APIs</title>
-      <link>http://localhost:1313/reference/apis/using-oidc-and-oauth-with-oktas-apis/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/using-oidc-and-oauth-with-oktas-apis/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/apis/using-oidc-and-oauth-with-oktas-apis/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/using-oidc-and-oauth-with-oktas-apis/index.html</guid>
       <description>Using OIDC and OAuth with Okta&amp;rsquo;s APIs In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
@@ -35,9 +35,9 @@ Changes to be made: - Move out of redocly to dev docs site.</description>
     </item>
     <item>
       <title>Enable CORS and cross-origin access to the Okta API</title>
-      <link>http://localhost:1313/reference/apis/enable-cors-and-cross-origin-access-to-the-okta-api/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/enable-cors-and-cross-origin-access-to-the-okta-api/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/apis/enable-cors-and-cross-origin-access-to-the-okta-api/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/enable-cors-and-cross-origin-access-to-the-okta-api/index.html</guid>
       <description>Enable CORS and cross-origin access to the Okta API In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
@@ -48,9 +48,9 @@ Changes to be made: - Update title</description>
     </item>
     <item>
       <title>API General Notes</title>
-      <link>http://localhost:1313/reference/apis/api-general-notes/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/api-general-notes/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/apis/api-general-notes/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/api-general-notes/index.html</guid>
       <description>API General Notes In Phase 2?: TBD
 Group Notes Group description: Presents basic general facts about all the Okta APIs. In particular, pulls the Versioning, Character Sets and Media types from &amp;ldquo;Core Okta APIs&amp;rdquo; as these are generic to both response and requests.
 Content Notes New or existing doc?: New doc with new content but also pulling from existing content
@@ -59,27 +59,27 @@ Links to original docs: &amp;lsquo;- Core Okta API	: https://developer.</descrip
     </item>
     <item>
       <title>Building an API Request</title>
-      <link>http://localhost:1313/reference/apis/building-an-api-request/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/building-an-api-request/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/apis/building-an-api-request/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/building-an-api-request/index.html</guid>
       <description>Building an API Request In Phase 2?: TBD
 Group Notes Group description: This document takes the following sections from &amp;ldquo;Core Okta API&amp;rdquo; and reworks them into a how-to guide on constructing a request to an Okta API.
 URL namespace Compat rules for input params HTTP verbs (but not sure if this is actually necessary) HTTP Headers (very necessary) Client request context User agent IP address Accept language device fingerprint request debugging Authentication (section needs updating to talk about bearer tokens as well as \ instead of SSWS tokens, and pointing to Okta2Okta and OktaToYourAPI guides) Filters and operators (with links out to &amp;ldquo;Searching for users&amp;rdquo; guide Content Notes New or existing doc?</description>
     </item>
     <item>
       <title>Parsing an API Response</title>
-      <link>http://localhost:1313/reference/apis/parsing-an-api-response/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/parsing-an-api-response/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/apis/parsing-an-api-response/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/parsing-an-api-response/index.html</guid>
       <description>Parsing an API Response In Phase 2?: TBD
 Group Notes Group description: This document takes the following sections from &amp;ldquo;Core Okta API&amp;rdquo; and &amp;ldquo;Rate Limits Best Practices&amp;rdquo; and reworks them as a how-to guide on parsing in the response from an Okta API endpoint
 Compat rules for responses Errors Pagination + Link header Hypermedia Links Links in collections Request debugging Okta rate limit headers (not all, just that they exist - link to rate limit best practices doc) Content Notes New or existing doc?</description>
     </item>
     <item>
       <title>API Error Codes</title>
-      <link>http://localhost:1313/reference/apis/api-error-codes/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/api-error-codes/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/apis/api-error-codes/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/api-error-codes/index.html</guid>
       <description>API Error Codes In Phase 2?: TBD
 Content Notes New or existing doc?: Existing doc: no changes identified
 Target personas: WIC App Developer,Experienced IAM developer
@@ -89,9 +89,9 @@ A page containing mostly a series of tables or lists for users to look up a fact
     </item>
     <item>
       <title>OAuth 2.0 Scopes</title>
-      <link>http://localhost:1313/reference/apis/oauth-2.0-scopes/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/oauth-2.0-scopes/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/apis/oauth-2.0-scopes/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/oauth-2.0-scopes/index.html</guid>
       <description>OAuth 2.0 Scopes In Phase 2?: TBD
 Group Notes Group description: Straight copy from Redocly but need an introduction to give it some needed context
 Content Notes New or existing doc?: Existing doc: changes needed
@@ -102,9 +102,9 @@ A page containing mostly a series of tables or lists for users to look up a fact
     </item>
     <item>
       <title>Release Lifecycle</title>
-      <link>http://localhost:1313/reference/apis/release-lifecycle/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/release-lifecycle/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/apis/release-lifecycle/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/release-lifecycle/index.html</guid>
       <description>Release Lifecycle In Phase 2?: TBD
 Group Notes Group description: Straight port from Redocly
 Content Notes New or existing doc?: Existing doc: no changes identified
@@ -115,9 +115,9 @@ This content type is focused on more detailed, topic-specific discussions that c
     </item>
     <item>
       <title>API Rate Limits</title>
-      <link>http://localhost:1313/reference/apis/api-rate-limits/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/api-rate-limits/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/apis/api-rate-limits/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/api-rate-limits/index.html</guid>
       <description>API Rate Limits In Phase 2?: TBD
 Group Notes Group description: Needs a little more introduction about what rate limits mean in effect, a better description of each core category, and to the other content in this section. Also move the burst rate limits stuff out into separate doc (&amp;ldquo;Allow for periods of excessive API traffic&amp;rdquo;)
 Content Notes New or existing doc?: Existing doc: changes needed
@@ -125,9 +125,9 @@ Target personas: WIC App Developer,Experienced IAM developer</description>
     </item>
     <item>
       <title>OpenID Connect &amp; OAuth 2.0 API</title>
-      <link>http://localhost:1313/reference/apis/openid-connect--oauth-2.0-api/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/openid-connect--oauth-2.0-api/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/apis/openid-connect--oauth-2.0-api/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/openid-connect--oauth-2.0-api/index.html</guid>
       <description>OpenID Connect &amp;amp; OAuth 2.0 API In Phase 2?: TBD
 Content Notes New or existing doc?: New doc - new content
 Target personas: WIC App Developer,Experienced IAM developer
@@ -136,9 +136,9 @@ This type of document serves as a central navigational starting point within a l
     </item>
     <item>
       <title>SCIM</title>
-      <link>http://localhost:1313/reference/apis/scim/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/scim/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/apis/scim/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/scim/index.html</guid>
       <description>SCIM Overview In Phase 2?: TBD
 Group Notes Group description: Stands as is from DevDocs. Just a note on what it is, a link to more explanation (links will need to be updated as appropriate) and the differences between v1.1 and v2.0
 Content Notes New or existing doc?: Existing doc: changes needed
@@ -149,9 +149,9 @@ This content type is focused on more detailed, topic-specific discussions that c
     </item>
     <item>
       <title>Okta Admin Management APIs</title>
-      <link>http://localhost:1313/reference/apis/okta-admin-management-apis/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/apis/okta-admin-management-apis/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-admin-management-apis/index.html</guid>
       <description>Okta Admin Management APIs In Phase 2?: TBD
 Content Notes New or existing doc?: New doc - new content
 Target personas: WIC App Developer,Experienced IAM developer
@@ -160,9 +160,9 @@ This type of document serves as a central navigational starting point within a l
     </item>
     <item>
       <title>MyAccount Management APIs</title>
-      <link>http://localhost:1313/reference/apis/myaccount-management-apis/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/myaccount-management-apis/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/apis/myaccount-management-apis/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/myaccount-management-apis/index.html</guid>
       <description>MyAccount Management APIs In Phase 2?: TBD
 Content Notes New or existing doc?: New doc - new content
 Target personas: WIC App Developer,Experienced IAM developer
@@ -171,9 +171,9 @@ This type of document serves as a central navigational starting point within a l
     </item>
     <item>
       <title>Okta Aerial APIs</title>
-      <link>http://localhost:1313/reference/apis/okta-aerial-apis/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-aerial-apis/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/apis/okta-aerial-apis/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-aerial-apis/index.html</guid>
       <description>Okta Aerial APIs In Phase 2?: TBD
 Content Notes New or existing doc?: New doc - new content
 Target personas: WIC App Developer,Experienced IAM developer
@@ -182,9 +182,9 @@ This type of document serves as a central navigational starting point within a l
     </item>
     <item>
       <title>Okta Privileged Access APIs</title>
-      <link>http://localhost:1313/reference/apis/okta-privileged-access-apis/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-privileged-access-apis/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/apis/okta-privileged-access-apis/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/okta-privileged-access-apis/index.html</guid>
       <description>Okta Privileged Access APIs In Phase 2?: TBD
 Content Notes New or existing doc?: Existing doc: no changes identified
 Target personas: WIC App Developer,Experienced IAM developer
@@ -194,9 +194,9 @@ Unknown</description>
     </item>
     <item>
       <title>Advanced Server Access API</title>
-      <link>http://localhost:1313/reference/apis/advanced-server-access-api/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/advanced-server-access-api/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/apis/advanced-server-access-api/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/advanced-server-access-api/index.html</guid>
       <description>Advanced Server Access API In Phase 2?: TBD
 Content Notes New or existing doc?: Existing doc: no changes identified
 Target personas: WIC App Developer,Experienced IAM developer

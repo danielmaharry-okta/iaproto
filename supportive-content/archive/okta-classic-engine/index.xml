@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Okta Classic Engine  on Hugo Techdoc Theme</title>
-    <link>http://localhost:1313/supportive-content/archive/okta-classic-engine/index.html</link>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/supportive-content/archive/okta-classic-engine/index.html</link>
     <description>Recent content in Okta Classic Engine  on Hugo Techdoc Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/supportive-content/archive/okta-classic-engine/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/supportive-content/archive/okta-classic-engine/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Auth JS fundamentals</title>
-      <link>http://localhost:1313/supportive-content/archive/okta-classic-engine/auth-js-fundamentals/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/supportive-content/archive/okta-classic-engine/auth-js-fundamentals/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/supportive-content/archive/okta-classic-engine/auth-js-fundamentals/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/supportive-content/archive/okta-classic-engine/auth-js-fundamentals/index.html</guid>
       <description>Auth JS fundamentals In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
@@ -23,9 +23,9 @@ Goal-oriented. Similar to a how-to but the focus is more technical and geared to
     </item>
     <item>
       <title>Configure sign-on policies</title>
-      <link>http://localhost:1313/supportive-content/archive/okta-classic-engine/configure-sign-on-policies/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/supportive-content/archive/okta-classic-engine/configure-sign-on-policies/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/supportive-content/archive/okta-classic-engine/configure-sign-on-policies/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/supportive-content/archive/okta-classic-engine/configure-sign-on-policies/index.html</guid>
       <description>Configure Okta sign-on and app sign-on policies In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
@@ -37,9 +37,9 @@ Goal-oriented. Focused on developing a solution for a specific use case.</descri
     </item>
     <item>
       <title>Embedded widget fundamentals</title>
-      <link>http://localhost:1313/supportive-content/archive/okta-classic-engine/embedded-widget-fundamentals/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/supportive-content/archive/okta-classic-engine/embedded-widget-fundamentals/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/supportive-content/archive/okta-classic-engine/embedded-widget-fundamentals/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/supportive-content/archive/okta-classic-engine/embedded-widget-fundamentals/index.html</guid>
       <description>Embedded Okta Sign-In Widget fundamentals In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
@@ -51,9 +51,9 @@ Goal-oriented. Similar to a how-to but the focus is more technical and geared to
     </item>
     <item>
       <title>Sign in to SPA: Auth JS</title>
-      <link>http://localhost:1313/supportive-content/archive/okta-classic-engine/sign-in-to-spa-auth-js/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/supportive-content/archive/okta-classic-engine/sign-in-to-spa-auth-js/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/supportive-content/archive/okta-classic-engine/sign-in-to-spa-auth-js/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/supportive-content/archive/okta-classic-engine/sign-in-to-spa-auth-js/index.html</guid>
       <description>Sign in to SPA with Auth JS In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
@@ -66,9 +66,9 @@ Goal-oriented. Similar to a how-to but the focus is more technical and geared to
     </item>
     <item>
       <title>Sign in to SPA: Embedded Widget</title>
-      <link>http://localhost:1313/supportive-content/archive/okta-classic-engine/sign-in-to-spa-embedded-widget/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/supportive-content/archive/okta-classic-engine/sign-in-to-spa-embedded-widget/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/supportive-content/archive/okta-classic-engine/sign-in-to-spa-embedded-widget/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/supportive-content/archive/okta-classic-engine/sign-in-to-spa-embedded-widget/index.html</guid>
       <description>Sign in to SPA with embedded Widget In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
@@ -81,9 +81,9 @@ Goal-oriented. Similar to a how-to but the focus is more technical and geared to
     </item>
     <item>
       <title>Sign users out</title>
-      <link>http://localhost:1313/supportive-content/archive/okta-classic-engine/sign-users-out/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/supportive-content/archive/okta-classic-engine/sign-users-out/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/supportive-content/archive/okta-classic-engine/sign-users-out/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/supportive-content/archive/okta-classic-engine/sign-users-out/index.html</guid>
       <description>Sign users out In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
@@ -96,9 +96,9 @@ Goal-oriented. Similar to a how-to but the focus is more technical and geared to
     </item>
     <item>
       <title>Add multifactor authentication</title>
-      <link>http://localhost:1313/supportive-content/archive/okta-classic-engine/add-multifactor-authentication/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/supportive-content/archive/okta-classic-engine/add-multifactor-authentication/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/supportive-content/archive/okta-classic-engine/add-multifactor-authentication/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/supportive-content/archive/okta-classic-engine/add-multifactor-authentication/index.html</guid>
       <description>Add multifactor authentication In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
@@ -111,9 +111,9 @@ Goal-oriented. Focused on developing a solution for a specific use case.</descri
     </item>
     <item>
       <title>Registration inline hook</title>
-      <link>http://localhost:1313/supportive-content/archive/okta-classic-engine/registration-inline-hook/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/supportive-content/archive/okta-classic-engine/registration-inline-hook/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/supportive-content/archive/okta-classic-engine/registration-inline-hook/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/supportive-content/archive/okta-classic-engine/registration-inline-hook/index.html</guid>
       <description>Registration inline hook In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
@@ -126,9 +126,9 @@ Goal-oriented. Similar to a how-to but the focus is more technical and geared to
     </item>
     <item>
       <title>Set up self-service registration</title>
-      <link>http://localhost:1313/supportive-content/archive/okta-classic-engine/set-up-self-service-registration/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/supportive-content/archive/okta-classic-engine/set-up-self-service-registration/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/supportive-content/archive/okta-classic-engine/set-up-self-service-registration/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/supportive-content/archive/okta-classic-engine/set-up-self-service-registration/index.html</guid>
       <description>Set up self-service registration In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
@@ -140,9 +140,9 @@ Goal-oriented. Focused on developing a solution for a specific use case.</descri
     </item>
     <item>
       <title>Mobile apps</title>
-      <link>http://localhost:1313/supportive-content/archive/okta-classic-engine/mobile-apps/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/supportive-content/archive/okta-classic-engine/mobile-apps/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/supportive-content/archive/okta-classic-engine/mobile-apps/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/supportive-content/archive/okta-classic-engine/mobile-apps/index.html</guid>
       <description>Mobile apps In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers

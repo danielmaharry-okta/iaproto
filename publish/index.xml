@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publish on Hugo Techdoc Theme</title>
-    <link>http://localhost:1313/publish/index.html</link>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/publish/index.html</link>
     <description>Recent content in Publish on Hugo Techdoc Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/publish/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/publish/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Learn</title>
-      <link>http://localhost:1313/publish/learn/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/publish/learn/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publish/learn/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/publish/learn/index.html</guid>
       <description>Learn In Phase 1?: &amp;ldquo;No, new content can be created at later phase.&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, it&amp;rsquo;s &amp;ldquo;glue&amp;rdquo; documentation not related to the product help docs
@@ -22,9 +22,9 @@ Internal OIN Workshop results: When asked &amp;ldquo;What do devs need to know a
     </item>
     <item>
       <title>Plan</title>
-      <link>http://localhost:1313/publish/plan/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/publish/plan/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publish/plan/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/publish/plan/index.html</guid>
       <description>Plan In Phase 1?: &amp;ldquo;No, new content can be created at later phase.&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: Maybe. If a help doc already exists, this doc can be a summary redirect to the main help doc page.
@@ -34,9 +34,9 @@ Description: Discuss factors developers need to think about before being success
     </item>
     <item>
       <title>Build</title>
-      <link>http://localhost:1313/publish/build/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/publish/build/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publish/build/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/publish/build/index.html</guid>
       <description>Build In Phase 1?: &amp;ldquo;Yes, phase 1 version can be a very simple guide hub.&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, it&amp;rsquo;s &amp;ldquo;glue&amp;rdquo; documentation not related to the product help docs
@@ -46,9 +46,9 @@ Validation: - At Oktane customers cite what is missing in the OIN docs include: 
     </item>
     <item>
       <title>Submit</title>
-      <link>http://localhost:1313/publish/submit/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/publish/submit/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publish/submit/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/publish/submit/index.html</guid>
       <description>Submit In Phase 1?: &amp;ldquo;Yes, phase 1 version can be a very simple guide hub.&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, it&amp;rsquo;s &amp;ldquo;glue&amp;rdquo; documentation not related to the product help docs
@@ -58,9 +58,9 @@ Changes to be made: This doc is large and covers different types of content such
     </item>
     <item>
       <title>Update</title>
-      <link>http://localhost:1313/publish/update/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/publish/update/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publish/update/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/publish/update/index.html</guid>
       <description>Releasing new versions of your app In Phase 1?: &amp;ldquo;No, new content can be created at later phase.&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, it&amp;rsquo;s &amp;ldquo;glue&amp;rdquo; documentation not related to the product help docs
@@ -70,9 +70,9 @@ Target personas: WIC App Developer,Experienced IAM developer</description>
     </item>
     <item>
       <title>Connect</title>
-      <link>http://localhost:1313/publish/connect/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/publish/connect/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publish/connect/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/publish/connect/index.html</guid>
       <description>Connect In Phase 1?: &amp;ldquo;No, new content can be created at later phase.&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers

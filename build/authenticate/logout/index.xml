@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Logout on Hugo Techdoc Theme</title>
-    <link>http://localhost:1313/build/authenticate/logout/index.html</link>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/logout/index.html</link>
     <description>Recent content in Logout on Hugo Techdoc Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/build/authenticate/logout/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/logout/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Logout user from all SSO applications</title>
-      <link>http://localhost:1313/build/authenticate/logout/logout-user-from-all-sso-applications/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/logout/logout-user-from-all-sso-applications/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/build/authenticate/logout/logout-user-from-all-sso-applications/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/logout/logout-user-from-all-sso-applications/index.html</guid>
       <description>Logout user from all SSO applications In Phase 1?: &amp;ldquo;Yes, content defined as a dynamic index&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, it&amp;rsquo;s &amp;ldquo;glue&amp;rdquo; documentation not related to the product help docs
@@ -22,9 +22,9 @@ This document type is designed to automatically generate and display a list of c
     </item>
     <item>
       <title>Build Universal Logout for your app</title>
-      <link>http://localhost:1313/build/authenticate/logout/build-universal-logout-for-your-app/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/logout/build-universal-logout-for-your-app/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/build/authenticate/logout/build-universal-logout-for-your-app/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/logout/build-universal-logout-for-your-app/index.html</guid>
       <description>Build Universal Logout for your app In Phase 1?: &amp;ldquo;Yes, but for phase 1 keep changes to existing doc as minimal as possible&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers

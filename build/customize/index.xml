@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Customize on Hugo Techdoc Theme</title>
-    <link>http://localhost:1313/build/customize/index.html</link>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/build/customize/index.html</link>
     <description>Recent content in Customize on Hugo Techdoc Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/build/customize/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/build/customize/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Overview</title>
-      <link>http://localhost:1313/build/customize/overview/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/customize/overview/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/build/customize/overview/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/customize/overview/index.html</guid>
       <description>Overview In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
@@ -24,9 +24,9 @@ This content type is focused on more detailed, topic-specific discussions that c
     </item>
     <item>
       <title>Customize your domain name and email address</title>
-      <link>http://localhost:1313/build/customize/customize-your-domain-name-and-email-address/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/customize/customize-your-domain-name-and-email-address/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/build/customize/customize-your-domain-name-and-email-address/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/customize/customize-your-domain-name-and-email-address/index.html</guid>
       <description>Customize your domain name and email address In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
@@ -39,9 +39,9 @@ Goal-oriented. Shows how to achieve a specific goal (or solve a specific problem
     </item>
     <item>
       <title>Style the Sign-in widget</title>
-      <link>http://localhost:1313/build/customize/style-the-sign-in-widget/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/customize/style-the-sign-in-widget/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/build/customize/style-the-sign-in-widget/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/customize/style-the-sign-in-widget/index.html</guid>
       <description>Style the Sign-in widget In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
@@ -54,9 +54,9 @@ Goal-oriented. Focused on developing a solution for a specific use case.</descri
     </item>
     <item>
       <title>Style the sign-in widget (3rd gen)</title>
-      <link>http://localhost:1313/build/customize/style-the-sign-in-widget-3rd-gen/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/customize/style-the-sign-in-widget-3rd-gen/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/build/customize/style-the-sign-in-widget-3rd-gen/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/customize/style-the-sign-in-widget-3rd-gen/index.html</guid>
       <description>Style the sign-in widget (3rd gen) In Phase 1?: &amp;ldquo;Yes, but for phase 1 keep changes to existing doc as minimal as possible&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
@@ -65,9 +65,9 @@ Content Notes New or existing doc?</description>
     </item>
     <item>
       <title>Customize error pages</title>
-      <link>http://localhost:1313/build/customize/customize-error-pages/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/customize/customize-error-pages/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/build/customize/customize-error-pages/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/customize/customize-error-pages/index.html</guid>
       <description>Customize error pages In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
@@ -80,9 +80,9 @@ Goal-oriented. Focused on developing a solution for a specific use case.</descri
     </item>
     <item>
       <title>Customize and internationalize SMS messages</title>
-      <link>http://localhost:1313/build/customize/customize-and-internationalize-sms-messages/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/customize/customize-and-internationalize-sms-messages/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/build/customize/customize-and-internationalize-sms-messages/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/customize/customize-and-internationalize-sms-messages/index.html</guid>
       <description>Customize and internationalize SMS messages In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
@@ -95,9 +95,9 @@ Goal-oriented. Focused on developing a solution for a specific use case.</descri
     </item>
     <item>
       <title>Customize email notifications</title>
-      <link>http://localhost:1313/build/customize/customize-email-notifications/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/customize/customize-email-notifications/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/build/customize/customize-email-notifications/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/customize/customize-email-notifications/index.html</guid>
       <description>Customize email notifications In Phase 1?: &amp;ldquo;Yes, but for phase 1 keep changes to existing doc as minimal as possible&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers

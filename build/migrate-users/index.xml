@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Migrate users on Hugo Techdoc Theme</title>
-    <link>http://localhost:1313/build/migrate-users/index.html</link>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/build/migrate-users/index.html</link>
     <description>Recent content in Migrate users on Hugo Techdoc Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/build/migrate-users/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/build/migrate-users/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Prerequisites</title>
-      <link>http://localhost:1313/build/migrate-users/prerequisites/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/migrate-users/prerequisites/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/build/migrate-users/prerequisites/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/migrate-users/prerequisites/index.html</guid>
       <description>Migration prerequisites In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
@@ -24,9 +24,9 @@ Goal-oriented. Shows how to achieve a specific goal (or solve a specific problem
     </item>
     <item>
       <title>Bulk migration with credentials</title>
-      <link>http://localhost:1313/build/migrate-users/bulk-migration-with-credentials/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/migrate-users/bulk-migration-with-credentials/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/build/migrate-users/bulk-migration-with-credentials/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/migrate-users/bulk-migration-with-credentials/index.html</guid>
       <description>Bulk migration with credentials In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
@@ -39,9 +39,9 @@ Goal-oriented. Focused on developing a solution for a specific use case.</descri
     </item>
     <item>
       <title>Migrate users with password hooks</title>
-      <link>http://localhost:1313/build/migrate-users/migrate-users-with-password-hooks/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/migrate-users/migrate-users-with-password-hooks/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/build/migrate-users/migrate-users-with-password-hooks/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/migrate-users/migrate-users-with-password-hooks/index.html</guid>
       <description>Migrate users with password hooks In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers

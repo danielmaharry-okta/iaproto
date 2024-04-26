@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mobile apps on Hugo Techdoc Theme</title>
-    <link>http://localhost:1313/supportive-content/archive/okta-classic-engine/mobile-apps/index.html</link>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/supportive-content/archive/okta-classic-engine/mobile-apps/index.html</link>
     <description>Recent content in Mobile apps on Hugo Techdoc Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/supportive-content/archive/okta-classic-engine/mobile-apps/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/supportive-content/archive/okta-classic-engine/mobile-apps/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Build a custom sign-in UI</title>
-      <link>http://localhost:1313/supportive-content/archive/okta-classic-engine/mobile-apps/build-a-custom-sign-in-ui/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/supportive-content/archive/okta-classic-engine/mobile-apps/build-a-custom-sign-in-ui/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/supportive-content/archive/okta-classic-engine/mobile-apps/build-a-custom-sign-in-ui/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/supportive-content/archive/okta-classic-engine/mobile-apps/build-a-custom-sign-in-ui/index.html</guid>
       <description>Build a custom sign-in UI in your mobile app In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
@@ -23,9 +23,9 @@ Content type: Integration guide</description>
     </item>
     <item>
       <title>Unlock with biometrics</title>
-      <link>http://localhost:1313/supportive-content/archive/okta-classic-engine/mobile-apps/unlock-with-biometrics/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/supportive-content/archive/okta-classic-engine/mobile-apps/unlock-with-biometrics/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/supportive-content/archive/okta-classic-engine/mobile-apps/unlock-with-biometrics/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/supportive-content/archive/okta-classic-engine/mobile-apps/unlock-with-biometrics/index.html</guid>
       <description>Unlock a mobile app with biometrics In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
@@ -38,9 +38,9 @@ Goal-oriented. Similar to a how-to but the focus is more technical and geared to
     </item>
     <item>
       <title>Share a sign-in session</title>
-      <link>http://localhost:1313/supportive-content/archive/okta-classic-engine/mobile-apps/share-a-sign-in-session/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/supportive-content/archive/okta-classic-engine/mobile-apps/share-a-sign-in-session/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/supportive-content/archive/okta-classic-engine/mobile-apps/share-a-sign-in-session/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/supportive-content/archive/okta-classic-engine/mobile-apps/share-a-sign-in-session/index.html</guid>
       <description>Share a sign-in session with native mobile apps In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers

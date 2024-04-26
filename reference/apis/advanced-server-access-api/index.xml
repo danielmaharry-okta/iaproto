@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Advanced Server Access API on Hugo Techdoc Theme</title>
-    <link>http://localhost:1313/reference/apis/advanced-server-access-api/index.html</link>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/advanced-server-access-api/index.html</link>
     <description>Recent content in Advanced Server Access API on Hugo Techdoc Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/reference/apis/advanced-server-access-api/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/advanced-server-access-api/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AD Connections</title>
-      <link>http://localhost:1313/reference/apis/advanced-server-access-api/ad-connections/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/advanced-server-access-api/ad-connections/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/apis/advanced-server-access-api/ad-connections/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/advanced-server-access-api/ad-connections/index.html</guid>
       <description>AD Connections API In Phase 2?: TBD
 Group Notes Group description: Straight port from Redocly
 Content Notes New or existing doc?: Existing doc: no changes identified
@@ -22,9 +22,9 @@ A comprehensive description of the API, including endpoints, methods, parameters
     </item>
     <item>
       <title>Attributes</title>
-      <link>http://localhost:1313/reference/apis/advanced-server-access-api/attributes/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/advanced-server-access-api/attributes/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/apis/advanced-server-access-api/attributes/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/advanced-server-access-api/attributes/index.html</guid>
       <description>Attributes API In Phase 2?: TBD
 Group Notes Group description: Straight port from Redocly
 Content Notes New or existing doc?: Existing doc: no changes identified
@@ -35,9 +35,9 @@ A comprehensive description of the API, including endpoints, methods, parameters
     </item>
     <item>
       <title>Audits</title>
-      <link>http://localhost:1313/reference/apis/advanced-server-access-api/audits/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/advanced-server-access-api/audits/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/apis/advanced-server-access-api/audits/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/advanced-server-access-api/audits/index.html</guid>
       <description>Audits API In Phase 2?: TBD
 Group Notes Group description: Straight port from Redocly
 Content Notes New or existing doc?: Existing doc: no changes identified
@@ -48,9 +48,9 @@ A comprehensive description of the API, including endpoints, methods, parameters
     </item>
     <item>
       <title>Clients</title>
-      <link>http://localhost:1313/reference/apis/advanced-server-access-api/clients/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/advanced-server-access-api/clients/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/apis/advanced-server-access-api/clients/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/advanced-server-access-api/clients/index.html</guid>
       <description>Clients API In Phase 2?: TBD
 Group Notes Group description: Straight port from Redocly
 Content Notes New or existing doc?: Existing doc: no changes identified
@@ -61,9 +61,9 @@ A comprehensive description of the API, including endpoints, methods, parameters
     </item>
     <item>
       <title>Entitlements</title>
-      <link>http://localhost:1313/reference/apis/advanced-server-access-api/entitlements/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/advanced-server-access-api/entitlements/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/apis/advanced-server-access-api/entitlements/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/advanced-server-access-api/entitlements/index.html</guid>
       <description>Entitlements API In Phase 2?: TBD
 Group Notes Group description: Straight port from Redocly
 Content Notes New or existing doc?: Existing doc: no changes identified
@@ -74,9 +74,9 @@ A comprehensive description of the API, including endpoints, methods, parameters
     </item>
     <item>
       <title>Gateways</title>
-      <link>http://localhost:1313/reference/apis/advanced-server-access-api/gateways/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/advanced-server-access-api/gateways/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/apis/advanced-server-access-api/gateways/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/advanced-server-access-api/gateways/index.html</guid>
       <description>Gateways API In Phase 2?: TBD
 Group Notes Group description: Straight port from Redocly
 Content Notes New or existing doc?: Existing doc: no changes identified
@@ -87,9 +87,9 @@ A comprehensive description of the API, including endpoints, methods, parameters
     </item>
     <item>
       <title>Groups</title>
-      <link>http://localhost:1313/reference/apis/advanced-server-access-api/groups/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/advanced-server-access-api/groups/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/apis/advanced-server-access-api/groups/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/advanced-server-access-api/groups/index.html</guid>
       <description>Groups API In Phase 2?: TBD
 Group Notes Group description: Straight port from Redocly
 Content Notes New or existing doc?: Existing doc: no changes identified
@@ -100,9 +100,9 @@ A comprehensive description of the API, including endpoints, methods, parameters
     </item>
     <item>
       <title>Projects</title>
-      <link>http://localhost:1313/reference/apis/advanced-server-access-api/projects/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/advanced-server-access-api/projects/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/apis/advanced-server-access-api/projects/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/advanced-server-access-api/projects/index.html</guid>
       <description>Projects API In Phase 2?: TBD
 Group Notes Group description: Straight port from Redocly
 Content Notes New or existing doc?: Existing doc: no changes identified
@@ -113,9 +113,9 @@ A comprehensive description of the API, including endpoints, methods, parameters
     </item>
     <item>
       <title>Service Users</title>
-      <link>http://localhost:1313/reference/apis/advanced-server-access-api/service-users/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/advanced-server-access-api/service-users/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/apis/advanced-server-access-api/service-users/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/advanced-server-access-api/service-users/index.html</guid>
       <description>Service Users API In Phase 2?: TBD
 Group Notes Group description: Straight port from Redocly
 Content Notes New or existing doc?: Existing doc: no changes identified
@@ -126,9 +126,9 @@ A comprehensive description of the API, including endpoints, methods, parameters
     </item>
     <item>
       <title>Services</title>
-      <link>http://localhost:1313/reference/apis/advanced-server-access-api/services/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/advanced-server-access-api/services/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/apis/advanced-server-access-api/services/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/advanced-server-access-api/services/index.html</guid>
       <description>Services API In Phase 2?: TBD
 Group Notes Group description: Straight port from Redocly
 Content Notes New or existing doc?: Existing doc: no changes identified
@@ -139,9 +139,9 @@ A comprehensive description of the API, including endpoints, methods, parameters
     </item>
     <item>
       <title>Teams</title>
-      <link>http://localhost:1313/reference/apis/advanced-server-access-api/teams/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/advanced-server-access-api/teams/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/apis/advanced-server-access-api/teams/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/advanced-server-access-api/teams/index.html</guid>
       <description>Teams API In Phase 2?: TBD
 Group Notes Group description: Straight port from Redocly
 Content Notes New or existing doc?: Existing doc: no changes identified
@@ -152,9 +152,9 @@ A comprehensive description of the API, including endpoints, methods, parameters
     </item>
     <item>
       <title>Users</title>
-      <link>http://localhost:1313/reference/apis/advanced-server-access-api/users/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/advanced-server-access-api/users/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reference/apis/advanced-server-access-api/users/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/advanced-server-access-api/users/index.html</guid>
       <description>Users API In Phase 2?: TBD
 Group Notes Group description: Straight port from Redocly
 Content Notes New or existing doc?: Existing doc: no changes identified

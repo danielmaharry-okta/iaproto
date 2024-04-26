@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Learn on Hugo Techdoc Theme</title>
-    <link>http://localhost:1313/learn/index.html</link>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/index.html</link>
     <description>Recent content in Learn on Hugo Techdoc Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/learn/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/learn/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Workforce Identity Cloud (WIC) Explained</title>
-      <link>http://localhost:1313/learn/workforce-identity-cloud-wic-explained/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/workforce-identity-cloud-wic-explained/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/learn/workforce-identity-cloud-wic-explained/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/learn/workforce-identity-cloud-wic-explained/index.html</guid>
       <description>Workforce Identity Cloud (WIC) Explained In Phase 1?: &amp;ldquo;No, new content can be created at later phase.&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: Maybe. If a help doc already exists, this doc can be a summary redirect to the main help doc page.
@@ -21,9 +21,9 @@ Description: Explains WIC and compares it to the CIC domain.</description>
     </item>
     <item>
       <title>IAM fundamentals</title>
-      <link>http://localhost:1313/learn/iam-fundamentals/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/iam-fundamentals/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/learn/iam-fundamentals/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/learn/iam-fundamentals/index.html</guid>
       <description>Identity access management fundamentals In Phase 1?: &amp;ldquo;Yes, for phase 1 can be a siimple doc from existing content.&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: Maybe. If a help doc already exists, this doc can be a summary redirect to the main help doc page.
@@ -33,9 +33,9 @@ Description: Explains at a high level what is IAM.</description>
     </item>
     <item>
       <title>MFA explained</title>
-      <link>http://localhost:1313/learn/mfa-explained/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/mfa-explained/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/learn/mfa-explained/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/learn/mfa-explained/index.html</guid>
       <description>MFA explained In Phase 1?: &amp;ldquo;No, new content can be created at later phase.&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: Maybe. If a help doc already exists, this doc can be a summary redirect to the main help doc page.
@@ -45,9 +45,9 @@ Description: Explain the very basic concept of MFA. Also, explain the difference
     </item>
     <item>
       <title>Understand OAuth and OpenID Connect</title>
-      <link>http://localhost:1313/learn/understand-oauth-and-openid-connect/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/understand-oauth-and-openid-connect/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/learn/understand-oauth-and-openid-connect/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/learn/understand-oauth-and-openid-connect/index.html</guid>
       <description>Understand OAuth and OpenID Connect In Phase 1?: &amp;ldquo;No, new content can be created at later phase.&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, it&amp;rsquo;s &amp;ldquo;glue&amp;rdquo; documentation not related to the product help docs
@@ -57,9 +57,9 @@ Content Notes New or existing doc?</description>
     </item>
     <item>
       <title>Understand SAML</title>
-      <link>http://localhost:1313/learn/understand-saml/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/understand-saml/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/learn/understand-saml/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/learn/understand-saml/index.html</guid>
       <description>Understand SAML In Phase 1?: &amp;ldquo;Yes, content defined as a dynamic index&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, it&amp;rsquo;s &amp;ldquo;glue&amp;rdquo; documentation not related to the product help docs
@@ -71,9 +71,9 @@ This document type is designed to automatically generate and display a list of c
     </item>
     <item>
       <title>Understand Oktas Products</title>
-      <link>http://localhost:1313/learn/understand-oktas-products/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/understand-oktas-products/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/learn/understand-oktas-products/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/learn/understand-oktas-products/index.html</guid>
       <description>Master Okta&amp;rsquo;s Products In Phase 1?: &amp;ldquo;Yes, for phase 1 this guide hub can be a dynamic index&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, it&amp;rsquo;s &amp;ldquo;glue&amp;rdquo; documentation not related to the product help docs

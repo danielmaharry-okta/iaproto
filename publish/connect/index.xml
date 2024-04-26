@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Connect on Hugo Techdoc Theme</title>
-    <link>http://localhost:1313/publish/connect/index.html</link>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/publish/connect/index.html</link>
     <description>Recent content in Connect on Hugo Techdoc Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/publish/connect/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/publish/connect/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

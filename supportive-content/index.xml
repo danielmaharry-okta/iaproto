@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Supportive content on Hugo Techdoc Theme</title>
-    <link>http://localhost:1313/supportive-content/index.html</link>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/supportive-content/index.html</link>
     <description>Recent content in Supportive content on Hugo Techdoc Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/supportive-content/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/supportive-content/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Archive</title>
-      <link>http://localhost:1313/supportive-content/archive/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/supportive-content/archive/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/supportive-content/archive/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/supportive-content/archive/index.html</guid>
       <description>Archive In Phase 1?: &amp;ldquo;Yes, phase 1 version can be a very simple guide hub.&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, it&amp;rsquo;s &amp;ldquo;glue&amp;rdquo; documentation not related to the product help docs
@@ -22,9 +22,9 @@ This type of document serves as a central navigational starting point within a l
     </item>
     <item>
       <title>Connect</title>
-      <link>http://localhost:1313/supportive-content/connect/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/supportive-content/connect/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/supportive-content/connect/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/supportive-content/connect/index.html</guid>
       <description>Connect In Phase 1?: &amp;ldquo;Yes, its a menu dropdown&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: Does not apply
@@ -37,9 +37,9 @@ Not applicable</description>
     </item>
     <item>
       <title>Product</title>
-      <link>http://localhost:1313/supportive-content/product/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/supportive-content/product/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/supportive-content/product/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/supportive-content/product/index.html</guid>
       <description>Product In Phase 1?: &amp;ldquo;Yes, its a menu dropdown&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, it&amp;rsquo;s &amp;ldquo;glue&amp;rdquo; documentation not related to the product help docs
@@ -50,9 +50,9 @@ Not applicable</description>
     </item>
     <item>
       <title>APIs</title>
-      <link>http://localhost:1313/supportive-content/apis/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/supportive-content/apis/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/supportive-content/apis/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/supportive-content/apis/index.html</guid>
       <description>The Okta APIs In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s a link to another page or external site&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: Does not apply
@@ -63,9 +63,9 @@ Content type: Link</description>
     </item>
     <item>
       <title>SDKs</title>
-      <link>http://localhost:1313/supportive-content/sdks/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/supportive-content/sdks/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/supportive-content/sdks/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/supportive-content/sdks/index.html</guid>
       <description>SDKs In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s a link to another page or external site&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: Does not apply
