@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Users on Hugo Techdoc Theme</title>
+    <link>http://localhost:1313/reference/apis/okta-admin-management-apis/users/index.html</link>
+    <description>Recent content in Users on Hugo Techdoc Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/reference/apis/okta-admin-management-apis/users/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Searching for and filtering out Users</title>
+      <link>http://localhost:1313/reference/apis/okta-admin-management-apis/users/searching-for-and-filtering-out-users/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/reference/apis/okta-admin-management-apis/users/searching-for-and-filtering-out-users/index.html</guid>
+      <description>Searching for and filtering out Users In Phase 2?: TBD
+Group Notes Group description: This doc discusses various strategies for searching and filtering a list of users using the Users API. It needs to pull in some context of why this guide is necessary from #(Core Okta API). ie You can&amp;rsquo;t just say List All Users - results are too great. Needs more text for context.
+Content Notes New or existing doc?</description>
+    </item>
+  </channel>
+</rss>

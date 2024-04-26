@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>API Service on Hugo Techdoc Theme</title>
+    <link>http://localhost:1313/publish/build/api-service/index.html</link>
+    <description>Recent content in API Service on Hugo Techdoc Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/publish/build/api-service/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test with an API Service sample app</title>
+      <link>http://localhost:1313/publish/build/api-service/test-with-an-api-service-sample-app/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publish/build/api-service/test-with-an-api-service-sample-app/index.html</guid>
+      <description>Test with an API Service sample app In Phase 1?: &amp;ldquo;No, new content can be created at later phase.&amp;rdquo;
+In Phase 2?: TBD
+Related to help docs?: No, targetted towards developers
+Content Notes New or existing doc?: New doc - new content
+Target personas: WIC App Developer,Experienced IAM developer
+Description: Use a sample app to test the OIN Integration
+This doc is obviously dependent on the availability of a sample app.</description>
+    </item>
+    <item>
+      <title>Build your API Service</title>
+      <link>http://localhost:1313/publish/build/api-service/build-your-api-service/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publish/build/api-service/build-your-api-service/index.html</guid>
+      <description>Build your API Service In Phase 1?: &amp;ldquo;Yes, since it&amp;rsquo;s a summary redirect linking to other content&amp;rdquo;
+In Phase 2?: TBD
+Related to help docs?: No, targetted towards developers
+Content Notes New or existing doc?: New doc - new content
+Target personas: WIC App Developer,Experienced IAM developer
+Links to original docs: Provide links to how to build an API service to one or more docs with the following IDs
+ID: 424 - Access Okta APIs with user&amp;rsquo;s credentials ID: 425 - Access Okta APIs with machine credentials Content type: Summary redirect</description>
+    </item>
+    <item>
+      <title>Prepare you API Service for the OIN</title>
+      <link>http://localhost:1313/publish/build/api-service/prepare-you-api-service-for-the-oin/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publish/build/api-service/prepare-you-api-service-for-the-oin/index.html</guid>
+      <description>Prepare you API Service for the OIN In Phase 1?: &amp;ldquo;Yes, since it&amp;rsquo;s a new doc pulling from existing content&amp;rdquo;
+In Phase 2?: TBD
+Related to help docs?: No, targetted towards developers
+Content Notes New or existing doc?: New doc with new content but also pulling from existing content
+Target personas: WIC App Developer,Experienced IAM developer
+Changes to be made: Add content on how to use the API Service Integration form.</description>
+    </item>
+  </channel>
+</rss>

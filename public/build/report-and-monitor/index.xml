@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Report and Monitor on Hugo Techdoc Theme</title>
+    <link>http://localhost:1313/build/report-and-monitor/index.html</link>
+    <description>Recent content in Report and Monitor on Hugo Techdoc Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/build/report-and-monitor/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Monitor your Okta org</title>
+      <link>http://localhost:1313/build/report-and-monitor/monitor-your-okta-org/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/build/report-and-monitor/monitor-your-okta-org/index.html</guid>
+      <description>Monitor your Okta org In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
+In Phase 2?: TBD
+Related to help docs?: No, targetted towards developers
+Content Notes New or existing doc?: Existing doc: changes needed
+Target personas: WIC App Developer,Experienced IAM developer
+Changes to be made: Update title
+Links to original docs: - Monitor Okta: https://developer.okta.com/docs/concepts/monitor/
+Content type: Explanation
+This content type is focused on more detailed, topic-specific discussions that clarify how certain features, functionalities, or aspects of the product or service operate.</description>
+    </item>
+  </channel>
+</rss>

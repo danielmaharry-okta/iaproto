@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publish on Hugo Techdoc Theme</title>
+    <link>http://localhost:1313/publish/index.html</link>
+    <description>Recent content in Publish on Hugo Techdoc Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/publish/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Learn</title>
+      <link>http://localhost:1313/publish/learn/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publish/learn/index.html</guid>
+      <description>Learn In Phase 1?: &amp;ldquo;No, new content can be created at later phase.&amp;rdquo;
+In Phase 2?: TBD
+Related to help docs?: No, it&amp;rsquo;s &amp;ldquo;glue&amp;rdquo; documentation not related to the product help docs
+Content Notes New or existing doc?: New doc - new content
+Target personas: WIC App Developer,Experienced IAM developer
+Validation: Reasons for a &amp;ldquo;Learn&amp;rdquo; section include:
+Internal OIN Workshop results: When asked &amp;ldquo;What do devs need to know about the OIN&amp;rdquo; employees answered: Why OIN What&amp;rsquo;s the value prop What is OIN?</description>
+    </item>
+    <item>
+      <title>Plan</title>
+      <link>http://localhost:1313/publish/plan/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publish/plan/index.html</guid>
+      <description>Plan In Phase 1?: &amp;ldquo;No, new content can be created at later phase.&amp;rdquo;
+In Phase 2?: TBD
+Related to help docs?: Maybe. If a help doc already exists, this doc can be a summary redirect to the main help doc page.
+Content Notes New or existing doc?: New doc - new content
+Target personas: WIC App Developer,Experienced IAM developer
+Description: Discuss factors developers need to think about before being successful on the OIN</description>
+    </item>
+    <item>
+      <title>Build</title>
+      <link>http://localhost:1313/publish/build/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publish/build/index.html</guid>
+      <description>Build In Phase 1?: &amp;ldquo;Yes, phase 1 version can be a very simple guide hub.&amp;rdquo;
+In Phase 2?: TBD
+Related to help docs?: No, it&amp;rsquo;s &amp;ldquo;glue&amp;rdquo; documentation not related to the product help docs
+Content Notes New or existing doc?: New doc - new content
+Target personas: WIC App Developer,Experienced IAM developer
+Validation: - At Oktane customers cite what is missing in the OIN docs include: - How to add new apps</description>
+    </item>
+    <item>
+      <title>Submit</title>
+      <link>http://localhost:1313/publish/submit/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publish/submit/index.html</guid>
+      <description>Submit In Phase 1?: &amp;ldquo;Yes, phase 1 version can be a very simple guide hub.&amp;rdquo;
+In Phase 2?: TBD
+Related to help docs?: No, it&amp;rsquo;s &amp;ldquo;glue&amp;rdquo; documentation not related to the product help docs
+Content Notes New or existing doc?: Existing doc: changes needed
+Target personas: WIC App Developer,Experienced IAM developer
+Changes to be made: This doc is large and covers different types of content such as guide up, submission process, etc.</description>
+    </item>
+    <item>
+      <title>Update</title>
+      <link>http://localhost:1313/publish/update/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publish/update/index.html</guid>
+      <description>Releasing new versions of your app In Phase 1?: &amp;ldquo;No, new content can be created at later phase.&amp;rdquo;
+In Phase 2?: TBD
+Related to help docs?: No, it&amp;rsquo;s &amp;ldquo;glue&amp;rdquo; documentation not related to the product help docs
+Group Notes Group description: Based on the User research we need to determine what the content should be for this section.
+Content Notes New or existing doc?: New doc - new content
+Target personas: WIC App Developer,Experienced IAM developer</description>
+    </item>
+    <item>
+      <title>Connect</title>
+      <link>http://localhost:1313/publish/connect/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publish/connect/index.html</guid>
+      <description>Connect In Phase 1?: &amp;ldquo;No, new content can be created at later phase.&amp;rdquo;
+In Phase 2?: TBD
+Related to help docs?: No, targetted towards developers
+Content Notes New or existing doc?: New doc - new content
+Target personas: WIC App Developer,Experienced IAM developer
+Validation: - Internal workshop: When asked &amp;ldquo;What prevents developers from being successful on the OIN&amp;rdquo;, respondents answered: - How to ask for and receive help from OKta - Links to Okta Education classes</description>
+    </item>
+  </channel>
+</rss>

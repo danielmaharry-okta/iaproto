@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Learn on Hugo Techdoc Theme</title>
+    <link>http://localhost:1313/publish/learn/index.html</link>
+    <description>Recent content in Learn on Hugo Techdoc Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/publish/learn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Okta Integration Network (OIN) explained</title>
+      <link>http://localhost:1313/publish/learn/okta-integration-network-oin-explained/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publish/learn/okta-integration-network-oin-explained/index.html</guid>
+      <description>Okta Integration Network (OIN) explained In Phase 1?: &amp;ldquo;No, new content can be created at later phase.&amp;rdquo;
+In Phase 2?: TBD
+Related to help docs?: Maybe. If a help doc already exists, this doc can be a summary redirect to the main help doc page.
+Content Notes New or existing doc?: New doc - new content
+Target personas: WIC App Developer,Experienced IAM developer
+Description: Overview of the OIN
+Validation: In the OIN Internal Workshop, a question was raised: &amp;ldquo;What do developers need to know about the OIN?</description>
+    </item>
+    <item>
+      <title>ISV defined</title>
+      <link>http://localhost:1313/publish/learn/isv-defined/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publish/learn/isv-defined/index.html</guid>
+      <description>ISV defined In Phase 1?: &amp;ldquo;No, new content can be created at later phase.&amp;rdquo;
+In Phase 2?: TBD
+Related to help docs?: Maybe. If a help doc already exists, this doc can be a summary redirect to the main help doc page.
+Content Notes New or existing doc?: New doc - new content
+Target personas: WIC App Developer,Experienced IAM developer
+Description: Overview of an ISV and how the fit into the OIN</description>
+    </item>
+    <item>
+      <title>Why publish</title>
+      <link>http://localhost:1313/publish/learn/why-publish/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publish/learn/why-publish/index.html</guid>
+      <description>Why publish In Phase 1?: &amp;ldquo;No, new content can be created at later phase.&amp;rdquo;
+In Phase 2?: TBD
+Related to help docs?: Maybe. If a help doc already exists, this doc can be a summary redirect to the main help doc page.
+Content Notes New or existing doc?: New doc - new content
+Target personas: WIC App Developer,Experienced IAM developer
+Description: Lists reasons why people should care about publishing on the OIN</description>
+    </item>
+    <item>
+      <title>Using Oktas APIs</title>
+      <link>http://localhost:1313/publish/learn/using-oktas-apis/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publish/learn/using-oktas-apis/index.html</guid>
+      <description>Using Okta&amp;rsquo;s APIs In Phase 1?: &amp;ldquo;No, new content can be created at later phase.&amp;rdquo;
+In Phase 2?: TBD
+Related to help docs?: No, targetted towards developers
+Content Notes New or existing doc?: New doc - new content
+Target personas: WIC App Developer,Experienced IAM developer
+Description: Need more clarification on the content. Ask PMs for more details and we&amp;rsquo;ll need to do more user research.
+Validation: - Oktane user research: - When asked what do integrators need to know: - APIs and capabilities to support custom work - API</description>
+    </item>
+    <item>
+      <title>OIN Manager overview</title>
+      <link>http://localhost:1313/publish/learn/oin-manager-overview/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publish/learn/oin-manager-overview/index.html</guid>
+      <description>OIN Manager: an essential overview In Phase 1?: &amp;ldquo;No, new content can be created at later phase.&amp;rdquo;
+In Phase 2?: TBD
+Related to help docs?: Maybe. If a help doc already exists, this doc can be a summary redirect to the main help doc page.
+Content Notes New or existing doc?: New doc - new content
+Target personas: WIC App Developer,Experienced IAM developer
+Description: Overview of the OIN manager
+Validation: At the Oktane MatchIt game, 40% of respondents could not properly define OIN Manager.</description>
+    </item>
+    <item>
+      <title>Best practices</title>
+      <link>http://localhost:1313/publish/learn/best-practices/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publish/learn/best-practices/index.html</guid>
+      <description>Best practices In Phase 1?: &amp;ldquo;No, new content can be created at later phase.&amp;rdquo;
+In Phase 2?: TBD
+Related to help docs?: No, targetted towards developers
+Content Notes New or existing doc?: New doc - new content
+Target personas: WIC App Developer,Experienced IAM developer
+Description: OIN best practices.
+Validation: - At Oktane, the OIN Survey showed several customers citing the following as &amp;ldquo;Missing info with the OIN Docs&amp;rdquo;:
+Best practices and use cases Best security practices for the app specific guidelines for each app Internal Workshop: When asked &amp;ldquo;What prevents devs from being successful on the OIN, respondents answered: Best practices for Multi-tenancy Content type: Best practice</description>
+    </item>
+    <item>
+      <title>Use cases </title>
+      <link>http://localhost:1313/publish/learn/use-cases/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publish/learn/use-cases/index.html</guid>
+      <description>Use cases In Phase 1?: &amp;ldquo;No, new content can be created at later phase.&amp;rdquo;
+In Phase 2?: TBD
+Related to help docs?: No, it&amp;rsquo;s &amp;ldquo;glue&amp;rdquo; documentation not related to the product help docs
+Content Notes New or existing doc?: New doc - new content
+Target personas: WIC App Developer,Experienced IAM developer
+Dimensioned by: TBD
+Validation: - At Oktane, the OIN Survey showed several customers citing the following as &amp;ldquo;Missing info with the OIN Docs&amp;rdquo;: - Best practices and use cases - Docs on use case scenarios - Use cases - Use case flows</description>
+    </item>
+  </channel>
+</rss>

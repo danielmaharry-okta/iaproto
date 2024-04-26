@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Access Okta APIs with machine credentials on Hugo Techdoc Theme</title>
+    <link>http://localhost:1313/build/manage-access/access-okta-apis-using-oauth/access-okta-apis-with-machine-credentials/index.html</link>
+    <description>Recent content in Access Okta APIs with machine credentials on Hugo Techdoc Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/build/manage-access/access-okta-apis-using-oauth/access-okta-apis-with-machine-credentials/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

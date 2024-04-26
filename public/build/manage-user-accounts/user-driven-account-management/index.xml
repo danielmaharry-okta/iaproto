@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>User driven account management on Hugo Techdoc Theme</title>
+    <link>http://localhost:1313/build/manage-user-accounts/user-driven-account-management/index.html</link>
+    <description>Recent content in User driven account management on Hugo Techdoc Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/build/manage-user-accounts/user-driven-account-management/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Allow user to update their profile using the MyAccountAPI</title>
+      <link>http://localhost:1313/build/manage-user-accounts/user-driven-account-management/allow-user-to-update-their-profile-using-the-myaccountapi/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/build/manage-user-accounts/user-driven-account-management/allow-user-to-update-their-profile-using-the-myaccountapi/index.html</guid>
+      <description>Allow user to update their profile using the MyAccountAPI In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
+In Phase 2?: TBD
+Related to help docs?: No, targetted towards developers
+Group Notes Group description: Title change: Whats the &amp;ldquo;How do I&amp;rdquo; question what the developer is asking? They are attempting to solve something. It&amp;rsquo;s a task. It&amp;rsquo;s a how do I? Anything that will take them through something.</description>
+    </item>
+    <item>
+      <title>Allow user to change their primary email address</title>
+      <link>http://localhost:1313/build/manage-user-accounts/user-driven-account-management/allow-user-to-change-their-primary-email-address/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/build/manage-user-accounts/user-driven-account-management/allow-user-to-change-their-primary-email-address/index.html</guid>
+      <description>Allow user to change their primary email address In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
+In Phase 2?: TBD
+Related to help docs?: No, targetted towards developers
+Content Notes New or existing doc?: Existing doc: changes needed
+Target personas: WIC App Developer,Experienced IAM developer
+Dimensioned by: Language
+Changes to be made: Update title
+Links to original docs: - Change your primary email address: https://developer.okta.com/docs/guides/pwd-optional-change-email/aspnet/main/
+Content type: Integration guide</description>
+    </item>
+  </channel>
+</rss>

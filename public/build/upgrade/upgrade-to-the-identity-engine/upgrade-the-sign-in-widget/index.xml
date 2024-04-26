@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Upgrade the Sign-in Widget on Hugo Techdoc Theme</title>
+    <link>http://localhost:1313/build/upgrade/upgrade-to-the-identity-engine/upgrade-the-sign-in-widget/index.html</link>
+    <description>Recent content in Upgrade the Sign-in Widget on Hugo Techdoc Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/build/upgrade/upgrade-to-the-identity-engine/upgrade-the-sign-in-widget/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Remove deprecated widget methods</title>
+      <link>http://localhost:1313/build/upgrade/upgrade-to-the-identity-engine/upgrade-the-sign-in-widget/remove-deprecated-widget-methods/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/build/upgrade/upgrade-to-the-identity-engine/upgrade-the-sign-in-widget/remove-deprecated-widget-methods/index.html</guid>
+      <description>Remove deprecated widget methods In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
+In Phase 2?: TBD
+Related to help docs?: No, targetted towards developers
+Content Notes New or existing doc?: Existing doc: changes needed
+Target personas: WIC App Developer,Experienced IAM developer
+Changes to be made: Update title
+Links to original docs: - Deprecated JavaScript methods in the widget: https://developer.okta.com/docs/guides/oie-upgrade-sign-in-widget-deprecated-methods/main/
+Content type: How-to: developer focused
+Goal-oriented. Focused on developing a solution for a specific use case.</description>
+    </item>
+    <item>
+      <title>Update the widget styling</title>
+      <link>http://localhost:1313/build/upgrade/upgrade-to-the-identity-engine/upgrade-the-sign-in-widget/update-the-widget-styling/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/build/upgrade/upgrade-to-the-identity-engine/upgrade-the-sign-in-widget/update-the-widget-styling/index.html</guid>
+      <description>Update the widget styling In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
+In Phase 2?: TBD
+Related to help docs?: No, targetted towards developers
+Content Notes New or existing doc?: Existing doc: changes needed
+Target personas: WIC App Developer,Experienced IAM developer
+Changes to be made: Update title
+Links to original docs: - Updates to widget styling: https://developer.okta.com/docs/guides/oie-upgrade-sign-in-widget-styling/main/
+Content type: Summary redirect
+This document serves primarily as a pointer or a gateway to direct users to the main source material located elsewhere in the documentation.</description>
+    </item>
+    <item>
+      <title>Internationalize the widget</title>
+      <link>http://localhost:1313/build/upgrade/upgrade-to-the-identity-engine/upgrade-the-sign-in-widget/internationalize-the-widget/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/build/upgrade/upgrade-to-the-identity-engine/upgrade-the-sign-in-widget/internationalize-the-widget/index.html</guid>
+      <description>Internationalize the widget In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
+In Phase 2?: TBD
+Related to help docs?: No, targetted towards developers
+Content Notes New or existing doc?: Existing doc: changes needed
+Target personas: WIC App Developer,Experienced IAM developer
+Changes to be made: Update title
+Links to original docs: - Updates to widget i18n properties: https://developer.okta.com/docs/guides/oie-upgrade-sign-in-widget-i18n/main/
+Content type: How-to: developer focused
+Goal-oriented. Focused on developing a solution for a specific use case.</description>
+    </item>
+  </channel>
+</rss>

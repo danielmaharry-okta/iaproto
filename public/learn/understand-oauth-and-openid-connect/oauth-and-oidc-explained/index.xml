@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OAuth and OIDC Explained on Hugo Techdoc Theme</title>
+    <link>http://localhost:1313/learn/understand-oauth-and-openid-connect/oauth-and-oidc-explained/index.html</link>
+    <description>Recent content in OAuth and OIDC Explained on Hugo Techdoc Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/learn/understand-oauth-and-openid-connect/oauth-and-oidc-explained/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Flows (grant types)</title>
+      <link>http://localhost:1313/learn/understand-oauth-and-openid-connect/oauth-and-oidc-explained/flows-grant-types/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/learn/understand-oauth-and-openid-connect/oauth-and-oidc-explained/flows-grant-types/index.html</guid>
+      <description>Flows (grant types) In Phase 1?: &amp;ldquo;Yes, content defined as a dynamic index&amp;rdquo;
+In Phase 2?: TBD
+Related to help docs?: No, it&amp;rsquo;s &amp;ldquo;glue&amp;rdquo; documentation not related to the product help docs
+Content Notes New or existing doc?: New doc - new content
+Target personas: New IAM Developers,Developers new to Okta
+Content type: Dynamic Index
+This document type is designed to automatically generate and display a list of child documents when a particular node in the navigation tree is selected.</description>
+    </item>
+    <item>
+      <title>Authorization servers</title>
+      <link>http://localhost:1313/learn/understand-oauth-and-openid-connect/oauth-and-oidc-explained/authorization-servers/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/learn/understand-oauth-and-openid-connect/oauth-and-oidc-explained/authorization-servers/index.html</guid>
+      <description>Authorization servers In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
+In Phase 2?: TBD
+Related to help docs?: No, targetted towards developers
+Content Notes New or existing doc?: Existing doc: no changes identified
+Target personas: New IAM Developers,Developers new to Okta
+Links to original docs: - Authorization servers: https://developer.okta.com/docs/concepts/auth-servers/
+Content type: Conceptual overview
+High-level explanations of the underlying concepts, architecture, or design principles behind the product or service.</description>
+    </item>
+    <item>
+      <title>Access, Id,and refresh tokens</title>
+      <link>http://localhost:1313/learn/understand-oauth-and-openid-connect/oauth-and-oidc-explained/access-idand-refresh-tokens/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/learn/understand-oauth-and-openid-connect/oauth-and-oidc-explained/access-idand-refresh-tokens/index.html</guid>
+      <description>Access, Id,and refresh tokens In Phase 1?: &amp;ldquo;Yes, since it&amp;rsquo;s a new doc pulling from existing content&amp;rdquo;
+In Phase 2?: TBD
+Related to help docs?: No, targetted towards developers
+Content Notes New or existing doc?: New doc with new content but also pulling from existing content
+Target personas: New IAM Developers,Developers new to Okta
+Description: Overview of Access, Id and refresh tokens.
+Links to original docs: Some content for the new doc originating from:</description>
+    </item>
+    <item>
+      <title>JWTS explained</title>
+      <link>http://localhost:1313/learn/understand-oauth-and-openid-connect/oauth-and-oidc-explained/jwts-explained/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/learn/understand-oauth-and-openid-connect/oauth-and-oidc-explained/jwts-explained/index.html</guid>
+      <description>JSON web tokens explained In Phase 1?: &amp;ldquo;No, new content can be created at later phase.&amp;rdquo;
+In Phase 2?: TBD
+Related to help docs?: No, targetted towards developers
+Content Notes New or existing doc?: New doc - new content
+Target personas: New IAM Developers,Developers new to Okta
+Description: Overview of JSON web tokens.
+Validation: - External Oktane 2023 - MatchIt: 21% of respondents got JWTs incorrect in the MatchIt exercise.</description>
+    </item>
+  </channel>
+</rss>

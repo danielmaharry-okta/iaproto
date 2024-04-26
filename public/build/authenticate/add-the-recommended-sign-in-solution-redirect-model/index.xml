@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Add the recommended sign-in solution: redirect model on Hugo Techdoc Theme</title>
+    <link>http://localhost:1313/build/authenticate/add-the-recommended-sign-in-solution-redirect-model/index.html</link>
+    <description>Recent content in Add the recommended sign-in solution: redirect model on Hugo Techdoc Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/build/authenticate/add-the-recommended-sign-in-solution-redirect-model/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sign users in to your SPA </title>
+      <link>http://localhost:1313/build/authenticate/add-the-recommended-sign-in-solution-redirect-model/sign-users-in-to-your-spa/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/build/authenticate/add-the-recommended-sign-in-solution-redirect-model/sign-users-in-to-your-spa/index.html</guid>
+      <description>Sign users in to your SPA In Phase 1?: &amp;ldquo;Yes, but for phase 1 keep changes to existing doc as minimal as possible&amp;rdquo;
+In Phase 2?: TBD
+Related to help docs?: No, targetted towards developers
+Content Notes New or existing doc?: Existing doc: changes needed
+Target personas: WIC App Developer,Experienced IAM developer
+Dimensioned by: Language
+Changes to be made: - Update title Combine this doc with following doc unless there is a strong reason to split out Auth JS</description>
+    </item>
+    <item>
+      <title>Sign users in to your web app</title>
+      <link>http://localhost:1313/build/authenticate/add-the-recommended-sign-in-solution-redirect-model/sign-users-in-to-your-web-app/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/build/authenticate/add-the-recommended-sign-in-solution-redirect-model/sign-users-in-to-your-web-app/index.html</guid>
+      <description>Sign users in to your web app In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
+In Phase 2?: TBD
+Related to help docs?: No, targetted towards developers
+Content Notes New or existing doc?: Existing doc: changes needed
+Target personas: WIC App Developer,Experienced IAM developer
+Dimensioned by: Language
+Changes to be made: Update title
+Links to original docs: - Sign users in to your web app using the redirect model: https://developer.</description>
+    </item>
+    <item>
+      <title>Sign users in to your mobile app</title>
+      <link>http://localhost:1313/build/authenticate/add-the-recommended-sign-in-solution-redirect-model/sign-users-in-to-your-mobile-app/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/build/authenticate/add-the-recommended-sign-in-solution-redirect-model/sign-users-in-to-your-mobile-app/index.html</guid>
+      <description>Sign users in to your mobile app In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
+In Phase 2?: TBD
+Related to help docs?: No, targetted towards developers
+Content Notes New or existing doc?: Existing doc: changes needed
+Target personas: WIC App Developer,Experienced IAM developer
+Dimensioned by: Language
+Changes to be made: Update title
+Links to original docs: - Sign users in to your mobile app using the redirect model: https://developer.</description>
+    </item>
+  </channel>
+</rss>

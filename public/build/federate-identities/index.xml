@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Federate identities on Hugo Techdoc Theme</title>
+    <link>http://localhost:1313/build/federate-identities/index.html</link>
+    <description>Recent content in Federate identities on Hugo Techdoc Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/build/federate-identities/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Authenticate with an external identity provider (IdP)</title>
+      <link>http://localhost:1313/build/federate-identities/authenticate-with-an-external-identity-provider-idp/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/build/federate-identities/authenticate-with-an-external-identity-provider-idp/index.html</guid>
+      <description>Authenticate with an external identity provider (IdP) In Phase 1?: &amp;ldquo;Yes, content defined as a dynamic index&amp;rdquo;
+In Phase 2?: TBD
+Related to help docs?: No, it&amp;rsquo;s &amp;ldquo;glue&amp;rdquo; documentation not related to the product help docs
+Content Notes New or existing doc?: Existing doc: changes needed
+Target personas: WIC App Developer,Experienced IAM developer
+Links to original docs: - Add an external Identity Provider: https://developer.okta.com/docs/guides/identity-providers/
+Content type: Dynamic Index
+This document type is designed to automatically generate and display a list of child documents when a particular node in the navigation tree is selected.</description>
+    </item>
+    <item>
+      <title>Define your own scopes, claims, and access policies</title>
+      <link>http://localhost:1313/build/federate-identities/define-your-own-scopes-claims-and-access-policies/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/build/federate-identities/define-your-own-scopes-claims-and-access-policies/index.html</guid>
+      <description>Define your own scopes, claims, and access policies with a custom authorization server In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
+In Phase 2?: TBD
+Related to help docs?: No, targetted towards developers
+Group Notes Group description: @Dan Maharry - After our conversation, I lookedup the actual definition for &amp;ldquo;Identity Federation&amp;rdquo; and I can see how it relates to Authorization server. Definition: &amp;ldquo;Identity federation is a system of trust between two parties for the purpose of authenticating users and conveying information needed to authorize their access to resources.</description>
+    </item>
+    <item>
+      <title>Sync users across domains</title>
+      <link>http://localhost:1313/build/federate-identities/sync-users-across-domains/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/build/federate-identities/sync-users-across-domains/index.html</guid>
+      <description>Sync users across domains In Phase 1?: &amp;ldquo;Yes, content defined as a dynamic index&amp;rdquo;
+In Phase 2?: TBD
+Related to help docs?: No, it&amp;rsquo;s &amp;ldquo;glue&amp;rdquo; documentation not related to the product help docs
+Content Notes New or existing doc?: New doc - new content
+Target personas: WIC App Developer,Experienced IAM developer
+Content type: Dynamic Index
+This document type is designed to automatically generate and display a list of child documents when a particular node in the navigation tree is selected.</description>
+    </item>
+    <item>
+      <title>Store your users across multiple tenants </title>
+      <link>http://localhost:1313/build/federate-identities/store-your-users-across-multiple-tenants/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/build/federate-identities/store-your-users-across-multiple-tenants/index.html</guid>
+      <description>Store your users across multiple tenants In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
+In Phase 2?: TBD
+Related to help docs?: No, targetted towards developers
+Content Notes New or existing doc?: Existing doc: changes needed
+Target personas: WIC App Developer,Experienced IAM developer
+Changes to be made: Update title
+Links to original docs: - Multi-tenant solutions: https://developer.okta.com/docs/concepts/multi-tenancy/
+Validation: - 14% of respondents placed Hub and Spoke, which is a multitenant configuraiton under &amp;ldquo;Federate Identities&amp;rdquo; It was the second largest group.</description>
+    </item>
+  </channel>
+</rss>

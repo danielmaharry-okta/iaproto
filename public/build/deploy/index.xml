@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deploy  on Hugo Techdoc Theme</title>
+    <link>http://localhost:1313/build/deploy/index.html</link>
+    <description>Recent content in Deploy  on Hugo Techdoc Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/build/deploy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deployment checklists</title>
+      <link>http://localhost:1313/build/deploy/deployment-checklists/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/build/deploy/deployment-checklists/index.html</guid>
+      <description>Deployment checklists In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
+In Phase 2?: TBD
+Related to help docs?: No, targetted towards developers
+Content Notes New or existing doc?: Existing doc: changes needed
+Target personas: WIC App Developer,Experienced IAM developer
+Changes to be made: Update title
+Links to original docs: - Deployment and pre-launch checklists: https://developer.okta.com/docs/guides/deployment-checklist/main/
+Content type: How-to
+Goal-oriented. Shows how to achieve a specific goal (or solve a specific problem).</description>
+    </item>
+    <item>
+      <title>Deploy your app</title>
+      <link>http://localhost:1313/build/deploy/deploy-your-app/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/build/deploy/deploy-your-app/index.html</guid>
+      <description>Deploy your app In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
+In Phase 2?: TBD
+Related to help docs?: No, targetted towards developers
+Content Notes New or existing doc?: Existing doc: changes needed
+Target personas: WIC App Developer,Experienced IAM developer
+Dimensioned by: Language
+Changes to be made: Update title
+Links to original docs: - Deploy to production: https://developer.okta.com/docs/guides/deploy-your-app/java/main/
+Content type: Integration guide
+Goal-oriented. Similar to a how-to but the focus is more technical and geared towards developers integrating an SDK, API, or another library into their applications.</description>
+    </item>
+  </channel>
+</rss>

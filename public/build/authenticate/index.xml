@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authenticate on Hugo Techdoc Theme</title>
+    <link>http://localhost:1313/build/authenticate/index.html</link>
+    <description>Recent content in Authenticate on Hugo Techdoc Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/build/authenticate/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Choose your sign-in solution</title>
+      <link>http://localhost:1313/build/authenticate/choose-your-sign-in-solution/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/build/authenticate/choose-your-sign-in-solution/index.html</guid>
+      <description>Determine which sign-in solution is right for you In Phase 1?: &amp;ldquo;Yes, but for phase 1 keep changes to existing doc as minimal as possible&amp;rdquo;
+In Phase 2?: TBD
+Related to help docs?: No, it&amp;rsquo;s &amp;ldquo;glue&amp;rdquo; documentation not related to the product help docs
+Content Notes New or existing doc?: Existing doc: changes needed
+Target personas: WIC App Developer,Experienced IAM developer
+Changes to be made: - Update title
+Links to original docs: - Okta deployment models - redirect vs.</description>
+    </item>
+    <item>
+      <title>Add the recommended sign-in solution: redirect model</title>
+      <link>http://localhost:1313/build/authenticate/add-the-recommended-sign-in-solution-redirect-model/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/build/authenticate/add-the-recommended-sign-in-solution-redirect-model/index.html</guid>
+      <description>Add the recommended sign-in solution: redirect model In Phase 1?: &amp;ldquo;Yes, content defined as a dynamic index&amp;rdquo;
+In Phase 2?: TBD
+Related to help docs?: No, it&amp;rsquo;s &amp;ldquo;glue&amp;rdquo; documentation not related to the product help docs
+Content Notes New or existing doc?: New doc - new content
+Target personas: WIC App Developer,Experienced IAM developer
+Changes to be made: In phase 1 if &amp;ldquo;Setting up okta org policies&amp;rdquo; can be unified into one place for all (redirect and embedded) guides, we&amp;rsquo;ll have to add a specific set up guides for redirect and each of the embedded models.</description>
+    </item>
+    <item>
+      <title>Add a more customizable sign-in solution</title>
+      <link>http://localhost:1313/build/authenticate/add-a-more-customizable-sign-in-solution/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/build/authenticate/add-a-more-customizable-sign-in-solution/index.html</guid>
+      <description>Add a more customizable sign-in solution In Phase 1?: &amp;ldquo;Yes, content defined as a dynamic index&amp;rdquo;
+In Phase 2?: TBD
+Related to help docs?: No, it&amp;rsquo;s &amp;ldquo;glue&amp;rdquo; documentation not related to the product help docs
+Content Notes New or existing doc?: New doc - new content
+Target personas: WIC App Developer,Experienced IAM developer
+Dimensioned by: Not known
+Content type: Dynamic Index
+This document type is designed to automatically generate and display a list of child documents when a particular node in the navigation tree is selected.</description>
+    </item>
+    <item>
+      <title>Add a sign-in experience directly with Okta API</title>
+      <link>http://localhost:1313/build/authenticate/add-a-sign-in-experience-directly-with-okta-api/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/build/authenticate/add-a-sign-in-experience-directly-with-okta-api/index.html</guid>
+      <description>Add a sign-in experience directly with the Direct Authentication API In Phase 1?: &amp;ldquo;Yes, phase 1 version can be a very simple guide hub.&amp;rdquo;
+In Phase 2?: TBD
+Related to help docs?: No, it&amp;rsquo;s &amp;ldquo;glue&amp;rdquo; documentation not related to the product help docs
+Group Notes Group description: This group contains all the Direct Auth integration guides. This section was created by pulling on the dimensions of the doc into separate guides in the new IA.</description>
+    </item>
+    <item>
+      <title>Eliminate duplicate factor challenges with AMR</title>
+      <link>http://localhost:1313/build/authenticate/eliminate-duplicate-factor-challenges-with-amr/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/build/authenticate/eliminate-duplicate-factor-challenges-with-amr/index.html</guid>
+      <description>Eliminate duplicate factor challenges with AMR In Phase 1?: &amp;ldquo;Yes, but for phase 1 keep changes to existing doc as minimal as possible&amp;rdquo;
+In Phase 2?: TBD
+Related to help docs?: No, targetted towards developers
+Content Notes New or existing doc?: Existing doc: changes needed
+Target personas: WIC App Developer,Experienced IAM developer
+Changes to be made: - Update title
+Update Plant UML flowcharts Links to original docs: - Configure AMR claims mapping: https://developer.</description>
+    </item>
+    <item>
+      <title>Add a sign-in solution to an input constrained device (e.g. Apple TV)</title>
+      <link>http://localhost:1313/build/authenticate/add-a-sign-in-solution-to-an-input-constrained-device-e.g.-apple-tv/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/build/authenticate/add-a-sign-in-solution-to-an-input-constrained-device-e.g.-apple-tv/index.html</guid>
+      <description>Add a sign-in solution to an input constrained device (e.g. Apple TV) In Phase 1?: &amp;ldquo;Yes, but for phase 1 keep changes to existing doc as minimal as possible&amp;rdquo;
+In Phase 2?: TBD
+Related to help docs?: No, targetted towards developers
+Content Notes New or existing doc?: Existing doc: changes needed
+Target personas: WIC App Developer,Experienced IAM developer
+Changes to be made: - This guide contains reference endpoint information that needs to be stripped out of this guide and placed under the API reference if it doesn&amp;rsquo;t exist.</description>
+    </item>
+    <item>
+      <title>Add a browser sign-in solution for mobile devices</title>
+      <link>http://localhost:1313/build/authenticate/add-a-browser-sign-in-solution-for-mobile-devices/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/build/authenticate/add-a-browser-sign-in-solution-for-mobile-devices/index.html</guid>
+      <description>Add a browser sign-in solution for mobile devices In Phase 1?: &amp;ldquo;Yes, but for phase 1 keep changes to existing doc as minimal as possible&amp;rdquo;
+In Phase 2?: TBD
+Related to help docs?: No, targetted towards developers
+Content Notes New or existing doc?: Existing doc: changes needed
+Target personas: WIC App Developer,Experienced IAM developer
+Changes to be made: - Add a intro paragraph specifically stating what scenarios this implementation is used for.</description>
+    </item>
+    <item>
+      <title>Share application key credentials across apps</title>
+      <link>http://localhost:1313/build/authenticate/share-application-key-credentials-across-apps/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/build/authenticate/share-application-key-credentials-across-apps/index.html</guid>
+      <description>Share application key credentials across apps In Phase 1?: &amp;ldquo;Yes, but for phase 1 keep changes to existing doc as minimal as possible&amp;rdquo;
+In Phase 2?: TBD
+Related to help docs?: No, targetted towards developers
+Content Notes New or existing doc?: Existing doc: changes needed
+Target personas: WIC App Developer,Experienced IAM developer
+Changes to be made: - Update title
+Need to understand whether i can use this implementation for redirect, embedded, direct auth, etc.</description>
+    </item>
+    <item>
+      <title>Logout</title>
+      <link>http://localhost:1313/build/authenticate/logout/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/build/authenticate/logout/index.html</guid>
+      <description>Logout In Phase 1?: &amp;ldquo;Yes, content defined as a dynamic index&amp;rdquo;
+In Phase 2?: TBD
+Related to help docs?: No, it&amp;rsquo;s &amp;ldquo;glue&amp;rdquo; documentation not related to the product help docs
+Content Notes New or existing doc?: New doc - new content
+Target personas: WIC App Developer,Experienced IAM developer
+Content type: Dynamic Index
+This document type is designed to automatically generate and display a list of child documents when a particular node in the navigation tree is selected.</description>
+    </item>
+    <item>
+      <title>Add a SAML sign-in solution</title>
+      <link>http://localhost:1313/build/authenticate/add-a-saml-sign-in-solution/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/build/authenticate/add-a-saml-sign-in-solution/index.html</guid>
+      <description>Add a SAML sign-in solution In Phase 1?: &amp;ldquo;Yes, content defined as a dynamic index&amp;rdquo;
+In Phase 2?: TBD
+Related to help docs?: No, it&amp;rsquo;s &amp;ldquo;glue&amp;rdquo; documentation not related to the product help docs
+Content Notes New or existing doc?: New doc - new content
+Target personas: WIC App Developer,Experienced IAM developer
+Content type: Dynamic Index
+This document type is designed to automatically generate and display a list of child documents when a particular node in the navigation tree is selected.</description>
+    </item>
+  </channel>
+</rss>
