@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Get started on Hugo Techdoc Theme</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/get-started/index.html</link>
+    <description>Recent content in Get started on Hugo Techdoc Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/get-started/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Get an Okta account and set up your org</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/get-started/get-an-okta-account-and-set-up-your-org/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/get-started/get-an-okta-account-and-set-up-your-org/index.html</guid>
+      <description>Get an Okta account and set up your org In Phase 1?: &amp;ldquo;Yes, but we need to investigate whether the changes are feasible for phase 1&amp;rdquo;
+In Phase 2?: TBD
+Related to help docs?: No, targetted towards developers
+Content Notes New or existing doc?: Existing doc: changes needed
+Target personas: WIC App Developer,Experienced IAM developer
+Dimensioned by: Language
+Description: - Describes how to set up your Okta org for different scenarios.</description>
+    </item>
+    <item>
+      <title>Test a sign-in with a sample app</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/get-started/test-a-sign-in-with-a-sample-app/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/get-started/test-a-sign-in-with-a-sample-app/index.html</guid>
+      <description>Test a sign-in with a sample app In Phase 1?: &amp;ldquo;Yes, content defined as a dynamic index&amp;rdquo;
+In Phase 2?: TBD
+Related to help docs?: No, it&amp;rsquo;s &amp;ldquo;glue&amp;rdquo; documentation not related to the product help docs
+Group Notes Group description: Organizes all docs that describe how to install and run sample apps. Right now just auth but we can expand this to other types of sample apps in the future.</description>
+    </item>
+    <item>
+      <title>Try a quickstart</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/get-started/try-a-quickstart/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/get-started/try-a-quickstart/index.html</guid>
+      <description>Try a quickstart In Phase 1?: &amp;ldquo;No, I propose to postpone this section for a future phase.&amp;rdquo;
+In Phase 2?: TBD
+Related to help docs?: No, it&amp;rsquo;s &amp;ldquo;glue&amp;rdquo; documentation not related to the product help docs
+Group Notes Group description: The quick start proposal is defined here: https://docs.google.com/document/d/1P8Jt4kvVCC9zAeDsgd18RYXymuNqnHjJLvcy2VtLuis/edit#heading=h.7xq7dm2x4vk6
+PUSH TO PHASE 2 PROPOSAL I&amp;rsquo;m proposing to push the &amp;ldquo;Quickstarts&amp;rdquo; into Phase 2. My reasoning is for the following reasons:
+Quickstarts were heavily discussed when Okta was moving to CIC.</description>
+    </item>
+  </channel>
+</rss>

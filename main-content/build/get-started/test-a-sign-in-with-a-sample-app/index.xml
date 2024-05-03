@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Test a sign-in with a sample app on Hugo Techdoc Theme</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/get-started/test-a-sign-in-with-a-sample-app/index.html</link>
+    <description>Recent content in Test a sign-in with a sample app on Hugo Techdoc Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/get-started/test-a-sign-in-with-a-sample-app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test simplest sign-in integration</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/get-started/test-a-sign-in-with-a-sample-app/test-simplest-sign-in-integration/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/get-started/test-a-sign-in-with-a-sample-app/test-simplest-sign-in-integration/index.html</guid>
+      <description>Test simplest sign-in integration with a redirect sample app In Phase 1?: &amp;ldquo;Yes, but for phase 1 keep changes to existing doc as minimal as possible&amp;rdquo;
+In Phase 2?: TBD
+Related to help docs?: No, targetted towards developers
+Group Notes Group description: This doc discusses how to get the sample apps up and running with the redirect solution. I was debating on putting in the Authentication section but felt it made more sense in a IAM or Okta Product Dev Newbie user flow</description>
+    </item>
+    <item>
+      <title>Test more customizable sign-in integration</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/get-started/test-a-sign-in-with-a-sample-app/test-more-customizable-sign-in-integration/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/get-started/test-a-sign-in-with-a-sample-app/test-more-customizable-sign-in-integration/index.html</guid>
+      <description>Test more customizable sign-in integration with an embedded widget app In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
+In Phase 2?: TBD
+Related to help docs?: No, targetted towards developers
+Content Notes New or existing doc?: Existing doc: no changes identified
+Target personas: WIC App Developer,Experienced IAM developer
+Dimensioned by: Language
+Links to original docs: - Download and set up the SDK, Sign-In Widget, and sample apps: https://developer.</description>
+    </item>
+    <item>
+      <title>Test the most complex sign-in integration</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/get-started/test-a-sign-in-with-a-sample-app/test-the-most-complex-sign-in-integration/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/get-started/test-a-sign-in-with-a-sample-app/test-the-most-complex-sign-in-integration/index.html</guid>
+      <description>Test the most complex sign-in integration with an embedded SDK app In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
+In Phase 2?: TBD
+Related to help docs?: No, targetted towards developers
+Content Notes New or existing doc?: Existing doc: no changes identified
+Target personas: WIC App Developer,Experienced IAM developer
+Dimensioned by: Language
+Links to original docs: - Download and set up the SDK, Sign-In Widget, and sample apps: https://developer.</description>
+    </item>
+  </channel>
+</rss>

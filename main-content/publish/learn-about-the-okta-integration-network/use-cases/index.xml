@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Use cases  on Hugo Techdoc Theme</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/publish/learn-about-the-okta-integration-network/use-cases/index.html</link>
+    <description>Recent content in Use cases  on Hugo Techdoc Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/main-content/publish/learn-about-the-okta-integration-network/use-cases/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SSO app use cases</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/publish/learn-about-the-okta-integration-network/use-cases/sso-app-use-cases/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/publish/learn-about-the-okta-integration-network/use-cases/sso-app-use-cases/index.html</guid>
+      <description>SSO app use cases In Phase 1?: &amp;ldquo;Yes, since it&amp;rsquo;s a new doc pulling from existing content&amp;rdquo;
+In Phase 2?: TBD
+Related to help docs?: No, targetted towards developers
+Content Notes New or existing doc?: New doc with new content but also pulling from existing content
+Target personas: WIC App Developer,Experienced IAM developer
+Dimensioned by: TBD
+Description: See parent node for more details.
+Links to original docs: The use case examples from:</description>
+    </item>
+    <item>
+      <title>Lifecycle managment use cases</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/publish/learn-about-the-okta-integration-network/use-cases/lifecycle-managment-use-cases/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/publish/learn-about-the-okta-integration-network/use-cases/lifecycle-managment-use-cases/index.html</guid>
+      <description>Lifecycle managment use cases In Phase 1?: &amp;ldquo;Yes, since it&amp;rsquo;s a new doc pulling from existing content&amp;rdquo;
+In Phase 2?: TBD
+Related to help docs?: No, targetted towards developers
+Content Notes New or existing doc?: New doc with new content but also pulling from existing content
+Dimensioned by: TBD
+Links to original docs: The use case examples from:
+Overview of lifecycle management in the OIN: https://developer.okta.com/docs/guides/oin-lifecycle-mgmt-overview/ Content type: Explanation
+This content type is focused on more detailed, topic-specific discussions that clarify how certain features, functionalities, or aspects of the product or service operate.</description>
+    </item>
+  </channel>
+</rss>

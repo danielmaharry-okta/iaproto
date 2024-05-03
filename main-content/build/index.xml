@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Build on Hugo Techdoc Theme</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/index.html</link>
+    <description>Recent content in Build on Hugo Techdoc Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Get started</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/get-started/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/get-started/index.html</guid>
+      <description>Get started In Phase 1?: &amp;ldquo;Yes, content defined as a dynamic index&amp;rdquo;
+In Phase 2?: TBD
+Related to help docs?: No, it&amp;rsquo;s &amp;ldquo;glue&amp;rdquo; documentation not related to the product help docs
+Group Notes Group description: Defines journeys through the quickstart pages.
+See https://docs.google.com/document/d/1P8Jt4kvVCC9zAeDsgd18RYXymuNqnHjJLvcy2VtLuis/edit?pli=1#heading=h.7xq7dm2x4vk6 for more details on the quickstarts.
+Content Notes New or existing doc?: New doc - new content
+Target personas: New IAM Developers,Experienced IAM developer
+Content type: Dynamic Index</description>
+    </item>
+    <item>
+      <title>Authenticate</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/authenticate/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/authenticate/index.html</guid>
+      <description>Authenticate In Phase 1?: &amp;ldquo;Yes, phase 1 version can be a very simple guide hub.&amp;rdquo;
+In Phase 2?: TBD
+Related to help docs?: No, it&amp;rsquo;s &amp;ldquo;glue&amp;rdquo; documentation not related to the product help docs
+Group Notes Group description: - Describe authentication options available. - Set up user journeys.
+Currently splitting authentication by functionality. We can either lead the split by functionality or by product. Currently split by functionality. Do we want a quickstart that is quick and short and more in-depth integration guides in the authentication section?</description>
+    </item>
+    <item>
+      <title>Secure</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/secure/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/secure/index.html</guid>
+      <description>Secure In Phase 1?: &amp;ldquo;Yes, phase 1 version can be a very simple guide hub.&amp;rdquo;
+In Phase 2?: TBD
+Related to help docs?: No, it&amp;rsquo;s &amp;ldquo;glue&amp;rdquo; documentation not related to the product help docs
+Content Notes New or existing doc?: New doc - new content
+Target personas: WIC App Developer,Experienced IAM developer
+Content type: Guide Hub
+This type of document serves as a central navigational starting point within a larger documentation system.</description>
+    </item>
+    <item>
+      <title>Manage user sessions</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/manage-user-sessions/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/manage-user-sessions/index.html</guid>
+      <description>Manage user sessions In Phase 1?: &amp;ldquo;Yes, content defined as a dynamic index&amp;rdquo;
+In Phase 2?: TBD
+Related to help docs?: No, targetted towards developers
+Content Notes New or existing doc?: New doc - new content
+Target personas: WIC App Developer,Experienced IAM developer
+Content type: Dynamic Index
+This document type is designed to automatically generate and display a list of child documents when a particular node in the navigation tree is selected.</description>
+    </item>
+    <item>
+      <title>Manage access</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/manage-access/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/manage-access/index.html</guid>
+      <description>Manage access In Phase 1?: &amp;ldquo;Yes, phase 1 version can be a very simple guide hub.&amp;rdquo;
+In Phase 2?: TBD
+Related to help docs?: No, it&amp;rsquo;s &amp;ldquo;glue&amp;rdquo; documentation not related to the product help docs
+Group Notes Group description: Scope includes managing user and application access to resources.
+Content Notes New or existing doc?: New doc - new content
+Target personas: WIC App Developer,Experienced IAM developer
+Content type: Guide Hub</description>
+    </item>
+    <item>
+      <title>Manage user accounts</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/manage-user-accounts/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/manage-user-accounts/index.html</guid>
+      <description>Manage user accounts In Phase 1?: &amp;ldquo;Yes, content defined as a dynamic index&amp;rdquo;
+In Phase 2?: TBD
+Related to help docs?: No, it&amp;rsquo;s &amp;ldquo;glue&amp;rdquo; documentation not related to the product help docs
+Group Notes Group description: Manage user content discusses:
+User CRUD &amp;hellip; Manage user accounts section includes user/identity CRUDS:
+Create Read Update Delete Synchronize
+Content Notes New or existing doc?: New doc - new content
+Target personas: WIC App Developer,Experienced IAM developer</description>
+    </item>
+    <item>
+      <title>Federate identities</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/federate-identities/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/federate-identities/index.html</guid>
+      <description>Federate identities In Phase 1?: &amp;ldquo;Yes, phase 1 version can be a very simple guide hub.&amp;rdquo;
+In Phase 2?: TBD
+Related to help docs?: No, it&amp;rsquo;s &amp;ldquo;glue&amp;rdquo; documentation not related to the product help docs
+Group Notes Group description: Federated identity is defined as: Federated identity is a method of linking a user’s identity across multiple separate identity management systems. Federate content includes:
+Anything regarding syncing users across different systems User authentication using a different system Discuss differences between Outbound Federation and Identity Federation.</description>
+    </item>
+    <item>
+      <title>Customize</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/customize/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/customize/index.html</guid>
+      <description>Customize In Phase 1?: &amp;ldquo;Yes, content defined as a dynamic index&amp;rdquo;
+In Phase 2?: TBD
+Related to help docs?: No, it&amp;rsquo;s &amp;ldquo;glue&amp;rdquo; documentation not related to the product help docs
+Group Notes Group description: &amp;lsquo;- Need to discuss further with Brent or owner of this section to get their opinion
+Saying this, I do believe we can make it more clear which guide targets which solution: (e.g. Redirect, embedded, etc) Content Notes New or existing doc?</description>
+    </item>
+    <item>
+      <title>Automate</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/automate/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/automate/index.html</guid>
+      <description>Automate In Phase 1?: &amp;ldquo;Yes, content defined as a dynamic index&amp;rdquo;
+In Phase 2?: TBD
+Related to help docs?: No, it&amp;rsquo;s &amp;ldquo;glue&amp;rdquo; documentation not related to the product help docs
+Content Notes New or existing doc?: New doc - new content
+Target personas: WIC App Developer,Experienced IAM developer
+Validation: - Internal workshop session: Session 1 - Team 1 chose the Automation Utilities group.
+Content type: Dynamic Index
+This document type is designed to automatically generate and display a list of child documents when a particular node in the navigation tree is selected.</description>
+    </item>
+    <item>
+      <title>Okta Workflows</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/orchestrate/okta-workflows/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/orchestrate/okta-workflows/index.html</guid>
+      <description>Okta Workflows In Phase 1?: &amp;ldquo;No, new content can be created at later phase.&amp;rdquo;
+In Phase 2?: TBD
+Related to help docs?: Maybe. If a help doc already exists, this doc can be a summary redirect to the main help doc page.
+Group Notes Group description: &amp;lsquo;- Summary redirect page to a product help workflow main overview page (if one exists, else we need to create one)
+Allows developers to navigate to workflow content within developer docs even though its help docs content.</description>
+    </item>
+    <item>
+      <title>Deploy </title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/deploy/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/deploy/index.html</guid>
+      <description>Deploy your sign-in solution In Phase 1?: &amp;ldquo;Yes, content defined as a dynamic index&amp;rdquo;
+In Phase 2?: TBD
+Related to help docs?: No, it&amp;rsquo;s &amp;ldquo;glue&amp;rdquo; documentation not related to the product help docs
+Group Notes Group description: This section only talks about deploying an app. When there are so many deployment strategies these days, this section seems woefully inadequate.
+Content Notes New or existing doc?: New doc - new content</description>
+    </item>
+    <item>
+      <title>Migrate users</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/migrate-users/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/migrate-users/index.html</guid>
+      <description>Migrate your users to Okta In Phase 1?: &amp;ldquo;Yes, content defined as a dynamic index&amp;rdquo;
+In Phase 2?: TBD
+Related to help docs?: No, it&amp;rsquo;s &amp;ldquo;glue&amp;rdquo; documentation not related to the product help docs
+Group Notes Group description: Is this section still relevant considering all the new user migration strategies these days.
+Content Notes New or existing doc?: New doc - new content
+Target personas: WIC App Developer,Experienced IAM developer</description>
+    </item>
+    <item>
+      <title>Report and Monitor</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/report-and-monitor/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/report-and-monitor/index.html</guid>
+      <description>Report and Monitor In Phase 1?: &amp;ldquo;Yes, content defined as a dynamic index&amp;rdquo;
+In Phase 2?: TBD
+Related to help docs?: No, it&amp;rsquo;s &amp;ldquo;glue&amp;rdquo; documentation not related to the product help docs
+Group Notes Group description: - Add a link to #426 since it deals with the system log as well in this the &amp;ldquo;Guide hub&amp;rdquo;
+Content Notes New or existing doc?: New doc - new content
+Target personas: WIC App Developer,Experienced IAM developer</description>
+    </item>
+    <item>
+      <title>Upgrade</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/upgrade/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/upgrade/index.html</guid>
+      <description>Upgrade In Phase 1?: &amp;ldquo;Yes, content defined as a dynamic index&amp;rdquo;
+In Phase 2?: TBD
+Related to help docs?: No, it&amp;rsquo;s &amp;ldquo;glue&amp;rdquo; documentation not related to the product help docs
+Content Notes New or existing doc?: New doc - new content
+Target personas: WIC App Developer,Experienced IAM developer
+Changes to be made: Changes have been made to this section but they are minimized for now because:
+Lack of user research on specifically how customers are working with the current upgrade docs The docs are already isolated into one section on the site and seem fairly organized, although, they would need to be analyzed from a user journey perspective in the future An educated guess would be that Upgrade docs are not used as much by customers when compared to other docs such as Authentication (We need to confirm this) Links to original docs: If a dynamic index can be customized, add a link to a doc to this ID: 310</description>
+    </item>
+  </channel>
+</rss>

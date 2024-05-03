@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Understand Oktas Products on Hugo Techdoc Theme</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/learn/understand-oktas-products/index.html</link>
+    <description>Recent content in Understand Oktas Products on Hugo Techdoc Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/main-content/learn/understand-oktas-products/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Overview of the Okta Identity Engine</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/learn/understand-oktas-products/overview-of-the-okta-identity-engine/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/learn/understand-oktas-products/overview-of-the-okta-identity-engine/index.html</guid>
+      <description>Overview of the Okta Identity Engine In Phase 1?: &amp;ldquo;Yes, but for phase 1 keep changes to existing doc as minimal as possible&amp;rdquo;
+In Phase 2?: TBD
+Related to help docs?: No, existing dev doc content targetted toward developers
+Content Notes New or existing doc?: Existing doc: changes needed
+Target personas: New IAM Developers,Developers new to Okta
+Changes to be made: &amp;lsquo;- Article title change
+After reading this doc it is rather outdated.</description>
+    </item>
+    <item>
+      <title>Single sign-on (SSO)</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/learn/understand-oktas-products/single-sign-on-sso/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/learn/understand-oktas-products/single-sign-on-sso/index.html</guid>
+      <description>Single sign-on (SSO) In Phase 1?: &amp;ldquo;No, new content can be created at later phase.&amp;rdquo;
+In Phase 2?: TBD
+Related to help docs?: Maybe. If a help doc already exists, this doc can be a summary redirect to the main help doc page.
+Content Notes New or existing doc?: New doc - new content
+Target personas: New IAM Developers,Developers new to Okta
+Description: Answers &amp;ldquo;What is SSO?&amp;rdquo;, how it differs from a basic sign in, and &amp;ldquo;How Okta supports it&amp;rdquo;</description>
+    </item>
+    <item>
+      <title>The Okta org</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/learn/understand-oktas-products/the-okta-org/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/learn/understand-oktas-products/the-okta-org/index.html</guid>
+      <description>The Okta org In Phase 1?: &amp;ldquo;Yes, but for phase 1 keep changes to existing doc as minimal as possible&amp;rdquo;
+In Phase 2?: TBD
+Related to help docs?: Maybe. If a help doc already exists, this doc can be a summary redirect to the main help doc page.
+Content Notes New or existing doc?: Existing doc: changes needed
+Target personas: New IAM Developers,Developers new to Okta
+Changes to be made: Doc needs a thorough review and possibly updated to include new org features.</description>
+    </item>
+    <item>
+      <title>Find your Okta Domain</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/learn/understand-oktas-products/find-your-okta-domain/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/learn/understand-oktas-products/find-your-okta-domain/index.html</guid>
+      <description>Find your Okta Domain In Phase 1?: &amp;ldquo;Yes, but for phase 1 keep changes to existing doc as minimal as possible&amp;rdquo;
+In Phase 2?: TBD
+Related to help docs?: No, targetted towards developers
+Content Notes New or existing doc?: Existing doc: changes needed
+Target personas: New IAM Developers,Developers new to Okta
+Changes to be made: - Add reasons why you need to know or use this &amp;ldquo;Okta domain&amp;rdquo;
+Links to original docs: - Find your Okta domain: https://developer.</description>
+    </item>
+    <item>
+      <title>Find your application credentials</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/learn/understand-oktas-products/find-your-application-credentials/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/learn/understand-oktas-products/find-your-application-credentials/index.html</guid>
+      <description>Find your application credentials In Phase 1?: &amp;ldquo;Yes, but for phase 1 keep changes to existing doc as minimal as possible&amp;rdquo;
+In Phase 2?: TBD
+Related to help docs?: Maybe. If a help doc already exists, this doc can be a summary redirect to the main help doc page.
+Content Notes New or existing doc?: Existing doc: changes needed
+Target personas: New IAM Developers,Developers new to Okta
+Changes to be made: - Add reasons why you need to know or use the &amp;ldquo;Application credentials&amp;rdquo;</description>
+    </item>
+    <item>
+      <title>Admin console</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/learn/understand-oktas-products/admin-console/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/learn/understand-oktas-products/admin-console/index.html</guid>
+      <description>Admin console In Phase 1?: &amp;ldquo;No, new content can be created at later phase.&amp;rdquo;
+In Phase 2?: TBD
+Related to help docs?: Maybe. If a help doc already exists, this doc can be a summary redirect to the main help doc page.
+Content Notes New or existing doc?: New doc - new content
+Target personas: New IAM Developers,Developers new to Okta
+Description: Summary overview of the Admin console. I did not find this document on help.</description>
+    </item>
+    <item>
+      <title>Global session and authentication policies</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/learn/understand-oktas-products/global-session-and-authentication-policies/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/learn/understand-oktas-products/global-session-and-authentication-policies/index.html</guid>
+      <description>Global session and authentication policies In Phase 1?: &amp;ldquo;Yes, since it&amp;rsquo;s a new doc pulling from existing content&amp;rdquo;
+In Phase 2?: TBD
+Related to help docs?: Maybe. If a help doc already exists, this doc can be a summary redirect to the main help doc page.
+Content Notes New or existing doc?: New doc with new content but also pulling from existing content
+Target personas: New IAM Developers,Developers new to Okta</description>
+    </item>
+    <item>
+      <title>Overview of Okta APIs</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/learn/understand-oktas-products/overview-of-okta-apis/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/learn/understand-oktas-products/overview-of-okta-apis/index.html</guid>
+      <description>Overview of Okta APIs In Phase 1?: &amp;ldquo;No, new content can be created at later phase.&amp;rdquo;
+In Phase 2?: TBD
+Related to help docs?: No, targetted towards developers
+Content Notes New or existing doc?: New doc - new content
+Target personas: New IAM Developers,Developers new to Okta
+Validation: - At the Oktane MatchIt game, 35.5% of respondents could not define Okta APIs.
+In the Oktane GroupIt game, the topics placed under the APIs and SDKs group represented were very broad in scope.</description>
+    </item>
+    <item>
+      <title>Overview of Okta SDKs</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/learn/understand-oktas-products/overview-of-okta-sdks/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/learn/understand-oktas-products/overview-of-okta-sdks/index.html</guid>
+      <description>Overview of Okta SDKs In Phase 1?: &amp;ldquo;Yes, since it&amp;rsquo;s a new doc pulling from existing content&amp;rdquo;
+In Phase 2?: TBD
+Related to help docs?: No, targetted towards developers
+Content Notes New or existing doc?: New doc with new content but also pulling from existing content
+Target personas: New IAM Developers,Developers new to Okta
+Links to original docs: - Org setup: https://developer.okta.com/docs/guides/oie-embedded-common-org-setup/android/main/ - SDK overview section and diagrams
+Auth JS Fundamentals: https://developer.</description>
+    </item>
+    <item>
+      <title>Overview of Sign-in Widget</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/learn/understand-oktas-products/overview-of-sign-in-widget/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/learn/understand-oktas-products/overview-of-sign-in-widget/index.html</guid>
+      <description>Overview of Sign-in Widget In Phase 1?: &amp;ldquo;No, new content can be created at later phase.&amp;rdquo;
+In Phase 2?: TBD
+Related to help docs?: No, targetted towards developers
+Content Notes New or existing doc?: New doc - new content
+Target personas: New IAM Developers,Developers new to Okta
+Validation: - In the Oktane GroupIt game, the Embedded Sign-in Wdiget was placed in a significant amount of groups, which may indicate disagreement over the meaning.</description>
+    </item>
+    <item>
+      <title>Workflows, hooks, and SCIM</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/learn/understand-oktas-products/workflows-hooks-and-scim/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/learn/understand-oktas-products/workflows-hooks-and-scim/index.html</guid>
+      <description>Differences between Workflows, hooks, and SCIM In Phase 1?: &amp;ldquo;No, new content can be created at later phase.&amp;rdquo;
+In Phase 2?: TBD
+Related to help docs?: No, targetted towards developers
+Content Notes New or existing doc?: New doc - new content
+Target personas: New IAM Developers,Developers new to Okta
+Validation: - In the OIN internal workshop, for the question &amp;ldquo;What do developers need to know about the OIN?&amp;rdquo; an answer was &amp;ldquo;How are workflows, hooks, etc all related?</description>
+    </item>
+  </channel>
+</rss>
