@@ -12,7 +12,8 @@
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/upgrade/upgrade-to-the-identity-engine/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/upgrade/upgrade-to-the-identity-engine/index.html</guid>
-      <description>Upgrade to the Identity Engine In Phase 1?: &amp;ldquo;Yes, content defined as a dynamic index&amp;rdquo;
+      <description>Upgrade to the Identity Engine Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;Yes, content defined as a dynamic index&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, it&amp;rsquo;s &amp;ldquo;glue&amp;rdquo; documentation not related to the product help docs
 Content Notes New or existing doc?: New doc - new content
@@ -25,14 +26,14 @@ This document type is designed to automatically generate and display a list of c
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/upgrade/upgrade-saml-apps-to-sha256/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/upgrade/upgrade-saml-apps-to-sha256/index.html</guid>
-      <description>Upgrade SAML apps to SHA256 In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
+      <description>Upgrade SAML apps to SHA256 Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
 Content Notes New or existing doc?: Existing doc: no changes identified
 Target personas: WIC App Developer,Experienced IAM developer
 Links to original docs: - Upgrade SAML apps to SHA256: https://developer.okta.com/docs/guides/updating-saml-cert/main/
-Content type: How-to: developer focused
-Goal-oriented. Focused on developing a solution for a specific use case.</description>
+Content type: How-to: developer focused</description>
     </item>
   </channel>
 </rss>

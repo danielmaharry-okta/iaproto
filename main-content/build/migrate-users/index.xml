@@ -12,37 +12,38 @@
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/migrate-users/prerequisites/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/migrate-users/prerequisites/index.html</guid>
-      <description>Migration prerequisites In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
+      <description>Migration prerequisites Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
 Content Notes New or existing doc?: Existing doc: changes needed
 Target personas: WIC App Developer,Experienced IAM developer
 Changes to be made: Update title
 Links to original docs: - Migrate to Okta — Prerequisites: https://developer.okta.com/docs/guides/migrate-to-okta-prerequisites/main/
-Content type: How-to
-Goal-oriented. Shows how to achieve a specific goal (or solve a specific problem).</description>
+Content type: How-to</description>
     </item>
     <item>
       <title>Bulk migration with credentials</title>
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/migrate-users/bulk-migration-with-credentials/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/migrate-users/bulk-migration-with-credentials/index.html</guid>
-      <description>Bulk migration with credentials In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
+      <description>Bulk migration with credentials Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
 Content Notes New or existing doc?: Existing doc: changes needed
 Target personas: WIC App Developer,Experienced IAM developer
 Changes to be made: Update title
 Links to original docs: - Bulk migration with credentials: https://developer.okta.com/docs/guides/migrate-to-okta-bulk/main/
-Content type: How-to: developer focused
-Goal-oriented. Focused on developing a solution for a specific use case.</description>
+Content type: How-to: developer focused</description>
     </item>
     <item>
       <title>Migrate users with password hooks</title>
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/migrate-users/migrate-users-with-password-hooks/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/migrate-users/migrate-users-with-password-hooks/index.html</guid>
-      <description>Migrate users with password hooks In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
+      <description>Migrate users with password hooks Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
 Content Notes New or existing doc?: Existing doc: changes needed

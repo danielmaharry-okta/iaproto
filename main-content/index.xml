@@ -12,18 +12,19 @@
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/learn/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/learn/index.html</guid>
-      <description>Learn about Okta and Identity Access Management In Phase 1?: &amp;ldquo;Yes, phase 1 version can be a very simple guide hub.&amp;rdquo;
+      <description>Learn about Okta and Identity Access Management Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;Yes, phase 1 version can be a very simple guide hub.&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, it&amp;rsquo;s &amp;ldquo;glue&amp;rdquo; documentation not related to the product help docs
-Group Notes Group description: - The &amp;ldquo;Learn&amp;rdquo; section guides developers new to IAM and/or Okta through the basics of OAuth, IAM, and Okta&amp;rsquo;s products.
-The goal of this section is to empower these developers to be successful in developing applications using Okta&amp;rsquo;s products.</description>
+Group Notes Group description: - The &amp;ldquo;Learn&amp;rdquo; section guides developers new to IAM and/or Okta through the basics of OAuth, IAM, and Okta&amp;rsquo;s products.</description>
     </item>
     <item>
       <title>Plan</title>
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/plan/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/plan/index.html</guid>
-      <description>Plan In Phase 1?: &amp;ldquo;Yes, phase 1 version can be a very simple guide hub.&amp;rdquo;
+      <description>Plan Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;Yes, phase 1 version can be a very simple guide hub.&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, it&amp;rsquo;s &amp;ldquo;glue&amp;rdquo; documentation not related to the product help docs
 Group Notes Group description: The plan group&amp;rsquo;s scope includes:
@@ -34,19 +35,20 @@ Content focused on readers wanting to understand how to plan out their IAM solut
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/index.html</guid>
-      <description>Build In Phase 1?: &amp;ldquo;Yes, phase 1 version can be a very simple guide hub.&amp;rdquo;
+      <description>Build Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;Yes, phase 1 version can be a very simple guide hub.&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, it&amp;rsquo;s &amp;ldquo;glue&amp;rdquo; documentation not related to the product help docs
 Group Notes Group description: This group is oriented toward developers looking for ways to integrate Okta with their applications. The types of docs focus specifically on:
-Specific use cases Best practices The largest topics are:
-LCM OIG Authenntication Automation Content Notes New or existing doc?</description>
+Specific use cases Best practices The largest topics are:</description>
     </item>
     <item>
       <title>Publish</title>
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/publish/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/publish/index.html</guid>
-      <description>Publish In Phase 1?: &amp;ldquo;Yes, but for phase 1 keep changes to existing doc as minimal as possible&amp;rdquo;
+      <description>Publish Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;Yes, but for phase 1 keep changes to existing doc as minimal as possible&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, it&amp;rsquo;s &amp;ldquo;glue&amp;rdquo; documentation not related to the product help docs
 Group Notes Group description: - Reasons for the name publish: - Aligned with the action/task based focus of the site - The ultimate goal of this section is to &amp;ldquo;Publish&amp;rdquo; on the OIN - Some user research evidence</description>
@@ -56,7 +58,8 @@ Group Notes Group description: - Reasons for the name publish: - Aligned with th
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/reference/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/reference/index.html</guid>
-      <description>Reference In Phase 1?: &amp;ldquo;Yes, phase 1 version can be a very simple guide hub.&amp;rdquo;
+      <description>Reference Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;Yes, phase 1 version can be a very simple guide hub.&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, it&amp;rsquo;s &amp;ldquo;glue&amp;rdquo; documentation not related to the product help docs
 Content Notes New or existing doc?: New doc - new content

@@ -12,18 +12,19 @@
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/reference/apis/api-rate-limits/core-rate-limits/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/reference/apis/api-rate-limits/core-rate-limits/index.html</guid>
-      <description>Core Rate Limits In Phase 2?: TBD
+      <description>Core Rate Limits Click here to give feedback about this page
+In Phase 2?: TBD
 Group Notes Group description: This document presents introduces the three categories of core rate limit, and presents the tables of each. It compiles the three separate pages that currently do this
 Content Notes New or existing doc?: New doc with new content but also pulling from existing content
-Target personas: WIC App Developer,Experienced IAM developer
-Links to original docs: - Authn/End-user rate limitshttps://developer.okta.com/docs/reference/rl-global-enduser/</description>
+Target personas: WIC App Developer,Experienced IAM developer</description>
     </item>
     <item>
       <title>Additional Rate Limits</title>
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/reference/apis/api-rate-limits/additional-rate-limits/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/reference/apis/api-rate-limits/additional-rate-limits/index.html</guid>
-      <description>Additional Rate Limits In Phase 2?: TBD
+      <description>Additional Rate Limits Click here to give feedback about this page
+In Phase 2?: TBD
 Group Notes Group description: Needs a little tidy up but essentially the same page as currently exists
 Content Notes New or existing doc?: Existing doc: no changes identified
 Target personas: WIC App Developer,Experienced IAM developer
@@ -36,27 +37,28 @@ A page containing mostly a series of tables or lists for users to look up a fact
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/reference/apis/api-rate-limits/monitor-your-usage-with-the-rate-limit-dashboard-and-widget/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/reference/apis/api-rate-limits/monitor-your-usage-with-the-rate-limit-dashboard-and-widget/index.html</guid>
-      <description>Monitor your usage with the Rate Limit Dashboard and Widget In Phase 2?: TBD
+      <description>Monitor your usage with the Rate Limit Dashboard and Widget Click here to give feedback about this page
+In Phase 2?: TBD
 Group Notes Group description: Combines the dashboard page and widget section in the overview guide. Neds reworking to make it task-focused rather than an overview of the dashboard.	State &amp;ldquo;How to&amp;rdquo; content type. Could be written as conceptual overview instead.
-Content Notes New or existing doc?: Existing doc: changes needed
-Target personas: WIC App Developer,Experienced IAM developer</description>
+Content Notes New or existing doc?: Existing doc: changes needed</description>
     </item>
     <item>
       <title>Best practices for monitoring your API usage</title>
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/reference/apis/api-rate-limits/best-practices-for-monitoring-your-api-usage/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/reference/apis/api-rate-limits/best-practices-for-monitoring-your-api-usage/index.html</guid>
-      <description>Best practices for monitoring your API usage In Phase 2?: TBD
+      <description>Best practices for monitoring your API usage Click here to give feedback about this page
+In Phase 2?: TBD
 Group Notes Group description: Straight copy of best practices doc. Rate limit response headers should already be in &amp;ldquo;Parsing an API response&amp;rdquo;, so need to figure out if repetition is fine or if that doc should be the single source of truth.
-Content Notes New or existing doc?: Existing doc: no changes identified
-Target personas: WIC App Developer,Experienced IAM developer</description>
+Content Notes New or existing doc?: Existing doc: no changes identified</description>
     </item>
     <item>
       <title>Allow (and tune) for periods of excessive API traffic</title>
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/reference/apis/api-rate-limits/allow-and-tune-for-periods-of-excessive-api-traffic/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/reference/apis/api-rate-limits/allow-and-tune-for-periods-of-excessive-api-traffic/index.html</guid>
-      <description>Allow (and tune) for periods of excessive API traffic In Phase 2?: TBD
+      <description>Allow (and tune) for periods of excessive API traffic Click here to give feedback about this page
+In Phase 2?: TBD
 Group Notes Group description: This document combines the section on Burst Rate Limits from the Rate Limits Overview doc and the DynamicScale doc into a Guidance doc for tweaking your rate limits until they are tuned correctly to your current needs.
 Content Notes New or existing doc?: New doc with new content but also pulling from existing content</description>
     </item>
@@ -65,20 +67,20 @@ Content Notes New or existing doc?: New doc with new content but also pulling fr
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/reference/apis/api-rate-limits/pre-may-2018-rate-limits/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/reference/apis/api-rate-limits/pre-may-2018-rate-limits/index.html</guid>
-      <description>Pre-May 2018 Rate Limits In Phase 2?: TBD
+      <description>Pre-May 2018 Rate Limits Click here to give feedback about this page
+In Phase 2?: TBD
 Group Notes Group description: Straight port of existing &amp;ldquo;Previous Rate Limits&amp;rdquo; doc. Needs review. Is this doc necessary still? How many pre-May 2018 orgs are still in use?
 Content Notes New or existing doc?: Existing doc: no changes identified
 Target personas: WIC App Developer,Experienced IAM developer
-Links to original docs: - Previous rate limits: https://developer.okta.com/docs/reference/rl-previous/
-Content type: Reference lookup
-A page containing mostly a series of tables or lists for users to look up a fact or definition, and a short explanatory text giving those tables the correct context</description>
+Links to original docs: - Previous rate limits: https://developer.</description>
     </item>
     <item>
       <title>Rate limit warnings in your System Log</title>
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/reference/apis/api-rate-limits/rate-limit-warnings-in-your-system-log/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/reference/apis/api-rate-limits/rate-limit-warnings-in-your-system-log/index.html</guid>
-      <description>Rate limit warnings in your System Log In Phase 2?: TBD
+      <description>Rate limit warnings in your System Log Click here to give feedback about this page
+In Phase 2?: TBD
 Group Notes Group description: Straight port of &amp;ldquo;System log events for rate limits&amp;rdquo;
 Content Notes New or existing doc?: Existing doc: no changes identified
 Target personas: WIC App Developer,Experienced IAM developer
@@ -91,9 +93,9 @@ A page containing mostly a series of tables or lists for users to look up a fact
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/reference/apis/api-rate-limits/how-are-authentication-requests-measured/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/reference/apis/api-rate-limits/how-are-authentication-requests-measured/index.html</guid>
-      <description>How are authentication requests measured? In Phase 2?: TBD
-Group Notes Group description: Discursive document covering how unauthenticated requests to Okta&amp;rsquo;s OIDC \authorize and other anonymous-possible endpoints are counted and measured against existing rate limits. These are known as &amp;ldquo;Client-based rate limits&amp;rdquo;. Marked as no changes needed, but intro needs some work so it&amp;rsquo;s easier to understand the problem that client-based rate limits are trying to solve.
-Content Notes New or existing doc?</description>
+      <description>How are authentication requests measured? Click here to give feedback about this page
+In Phase 2?: TBD
+Group Notes Group description: Discursive document covering how unauthenticated requests to Okta&amp;rsquo;s OIDC \authorize and other anonymous-possible endpoints are counted and measured against existing rate limits. These are known as &amp;ldquo;Client-based rate limits&amp;rdquo;. Marked as no changes needed, but intro needs some work so it&amp;rsquo;s easier to understand the problem that client-based rate limits are trying to solve.</description>
     </item>
   </channel>
 </rss>

@@ -12,7 +12,8 @@
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sign-in-widget-more-customizable/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sign-in-widget-more-customizable/index.html</guid>
-      <description>Add the embedded sign-in widget (more customizable) In Phase 1?: &amp;ldquo;Yes, content defined as a dynamic index&amp;rdquo;
+      <description>Add the embedded sign-in widget (more customizable) Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;Yes, content defined as a dynamic index&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, it&amp;rsquo;s &amp;ldquo;glue&amp;rdquo; documentation not related to the product help docs
 Content Notes New or existing doc?: New doc - new content
@@ -25,7 +26,8 @@ This document type is designed to automatically generate and display a list of c
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sdk-fully-customizable/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sdk-fully-customizable/index.html</guid>
-      <description>Add the embedded SDK (fully customizable) In Phase 1?: &amp;ldquo;Yes, content defined as a dynamic index&amp;rdquo;
+      <description>Add the embedded SDK (fully customizable) Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;Yes, content defined as a dynamic index&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, it&amp;rsquo;s &amp;ldquo;glue&amp;rdquo; documentation not related to the product help docs
 Content Notes New or existing doc?: New doc - new content
@@ -38,7 +40,8 @@ This document type is designed to automatically generate and display a list of c
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-mobile-sdk-fully-customizable/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-mobile-sdk-fully-customizable/index.html</guid>
-      <description>Add the embedded mobile SDK (fully customizable) In Phase 1?: &amp;ldquo;Yes, content defined as a dynamic index&amp;rdquo;
+      <description>Add the embedded mobile SDK (fully customizable) Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;Yes, content defined as a dynamic index&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, it&amp;rsquo;s &amp;ldquo;glue&amp;rdquo; documentation not related to the product help docs
 Content Notes New or existing doc?: New doc - new content
@@ -51,45 +54,45 @@ This document type is designed to automatically generate and display a list of c
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/authenticate/add-a-more-customizable-sign-in-solution/enable-email-magic-links-during-sign-in/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/authenticate/add-a-more-customizable-sign-in-solution/enable-email-magic-links-during-sign-in/index.html</guid>
-      <description>Enable email magic links during sign-in In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
+      <description>Enable email magic links during sign-in Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
 Content Notes New or existing doc?: Existing doc: no changes identified
 Target personas: WIC App Developer,Experienced IAM developer
 Dimensioned by: Language
 Description: Note: Doc is for embedded solutions
-Links to original docs: - Email Magic Links overview: https://developer.okta.com/docs/guides/email-magic-links-overview/aspnet/main/
-Content type: Integration guide</description>
+Links to original docs: - Email Magic Links overview: https://developer.</description>
     </item>
     <item>
       <title>Enable device rules</title>
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/authenticate/add-a-more-customizable-sign-in-solution/enable-device-rules/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/authenticate/add-a-more-customizable-sign-in-solution/enable-device-rules/index.html</guid>
-      <description>Enable device rules In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
+      <description>Enable device rules Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
 Content Notes New or existing doc?: Existing doc: no changes identified
 Target personas: WIC App Developer,Experienced IAM developer
 Dimensioned by: Language
 Description: Note: Doc is for embedded solutions
-Links to original docs: - Device Context Overview: https://developer.okta.com/docs/guides/device-context/aspnet/main/
-Content type: Integration guide
-Goal-oriented. Similar to a how-to but the focus is more technical and geared towards developers integrating an SDK, API, or another library into their applications.</description>
+Links to original docs: - Device Context Overview: https://developer.</description>
     </item>
     <item>
       <title>Enable email magic link during password recovery</title>
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/authenticate/add-a-more-customizable-sign-in-solution/enable-email-magic-link-during-password-recovery/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/authenticate/add-a-more-customizable-sign-in-solution/enable-email-magic-link-during-password-recovery/index.html</guid>
-      <description>Enable email magic link during password recovery In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
+      <description>Enable email magic link during password recovery Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
 Content Notes New or existing doc?: Existing doc: changes needed
 Target personas: WIC App Developer,Experienced IAM developer
 Dimensioned by: Language
 Description: Note: Doc is for embedded solutions
-Changes to be made: Changed the title to something more meaningful. Input constrained devices include Apple TV etc.</description>
+Changes to be made: Changed the title to something more meaningful.</description>
     </item>
   </channel>
 </rss>

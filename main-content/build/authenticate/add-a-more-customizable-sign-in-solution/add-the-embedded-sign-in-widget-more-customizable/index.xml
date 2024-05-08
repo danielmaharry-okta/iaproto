@@ -12,52 +12,53 @@
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sign-in-widget-more-customizable/load-the-widget/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sign-in-widget-more-customizable/load-the-widget/index.html</guid>
-      <description>Load the Okta Sign-In Widget In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
+      <description>Load the Okta Sign-In Widget Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
 Content Notes New or existing doc?: Existing doc: changes needed
 Target personas: WIC App Developer,Experienced IAM developer
 Dimensioned by: Language
 Changes to be made: Update title
-Links to original docs: - Load the Widget: https://developer.okta.com/docs/guides/oie-embedded-widget-use-case-load/aspnet/main/
-Embedded Okta Sign-In Widget fundamentals: https://developer.okta.com/docs/guides/embedded-siw/main/ - Include content from this doc to make a SPA dimension Content type: Integration guide</description>
+Links to original docs: - Load the Widget: https://developer.</description>
     </item>
     <item>
       <title>Passwordless sign-in with only email</title>
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sign-in-widget-more-customizable/passwordless-sign-in-with-only-email/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sign-in-widget-more-customizable/passwordless-sign-in-with-only-email/index.html</guid>
-      <description>Passwordless sign-in with only email In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
+      <description>Passwordless sign-in with only email Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
 Content Notes New or existing doc?: Existing doc: changes needed
 Target personas: WIC App Developer,Experienced IAM developer
 Dimensioned by: Language
 Changes to be made: Update title
-Links to original docs: - Sign in with email only: https://developer.okta.com/docs/guides/pwd-optional-widget-sign-in-email/aspnet/main/
-Embedded Okta Sign-In Widget fundamentals: https://developer.</description>
+Links to original docs: - Sign in with email only: https://developer.</description>
     </item>
     <item>
       <title>Sign with with username and password</title>
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sign-in-widget-more-customizable/sign-with-with-username-and-password/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sign-in-widget-more-customizable/sign-with-with-username-and-password/index.html</guid>
-      <description>Sign with with username and password In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
+      <description>Sign with with username and password Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
 Content Notes New or existing doc?: Existing doc: changes needed
 Target personas: WIC App Developer,Experienced IAM developer
 Dimensioned by: Language
 Changes to be made: Update title
-Links to original docs: - Basic sign-in flow using the Widget: https://developer.okta.com/docs/guides/oie-embedded-widget-use-case-basic-sign-in/aspnet/main/
-Embedded Okta Sign-In Widget fundamentals: https://developer.</description>
+Links to original docs: - Basic sign-in flow using the Widget: https://developer.</description>
     </item>
     <item>
       <title>Sign in with Facebook</title>
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sign-in-widget-more-customizable/sign-in-with-facebook/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sign-in-widget-more-customizable/sign-in-with-facebook/index.html</guid>
-      <description>Sign in with Facebook In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
+      <description>Sign in with Facebook Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
 Content Notes New or existing doc?: Existing doc: changes needed

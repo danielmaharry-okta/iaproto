@@ -12,7 +12,8 @@
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/automate/implement-a-hook/set-up-your-hooks-project/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/automate/implement-a-hook/set-up-your-hooks-project/index.html</guid>
-      <description>Set up your hooks project In Phase 1?: &amp;ldquo;Yes, but for phase 1 keep changes to existing doc as minimal as possible&amp;rdquo;
+      <description>Set up your hooks project Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;Yes, but for phase 1 keep changes to existing doc as minimal as possible&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
 Content Notes New or existing doc?: New doc with new content but also pulling from existing content
@@ -25,20 +26,21 @@ Changes to be made: A new doc that describes how to set up a project that is the
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/automate/implement-a-hook/subscribe-to-an-event-hook/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/automate/implement-a-hook/subscribe-to-an-event-hook/index.html</guid>
-      <description>Subscribe to an event hook In Phase 1?: &amp;ldquo;Yes, content defined as a dynamic index&amp;rdquo;
+      <description>Subscribe to an event hook Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;Yes, content defined as a dynamic index&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, it&amp;rsquo;s &amp;ldquo;glue&amp;rdquo; documentation not related to the product help docs
 Content Notes New or existing doc?: New doc - new content
 Target personas: WIC App Developer,Experienced IAM developer
-Validation: Group It data from Oktane shows customers place Event hooks in the Automate group the most
-Content type: Dynamic Index</description>
+Validation: Group It data from Oktane shows customers place Event hooks in the Automate group the most</description>
     </item>
     <item>
       <title>Add functionality with an Inline hook</title>
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/automate/implement-a-hook/add-functionality-with-an-inline-hook/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/automate/implement-a-hook/add-functionality-with-an-inline-hook/index.html</guid>
-      <description>Add functionality with an Inline hook In Phase 1?: &amp;ldquo;Yes, content defined as a dynamic index&amp;rdquo;
+      <description>Add functionality with an Inline hook Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;Yes, content defined as a dynamic index&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, it&amp;rsquo;s &amp;ldquo;glue&amp;rdquo; documentation not related to the product help docs
 Content Notes New or existing doc?: New doc - new content
@@ -51,15 +53,15 @@ This document type is designed to automatically generate and display a list of c
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/automate/implement-a-hook/review-best-practices/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/automate/implement-a-hook/review-best-practices/index.html</guid>
-      <description>Review best practices for hook implementations In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
+      <description>Review best practices for hook implementations Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
 Content Notes New or existing doc?: Existing doc: no changes identified
 Target personas: WIC App Developer,Experienced IAM developer
 Changes to be made: Update title
 Links to original docs: https://developer.okta.com/docs/reference/hooks-best-practices/
-Content type: Best practice
-Recommendations and guidelines for optimizing performance, security, and maintainability while using the product or service.</description>
+Content type: Best practice</description>
     </item>
   </channel>
 </rss>

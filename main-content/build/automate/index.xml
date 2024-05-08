@@ -12,21 +12,22 @@
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/automate/okta-terraform-provider/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/automate/okta-terraform-provider/index.html</guid>
-      <description>Okta Terraform Provider In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
+      <description>Okta Terraform Provider Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, it&amp;rsquo;s &amp;ldquo;glue&amp;rdquo; documentation not related to the product help docs
 Group Notes Group description: - Changes: update title
 Content Notes New or existing doc?: Existing doc: changes needed
 Target personas: WIC App Developer,Experienced IAM developer
-Changes to be made: Update title
-Links to original docs: - Automate org management with Terraform: https://developer.</description>
+Changes to be made: Update title</description>
     </item>
     <item>
       <title>Implement a hook</title>
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/automate/implement-a-hook/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/automate/implement-a-hook/index.html</guid>
-      <description>Implement a hook In Phase 1?: &amp;ldquo;Yes, content defined as a dynamic index&amp;rdquo;
+      <description>Implement a hook Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;Yes, content defined as a dynamic index&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, it&amp;rsquo;s &amp;ldquo;glue&amp;rdquo; documentation not related to the product help docs
 Content Notes New or existing doc?: New doc - new content
@@ -39,13 +40,13 @@ This document type is designed to automatically generate and display a list of c
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/automate/manage-your-org-with-the-powershell-cli/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/automate/manage-your-org-with-the-powershell-cli/index.html</guid>
-      <description>Manage your org with the Powershell CLI In Phase 1?: &amp;ldquo;Yes, if this new content is determined to be high priority&amp;rdquo;
+      <description>Manage your org with the Powershell CLI Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;Yes, if this new content is determined to be high priority&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
 Content Notes New or existing doc?: New doc - new content
 Target personas: WIC App Developer,Experienced IAM developer
-Changes to be made: Notes from conversation with Bhavik, Maurice and Dan:
-Doing a youtube about potential use cases. They have identified 525 custs using unofficial powershell cli.</description>
+Changes to be made: Notes from conversation with Bhavik, Maurice and Dan:</description>
     </item>
   </channel>
 </rss>

@@ -12,31 +12,30 @@
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/deploy/deployment-checklists/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/deploy/deployment-checklists/index.html</guid>
-      <description>Deployment checklists In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
+      <description>Deployment checklists Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
 Content Notes New or existing doc?: Existing doc: changes needed
 Target personas: WIC App Developer,Experienced IAM developer
 Changes to be made: Update title
 Links to original docs: - Deployment and pre-launch checklists: https://developer.okta.com/docs/guides/deployment-checklist/main/
-Content type: How-to
-Goal-oriented. Shows how to achieve a specific goal (or solve a specific problem).</description>
+Content type: How-to</description>
     </item>
     <item>
       <title>Deploy your app</title>
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/deploy/deploy-your-app/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/deploy/deploy-your-app/index.html</guid>
-      <description>Deploy your app In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
+      <description>Deploy your app Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
 Content Notes New or existing doc?: Existing doc: changes needed
 Target personas: WIC App Developer,Experienced IAM developer
 Dimensioned by: Language
 Changes to be made: Update title
-Links to original docs: - Deploy to production: https://developer.okta.com/docs/guides/deploy-your-app/java/main/
-Content type: Integration guide
-Goal-oriented. Similar to a how-to but the focus is more technical and geared towards developers integrating an SDK, API, or another library into their applications.</description>
+Links to original docs: - Deploy to production: https://developer.okta.com/docs/guides/deploy-your-app/java/main/</description>
     </item>
   </channel>
 </rss>

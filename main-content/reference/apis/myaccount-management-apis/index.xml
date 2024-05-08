@@ -12,20 +12,22 @@
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/reference/apis/myaccount-management-apis/app-authenticators/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/reference/apis/myaccount-management-apis/app-authenticators/index.html</guid>
-      <description>App Authenticators API In Phase 2?: TBD
+      <description>App Authenticators API Click here to give feedback about this page
+In Phase 2?: TBD
 Group Notes Group description: Straight port from Redocly
 Content Notes New or existing doc?: Existing doc: no changes identified
 Target personas: WIC App Developer,Experienced IAM developer
 Links to original docs: https://developer.okta.com/docs/api/openapi/okta-myaccount/myaccount/tag/AppAuthenticator/
 Content type: API reference
-A comprehensive description of the API, including endpoints, methods, parameters, data types, authentication, and examples of how to use the API. The reference serves as a technical guide for developers to understand the API&amp;rsquo;s functionality.</description>
+A comprehensive description of the API, including endpoints, methods, parameters, data types, authentication, and examples of how to use the API.</description>
     </item>
     <item>
       <title>Authenticators</title>
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/reference/apis/myaccount-management-apis/authenticators/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/reference/apis/myaccount-management-apis/authenticators/index.html</guid>
-      <description>Authenticators API In Phase 2?: TBD
+      <description>Authenticators API Click here to give feedback about this page
+In Phase 2?: TBD
 Group Notes Group description: Straight port from Redocly
 Content Notes New or existing doc?: Existing doc: no changes identified
 Target personas: WIC App Developer,Experienced IAM developer
@@ -38,7 +40,8 @@ A comprehensive description of the API, including endpoints, methods, parameters
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/reference/apis/myaccount-management-apis/email/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/reference/apis/myaccount-management-apis/email/index.html</guid>
-      <description>Email API In Phase 2?: TBD
+      <description>Email API Click here to give feedback about this page
+In Phase 2?: TBD
 Group Notes Group description: Straight port from Redocly
 Content Notes New or existing doc?: Existing doc: no changes identified
 Target personas: WIC App Developer,Experienced IAM developer
@@ -51,20 +54,22 @@ A comprehensive description of the API, including endpoints, methods, parameters
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/reference/apis/myaccount-management-apis/okta-applications/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/reference/apis/myaccount-management-apis/okta-applications/index.html</guid>
-      <description>Okta Applications API In Phase 2?: TBD
+      <description>Okta Applications API Click here to give feedback about this page
+In Phase 2?: TBD
 Group Notes Group description: Straight port from Redocly
 Content Notes New or existing doc?: Existing doc: no changes identified
 Target personas: WIC App Developer,Experienced IAM developer
 Links to original docs: https://developer.okta.com/docs/api/openapi/okta-myaccount/myaccount/tag/OktaApplications/
 Content type: API reference
-A comprehensive description of the API, including endpoints, methods, parameters, data types, authentication, and examples of how to use the API. The reference serves as a technical guide for developers to understand the API&amp;rsquo;s functionality.</description>
+A comprehensive description of the API, including endpoints, methods, parameters, data types, authentication, and examples of how to use the API.</description>
     </item>
     <item>
       <title>Organization</title>
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/reference/apis/myaccount-management-apis/organization/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/reference/apis/myaccount-management-apis/organization/index.html</guid>
-      <description>Organization API In Phase 2?: TBD
+      <description>Organization API Click here to give feedback about this page
+In Phase 2?: TBD
 Group Notes Group description: Straight port from Redocly
 Content Notes New or existing doc?: Existing doc: no changes identified
 Target personas: WIC App Developer,Experienced IAM developer
@@ -77,7 +82,8 @@ A comprehensive description of the API, including endpoints, methods, parameters
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/reference/apis/myaccount-management-apis/password/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/reference/apis/myaccount-management-apis/password/index.html</guid>
-      <description>Password API In Phase 2?: TBD
+      <description>Password API Click here to give feedback about this page
+In Phase 2?: TBD
 Group Notes Group description: Straight port from Redocly
 Content Notes New or existing doc?: Existing doc: no changes identified
 Target personas: WIC App Developer,Experienced IAM developer
@@ -90,7 +96,8 @@ A comprehensive description of the API, including endpoints, methods, parameters
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/reference/apis/myaccount-management-apis/phone/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/reference/apis/myaccount-management-apis/phone/index.html</guid>
-      <description>Phone API In Phase 2?: TBD
+      <description>Phone API Click here to give feedback about this page
+In Phase 2?: TBD
 Group Notes Group description: Straight port from Redocly
 Content Notes New or existing doc?: Existing doc: no changes identified
 Target personas: WIC App Developer,Experienced IAM developer
@@ -103,7 +110,8 @@ A comprehensive description of the API, including endpoints, methods, parameters
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/reference/apis/myaccount-management-apis/profile/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/reference/apis/myaccount-management-apis/profile/index.html</guid>
-      <description>Profile API In Phase 2?: TBD
+      <description>Profile API Click here to give feedback about this page
+In Phase 2?: TBD
 Group Notes Group description: Straight port from Redocly
 Content Notes New or existing doc?: Existing doc: no changes identified
 Target personas: WIC App Developer,Experienced IAM developer
@@ -116,7 +124,8 @@ A comprehensive description of the API, including endpoints, methods, parameters
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/reference/apis/myaccount-management-apis/sessions/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/reference/apis/myaccount-management-apis/sessions/index.html</guid>
-      <description>Sessions API In Phase 2?: TBD
+      <description>Sessions API Click here to give feedback about this page
+In Phase 2?: TBD
 Group Notes Group description: Straight port from Redocly
 Content Notes New or existing doc?: Existing doc: no changes identified
 Target personas: WIC App Developer,Experienced IAM developer

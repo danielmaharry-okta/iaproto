@@ -12,78 +12,75 @@
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sdk-fully-customizable/add-an-authenticator/okta-email/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sdk-fully-customizable/add-an-authenticator/okta-email/index.html</guid>
-      <description>Add the Okta email authenticator In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
+      <description>Add the Okta email authenticator Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
 Content Notes New or existing doc?: Existing doc: changes needed
 Target personas: WIC App Developer,Experienced IAM developer
 Dimensioned by: Language
 Changes to be made: Update title
-Links to original docs: &amp;lsquo;- Okta email (magic link/OTP) integration guide: https://developer.okta.com/docs/guides/authenticators-okta-email/aspnet/main/
-Content type: Integration guide</description>
+Links to original docs: &amp;lsquo;- Okta email (magic link/OTP) integration guide: https://developer.</description>
     </item>
     <item>
       <title>Okta Verify</title>
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sdk-fully-customizable/add-an-authenticator/okta-verify/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sdk-fully-customizable/add-an-authenticator/okta-verify/index.html</guid>
-      <description>Add the Okta Verify authenticator In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
+      <description>Add the Okta Verify authenticator Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
 Content Notes New or existing doc?: Existing doc: changes needed
 Target personas: WIC App Developer,Experienced IAM developer
 Dimensioned by: Language
 Changes to be made: Update title
-Links to original docs: &amp;lsquo;- Okta Verify (Push/OTP) integration guide: https://developer.okta.com/docs/guides/authenticators-okta-verify/aspnet/main/
-Content type: Integration guide</description>
+Links to original docs: &amp;lsquo;- Okta Verify (Push/OTP) integration guide: https://developer.</description>
     </item>
     <item>
       <title>Custom authenticator</title>
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sdk-fully-customizable/add-an-authenticator/custom-authenticator/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sdk-fully-customizable/add-an-authenticator/custom-authenticator/index.html</guid>
-      <description>Add the Custom authenticator In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
+      <description>Add the Custom authenticator Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
 Content Notes New or existing doc?: Existing doc: changes needed
 Target personas: WIC App Developer,Experienced IAM developer
 Dimensioned by: Language
 Changes to be made: Update title
-Links to original docs: - Custom authenticator integration guide: https://developer.okta.com/docs/guides/authenticators-custom-authenticator/android/main/
-Content type: Integration guide
-Goal-oriented. Similar to a how-to but the focus is more technical and geared towards developers integrating an SDK, API, or another library into their applications.</description>
+Links to original docs: - Custom authenticator integration guide: https://developer.</description>
     </item>
     <item>
       <title>Google authenticator</title>
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sdk-fully-customizable/add-an-authenticator/google-authenticator/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sdk-fully-customizable/add-an-authenticator/google-authenticator/index.html</guid>
-      <description>Add the Google authenticator In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
+      <description>Add the Google authenticator Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
 Content Notes New or existing doc?: Existing doc: changes needed
 Target personas: WIC App Developer,Experienced IAM developer
 Dimensioned by: Language
 Changes to be made: Update title
-Links to original docs: - Google Authenticator integration guide: https://developer.okta.com/docs/guides/authenticators-google-authenticator/aspnet/main/
-Content type: Integration guide
-Goal-oriented. Similar to a how-to but the focus is more technical and geared towards developers integrating an SDK, API, or another library into their applications.</description>
+Links to original docs: - Google Authenticator integration guide: https://developer.</description>
     </item>
     <item>
       <title>Web Authentication</title>
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sdk-fully-customizable/add-an-authenticator/web-authentication/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sdk-fully-customizable/add-an-authenticator/web-authentication/index.html</guid>
-      <description>Add Web Authentication In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
+      <description>Add Web Authentication Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
 Content Notes New or existing doc?: Existing doc: changes needed
 Target personas: WIC App Developer,Experienced IAM developer
 Dimensioned by: Language
 Changes to be made: Update title
-Links to original docs: - Web Authentication integration guide: https://developer.okta.com/docs/guides/authenticators-web-authn/aspnet/main/
-Content type: Integration guide
-Goal-oriented. Similar to a how-to but the focus is more technical and geared towards developers integrating an SDK, API, or another library into their applications.</description>
+Links to original docs: - Web Authentication integration guide: https://developer.</description>
     </item>
   </channel>
 </rss>

@@ -12,35 +12,36 @@
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/secure/secure-your-tokens/validate-your-access-tokens/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/secure/secure-your-tokens/validate-your-access-tokens/index.html</guid>
-      <description>Validate your access tokens In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
+      <description>Validate your access tokens Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
 Group Notes Group description: Placed under &amp;ldquo;Secure&amp;rdquo; because it is verifying the Token
 Content Notes New or existing doc?: Existing doc: changes needed
 Target personas: WIC App Developer,Experienced IAM developer
 Dimensioned by: Language
-Changes to be made: - Update title
-Links to original docs: - Validate Access Tokens: https://developer.</description>
+Changes to be made: - Update title</description>
     </item>
     <item>
       <title>Validate your ID tokens</title>
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/secure/secure-your-tokens/validate-your-id-tokens/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/secure/secure-your-tokens/validate-your-id-tokens/index.html</guid>
-      <description>Validate your ID tokens In Phase 1?: &amp;ldquo;Yes, but for phase 1 keep changes to existing doc as minimal as possible&amp;rdquo;
+      <description>Validate your ID tokens Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;Yes, but for phase 1 keep changes to existing doc as minimal as possible&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
 Group Notes Group description: Placed under &amp;ldquo;Secure&amp;rdquo; because it is verifying the Token
 Content Notes New or existing doc?: Existing doc: changes needed
-Target personas: WIC App Developer,Experienced IAM developer
-Changes to be made: - Convert this doc from an &amp;ldquo;explanation&amp;rdquo; to a how-to.</description>
+Target personas: WIC App Developer,Experienced IAM developer</description>
     </item>
     <item>
       <title>Rotate your token signing keys</title>
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/secure/secure-your-tokens/rotate-your-token-signing-keys/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/secure/secure-your-tokens/rotate-your-token-signing-keys/index.html</guid>
-      <description>Rotate your token signing keys In Phase 1?: &amp;ldquo;Yes, but for phase 1 keep changes to existing doc as minimal as possible&amp;rdquo;
+      <description>Rotate your token signing keys Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;Yes, but for phase 1 keep changes to existing doc as minimal as possible&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
 Content Notes New or existing doc?: Existing doc: changes needed

@@ -12,15 +12,15 @@
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/report-and-monitor/monitor-your-okta-org/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/report-and-monitor/monitor-your-okta-org/index.html</guid>
-      <description>Monitor your Okta org In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
+      <description>Monitor your Okta org Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
 Content Notes New or existing doc?: Existing doc: changes needed
 Target personas: WIC App Developer,Experienced IAM developer
 Changes to be made: Update title
 Links to original docs: - Monitor Okta: https://developer.okta.com/docs/concepts/monitor/
-Content type: Explanation
-This content type is focused on more detailed, topic-specific discussions that clarify how certain features, functionalities, or aspects of the product or service operate.</description>
+Content type: Explanation</description>
     </item>
   </channel>
 </rss>

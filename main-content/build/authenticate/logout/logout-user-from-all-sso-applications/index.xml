@@ -12,26 +12,26 @@
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/authenticate/logout/logout-user-from-all-sso-applications/oidc/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/authenticate/logout/logout-user-from-all-sso-applications/oidc/index.html</guid>
-      <description>Logout user from all SSO applications using OIDC In Phase 1?: &amp;ldquo;Yes, but for phase 1 we can keep all flows one guide&amp;rdquo;
+      <description>Logout user from all SSO applications using OIDC Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;Yes, but for phase 1 we can keep all flows one guide&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
 Content Notes New or existing doc?: Existing doc: changes needed
 Target personas: WIC App Developer,Experienced IAM developer
-Changes to be made: - Split out the OIDC/SAML page dimension into separate guides
-Update title Links to original docs: - Configure Single Logout: https://developer.</description>
+Changes to be made: - Split out the OIDC/SAML page dimension into separate guides</description>
     </item>
     <item>
       <title>SAML</title>
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/authenticate/logout/logout-user-from-all-sso-applications/saml/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/authenticate/logout/logout-user-from-all-sso-applications/saml/index.html</guid>
-      <description>Logout user from all SSO applications using SAML In Phase 1?: &amp;ldquo;Yes, but for phase 1 we can keep all flows one guide&amp;rdquo;
+      <description>Logout user from all SSO applications using SAML Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;Yes, but for phase 1 we can keep all flows one guide&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
 Content Notes New or existing doc?: Existing doc: changes needed
 Target personas: WIC App Developer,Experienced IAM developer
-Changes to be made: - Split out the OIDC/SAML page dimension into separate guides
-Update title Links to original docs: - Configure Single Logout: https://developer.</description>
+Changes to be made: - Split out the OIDC/SAML page dimension into separate guides</description>
     </item>
   </channel>
 </rss>

@@ -12,21 +12,22 @@
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/manage-user-accounts/get-user-information-with-an-id-token/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/manage-user-accounts/get-user-information-with-an-id-token/index.html</guid>
-      <description>Get user information with an ID Token In Phase 1?: &amp;ldquo;No, new content can be created at later phase.&amp;rdquo;
+      <description>Get user information with an ID Token Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;No, new content can be created at later phase.&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
 Content Notes New or existing doc?: New doc - new content
 Target personas: WIC App Developer,Experienced IAM developer
 Dimensioned by: Language
-Changes to be made: See the &amp;ldquo;Existing content link) field for more details.
-Links to original docs: Create a doc that describes how to get user info.</description>
+Changes to be made: See the &amp;ldquo;Existing content link) field for more details.</description>
     </item>
     <item>
       <title>User driven account management</title>
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/manage-user-accounts/user-driven-account-management/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/manage-user-accounts/user-driven-account-management/index.html</guid>
-      <description>User driven account management In Phase 1?: &amp;ldquo;Yes, content defined as a dynamic index&amp;rdquo;
+      <description>User driven account management Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;Yes, content defined as a dynamic index&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, it&amp;rsquo;s &amp;ldquo;glue&amp;rdquo; documentation not related to the product help docs
 Content Notes New or existing doc?: New doc - new content
@@ -39,7 +40,8 @@ This document type is designed to automatically generate and display a list of c
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/manage-user-accounts/manage-a-users-life-cycle/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/manage-user-accounts/manage-a-users-life-cycle/index.html</guid>
-      <description>Manage a user&amp;rsquo;s life cycle In Phase 1?: &amp;ldquo;Yes, content defined as a dynamic index&amp;rdquo;
+      <description>Manage a user&amp;rsquo;s life cycle Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;Yes, content defined as a dynamic index&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, it&amp;rsquo;s &amp;ldquo;glue&amp;rdquo; documentation not related to the product help docs
 Content Notes New or existing doc?: New doc - new content
@@ -52,7 +54,8 @@ This document type is designed to automatically generate and display a list of c
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/manage-user-accounts/customize-claims-in-the-id-and-access-tokens/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/manage-user-accounts/customize-claims-in-the-id-and-access-tokens/index.html</guid>
-      <description>Customize claims in the ID and Access tokens In Phase 1?: &amp;ldquo;Yes, content defined as a dynamic index&amp;rdquo;
+      <description>Customize claims in the ID and Access tokens Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;Yes, content defined as a dynamic index&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, it&amp;rsquo;s &amp;ldquo;glue&amp;rdquo; documentation not related to the product help docs
 Content Notes New or existing doc?: New doc - new content

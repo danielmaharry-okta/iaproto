@@ -12,59 +12,60 @@
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/learn/understand-oauth-and-openid-connect/oauth-and-oidc-explained/flows-grant-types/authorization-code-flow/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/learn/understand-oauth-and-openid-connect/oauth-and-oidc-explained/flows-grant-types/authorization-code-flow/index.html</guid>
-      <description>Authorization code flow In Phase 1?: &amp;ldquo;Yes, but for phase 1 we can keep all flows one guide&amp;rdquo;
+      <description>Authorization code flow Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;Yes, but for phase 1 we can keep all flows one guide&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
 Content Notes New or existing doc?: New doc with new content but also pulling from existing content
 Target personas: New IAM Developers,Developers new to Okta
-Links to original docs: Pull from below existing content:
-Implement authorization by grant type (Authorization code dimension): https://developer.</description>
+Links to original docs: Pull from below existing content:</description>
     </item>
     <item>
       <title>Authorization code flow with PKCE</title>
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/learn/understand-oauth-and-openid-connect/oauth-and-oidc-explained/flows-grant-types/authorization-code-flow-with-pkce/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/learn/understand-oauth-and-openid-connect/oauth-and-oidc-explained/flows-grant-types/authorization-code-flow-with-pkce/index.html</guid>
-      <description>Authorization code flow with PKCE In Phase 1?: &amp;ldquo;Yes, but for phase 1 we can keep all flows one guide&amp;rdquo;
+      <description>Authorization code flow with PKCE Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;Yes, but for phase 1 we can keep all flows one guide&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
 Content Notes New or existing doc?: New doc with new content but also pulling from existing content
 Target personas: New IAM Developers,Developers new to Okta
-Links to original docs: Pull from below existing content:
-Implement authorization by grant type (Authorization with PKCE code dimension): https://developer.</description>
+Links to original docs: Pull from below existing content:</description>
     </item>
     <item>
       <title>Client credentials flow</title>
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/learn/understand-oauth-and-openid-connect/oauth-and-oidc-explained/flows-grant-types/client-credentials-flow/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/learn/understand-oauth-and-openid-connect/oauth-and-oidc-explained/flows-grant-types/client-credentials-flow/index.html</guid>
-      <description>Client credentials flow In Phase 1?: &amp;ldquo;Yes, but for phase 1 we can keep all flows one guide&amp;rdquo;
+      <description>Client credentials flow Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;Yes, but for phase 1 we can keep all flows one guide&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
 Content Notes New or existing doc?: New doc with new content but also pulling from existing content
 Target personas: New IAM Developers,Developers new to Okta
-Links to original docs: Pull from below existing content:
-Implement authorization by grant type (Client credential flow dimension):https://developer.</description>
+Links to original docs: Pull from below existing content:</description>
     </item>
     <item>
       <title>CIBA flow</title>
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/learn/understand-oauth-and-openid-connect/oauth-and-oidc-explained/flows-grant-types/ciba-flow/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/learn/understand-oauth-and-openid-connect/oauth-and-oidc-explained/flows-grant-types/ciba-flow/index.html</guid>
-      <description>Client Initiated Backchannel Authentication Flow (CIBA) flow In Phase 1?: &amp;ldquo;Yes, but for phase 1 we can keep all flows one guide&amp;rdquo;
+      <description>Client Initiated Backchannel Authentication Flow (CIBA) flow Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;Yes, but for phase 1 we can keep all flows one guide&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
 Content Notes New or existing doc?: New doc with new content but also pulling from existing content
 Target personas: New IAM Developers,Developers new to Okta
-Links to original docs: Pull from below existing content:
-Transactional verification using CIBA: https://developer.</description>
+Links to original docs: Pull from below existing content:</description>
     </item>
     <item>
       <title>Interaction code flow extension</title>
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/learn/understand-oauth-and-openid-connect/oauth-and-oidc-explained/flows-grant-types/interaction-code-flow-extension/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/learn/understand-oauth-and-openid-connect/oauth-and-oidc-explained/flows-grant-types/interaction-code-flow-extension/index.html</guid>
-      <description>Interaction code grant type extension In Phase 1?: &amp;ldquo;Yes, for phase 1 existing content can be minimally updated.&amp;rdquo;
+      <description>Interaction code grant type extension Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;Yes, for phase 1 existing content can be minimally updated.&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
 Content Notes New or existing doc?: Existing doc: changes needed

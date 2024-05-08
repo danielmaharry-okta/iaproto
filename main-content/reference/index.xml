@@ -12,58 +12,61 @@
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/reference/apis/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/reference/apis/index.html</guid>
-      <description>The Okta APIs In Phase 1?: &amp;ldquo;Yes, phase 1 version can be a very simple guide hub.&amp;rdquo;
+      <description>The Okta APIs Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;Yes, phase 1 version can be a very simple guide hub.&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, it&amp;rsquo;s &amp;ldquo;glue&amp;rdquo; documentation not related to the product help docs
 Content Notes New or existing doc?: New doc - new content
 Target personas: WIC App Developer,Experienced IAM developer
-Validation: - Internal workshop session: Session 1 - Team 2 chose the Okta APIs group.
-Internal workshop session: Session 2 - Team 1 chose the APIs group.</description>
+Validation: - Internal workshop session: Session 1 - Team 2 chose the Okta APIs group.</description>
     </item>
     <item>
       <title>SDKs</title>
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/reference/sdks/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/reference/sdks/index.html</guid>
-      <description>SDKs In Phase 1?: &amp;ldquo;Yes, since it&amp;rsquo;s a new doc pulling from existing content&amp;rdquo;
+      <description>SDKs Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;Yes, since it&amp;rsquo;s a new doc pulling from existing content&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
 Group Notes Group description: Describe and list all supported SDKs provided by Okta. Does not go into specific use cases.
 Candidate for a separate workshop.
-Content Notes New or existing doc?: IA defined in a separate document
-Target personas: WIC App Developer,Experienced IAM developer</description>
+Content Notes New or existing doc?: IA defined in a separate document</description>
     </item>
     <item>
       <title>Inline Hooks</title>
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/reference/inline-hooks/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/reference/inline-hooks/index.html</guid>
-      <description>Okta Inline Hooks In Phase 1?: &amp;ldquo;Yes, for phase 1 this guide hub can be a dynamic index&amp;rdquo;
+      <description>Okta Inline Hooks Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;Yes, for phase 1 this guide hub can be a dynamic index&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
 Content Notes New or existing doc?: Existing doc: changes needed
 Target personas: WIC App Developer,Experienced IAM developer
-Description: This is the overview of the section containing sample JSON content to and from each type of inline hook
-Changes to be made: This document is currently dynamically generated, but it should be a written piece fo content that pulls in all the common introduction text from the reference documents underneath it, so those docs can just be reference material rather than having to be an introduction to hooks and then a specific type of hook first.</description>
+Description: Will be hosted in Redocly. This is the overview of the section containing sample JSON content to and from each type of inline hook.</description>
     </item>
     <item>
       <title>Velocity template language</title>
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/reference/velocity-template-language/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/reference/velocity-template-language/index.html</guid>
-      <description>Velocity template language In Phase 1?: &amp;ldquo;Yes, since it&amp;rsquo;s a new doc pulling from existing content&amp;rdquo;
+      <description>Velocity template language Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;Yes, since it&amp;rsquo;s a new doc pulling from existing content&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
 Content Notes New or existing doc?: New doc - new content
 Target personas: WIC App Developer,Experienced IAM developer
-Description: This is a reference doc describing sample payloads and the JSON objects used in the SAML Assertion Hook. There is some non-reference material at the end of the doc that should be included in the Build section</description>
+Links to original docs: Doc content is pulled from several docs:
+Customize email notifications: https://developer.okta.com/docs/guides/custom-email/main/ Velocity template language (help docs): https://help.</description>
     </item>
     <item>
       <title>Okta expression language</title>
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/reference/okta-expression-language/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/reference/okta-expression-language/index.html</guid>
-      <description>Okta expression language In Phase 1?: &amp;ldquo;Yes, since it&amp;rsquo;s a new doc pulling from existing content&amp;rdquo;
+      <description>Okta expression language Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;Yes, since it&amp;rsquo;s a new doc pulling from existing content&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
 Group Notes Group description: At the moment, there are two documents. The main one covers the &amp;ldquo;legacy&amp;rdquo; Okta expression language and the secondary one covers it in Identity Engine. Suggest that these documents are role-reversed so that the main doc covers all the support for IDX and the secondary doc covers the diffs between it and Classic Engine.</description>
@@ -73,21 +76,22 @@ Group Notes Group description: At the moment, there are two documents. The main 
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/reference/roles-resources-and-permissions/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/reference/roles-resources-and-permissions/index.html</guid>
-      <description>Manage access to Org objects with role assignments In Phase 1?: &amp;ldquo;Yes, since it&amp;rsquo;s a new doc pulling from existing content&amp;rdquo;
+      <description>Manage access to Org objects with role assignments Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;Yes, since it&amp;rsquo;s a new doc pulling from existing content&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
 Content Notes New or existing doc?: Existing doc: changes needed
 Target personas: WIC App Developer,Experienced IAM developer
 Links to original docs: Make this guide into a reference guide:
-Role assignment: https://developer.okta.com/docs/concepts/role-assignment/ Content type: Integration guide
-Goal-oriented. Similar to a how-to but the focus is more technical and geared towards developers integrating an SDK, API, or another library into their applications.</description>
+Role assignment: https://developer.</description>
     </item>
     <item>
       <title>Dictionary</title>
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/reference/dictionary/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/reference/dictionary/index.html</guid>
-      <description>Terminology dictionary In Phase 1?: &amp;ldquo;No, new content can be created at later phase.&amp;rdquo;
+      <description>Terminology dictionary Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;No, new content can be created at later phase.&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
 Content Notes New or existing doc?: New doc - new content

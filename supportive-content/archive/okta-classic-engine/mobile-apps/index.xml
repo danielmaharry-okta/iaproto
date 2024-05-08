@@ -12,43 +12,42 @@
       <link>https://danielmaharry-okta.github.io:1313/iaproto/supportive-content/archive/okta-classic-engine/mobile-apps/build-a-custom-sign-in-ui/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/supportive-content/archive/okta-classic-engine/mobile-apps/build-a-custom-sign-in-ui/index.html</guid>
-      <description>Build a custom sign-in UI in your mobile app In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
+      <description>Build a custom sign-in UI in your mobile app Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
 Content Notes New or existing doc?: Existing doc: no changes identified
 Target personas: WIC App Developer,Experienced IAM developer
 Dimensioned by: Language
-Links to original docs: - Build a custom sign-in UI in your mobile app: https://developer.okta.com/docs/guides/build-custom-ui-mobile/android/main/
-Content type: Integration guide</description>
+Links to original docs: - Build a custom sign-in UI in your mobile app: https://developer.</description>
     </item>
     <item>
       <title>Unlock with biometrics</title>
       <link>https://danielmaharry-okta.github.io:1313/iaproto/supportive-content/archive/okta-classic-engine/mobile-apps/unlock-with-biometrics/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/supportive-content/archive/okta-classic-engine/mobile-apps/unlock-with-biometrics/index.html</guid>
-      <description>Unlock a mobile app with biometrics In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
+      <description>Unlock a mobile app with biometrics Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
 Content Notes New or existing doc?: Existing doc: no changes identified
 Target personas: WIC App Developer,Experienced IAM developer
 Dimensioned by: Language
-Links to original docs: - Unlock a mobile app with biometrics: https://developer.okta.com/docs/guides/unlock-mobile-app-with-biometrics/android/main/
-Content type: Integration guide
-Goal-oriented. Similar to a how-to but the focus is more technical and geared towards developers integrating an SDK, API, or another library into their applications.</description>
+Links to original docs: - Unlock a mobile app with biometrics: https://developer.</description>
     </item>
     <item>
       <title>Share a sign-in session</title>
       <link>https://danielmaharry-okta.github.io:1313/iaproto/supportive-content/archive/okta-classic-engine/mobile-apps/share-a-sign-in-session/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/supportive-content/archive/okta-classic-engine/mobile-apps/share-a-sign-in-session/index.html</guid>
-      <description>Share a sign-in session with native mobile apps In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
+      <description>Share a sign-in session with native mobile apps Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
 Content Notes New or existing doc?: Existing doc: no changes identified
 Target personas: WIC App Developer,Experienced IAM developer
 Dimensioned by: Language
-Links to original docs: - Share a sign-in session with native mobile apps: https://developer.okta.com/docs/guides/shared-sso-android-ios/android/main/
-Content type: Integration guide</description>
+Links to original docs: - Share a sign-in session with native mobile apps: https://developer.</description>
     </item>
   </channel>
 </rss>

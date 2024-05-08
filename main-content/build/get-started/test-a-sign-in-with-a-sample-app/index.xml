@@ -12,7 +12,8 @@
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/get-started/test-a-sign-in-with-a-sample-app/test-simplest-sign-in-integration/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/get-started/test-a-sign-in-with-a-sample-app/test-simplest-sign-in-integration/index.html</guid>
-      <description>Test simplest sign-in integration with a redirect sample app In Phase 1?: &amp;ldquo;Yes, but for phase 1 keep changes to existing doc as minimal as possible&amp;rdquo;
+      <description>Test simplest sign-in integration with a redirect sample app Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;Yes, but for phase 1 keep changes to existing doc as minimal as possible&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
 Group Notes Group description: This doc discusses how to get the sample apps up and running with the redirect solution. I was debating on putting in the Authentication section but felt it made more sense in a IAM or Okta Product Dev Newbie user flow</description>
@@ -22,7 +23,8 @@ Group Notes Group description: This doc discusses how to get the sample apps up 
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/get-started/test-a-sign-in-with-a-sample-app/test-more-customizable-sign-in-integration/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/get-started/test-a-sign-in-with-a-sample-app/test-more-customizable-sign-in-integration/index.html</guid>
-      <description>Test more customizable sign-in integration with an embedded widget app In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
+      <description>Test more customizable sign-in integration with an embedded widget app Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
 Content Notes New or existing doc?: Existing doc: no changes identified
@@ -35,7 +37,8 @@ Links to original docs: - Download and set up the SDK, Sign-In Widget, and sampl
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/get-started/test-a-sign-in-with-a-sample-app/test-the-most-complex-sign-in-integration/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/get-started/test-a-sign-in-with-a-sample-app/test-the-most-complex-sign-in-integration/index.html</guid>
-      <description>Test the most complex sign-in integration with an embedded SDK app In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
+      <description>Test the most complex sign-in integration with an embedded SDK app Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
 Content Notes New or existing doc?: Existing doc: no changes identified

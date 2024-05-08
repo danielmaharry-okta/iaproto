@@ -12,34 +12,35 @@
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/manage-access/access-okta-apis-using-oauth/access-okta-apis-with-users-credentials/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/manage-access/access-okta-apis-using-oauth/access-okta-apis-with-users-credentials/index.html</guid>
-      <description>Access Okta APIs with user&amp;rsquo;s credentials In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
+      <description>Access Okta APIs with user&amp;rsquo;s credentials Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
 Content Notes New or existing doc?: Existing doc: changes needed
 Target personas: WIC App Developer,Experienced IAM developer
 Changes to be made: Update title
-Links to original docs: - Implement OAuth for Okta: https://developer.okta.com/docs/guides/implement-oauth-for-okta/main/
-Content type: How-to: developer focused
-Goal-oriented. Focused on developing a solution for a specific use case.</description>
+Links to original docs: - Implement OAuth for Okta: https://developer.</description>
     </item>
     <item>
       <title>Access Okta APIs with machine credentials</title>
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/manage-access/access-okta-apis-using-oauth/access-okta-apis-with-machine-credentials/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/manage-access/access-okta-apis-using-oauth/access-okta-apis-with-machine-credentials/index.html</guid>
-      <description>Access Okta APIs with machine credentials In Phase 1?: &amp;ldquo;Yes, since it&amp;rsquo;s a new doc pulling from existing content&amp;rdquo;
+      <description>Access Okta APIs with machine credentials Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;Yes, since it&amp;rsquo;s a new doc pulling from existing content&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
 Content Notes New or existing doc?: New doc with new content but also pulling from existing content
 Target personas: WIC App Developer,Experienced IAM developer
-Changes to be made: Content is derived from two guides. Merge content from both to create this doc.</description>
+Changes to be made: Content is derived from two guides.</description>
     </item>
     <item>
       <title>Bind access tokens to a particular client</title>
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/manage-access/access-okta-apis-using-oauth/bind-access-tokens-to-a-particular-client/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/manage-access/access-okta-apis-using-oauth/bind-access-tokens-to-a-particular-client/index.html</guid>
-      <description>Bind access tokens to a particular client In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
+      <description>Bind access tokens to a particular client Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
 Group Notes Group description: Is this topic only specific to Okta API calls?

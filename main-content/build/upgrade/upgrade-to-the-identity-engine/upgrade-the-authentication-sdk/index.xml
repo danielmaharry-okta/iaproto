@@ -12,7 +12,8 @@
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/upgrade/upgrade-to-the-identity-engine/upgrade-the-authentication-sdk/add-the-identity-engine-sdk/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/upgrade/upgrade-to-the-identity-engine/upgrade-the-authentication-sdk/add-the-identity-engine-sdk/index.html</guid>
-      <description>Add the Identity Engine SDK to your app In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
+      <description>Add the Identity Engine SDK to your app Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
 Content Notes New or existing doc?: Existing doc: changes needed
@@ -26,7 +27,8 @@ Links to original docs: - Add the Identity Engine SDK to your app: https://devel
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/upgrade/upgrade-to-the-identity-engine/upgrade-the-authentication-sdk/upgrade-your-application/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/upgrade/upgrade-to-the-identity-engine/upgrade-the-authentication-sdk/upgrade-your-application/index.html</guid>
-      <description>Upgrade your application to the new SDK In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
+      <description>Upgrade your application to the new SDK Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
 Content Notes New or existing doc?: Existing doc: changes needed
@@ -40,14 +42,14 @@ Links to original docs: - Upgrade your application to the Identity Engine SDK: h
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/upgrade/upgrade-to-the-identity-engine/upgrade-the-authentication-sdk/learn-about-policy-changes/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/upgrade/upgrade-to-the-identity-engine/upgrade-the-authentication-sdk/learn-about-policy-changes/index.html</guid>
-      <description>Learn about authenticator enrollment policy API changes In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
+      <description>Learn about authenticator enrollment policy API changes Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
 Content Notes New or existing doc?: Existing doc: changes needed
 Target personas: WIC App Developer,Experienced IAM developer
 Changes to be made: Update title
-Links to original docs: - Understand authenticator enrollment policy API changes after the upgrade: https://developer.okta.com/docs/guides/oie-upgrade-mfa-enroll-policy/main/
-Content type: How-to: developer focused</description>
+Links to original docs: - Understand authenticator enrollment policy API changes after the upgrade: https://developer.</description>
     </item>
   </channel>
 </rss>

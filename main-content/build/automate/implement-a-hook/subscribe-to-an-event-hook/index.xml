@@ -12,7 +12,8 @@
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/automate/implement-a-hook/subscribe-to-an-event-hook/event-hooks-overview/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/automate/implement-a-hook/subscribe-to-an-event-hook/event-hooks-overview/index.html</guid>
-      <description>Event hooks overview In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
+      <description>Event hooks overview Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
 Content Notes New or existing doc?: Existing doc: changes needed
@@ -27,7 +28,8 @@ This content type is focused on more detailed, topic-specific discussions that c
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/automate/implement-a-hook/subscribe-to-an-event-hook/set-up-your-event-hooks-project/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/automate/implement-a-hook/subscribe-to-an-event-hook/set-up-your-event-hooks-project/index.html</guid>
-      <description>Set up your event hooks project In Phase 1?: &amp;ldquo;No, new content can be created at later phase.&amp;rdquo;
+      <description>Set up your event hooks project Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;No, new content can be created at later phase.&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
 Content Notes New or existing doc?: New doc with new content but also pulling from existing content
@@ -40,60 +42,59 @@ Changes to be made: - Reference the common &amp;ldquo;Set up your hooks project&
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/automate/implement-a-hook/subscribe-to-an-event-hook/use-glitch.com-to-subscribe-to-an-event-hook/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/automate/implement-a-hook/subscribe-to-an-event-hook/use-glitch.com-to-subscribe-to-an-event-hook/index.html</guid>
-      <description>Use glitch.com to subscribe to an event hook In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
+      <description>Use glitch.com to subscribe to an event hook Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
 Content Notes New or existing doc?: Existing doc: changes needed
 Target personas: WIC App Developer,Experienced IAM developer
 Dimensioned by: Language
 Changes to be made: Update title
-Links to original docs: - Event hook implementation: https://developer.okta.com/docs/guides/event-hook-implementation/nodejs/main/
-Content type: Integration guide</description>
+Links to original docs: - Event hook implementation: https://developer.</description>
     </item>
     <item>
       <title>Use ngrok to subscribe to an event hook</title>
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/automate/implement-a-hook/subscribe-to-an-event-hook/use-ngrok-to-subscribe-to-an-event-hook/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/automate/implement-a-hook/subscribe-to-an-event-hook/use-ngrok-to-subscribe-to-an-event-hook/index.html</guid>
-      <description>Use ngrok to subscribe to an event hook In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
+      <description>Use ngrok to subscribe to an event hook Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
 Content Notes New or existing doc?: Existing doc: changes needed
 Target personas: WIC App Developer,Experienced IAM developer
 Dimensioned by: Language
 Changes to be made: Update title
-Links to original docs: - Event hooks with ngrok: https://developer.okta.com/docs/guides/event-hook-ngrok/nodejs/main/
-Content type: Integration guide</description>
+Links to original docs: - Event hooks with ngrok: https://developer.</description>
     </item>
     <item>
       <title>Use hookdeck to subscribe to an event hook</title>
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/automate/implement-a-hook/subscribe-to-an-event-hook/use-hookdeck-to-subscribe-to-an-event-hook/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/automate/implement-a-hook/subscribe-to-an-event-hook/use-hookdeck-to-subscribe-to-an-event-hook/index.html</guid>
-      <description>Use hookdeck to subscribe to an event hook In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
+      <description>Use hookdeck to subscribe to an event hook Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
 Content Notes New or existing doc?: Existing doc: changes needed
 Target personas: WIC App Developer,Experienced IAM developer
 Dimensioned by: Language
 Changes to be made: Update title
-Links to original docs: - Event hooks with Hookdeck: https://developer.okta.com/docs/guides/event-hook-hookdeck/nodejs/main/
-Content type: Integration guide</description>
+Links to original docs: - Event hooks with Hookdeck: https://developer.</description>
     </item>
     <item>
       <title>Reduce the amount of hook calls with filters</title>
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/automate/implement-a-hook/subscribe-to-an-event-hook/reduce-the-amount-of-hook-calls-with-filters/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/automate/implement-a-hook/subscribe-to-an-event-hook/reduce-the-amount-of-hook-calls-with-filters/index.html</guid>
-      <description>Reduce the amount of hook calls with filters In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
+      <description>Reduce the amount of hook calls with filters Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
 Content Notes New or existing doc?: Existing doc: changes needed
 Target personas: WIC App Developer,Experienced IAM developer
 Changes to be made: Update title
-Links to original docs: - Event hook filtering: https://developer.okta.com/docs/guides/event-hook-filtering/main/
-Content type: How-to: developer focused
-Goal-oriented. Focused on developing a solution for a specific use case.</description>
+Links to original docs: - Event hook filtering: https://developer.</description>
     </item>
   </channel>
 </rss>

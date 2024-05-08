@@ -12,13 +12,14 @@
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/authenticate/add-a-saml-sign-in-solution/add-a-sign-in-solution-using-java-and-spring-security/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/authenticate/add-a-saml-sign-in-solution/add-a-sign-in-solution-using-java-and-spring-security/index.html</guid>
-      <description>Add a sign-in solution using Java and Spring Security In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
+      <description>Add a sign-in solution using Java and Spring Security Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
 Content Notes New or existing doc?: Existing doc: changes needed
 Target personas: WIC App Developer,Experienced IAM developer
 Changes to be made: - Update title
-Links to original docs: - Spring Security SAML: https://developer.okta.com/code/java/spring_security_saml/ CC @Dan Maharry- this doc was taken from the &amp;ldquo;SDK&amp;rdquo; section</description>
+Links to original docs: - Spring Security SAML: https://developer.</description>
     </item>
   </channel>
 </rss>

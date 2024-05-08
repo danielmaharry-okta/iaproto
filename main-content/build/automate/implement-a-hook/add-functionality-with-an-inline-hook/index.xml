@@ -12,7 +12,8 @@
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/automate/implement-a-hook/add-functionality-with-an-inline-hook/inline-hooks-overview/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/automate/implement-a-hook/add-functionality-with-an-inline-hook/inline-hooks-overview/index.html</guid>
-      <description>Inline hooks overview In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
+      <description>Inline hooks overview Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
 Content Notes New or existing doc?: Existing doc: changes needed
@@ -27,88 +28,88 @@ This content type is focused on more detailed, topic-specific discussions that c
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/automate/implement-a-hook/add-functionality-with-an-inline-hook/set-up-your-inline-hooks-project/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/automate/implement-a-hook/add-functionality-with-an-inline-hook/set-up-your-inline-hooks-project/index.html</guid>
-      <description>Set up your inline hooks project In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
+      <description>Set up your inline hooks project Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
 Content Notes New or existing doc?: New doc with new content but also pulling from existing content
 Target personas: WIC App Developer,Experienced IAM developer
 Dimensioned by: Language
-Changes to be made: See existing content field for more details.
-Links to original docs: This doc pulls only content related to inline hooks from this doc.</description>
+Changes to be made: See existing content field for more details.</description>
     </item>
     <item>
       <title>Validate a users credentials</title>
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/automate/implement-a-hook/add-functionality-with-an-inline-hook/validate-a-users-credentials/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/automate/implement-a-hook/add-functionality-with-an-inline-hook/validate-a-users-credentials/index.html</guid>
-      <description>Validate a user&amp;rsquo;s credentials In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
+      <description>Validate a user&amp;rsquo;s credentials Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
 Content Notes New or existing doc?: Existing doc: changes needed
 Target personas: WIC App Developer,Experienced IAM developer
 Dimensioned by: Language
 Changes to be made: Update title
-Links to original docs: - Password import inline hook: https://developer.okta.com/docs/guides/password-import-inline-hook/nodejs/main/
-Validation: Based on GroupIt Oktane, data Inline hooks was a split betwen automate and customize with Automate edging out.</description>
+Links to original docs: - Password import inline hook: https://developer.</description>
     </item>
     <item>
       <title>Deny or allow a user registration</title>
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/automate/implement-a-hook/add-functionality-with-an-inline-hook/deny-or-allow-a-user-registration/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/automate/implement-a-hook/add-functionality-with-an-inline-hook/deny-or-allow-a-user-registration/index.html</guid>
-      <description>Deny or allow a user registration In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
+      <description>Deny or allow a user registration Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
 Content Notes New or existing doc?: Existing doc: changes needed
 Target personas: WIC App Developer,Experienced IAM developer
 Dimensioned by: Language
 Changes to be made: Update title
-Links to original docs: - Registration inline hook: https://developer.okta.com/docs/guides/registration-inline-hook/nodejs/main/
-Content type: How-to: developer focused</description>
+Links to original docs: - Registration inline hook: https://developer.</description>
     </item>
     <item>
       <title>Customize a SAML insertion during the sign-in flow</title>
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/automate/implement-a-hook/add-functionality-with-an-inline-hook/customize-a-saml-insertion-during-the-sign-in-flow/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/automate/implement-a-hook/add-functionality-with-an-inline-hook/customize-a-saml-insertion-during-the-sign-in-flow/index.html</guid>
-      <description>Customize a SAML insertion during the sign-in flow In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
+      <description>Customize a SAML insertion during the sign-in flow Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
 Content Notes New or existing doc?: Existing doc: changes needed
 Target personas: WIC App Developer,Experienced IAM developer
 Changes to be made: Update title
-Links to original docs: - SAML assertion inline hook: https://developer.okta.com/docs/guides/saml-inline-hook/main/
-Content type: How-to: developer focused</description>
+Links to original docs: - SAML assertion inline hook: https://developer.</description>
     </item>
     <item>
       <title>User another phone provider for SMS verification</title>
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/automate/implement-a-hook/add-functionality-with-an-inline-hook/user-another-phone-provider-for-sms-verification/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/automate/implement-a-hook/add-functionality-with-an-inline-hook/user-another-phone-provider-for-sms-verification/index.html</guid>
-      <description>User another phone provider for SMS verification In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
+      <description>User another phone provider for SMS verification Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
 Content Notes New or existing doc?: Existing doc: changes needed
 Target personas: WIC App Developer,Experienced IAM developer
 Dimensioned by: Language
 Changes to be made: Update title
-Links to original docs: - Telephony inline hook with Twilio: https://developer.okta.com/docs/guides/telephony-inline-hook/nodejs/main/
-Content type: How-to: developer focused</description>
+Links to original docs: - Telephony inline hook with Twilio: https://developer.</description>
     </item>
     <item>
       <title>Add a custom claim in the OAuth / OIDC flow</title>
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/automate/implement-a-hook/add-functionality-with-an-inline-hook/add-a-custom-claim-in-the-oauth--oidc-flow/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/build/automate/implement-a-hook/add-functionality-with-an-inline-hook/add-a-custom-claim-in-the-oauth--oidc-flow/index.html</guid>
-      <description>Add a custom claim in the OAuth / OIDC flow In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
+      <description>Add a custom claim in the OAuth / OIDC flow Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;Yes, it&amp;rsquo;s existing content requiring little to no change&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
 Content Notes New or existing doc?: Existing doc: changes needed
 Target personas: WIC App Developer,Experienced IAM developer
 Dimensioned by: Language
 Changes to be made: Update title
-Links to original docs: - Token inline hook: https://developer.okta.com/docs/guides/token-inline-hook/nodejs/main/
-Content type: How-to: developer focused</description>
+Links to original docs: - Token inline hook: https://developer.</description>
     </item>
   </channel>
 </rss>

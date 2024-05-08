@@ -12,19 +12,20 @@
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/learn/workforce-identity-cloud-wic-explained/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/learn/workforce-identity-cloud-wic-explained/index.html</guid>
-      <description>Workforce Identity Cloud (WIC) Explained In Phase 1?: &amp;ldquo;No, new content can be created at later phase.&amp;rdquo;
+      <description>Workforce Identity Cloud (WIC) Explained Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;No, new content can be created at later phase.&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: Maybe. If a help doc already exists, this doc can be a summary redirect to the main help doc page.
 Content Notes New or existing doc?: New doc - new content
-Target personas: New IAM Developers,Developers new to Okta
-Description: Explains WIC and compares it to the CIC domain.</description>
+Target personas: New IAM Developers,Developers new to Okta</description>
     </item>
     <item>
       <title>IAM fundamentals</title>
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/learn/iam-fundamentals/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/learn/iam-fundamentals/index.html</guid>
-      <description>Identity access management fundamentals In Phase 1?: &amp;ldquo;No, descoped new content for next phase.&amp;rdquo;
+      <description>Identity access management fundamentals Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;No, descoped new content for next phase.&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: Maybe. If a help doc already exists, this doc can be a summary redirect to the main help doc page.
 Content Notes New or existing doc?: New doc - new content
@@ -36,56 +37,57 @@ Description: Explains at a high level what is IAM.</description>
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/learn/mfa-explained/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/learn/mfa-explained/index.html</guid>
-      <description>MFA explained In Phase 1?: &amp;ldquo;No, new content can be created at later phase.&amp;rdquo;
+      <description>MFA explained Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;No, new content can be created at later phase.&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: Maybe. If a help doc already exists, this doc can be a summary redirect to the main help doc page.
 Content Notes New or existing doc?: New doc - new content
 Target personas: New IAM Developers,Developers new to Okta
-Description: Explain the very basic concept of MFA. Also, explain the difference between a Factor and an Authenticator.</description>
+Description: Explain the very basic concept of MFA.</description>
     </item>
     <item>
       <title>Understand OAuth and OpenID Connect</title>
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/learn/understand-oauth-and-openid-connect/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/learn/understand-oauth-and-openid-connect/index.html</guid>
-      <description>Understand OAuth and OpenID Connect In Phase 1?: &amp;ldquo;Yes, content defined as a dynamic index&amp;rdquo;
+      <description>Understand OAuth and OpenID Connect Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;Yes, content defined as a dynamic index&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, it&amp;rsquo;s &amp;ldquo;glue&amp;rdquo; documentation not related to the product help docs
 Group Notes Group description: This section specifically isolates the OAuth and OpenId Connect products for Okta specific features and products.
-Interaction code grant type is an &amp;ldquo;extension&amp;rdquo; of Oauth and OIDC.
-Content Notes New or existing doc?</description>
+Interaction code grant type is an &amp;ldquo;extension&amp;rdquo; of Oauth and OIDC.</description>
     </item>
     <item>
       <title>Understand SAML</title>
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/learn/understand-saml/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/learn/understand-saml/index.html</guid>
-      <description>Understand SAML In Phase 1?: &amp;ldquo;Yes, content defined as a dynamic index&amp;rdquo;
+      <description>Understand SAML Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;Yes, content defined as a dynamic index&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, it&amp;rsquo;s &amp;ldquo;glue&amp;rdquo; documentation not related to the product help docs
 Group Notes Group description: This section organizes existing and new SAML content.
 Content Notes New or existing doc?: New doc - new content
-Target personas: New IAM Developers,Developers new to Okta
-Content type: Dynamic Index
-This document type is designed to automatically generate and display a list of child documents when a particular node in the navigation tree is selected.</description>
+Target personas: New IAM Developers,Developers new to Okta</description>
     </item>
     <item>
       <title>Understand Oktas Products</title>
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/learn/understand-oktas-products/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/learn/understand-oktas-products/index.html</guid>
-      <description>Understand Okta&amp;rsquo;s Products In Phase 1?: &amp;ldquo;Yes, for phase 1 this guide hub can be a dynamic index&amp;rdquo;
+      <description>Understand Okta&amp;rsquo;s Products Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;Yes, for phase 1 this guide hub can be a dynamic index&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, it&amp;rsquo;s &amp;ldquo;glue&amp;rdquo; documentation not related to the product help docs
-Group Notes Group description: This section gives new-to-IAM or new-to-Okta developers a high-level overview of Okta&amp;rsquo;s products to help them be successful in building solutions with Okta.
-Content Notes New or existing doc?: New doc - new content</description>
+Group Notes Group description: This section gives new-to-IAM or new-to-Okta developers a high-level overview of Okta&amp;rsquo;s products to help them be successful in building solutions with Okta.</description>
     </item>
     <item>
       <title>Tools for developers</title>
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/learn/tools-for-developers/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/learn/tools-for-developers/index.html</guid>
-      <description>Tools for developers In Phase 1?: &amp;ldquo;Yes, content defined as a dynamic index&amp;rdquo;
+      <description>Tools for developers Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;Yes, content defined as a dynamic index&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, it&amp;rsquo;s &amp;ldquo;glue&amp;rdquo; documentation not related to the product help docs
 Content Notes New or existing doc?: New doc - new content

@@ -12,7 +12,8 @@
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/publish/learn-about-the-okta-integration-network/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/publish/learn-about-the-okta-integration-network/index.html</guid>
-      <description>Learn In Phase 1?: &amp;ldquo;No, new content can be created at later phase.&amp;rdquo;
+      <description>Learn Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;No, new content can be created at later phase.&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, it&amp;rsquo;s &amp;ldquo;glue&amp;rdquo; documentation not related to the product help docs
 Content Notes New or existing doc?: New doc - new content
@@ -25,19 +26,20 @@ Internal OIN Workshop results: When asked &amp;ldquo;What do devs need to know a
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/publish/plan-your-app-integration/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/publish/plan-your-app-integration/index.html</guid>
-      <description>Plan your app integration In Phase 1?: &amp;ldquo;No, new content can be created at later phase.&amp;rdquo;
+      <description>Plan your app integration Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;No, new content can be created at later phase.&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: Maybe. If a help doc already exists, this doc can be a summary redirect to the main help doc page.
 Content Notes New or existing doc?: New doc - new content
-Target personas: WIC App Developer,Experienced IAM developer
-Description: Discuss factors developers need to think about before being successful on the OIN</description>
+Target personas: WIC App Developer,Experienced IAM developer</description>
     </item>
     <item>
       <title>Test with a sample app</title>
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/publish/test-with-a-sample-app/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/publish/test-with-a-sample-app/index.html</guid>
-      <description>Test with a sample app In Phase 1?: &amp;ldquo;No, new content can be created at later phase.&amp;rdquo;
+      <description>Test with a sample app Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;No, new content can be created at later phase.&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
 Group Notes Group description: - Contains sample apps that customers can use to understand the configurations of an OIN app and ways to submit such an app.
@@ -48,7 +50,8 @@ The sample app can be the basis for the customer&amp;rsquo;s OIN app if they cho
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/publish/build-your-app/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/publish/build-your-app/index.html</guid>
-      <description>Build your app In Phase 1?: &amp;ldquo;Yes, since it&amp;rsquo;s a new doc pulling from existing content&amp;rdquo;
+      <description>Build your app Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;Yes, since it&amp;rsquo;s a new doc pulling from existing content&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
 Content Notes New or existing doc?: New doc with new content but also pulling from existing content
@@ -60,20 +63,22 @@ Description: This doc provides summaries and links to how to build an SSO app, L
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/publish/prepare-for-submission/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/publish/prepare-for-submission/index.html</guid>
-      <description>Prepare for submission In Phase 1?: &amp;ldquo;Yes, phase 1 version can be a very simple guide hub.&amp;rdquo;
+      <description>Prepare for submission Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;Yes, phase 1 version can be a very simple guide hub.&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
 Content Notes New or existing doc?: New doc - new content
 Target personas: WIC App Developer,Experienced IAM developer
 Content type: Guide Hub
-This type of document serves as a central navigational starting point within a larger documentation system. It&amp;rsquo;s structured to outline various user journeys, guiding users to specific documents through organized links, often presented in a tree view or a similar hierarchical structure.</description>
+This type of document serves as a central navigational starting point within a larger documentation system.</description>
     </item>
     <item>
       <title>Submit</title>
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/publish/submit/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/publish/submit/index.html</guid>
-      <description>Submit In Phase 1?: &amp;ldquo;Yes, phase 1 version can be a very simple guide hub.&amp;rdquo;
+      <description>Submit Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;Yes, phase 1 version can be a very simple guide hub.&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, it&amp;rsquo;s &amp;ldquo;glue&amp;rdquo; documentation not related to the product help docs
 Content Notes New or existing doc?: Existing doc: changes needed
@@ -85,19 +90,20 @@ Changes to be made: This doc is large and covers different types of content such
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/publish/update-your-app/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/publish/update-your-app/index.html</guid>
-      <description>Releasing new versions of your app In Phase 1?: &amp;ldquo;No, new content can be created at later phase.&amp;rdquo;
+      <description>Releasing new versions of your app Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;No, new content can be created at later phase.&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, it&amp;rsquo;s &amp;ldquo;glue&amp;rdquo; documentation not related to the product help docs
 Group Notes Group description: Based on the User research we need to determine what the content should be for this section.
-Content Notes New or existing doc?: New doc - new content
-Target personas: WIC App Developer,Experienced IAM developer</description>
+Content Notes New or existing doc?</description>
     </item>
     <item>
       <title>Connect for help</title>
       <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/publish/connect-for-help/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/publish/connect-for-help/index.html</guid>
-      <description>Connect In Phase 1?: &amp;ldquo;No, new content can be created at later phase.&amp;rdquo;
+      <description>Connect Click here to give feedback about this page
+In Phase 1?: &amp;ldquo;No, new content can be created at later phase.&amp;rdquo;
 In Phase 2?: TBD
 Related to help docs?: No, targetted towards developers
 Content Notes New or existing doc?: New doc - new content
