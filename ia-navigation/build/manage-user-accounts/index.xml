@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Manage user accounts on Hugo Techdoc Theme</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/build/manage-user-accounts/index.html</link>
+    <description>Recent content in Manage user accounts on Hugo Techdoc Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/build/manage-user-accounts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Get user information with an ID Token</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/build/manage-user-accounts/get-user-information-with-an-id-token/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/build/manage-user-accounts/get-user-information-with-an-id-token/index.html</guid>
+      <description>Get user information with an ID Token Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Changes to be made: See the &amp;ldquo;Existing content link) field for more details.
+Links to original docs: Create a doc that describes how to get user info. Extract how the get user info section from here:
+Refresh the access and ID tokens: https://developer.okta.com/docs/guides/oie-embedded-common-refresh-tokens/android/main/ Content type: How-to: developer focused</description>
+    </item>
+    <item>
+      <title>User driven account management</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/build/manage-user-accounts/user-driven-account-management/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/build/manage-user-accounts/user-driven-account-management/index.html</guid>
+      <description>User driven account management Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Content type: Dynamic Index
+This document type is designed to automatically generate and display a list of child documents when a particular node in the navigation tree is selected. Key characteristics of this content type are:
+Automated Listing: Automatically generates a list of links to child documents based on the site&amp;rsquo;s structure or predefined criteria.</description>
+    </item>
+    <item>
+      <title>Manage a users life cycle</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/build/manage-user-accounts/manage-a-users-life-cycle/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/build/manage-user-accounts/manage-a-users-life-cycle/index.html</guid>
+      <description>Manage a user&amp;rsquo;s life cycle Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Content type: Dynamic Index
+This document type is designed to automatically generate and display a list of child documents when a particular node in the navigation tree is selected. Key characteristics of this content type are:
+Automated Listing: Automatically generates a list of links to child documents based on the site&amp;rsquo;s structure or predefined criteria.</description>
+    </item>
+    <item>
+      <title>Customize claims in the ID and Access tokens</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/build/manage-user-accounts/customize-claims-in-the-id-and-access-tokens/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/build/manage-user-accounts/customize-claims-in-the-id-and-access-tokens/index.html</guid>
+      <description>Customize claims in the ID and Access tokens Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Content type: Dynamic Index
+This document type is designed to automatically generate and display a list of child documents when a particular node in the navigation tree is selected. Key characteristics of this content type are:
+Automated Listing: Automatically generates a list of links to child documents based on the site&amp;rsquo;s structure or predefined criteria.</description>
+    </item>
+  </channel>
+</rss>

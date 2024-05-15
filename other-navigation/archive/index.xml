@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Archive on Hugo Techdoc Theme</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/other-navigation/archive/index.html</link>
+    <description>Recent content in Archive on Hugo Techdoc Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/other-navigation/archive/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Okta Classic Engine </title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/other-navigation/archive/okta-classic-engine/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/other-navigation/archive/okta-classic-engine/index.html</guid>
+      <description>Okta Classic Engine overview Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Links to original docs: - Okta Classic Engine overview: https://developer.okta.com/docs/guides/archive-overview/main/
+Content type: Guide Hub
+This type of document serves as a central navigational starting point within a larger documentation system. It&amp;rsquo;s structured to outline various user journeys, guiding users to specific documents through organized links, often presented in a tree view or a similar hierarchical structure.</description>
+    </item>
+  </channel>
+</rss>

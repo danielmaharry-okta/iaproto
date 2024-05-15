@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Manage access on Hugo Techdoc Theme</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/build/manage-access/index.html</link>
+    <description>Recent content in Manage access on Hugo Techdoc Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/build/manage-access/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Manage user access to your API Service</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/build/manage-access/manage-user-access-to-your-api-service/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/build/manage-access/manage-user-access-to-your-api-service/index.html</guid>
+      <description>Manage user access to your API Service Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Content type: Dynamic Index
+This document type is designed to automatically generate and display a list of child documents when a particular node in the navigation tree is selected. Key characteristics of this content type are:
+Automated Listing: Automatically generates a list of links to child documents based on the site&amp;rsquo;s structure or predefined criteria.</description>
+    </item>
+    <item>
+      <title>Access Okta APIs using OAuth</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/build/manage-access/access-okta-apis-using-oauth/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/build/manage-access/access-okta-apis-using-oauth/index.html</guid>
+      <description>Access Okta APIs using OAuth Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Content type: Dynamic Index
+This document type is designed to automatically generate and display a list of child documents when a particular node in the navigation tree is selected. Key characteristics of this content type are:
+Automated Listing: Automatically generates a list of links to child documents based on the site&amp;rsquo;s structure or predefined criteria.</description>
+    </item>
+    <item>
+      <title>Limit scopes for particular clients</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/build/manage-access/limit-scopes-for-particular-clients/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/build/manage-access/limit-scopes-for-particular-clients/index.html</guid>
+      <description>Limit scopes for particular clients Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Changes to be made: See existing content link for more details.
+Links to original docs: - The &amp;ldquo;Limit which scopes some clients can access&amp;rdquo; section in Configure an access policy: https://developer.okta.com/docs/guides/configure-access-policy/main/
+Content type: How-to: developer focused
+Goal-oriented. Focused on developing a solution for a specific use case. Developer focused.</description>
+    </item>
+    <item>
+      <title>Configure a custom access token lifetime</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/build/manage-access/configure-a-custom-access-token-lifetime/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/build/manage-access/configure-a-custom-access-token-lifetime/index.html</guid>
+      <description>Configure a custom access token lifetime Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Changes to be made: See existing content link for more details.
+Links to original docs: - The &amp;ldquo;Configure a custom access token lifetime per client&amp;rdquo; section in Configure an access policy: https://developer.okta.com/docs/guides/configure-access-policy/main/
+Content type: How-to: developer focused
+Goal-oriented. Focused on developing a solution for a specific use case.</description>
+    </item>
+    <item>
+      <title>Require an additional authenticator for users in a group</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/build/manage-access/require-an-additional-authenticator-for-users-in-a-group/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/build/manage-access/require-an-additional-authenticator-for-users-in-a-group/index.html</guid>
+      <description>Require an additional authenticator for users in a group Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Changes to be made: See existing content link for more details.
+Links to original docs: - Configure a global session policy and authentication policies: https://developer.okta.com/docs/guides/configure-signon-policy/main/ - The intro section is not included here but in a separate guide here: https://docs.google.com/document/d/1Crp_KOmCPqiA3dWuCD5Q3jyx_wCussVFLVhNoPufxnw/edit
+Content type: How-to: developer focused</description>
+    </item>
+    <item>
+      <title>Require an additional authenticator when outside of US</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/build/manage-access/require-an-additional-authenticator-when-outside-of-us/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/build/manage-access/require-an-additional-authenticator-when-outside-of-us/index.html</guid>
+      <description>Require an additional authenticator when outside of US Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Changes to be made: See existing content link for more details.
+Links to original docs: - Configure a global session policy and authentication policies: https://developer.okta.com/docs/guides/configure-signon-policy/main/ - The intro section is not included here but in a separate guide here: https://docs.google.com/document/d/1Crp_KOmCPqiA3dWuCD5Q3jyx_wCussVFLVhNoPufxnw/edit
+Content type: How-to: developer focused</description>
+    </item>
+    <item>
+      <title>Test your access configurations with an simulation</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/build/manage-access/test-your-access-configurations-with-an-simulation/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/build/manage-access/test-your-access-configurations-with-an-simulation/index.html</guid>
+      <description>Test your access configurations with an simulation Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Changes to be made: Update title
+Links to original docs: - Test your policies with access simulations: https://developer.okta.com/docs/guides/policy-simulation/main/
+Content type: How-to: developer focused
+Goal-oriented. Focused on developing a solution for a specific use case. Developer focused. Cites code samples.</description>
+    </item>
+    <item>
+      <title>Enable a user consent dialog for an app</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/build/manage-access/enable-a-user-consent-dialog-for-an-app/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/build/manage-access/enable-a-user-consent-dialog-for-an-app/index.html</guid>
+      <description>Enable a user consent dialog for an app Click here to give feedback about this page
+Group Notes Group description: This article discusses how to enable a consent dialog for an app wanting permission to access certain resources
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Changes to be made: - This guide needs to main things: - Content answer &amp;ldquo;When would I use this user consent functionality over other methods?</description>
+    </item>
+    <item>
+      <title>Set up delegated access to a resource</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/build/manage-access/set-up-delegated-access-to-a-resource/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/build/manage-access/set-up-delegated-access-to-a-resource/index.html</guid>
+      <description>Set up delegated access to a resource Click here to give feedback about this page
+Group Notes Group description: This article was placed under &amp;ldquo;Manage access&amp;rdquo; because it discuss delegated &amp;ldquo;access&amp;rdquo; to other apps.
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Changes to be made: Update title
+Links to original docs: - Set up OAuth 2.0 On-Behalf-Of Token Exchange: https://developer.okta.com/docs/guides/set-up-token-exchange/main/
+Content type: How-to: developer focused
+Goal-oriented. Focused on developing a solution for a specific use case.</description>
+    </item>
+    <item>
+      <title>Step up authentication based on access request using ACR</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/build/manage-access/step-up-authentication-based-on-access-request-using-acr/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/build/manage-access/step-up-authentication-based-on-access-request-using-acr/index.html</guid>
+      <description>Step up authentication based on access request using ACR Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Changes to be made: Update title
+Links to original docs: - Step-up authentication using ACR values: https://developer.okta.com/docs/guides/step-up-authentication/main/
+Content type: How-to: developer focused
+Goal-oriented. Focused on developing a solution for a specific use case. Developer focused. Cites code samples.</description>
+    </item>
+    <item>
+      <title>Manage access to Org objects with role assignments</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/build/manage-access/manage-access-to-org-objects-with-role-assignments/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/build/manage-access/manage-access-to-org-objects-with-role-assignments/index.html</guid>
+      <description>Manage access to Org objects with role assignments Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Changes to be made: See the &amp;ldquo;Existing content link) field for more details.
+Links to original docs: Create a Developer How-to guide that describes the API calls to perform updates to groups and users with roles and permissions. The impetus of this new guide is the guide below.</description>
+    </item>
+  </channel>
+</rss>

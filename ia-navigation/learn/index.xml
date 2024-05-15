@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Learn on Hugo Techdoc Theme</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/learn/index.html</link>
+    <description>Recent content in Learn on Hugo Techdoc Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/learn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Workforce Identity Cloud (WIC) Explained</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/learn/workforce-identity-cloud-wic-explained/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/learn/workforce-identity-cloud-wic-explained/index.html</guid>
+      <description>Workforce Identity Cloud (WIC) Explained Click here to give feedback about this page
+Content Notes Target personas: New IAM Developers,Developers new to Okta
+Description: Explains WIC and compares it to the CIC domain. Describes the domain of what developer.okta.com covers.
+Why is this here?: - 26% of respondents could not identify Workforce Identity Cloud despite &amp;ldquo;Workforce&amp;rdquo; being in the definition.
+Developers new to IAM and Okta are less satisfied with the docs and visit rarely.</description>
+    </item>
+    <item>
+      <title>IAM fundamentals</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/learn/iam-fundamentals/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/learn/iam-fundamentals/index.html</guid>
+      <description>Identity access management fundamentals Click here to give feedback about this page
+Content Notes Target personas: New IAM Developers,Developers new to Okta
+Description: Explains at a high level what is IAM.
+Links to original docs: This is a new doc. Bits of this doc can come from:
+Identity and Access Management (IAM) overview: https://developer.okta.com/docs/concepts/iam-overview/ Why is this here?: See (ID: 1)
+Content type: Conceptual overview
+High-level explanations of the underlying concepts, architecture, or design principles behind the product or service.</description>
+    </item>
+    <item>
+      <title>MFA explained</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/learn/mfa-explained/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/learn/mfa-explained/index.html</guid>
+      <description>MFA explained Click here to give feedback about this page
+Content Notes Target personas: New IAM Developers,Developers new to Okta
+Description: Explain the very basic concept of MFA. Also, explain the difference between a Factor and an Authenticator.
+Why is this here?: &amp;lsquo;- External Oktane 2023: 20% of respondents placed &amp;ldquo;Multi-factor Authentication&amp;rdquo; under &amp;ldquo;IAM Fundamentals&amp;rdquo;.
+After discussions with employees (and probably customers as well) there is a misunderstanding of what is a &amp;ldquo;Factor&amp;rdquo; and what is an Authenticator&amp;quot;.</description>
+    </item>
+    <item>
+      <title>Understand OAuth and OpenID Connect</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/learn/understand-oauth-and-openid-connect/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/learn/understand-oauth-and-openid-connect/index.html</guid>
+      <description>Understand OAuth and OpenID Connect Click here to give feedback about this page
+Group Notes Group description: This section specifically isolates the OAuth and OpenId Connect products for Okta specific features and products.
+Interaction code grant type is an &amp;ldquo;extension&amp;rdquo; of Oauth and OIDC.
+Content Notes Target personas: New IAM Developers,Developers new to Okta
+Why is this here?: - At Oktane MatchIt game, 27.3% could not identify OAuth.
+Content type: Dynamic Index</description>
+    </item>
+    <item>
+      <title>Understand SAML</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/learn/understand-saml/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/learn/understand-saml/index.html</guid>
+      <description>Understand SAML Click here to give feedback about this page
+Group Notes Group description: This section organizes existing and new SAML content.
+Content Notes Target personas: New IAM Developers,Developers new to Okta
+Content type: Dynamic Index
+This document type is designed to automatically generate and display a list of child documents when a particular node in the navigation tree is selected. Key characteristics of this content type are:
+Automated Listing: Automatically generates a list of links to child documents based on the site&amp;rsquo;s structure or predefined criteria.</description>
+    </item>
+    <item>
+      <title>Understand Oktas Products</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/learn/understand-oktas-products/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/learn/understand-oktas-products/index.html</guid>
+      <description>Understand Okta&amp;rsquo;s Products Click here to give feedback about this page
+Group Notes Group description: This section gives new-to-IAM or new-to-Okta developers a high-level overview of Okta&amp;rsquo;s products to help them be successful in building solutions with Okta.
+Content Notes Target personas: New IAM Developers,Developers new to Okta
+Why is this here?: See Learn (ID: 1)
+Content type: Guide Hub
+This type of document serves as a central navigational starting point within a larger documentation system.</description>
+    </item>
+    <item>
+      <title>Tools for developers</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/learn/tools-for-developers/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/learn/tools-for-developers/index.html</guid>
+      <description>Tools for developers Click here to give feedback about this page
+Content Notes Target personas: New IAM Developers,Developers new to Okta
+Content type: Dynamic Index
+This document type is designed to automatically generate and display a list of child documents when a particular node in the navigation tree is selected. Key characteristics of this content type are:
+Automated Listing: Automatically generates a list of links to child documents based on the site&amp;rsquo;s structure or predefined criteria.</description>
+    </item>
+  </channel>
+</rss>

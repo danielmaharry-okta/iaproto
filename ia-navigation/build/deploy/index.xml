@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deploy  on Hugo Techdoc Theme</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/build/deploy/index.html</link>
+    <description>Recent content in Deploy  on Hugo Techdoc Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/build/deploy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deployment checklists</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/build/deploy/deployment-checklists/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/build/deploy/deployment-checklists/index.html</guid>
+      <description>Deployment checklists Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Changes to be made: Update title
+Links to original docs: - Deployment and pre-launch checklists: https://developer.okta.com/docs/guides/deployment-checklist/main/
+Content type: How-to
+Goal-oriented. Shows how to achieve a specific goal (or solve a specific problem). Series of steps. Not technical. (e.g. a recipe in a cook book)</description>
+    </item>
+    <item>
+      <title>Deploy your app</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/build/deploy/deploy-your-app/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/build/deploy/deploy-your-app/index.html</guid>
+      <description>Deploy your app Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Changes to be made: Update title
+Links to original docs: - Deploy to production: https://developer.okta.com/docs/guides/deploy-your-app/java/main/
+Content type: Integration guide
+Goal-oriented. Similar to a how-to but the focus is more technical and geared towards developers integrating an SDK, API, or another library into their applications. These guides follow a specific use case.</description>
+    </item>
+  </channel>
+</rss>

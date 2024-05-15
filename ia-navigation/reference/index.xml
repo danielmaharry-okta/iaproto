@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reference on Hugo Techdoc Theme</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/reference/index.html</link>
+    <description>Recent content in Reference on Hugo Techdoc Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/reference/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>APIs</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/reference/apis/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/reference/apis/index.html</guid>
+      <description>The Okta APIs Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Why is this here?: - Internal workshop session: Session 1 - Team 2 chose the Okta APIs group.
+Internal workshop session: Session 2 - Team 1 chose the APIs group. Content type: Guide Hub
+This type of document serves as a central navigational starting point within a larger documentation system. It&amp;rsquo;s structured to outline various user journeys, guiding users to specific documents through organized links, often presented in a tree view or a similar hierarchical structure.</description>
+    </item>
+    <item>
+      <title>SDKs</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/reference/sdks/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/reference/sdks/index.html</guid>
+      <description>SDKs Click here to give feedback about this page
+Group Notes Group description: Describe and list all supported SDKs provided by Okta. Does not go into specific use cases.
+Candidate for a separate workshop.
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Changes to be made: - See Existing content link for more details.
+We might need a new content type for this style of doc cc @Dan Maharry @Anne Juan Links to original docs: See this doc for the overall structure and content: New Code | SDK Libraries Page Version 2: https://docs.</description>
+    </item>
+    <item>
+      <title>Inline Hooks</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/reference/inline-hooks/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/reference/inline-hooks/index.html</guid>
+      <description>Okta Inline Hooks Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Description: Will be hosted in Redocly. This is the overview of the section containing sample JSON content to and from each type of inline hook.
+Changes to be made: This document is currently dynamically generated, but it should be a written piece fo content that pulls in all the common introduction text from the reference documents underneath it, so those docs can just be reference material rather than having to be an introduction to hooks and then a specific type of hook first.</description>
+    </item>
+    <item>
+      <title>Velocity template language</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/reference/velocity-template-language/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/reference/velocity-template-language/index.html</guid>
+      <description>Velocity template language Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Links to original docs: Doc content is pulled from several docs:
+Customize email notifications: https://developer.okta.com/docs/guides/custom-email/main/ Velocity template language (help docs): https://help.okta.com/en-us/content/topics/settings/velocity-variables.htm Content type: Reference lookup
+A page containing mostly a series of tables or lists for users to look up a fact or definition, and a short explanatory text giving those tables the correct context</description>
+    </item>
+    <item>
+      <title>Okta expression language</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/reference/okta-expression-language/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/reference/okta-expression-language/index.html</guid>
+      <description>Okta expression language Click here to give feedback about this page
+Group Notes Group description: At the moment, there are two documents. The main one covers the &amp;ldquo;legacy&amp;rdquo; Okta expression language and the secondary one covers it in Identity Engine. Suggest that these documents are role-reversed so that the main doc covers all the support for IDX and the secondary doc covers the diffs between it and Classic Engine.
+Content Notes Target personas: WIC App Developer,Experienced IAM developer</description>
+    </item>
+    <item>
+      <title>Roles, resources, and permissions</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/reference/roles-resources-and-permissions/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/reference/roles-resources-and-permissions/index.html</guid>
+      <description>Manage access to Org objects with role assignments Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Links to original docs: Make this guide into a reference guide:
+Role assignment: https://developer.okta.com/docs/concepts/role-assignment/ Content type: Integration guide
+Goal-oriented. Similar to a how-to but the focus is more technical and geared towards developers integrating an SDK, API, or another library into their applications. These guides follow a specific use case.</description>
+    </item>
+    <item>
+      <title>Dictionary</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/reference/dictionary/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/reference/dictionary/index.html</guid>
+      <description>Terminology dictionary Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Content type: Glossary
+A list of terms and definitions specific to the product, service, or domain, helping developers familiarize themselves with the vocabulary used in the documentation.</description>
+    </item>
+  </channel>
+</rss>

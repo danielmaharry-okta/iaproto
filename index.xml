@@ -8,26 +8,24 @@
     <language>en-us</language>
     <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Main content</title>
-      <link>https://danielmaharry-okta.github.io:1313/iaproto/main-content/index.html</link>
+      <title>IA Navigation</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://danielmaharry-okta.github.io:1313/iaproto/main-content/index.html</guid>
-      <description>Main Content Click here to give feedback about this page
-In Phase 1?: yes
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/index.html</guid>
+      <description>IA Navigation Click here to give feedback about this page
 Content Notes Description: This area contains the main content of the site typically found in the main navigation of the DevDocs site.
-Content type: Unknown
-Unknown</description>
+Content type: Not applicable
+Not applicable</description>
     </item>
     <item>
-      <title>Supportive content</title>
-      <link>https://danielmaharry-okta.github.io:1313/iaproto/supportive-content/index.html</link>
+      <title>Other Navigation</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/other-navigation/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://danielmaharry-okta.github.io:1313/iaproto/supportive-content/index.html</guid>
-      <description>Supportive Content Click here to give feedback about this page
-In Phase 1?: yes
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/other-navigation/index.html</guid>
+      <description>Other Navigation Click here to give feedback about this page
 Content Notes Description: This area contains secondary content typically not found in the main navigation of the DevDocs site.
-Content type: Unknown
-Unknown</description>
+Content type: Not applicable
+Not applicable</description>
     </item>
   </channel>
 </rss>

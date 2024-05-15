@@ -171,7 +171,7 @@ dd {
 }
 
 #R-header-wrapper {
-    text-align: center;
+    /* text-align: center; */
     padding: 1rem;
     position: relative;
 }
@@ -2287,3 +2287,16 @@ html[dir="rtl"] #R-sidebar ul.collapsible-menu > li > label > i.fa-chevron-right
 .term-list ul > li ~ li:before {
     content: " | "
 }
+
+h1 + h2 + p > a {
+   background-color: #1c87c9;
+   border: none;
+   color: white;
+   padding: 10px;
+   text-align: center;
+   text-decoration: none;
+   display: inline-block;
+   font-size: 20px;
+   margin: 4px 2px;
+   cursor: pointer;
+ }

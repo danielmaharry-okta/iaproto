@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Upgrade on Hugo Techdoc Theme</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/build/upgrade/index.html</link>
+    <description>Recent content in Upgrade on Hugo Techdoc Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/build/upgrade/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Upgrade to the Identity Engine</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/build/upgrade/upgrade-to-the-identity-engine/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/build/upgrade/upgrade-to-the-identity-engine/index.html</guid>
+      <description>Upgrade to the Identity Engine Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Content type: Dynamic Index
+This document type is designed to automatically generate and display a list of child documents when a particular node in the navigation tree is selected. Key characteristics of this content type are:
+Automated Listing: Automatically generates a list of links to child documents based on the site&amp;rsquo;s structure or predefined criteria.</description>
+    </item>
+    <item>
+      <title>Upgrade SAML apps to SHA256</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/build/upgrade/upgrade-saml-apps-to-sha256/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/build/upgrade/upgrade-saml-apps-to-sha256/index.html</guid>
+      <description>Upgrade SAML apps to SHA256 Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Links to original docs: - Upgrade SAML apps to SHA256: https://developer.okta.com/docs/guides/updating-saml-cert/main/
+Content type: How-to: developer focused
+Goal-oriented. Focused on developing a solution for a specific use case. Developer focused. Cites code samples.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Okta Classic Engine  on Hugo Techdoc Theme</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/other-navigation/archive/okta-classic-engine/index.html</link>
+    <description>Recent content in Okta Classic Engine  on Hugo Techdoc Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/other-navigation/archive/okta-classic-engine/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Auth JS fundamentals</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/other-navigation/archive/okta-classic-engine/auth-js-fundamentals/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/other-navigation/archive/okta-classic-engine/auth-js-fundamentals/index.html</guid>
+      <description>Auth JS fundamentals Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Links to original docs: - Auth JS fundamentals: https://developer.okta.com/docs/guides/archive-auth-js/main/
+Content type: Integration guide
+Goal-oriented. Similar to a how-to but the focus is more technical and geared towards developers integrating an SDK, API, or another library into their applications. These guides follow a specific use case.
+These guides DO NOT contain API Reference information like parameter descriptions (for example see https://developer.</description>
+    </item>
+    <item>
+      <title>Configure sign-on policies</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/other-navigation/archive/okta-classic-engine/configure-sign-on-policies/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/other-navigation/archive/okta-classic-engine/configure-sign-on-policies/index.html</guid>
+      <description>Configure Okta sign-on and app sign-on policies Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Links to original docs: - Configure Okta sign-on and app sign-on policies: https://developer.okta.com/docs/guides/archive-configure-signon-policy/main/
+Content type: How-to: developer focused
+Goal-oriented. Focused on developing a solution for a specific use case. Developer focused. Cites code samples.</description>
+    </item>
+    <item>
+      <title>Embedded widget fundamentals</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/other-navigation/archive/okta-classic-engine/embedded-widget-fundamentals/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/other-navigation/archive/okta-classic-engine/embedded-widget-fundamentals/index.html</guid>
+      <description>Embedded Okta Sign-In Widget fundamentals Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Links to original docs: - Embedded Okta Sign-In Widget fundamentals: https://developer.okta.com/docs/guides/archive-embedded-siw/main/
+Content type: Integration guide
+Goal-oriented. Similar to a how-to but the focus is more technical and geared towards developers integrating an SDK, API, or another library into their applications. These guides follow a specific use case.
+These guides DO NOT contain API Reference information like parameter descriptions (for example see https://developer.</description>
+    </item>
+    <item>
+      <title>Sign in to SPA: Auth JS</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/other-navigation/archive/okta-classic-engine/sign-in-to-spa-auth-js/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/other-navigation/archive/okta-classic-engine/sign-in-to-spa-auth-js/index.html</guid>
+      <description>Sign in to SPA with Auth JS Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Links to original docs: - Sign in to SPA with Auth JS: https://developer.okta.com/docs/guides/archive-sign-in-to-spa-authjs/angular/main/
+Content type: Integration guide
+Goal-oriented. Similar to a how-to but the focus is more technical and geared towards developers integrating an SDK, API, or another library into their applications. These guides follow a specific use case.</description>
+    </item>
+    <item>
+      <title>Sign in to SPA: Embedded Widget</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/other-navigation/archive/okta-classic-engine/sign-in-to-spa-embedded-widget/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/other-navigation/archive/okta-classic-engine/sign-in-to-spa-embedded-widget/index.html</guid>
+      <description>Sign in to SPA with embedded Widget Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Links to original docs: - Sign in to SPA with embedded Widget: https://developer.okta.com/docs/guides/archive-sign-in-to-spa-embedded-widget/angular/main/
+Content type: Integration guide
+Goal-oriented. Similar to a how-to but the focus is more technical and geared towards developers integrating an SDK, API, or another library into their applications. These guides follow a specific use case.</description>
+    </item>
+    <item>
+      <title>Sign users out</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/other-navigation/archive/okta-classic-engine/sign-users-out/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/other-navigation/archive/okta-classic-engine/sign-users-out/index.html</guid>
+      <description>Sign users out Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Links to original docs: - Sign users out: https://developer.okta.com/docs/guides/sign-users-out/angular/main/
+Content type: Integration guide
+Goal-oriented. Similar to a how-to but the focus is more technical and geared towards developers integrating an SDK, API, or another library into their applications. These guides follow a specific use case.
+These guides DO NOT contain API Reference information like parameter descriptions (for example see https://developer.</description>
+    </item>
+    <item>
+      <title>Add multifactor authentication</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/other-navigation/archive/okta-classic-engine/add-multifactor-authentication/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/other-navigation/archive/okta-classic-engine/add-multifactor-authentication/index.html</guid>
+      <description>Add multifactor authentication Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Links to original docs: - Add multifactor authentication: https://developer.okta.com/docs/guides/mfa/ga/main/
+Content type: How-to: developer focused
+Goal-oriented. Focused on developing a solution for a specific use case. Developer focused. Cites code samples.</description>
+    </item>
+    <item>
+      <title>Registration inline hook</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/other-navigation/archive/okta-classic-engine/registration-inline-hook/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/other-navigation/archive/okta-classic-engine/registration-inline-hook/index.html</guid>
+      <description>Registration inline hook Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Links to original docs: - Registration inline hook: https://developer.okta.com/docs/guides/archive-registration-inline-hook/nodejs/main/
+Content type: Integration guide
+Goal-oriented. Similar to a how-to but the focus is more technical and geared towards developers integrating an SDK, API, or another library into their applications. These guides follow a specific use case.
+These guides DO NOT contain API Reference information like parameter descriptions (for example see https://developer.</description>
+    </item>
+    <item>
+      <title>Set up self-service registration</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/other-navigation/archive/okta-classic-engine/set-up-self-service-registration/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/other-navigation/archive/okta-classic-engine/set-up-self-service-registration/index.html</guid>
+      <description>Set up self-service registration Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Links to original docs: - Set up self-service registration: https://developer.okta.com/docs/guides/archive-set-up-self-service-registration/main/
+Content type: How-to: developer focused
+Goal-oriented. Focused on developing a solution for a specific use case. Developer focused. Cites code samples.</description>
+    </item>
+    <item>
+      <title>Mobile apps</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/other-navigation/archive/okta-classic-engine/mobile-apps/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/other-navigation/archive/okta-classic-engine/mobile-apps/index.html</guid>
+      <description>Mobile apps Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Links to original docs: - Mobile apps: https://developer.okta.com/docs/guides/mobile-apps/
+Content type: Summary redirect
+This document serves primarily as a pointer or a gateway to direct users to the main source material located elsewhere in the documentation.
+Key characteristics of this content type include:
+Brief Overview: Provides a concise summary or overview of the topic.</description>
+    </item>
+  </channel>
+</rss>

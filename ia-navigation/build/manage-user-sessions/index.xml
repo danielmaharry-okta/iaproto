@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Manage user sessions on Hugo Techdoc Theme</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/build/manage-user-sessions/index.html</link>
+    <description>Recent content in Manage user sessions on Hugo Techdoc Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/build/manage-user-sessions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Session management best practices</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/build/manage-user-sessions/session-management-best-practices/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/build/manage-user-sessions/session-management-best-practices/index.html</guid>
+      <description>Session management best practices Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Links to original docs: - Session management with Okta: https://developer.okta.com/docs/concepts/session/
+Content type: Explanation
+This content type is focused on more detailed, topic-specific discussions that clarify how certain features, functionalities, or aspects of the product or service operate. This type of document aims to demystify specific elements of the technology, offering practical insights, step-by-step guidance, or in-depth clarification on particular points of interest to developers.</description>
+    </item>
+    <item>
+      <title>Manage your user sessions</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/build/manage-user-sessions/manage-your-user-sessions/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/build/manage-user-sessions/manage-your-user-sessions/index.html</guid>
+      <description>Manage your user sessions Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Changes to be made: - Update title
+This is a useful article that is currently in upgrades. It makes more sense to be here and linked from the upgrade section. Move this upgrade doc to this section and update the content to better fit this new section Links to original docs: - Understand how sessions work after the upgrade: https://developer.</description>
+    </item>
+    <item>
+      <title>Retrieving the cookie session in the Classic Engine</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/build/manage-user-sessions/retrieving-the-cookie-session-in-the-classic-engine/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/build/manage-user-sessions/retrieving-the-cookie-session-in-the-classic-engine/index.html</guid>
+      <description>Retrieving the cookie session in the Classic Engine Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Changes to be made: - Update title
+Links to original docs: - Work with Okta session cookies: https://developer.okta.com/docs/guides/session-cookie/main/
+Content type: How-to: developer focused
+Goal-oriented. Focused on developing a solution for a specific use case. Developer focused. Cites code samples.</description>
+    </item>
+    <item>
+      <title>Keep a user sign-in session alive with a refresh token</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/build/manage-user-sessions/keep-a-user-sign-in-session-alive-with-a-refresh-token/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/build/manage-user-sessions/keep-a-user-sign-in-session-alive-with-a-refresh-token/index.html</guid>
+      <description>Keep a user sign-in session alive with a refresh token Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Content type: Dynamic Index
+This document type is designed to automatically generate and display a list of child documents when a particular node in the navigation tree is selected. Key characteristics of this content type are:
+Automated Listing: Automatically generates a list of links to child documents based on the site&amp;rsquo;s structure or predefined criteria.</description>
+    </item>
+  </channel>
+</rss>

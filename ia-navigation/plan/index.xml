@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Plan on Hugo Techdoc Theme</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/plan/index.html</link>
+    <description>Recent content in Plan on Hugo Techdoc Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/plan/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Explore Oktas IAM Solution</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/plan/explore-oktas-iam-solution/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/plan/explore-oktas-iam-solution/index.html</guid>
+      <description>Explore Okta&amp;rsquo;s IAM Solution: From Authentication to Compliance Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Changes to be made: - Phase 2: Remove IAM overview content and place it the IAM overview doc. Keep this doc focused on planning on a particular IAM solution.
+Phase 1: CIAM content needs to be removed. Links to original docs: &amp;lsquo;- Identity and Access Management (IAM) overview: https://developer.</description>
+    </item>
+    <item>
+      <title>Understand the reasons for an SSO App</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/plan/understand-the-reasons-for-an-sso-app/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/plan/understand-the-reasons-for-an-sso-app/index.html</guid>
+      <description>Understand the reasons for an SSO App Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Links to original docs: - All content except for the use case examples from: - Overview of Single Sign-On in the OIN: https://developer.okta.com/docs/guides/oin-sso-overview/ - Note most of the content is good and not specific to the OIN - Ensure any OIN-specific content is removed.
+Content type: Explanation</description>
+    </item>
+    <item>
+      <title>Understand the benefits of API Services</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/plan/understand-the-benefits-of-api-services/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/plan/understand-the-benefits-of-api-services/index.html</guid>
+      <description>Understand the benefits of API Services Click here to give feedback about this page
+Content Notes Links to original docs: API service integrations in the OIN: https://developer.okta.com/docs/guides/oin-api-service-overview/
+Note that most of this content is not specific to the OIN. Ensure there is not OIN content here Content type: Explanation
+This content type is focused on more detailed, topic-specific discussions that clarify how certain features, functionalities, or aspects of the product or service operate.</description>
+    </item>
+    <item>
+      <title>Implement effective authentication strategies</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/plan/implement-effective-authentication-strategies/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/plan/implement-effective-authentication-strategies/index.html</guid>
+      <description>Implement effective authentication strategies Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Changes to be made: Title change
+Links to original docs: - Authentication factors: https://developer.okta.com/docs/concepts/iam-overview-authentication-factors/
+Content type: Explanation
+This content type is focused on more detailed, topic-specific discussions that clarify how certain features, functionalities, or aspects of the product or service operate. This type of document aims to demystify specific elements of the technology, offering practical insights, step-by-step guidance, or in-depth clarification on particular points of interest to developers.</description>
+    </item>
+    <item>
+      <title>Compare Oktas sign-in deployment model</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/plan/compare-oktas-sign-in-deployment-model/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/plan/compare-oktas-sign-in-deployment-model/index.html</guid>
+      <description>Choose a sign-in deployment model Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Changes to be made: 1. Title change 2. Add content related to the Direct Auth API. (need PM/other confirmation)
+Links to original docs: - Sign users in overview: https://developer.okta.com/docs/guides/sign-in-overview/main/
+Content type: Explanation
+This content type is focused on more detailed, topic-specific discussions that clarify how certain features, functionalities, or aspects of the product or service operate.</description>
+    </item>
+    <item>
+      <title>Secure your users with Universal Directory</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/plan/secure-your-users-with-universal-directory/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/plan/secure-your-users-with-universal-directory/index.html</guid>
+      <description>Secure your users with Universal Directory Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Changes to be made: Title change
+Links to original docs: - Identity management factors: https://developer.okta.com/docs/concepts/iam-overview-identity-management-factors/
+Content type: Explanation
+This content type is focused on more detailed, topic-specific discussions that clarify how certain features, functionalities, or aspects of the product or service operate. This type of document aims to demystify specific elements of the technology, offering practical insights, step-by-step guidance, or in-depth clarification on particular points of interest to developers.</description>
+    </item>
+    <item>
+      <title>Optimize your access control</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/plan/optimize-your-access-control/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/plan/optimize-your-access-control/index.html</guid>
+      <description>Optimize your access control Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Changes to be made: - Title change
+Replace &amp;ldquo;Authorization&amp;rdquo; wording? I don&amp;rsquo;t see it used as much in the latest Okta docs. Links to original docs: - Authorization factors: https://developer.okta.com/docs/concepts/iam-overview-authorization-factors/
+Content type: Explanation
+This content type is focused on more detailed, topic-specific discussions that clarify how certain features, functionalities, or aspects of the product or service operate.</description>
+    </item>
+    <item>
+      <title>Design your IAM solution for successful deployment</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/plan/design-your-iam-solution-for-successful-deployment/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/plan/design-your-iam-solution-for-successful-deployment/index.html</guid>
+      <description>Design your IAM solution for successful deployment Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Changes to be made: Title change
+Links to original docs: - Architectural factors: https://developer.okta.com/docs/concepts/iam-overview-architectural-factors/
+Content type: Explanation
+This content type is focused on more detailed, topic-specific discussions that clarify how certain features, functionalities, or aspects of the product or service operate. This type of document aims to demystify specific elements of the technology, offering practical insights, step-by-step guidance, or in-depth clarification on particular points of interest to developers.</description>
+    </item>
+    <item>
+      <title>Design your IAM solution for government entities</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/plan/design-your-iam-solution-for-government-entities/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/plan/design-your-iam-solution-for-government-entities/index.html</guid>
+      <description>Design your IAM solution for government entities Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Content type: Explanation
+This content type is focused on more detailed, topic-specific discussions that clarify how certain features, functionalities, or aspects of the product or service operate. This type of document aims to demystify specific elements of the technology, offering practical insights, step-by-step guidance, or in-depth clarification on particular points of interest to developers.</description>
+    </item>
+    <item>
+      <title>Build with Okta Identity Governance</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/plan/build-with-okta-identity-governance/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/plan/build-with-okta-identity-governance/index.html</guid>
+      <description>Build with Okta Identity Governance Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Why is this here?: All &amp;ldquo;Other&amp;rdquo; solutions (which are solutions other than LCM, Automation, and Authentication), 27% of the &amp;ldquo;Other&amp;rdquo; solutions customer are building are OIG based.
+Content type: Explanation
+This content type is focused on more detailed, topic-specific discussions that clarify how certain features, functionalities, or aspects of the product or service operate.</description>
+    </item>
+    <item>
+      <title>Best practices</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/plan/best-practices/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/plan/best-practices/index.html</guid>
+      <description>Best practices Click here to give feedback about this page
+Group Notes Group description: All non-OIN related best practices
+Content Notes Target personas: New IAM Developers,Developers new to Okta
+Why is this here?: - In the Oktane AnswerIt game, respondents answered what they would change about dev docs with more examples, best practices, templates
+Although it was for OIN related topics, respondents also answered they were looking for best practice docs Content type: Dynamic Index</description>
+    </item>
+    <item>
+      <title>Build a full solution </title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/plan/build-a-full-solution/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/ia-navigation/plan/build-a-full-solution/index.html</guid>
+      <description>Build a full solution Click here to give feedback about this page
+Group Notes Group description: Brief summary and redirect to top build page
+Content Notes Target personas: New IAM Developers,Developers new to Okta
+Content type: Summary redirect
+This document serves primarily as a pointer or a gateway to direct users to the main source material located elsewhere in the documentation.
+Key characteristics of this content type include:
+Brief Overview: Provides a concise summary or overview of the topic.</description>
+    </item>
+  </channel>
+</rss>
