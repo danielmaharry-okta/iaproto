@@ -26,7 +26,7 @@ This doc came from the SDK section. We have to ensure it&amp;rsquo;s SDK agnosti
 Group Notes Group description: Organizes all docs that describe how to install and run sample apps. Right now just auth but we can expand this to other types of sample apps in the future.
 Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Content type: Dynamic Index
-This document type is designed to automatically generate and display a list of child documents when a particular node in the navigation tree is selected.</description>
+A dynamic index is an automatically generated list of links to topics immediately beneath it based purely on the site&amp;rsquo;s structure, or with some level of filtering.</description>
     </item>
     <item>
       <title>Try a quickstart</title>

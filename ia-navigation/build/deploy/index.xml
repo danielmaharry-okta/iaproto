@@ -17,7 +17,7 @@ Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Changes to be made: Update title
 Links to original docs: - Deployment and pre-launch checklists: https://developer.okta.com/docs/guides/deployment-checklist/main/
 Content type: How-to
-Goal-oriented. Shows how to achieve a specific goal (or solve a specific problem). Series of steps. Not technical. (e.g. a recipe in a cook book)</description>
+A How-to document illustrates how to perform a specific task that does not rely on writing code. How-tos tend to walk the reader step by step through administrative tasks but not exclusively. They might include code snippets such as API requests and responses, or outline how to develop the required solution but without walking through the majority of the code required to implement it.</description>
     </item>
     <item>
       <title>Deploy your app</title>
@@ -29,7 +29,7 @@ Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Changes to be made: Update title
 Links to original docs: - Deploy to production: https://developer.okta.com/docs/guides/deploy-your-app/java/main/
 Content type: Integration guide
-Goal-oriented. Similar to a how-to but the focus is more technical and geared towards developers integrating an SDK, API, or another library into their applications. These guides follow a specific use case.</description>
+An integration guide or coding guide illustrates how to perform a specific task that involves writing code. It is similar to a how-to but the focus is more technical and geared towards developers integrating an SDK, API, or another library into their applications.</description>
     </item>
   </channel>
 </rss>

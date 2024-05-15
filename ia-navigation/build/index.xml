@@ -17,7 +17,7 @@ Group Notes Group description: Defines journeys through the quickstart pages.
 See https://docs.google.com/document/d/1P8Jt4kvVCC9zAeDsgd18RYXymuNqnHjJLvcy2VtLuis/edit?pli=1#heading=h.7xq7dm2x4vk6 for more details on the quickstarts.
 Content Notes Target personas: New IAM Developers,Experienced IAM developer
 Content type: Dynamic Index
-This document type is designed to automatically generate and display a list of child documents when a particular node in the navigation tree is selected. Key characteristics of this content type are:</description>
+A dynamic index is an automatically generated list of links to topics immediately beneath it based purely on the site&amp;rsquo;s structure, or with some level of filtering. A blind list of summaries and links to child docs.</description>
     </item>
     <item>
       <title>Authenticate</title>
@@ -36,7 +36,7 @@ Currently splitting authentication by functionality. We can either lead the spli
       <description>Secure Click here to give feedback about this page
 Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Content type: Guide Hub
-This type of document serves as a central navigational starting point within a larger documentation system. It&amp;rsquo;s structured to outline various user journeys, guiding users to specific documents through organized links, often presented in a tree view or a similar hierarchical structure. Some key characteristics of a Guide Hub or Documentation Hub:</description>
+A guide hub is the main navigation page for a section, such as learn, plan, or build. It begins with &amp;ldquo;Who this section is for?&amp;rdquo; and how the user may have gotten to this page, i.e., where they are in their user journey at this point. It then outlines different user journeys \ tasks covered in the section, perhaps split up by level of experience, complexity, and so on (as determined by the document design process), guiding users to specific documents through organized links.</description>
     </item>
     <item>
       <title>Manage user sessions</title>
@@ -46,8 +46,8 @@ This type of document serves as a central navigational starting point within a l
       <description>Manage user sessions Click here to give feedback about this page
 Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Content type: Dynamic Index
-This document type is designed to automatically generate and display a list of child documents when a particular node in the navigation tree is selected. Key characteristics of this content type are:
-Automated Listing: Automatically generates a list of links to child documents based on the site&amp;rsquo;s structure or predefined criteria.</description>
+A dynamic index is an automatically generated list of links to topics immediately beneath it based purely on the site&amp;rsquo;s structure, or with some level of filtering. A blind list of summaries and links to child docs. For example:
+https://developer.okta.com/docs/guides/authorization/ https://developer.okta.com/docs/guides/api-security/ https://developer.okta.com/docs/guides/manage-users/ </description>
     </item>
     <item>
       <title>Manage access</title>
@@ -58,7 +58,7 @@ Automated Listing: Automatically generates a list of links to child documents ba
 Group Notes Group description: Scope includes managing user and application access to resources.
 Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Content type: Guide Hub
-This type of document serves as a central navigational starting point within a larger documentation system. It&amp;rsquo;s structured to outline various user journeys, guiding users to specific documents through organized links, often presented in a tree view or a similar hierarchical structure.</description>
+A guide hub is the main navigation page for a section, such as learn, plan, or build. It begins with &amp;ldquo;Who this section is for?&amp;rdquo; and how the user may have gotten to this page, i.</description>
     </item>
     <item>
       <title>Manage user accounts</title>
@@ -72,7 +72,7 @@ Create Read Update Delete Synchronize
 Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Why is this here?: - Internal workshop session: Session 2 - Team 1 chose the User Management group
 Content type: Dynamic Index
-This document type is designed to automatically generate and display a list of child documents when a particular node in the navigation tree is selected.</description>
+A dynamic index is an automatically generated list of links to topics immediately beneath it based purely on the site&amp;rsquo;s structure, or with some level of filtering.</description>
     </item>
     <item>
       <title>Federate identities</title>
@@ -103,7 +103,7 @@ Why is this here?: - Internal workshop session: Session 1 - Team 1 chose the Hoo
 Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Why is this here?: - Internal workshop session: Session 1 - Team 1 chose the Automation Utilities group.
 Content type: Dynamic Index
-This document type is designed to automatically generate and display a list of child documents when a particular node in the navigation tree is selected. Key characteristics of this content type are:</description>
+A dynamic index is an automatically generated list of links to topics immediately beneath it based purely on the site&amp;rsquo;s structure, or with some level of filtering. A blind list of summaries and links to child docs.</description>
     </item>
     <item>
       <title>Okta Workflows</title>
@@ -135,7 +135,7 @@ Group Notes Group description: Is this section still relevant considering all th
 Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Changes to be made: Changes for beyond phase 1: Per @Brian Duffield, the &amp;ldquo;Migrate to Okta&amp;rdquo; content is very stale and needs a thorough review.
 Content type: Dynamic Index
-This document type is designed to automatically generate and display a list of child documents when a particular node in the navigation tree is selected.</description>
+A dynamic index is an automatically generated list of links to topics immediately beneath it based purely on the site&amp;rsquo;s structure, or with some level of filtering.</description>
     </item>
     <item>
       <title>Report and Monitor</title>
@@ -147,7 +147,7 @@ Group Notes Group description: - Add a link to #426 since it deals with the syst
 Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Why is this here?: - Internal workshop session: Session 1 - Team 2 chose the Monitor group.
 Content type: Dynamic Index
-This document type is designed to automatically generate and display a list of child documents when a particular node in the navigation tree is selected.</description>
+A dynamic index is an automatically generated list of links to topics immediately beneath it based purely on the site&amp;rsquo;s structure, or with some level of filtering.</description>
     </item>
     <item>
       <title>Upgrade</title>

@@ -15,8 +15,8 @@
       <description>Secure your tokens Click here to give feedback about this page
 Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Content type: Dynamic Index
-This document type is designed to automatically generate and display a list of child documents when a particular node in the navigation tree is selected. Key characteristics of this content type are:
-Automated Listing: Automatically generates a list of links to child documents based on the site&amp;rsquo;s structure or predefined criteria.</description>
+A dynamic index is an automatically generated list of links to topics immediately beneath it based purely on the site&amp;rsquo;s structure, or with some level of filtering. A blind list of summaries and links to child docs. For example:
+https://developer.okta.com/docs/guides/authorization/ https://developer.okta.com/docs/guides/api-security/ https://developer.okta.com/docs/guides/manage-users/ </description>
     </item>
     <item>
       <title>Rotate your apps client secrets</title>
@@ -28,7 +28,7 @@ Group Notes Group description: - No specific user research obtained for client s
 Client secrets are used in Authentication hence the reason why they are in Authenticate Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Links to original docs: - Client secret rotation and key management: https://developer.okta.com/docs/guides/client-secret-rotation-key/main/
 Content type: How-to
-Goal-oriented. Shows how to achieve a specific goal (or solve a specific problem).</description>
+A How-to document illustrates how to perform a specific task that does not rely on writing code.</description>
     </item>
     <item>
       <title>Secure your Okta API authentication with JWTs </title>
@@ -39,7 +39,7 @@ Goal-oriented. Shows how to achieve a specific goal (or solve a specific problem
 Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Links to original docs: - Build a JWT for Client Authentication: https://developer.okta.com/docs/guides/build-self-signed-jwt/java/main/
 Content type: Integration guide
-Goal-oriented. Similar to a how-to but the focus is more technical and geared towards developers integrating an SDK, API, or another library into their applications. These guides follow a specific use case.</description>
+An integration guide or coding guide illustrates how to perform a specific task that involves writing code. It is similar to a how-to but the focus is more technical and geared towards developers integrating an SDK, API, or another library into their applications.</description>
     </item>
     <item>
       <title>Add a third-party risk provider</title>

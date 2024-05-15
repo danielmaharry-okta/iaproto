@@ -17,7 +17,7 @@ Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Changes to be made: Update title
 Links to original docs: - Monitor Okta: https://developer.okta.com/docs/concepts/monitor/
 Content type: Explanation
-This content type is focused on more detailed, topic-specific discussions that clarify how certain features, functionalities, or aspects of the product or service operate. This type of document aims to demystify specific elements of the technology, offering practical insights, step-by-step guidance, or in-depth clarification on particular points of interest to developers.</description>
+Explanations present a more detailed dive into a single topic compared to Conceptual Overviews. They aim to clarify specific elements of the technology, offering developers practical insights or in-depth clarification on particular points of interest.</description>
     </item>
   </channel>
 </rss>

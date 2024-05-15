@@ -17,7 +17,7 @@ Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Description: Overview of the OIN
 Why is this here?: In the OIN Internal Workshop, a question was raised: &amp;ldquo;What do developers need to know about the OIN?&amp;rdquo; Comments included:
 What is OIN? General, &amp;ldquo;What is OIN&amp;rdquo; Content type: Explanation
-This content type is focused on more detailed, topic-specific discussions that clarify how certain features, functionalities, or aspects of the product or service operate.</description>
+Explanations present a more detailed dive into a single topic compared to Conceptual Overviews.</description>
     </item>
     <item>
       <title>ISV defined</title>
@@ -29,7 +29,7 @@ Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Description: Overview of an ISV and how the fit into the OIN
 Why is this here?: In the GroupIt Data, ISV was the number 1 most not understood topic.
 Content type: Explanation
-This content type is focused on more detailed, topic-specific discussions that clarify how certain features, functionalities, or aspects of the product or service operate.</description>
+Explanations present a more detailed dive into a single topic compared to Conceptual Overviews. They aim to clarify specific elements of the technology, offering developers practical insights or in-depth clarification on particular points of interest.</description>
     </item>
     <item>
       <title>Why publish</title>
@@ -63,7 +63,8 @@ Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Description: Overview of the OIN manager
 Why is this here?: At the Oktane MatchIt game, 40% of respondents could not properly define OIN Manager.
 Content type: Conceptual overview
-High-level explanations of the underlying concepts, architecture, or design principles behind the product or service. These overviews provide developers with a broader understanding of how the system works.</description>
+Conceptual overviews present a high-level introduction to a topic. For example, there are product \ feature overviews:
+https://developer.okta.com/docs/concepts/multi-tenancy/ https://developer.okta.com/docs/concepts/scim/ https://developer.okta.com/docs/concepts/auth-servers/ And there are also overviews of lower-level material.</description>
     </item>
     <item>
       <title>Best practices</title>

@@ -15,7 +15,8 @@
       <description>Developer forums Click here to give feedback about this page
 Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Links to original docs: https://devforum.okta.com/
-Content type: Link</description>
+Content type: Link
+A link to a different website</description>
     </item>
     <item>
       <title>OktaDev on Youtube</title>
@@ -25,7 +26,8 @@ Content type: Link</description>
       <description>OktaDev on Youtube Click here to give feedback about this page
 Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Links to original docs: https://www.youtube.com/@OktaDev
-Content type: Link</description>
+Content type: Link
+A link to a different website</description>
     </item>
     <item>
       <title>Community toolkit</title>
@@ -36,7 +38,8 @@ Content type: Link</description>
 Group Notes Group description: This site looks like it may not be maintained anymore. Remove link?
 Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Links to original docs: https://toolkit.okta.com/apps/
-Content type: Link</description>
+Content type: Link
+A link to a different website</description>
     </item>
   </channel>
 </rss>

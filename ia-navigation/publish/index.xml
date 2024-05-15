@@ -56,7 +56,7 @@ Links to original docs: &amp;lsquo;- SSO - Only include content and links to oth
       <description>Prepare for submission Click here to give feedback about this page
 Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Content type: Guide Hub
-This type of document serves as a central navigational starting point within a larger documentation system. It&amp;rsquo;s structured to outline various user journeys, guiding users to specific documents through organized links, often presented in a tree view or a similar hierarchical structure. Some key characteristics of a Guide Hub or Documentation Hub:</description>
+A guide hub is the main navigation page for a section, such as learn, plan, or build. It begins with &amp;ldquo;Who this section is for?&amp;rdquo; and how the user may have gotten to this page, i.e., where they are in their user journey at this point. It then outlines different user journeys \ tasks covered in the section, perhaps split up by level of experience, complexity, and so on (as determined by the document design process), guiding users to specific documents through organized links.</description>
     </item>
     <item>
       <title>Submit</title>
@@ -68,7 +68,7 @@ Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Changes to be made: This doc is large and covers different types of content such as guide up, submission process, etc. For now, it&amp;rsquo;s one doc, but we may need to split this up.
 Links to original docs: - Publish an OIN integration: https://developer.okta.com/docs/guides/submit-app-overview/
 Content type: Guide Hub
-This type of document serves as a central navigational starting point within a larger documentation system.</description>
+A guide hub is the main navigation page for a section, such as learn, plan, or build.</description>
     </item>
     <item>
       <title>Update your app</title>
@@ -90,7 +90,7 @@ Missing information from the app providers on their new versions SP Software ver
 Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Why is this here?: - Internal workshop: When asked &amp;ldquo;What prevents developers from being successful on the OIN&amp;rdquo;, respondents answered: - How to ask for and receive help from OKta - Links to Okta Education classes
 Content type: Explanation
-This content type is focused on more detailed, topic-specific discussions that clarify how certain features, functionalities, or aspects of the product or service operate.</description>
+Explanations present a more detailed dive into a single topic compared to Conceptual Overviews.</description>
     </item>
   </channel>
 </rss>

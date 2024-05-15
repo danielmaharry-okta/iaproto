@@ -17,7 +17,7 @@ Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Changes to be made: Update title
 Links to original docs: - Migrate to Okta — Prerequisites: https://developer.okta.com/docs/guides/migrate-to-okta-prerequisites/main/
 Content type: How-to
-Goal-oriented. Shows how to achieve a specific goal (or solve a specific problem). Series of steps. Not technical. (e.g. a recipe in a cook book)</description>
+A How-to document illustrates how to perform a specific task that does not rely on writing code. How-tos tend to walk the reader step by step through administrative tasks but not exclusively.</description>
     </item>
     <item>
       <title>Bulk migration with credentials</title>
@@ -29,7 +29,7 @@ Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Changes to be made: Update title
 Links to original docs: - Bulk migration with credentials: https://developer.okta.com/docs/guides/migrate-to-okta-bulk/main/
 Content type: How-to: developer focused
-Goal-oriented. Focused on developing a solution for a specific use case. Developer focused. Cites code samples.</description>
+A How-to document illustrates how to perform a specific task that does not rely on writing code. How-tos tend to walk the reader step by step through administrative tasks but not exclusively.</description>
     </item>
     <item>
       <title>Migrate users with password hooks</title>

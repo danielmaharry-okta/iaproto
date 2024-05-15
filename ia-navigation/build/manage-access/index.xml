@@ -15,8 +15,8 @@
       <description>Manage user access to your API Service Click here to give feedback about this page
 Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Content type: Dynamic Index
-This document type is designed to automatically generate and display a list of child documents when a particular node in the navigation tree is selected. Key characteristics of this content type are:
-Automated Listing: Automatically generates a list of links to child documents based on the site&amp;rsquo;s structure or predefined criteria.</description>
+A dynamic index is an automatically generated list of links to topics immediately beneath it based purely on the site&amp;rsquo;s structure, or with some level of filtering. A blind list of summaries and links to child docs. For example:
+https://developer.okta.com/docs/guides/authorization/ https://developer.okta.com/docs/guides/api-security/ https://developer.okta.com/docs/guides/manage-users/ </description>
     </item>
     <item>
       <title>Access Okta APIs using OAuth</title>
@@ -26,8 +26,8 @@ Automated Listing: Automatically generates a list of links to child documents ba
       <description>Access Okta APIs using OAuth Click here to give feedback about this page
 Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Content type: Dynamic Index
-This document type is designed to automatically generate and display a list of child documents when a particular node in the navigation tree is selected. Key characteristics of this content type are:
-Automated Listing: Automatically generates a list of links to child documents based on the site&amp;rsquo;s structure or predefined criteria.</description>
+A dynamic index is an automatically generated list of links to topics immediately beneath it based purely on the site&amp;rsquo;s structure, or with some level of filtering. A blind list of summaries and links to child docs. For example:
+https://developer.okta.com/docs/guides/authorization/ https://developer.okta.com/docs/guides/api-security/ https://developer.okta.com/docs/guides/manage-users/ </description>
     </item>
     <item>
       <title>Limit scopes for particular clients</title>
@@ -39,7 +39,7 @@ Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Changes to be made: See existing content link for more details.
 Links to original docs: - The &amp;ldquo;Limit which scopes some clients can access&amp;rdquo; section in Configure an access policy: https://developer.okta.com/docs/guides/configure-access-policy/main/
 Content type: How-to: developer focused
-Goal-oriented. Focused on developing a solution for a specific use case. Developer focused.</description>
+A How-to document illustrates how to perform a specific task that does not rely on writing code.</description>
     </item>
     <item>
       <title>Configure a custom access token lifetime</title>
@@ -51,7 +51,7 @@ Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Changes to be made: See existing content link for more details.
 Links to original docs: - The &amp;ldquo;Configure a custom access token lifetime per client&amp;rdquo; section in Configure an access policy: https://developer.okta.com/docs/guides/configure-access-policy/main/
 Content type: How-to: developer focused
-Goal-oriented. Focused on developing a solution for a specific use case.</description>
+A How-to document illustrates how to perform a specific task that does not rely on writing code.</description>
     </item>
     <item>
       <title>Require an additional authenticator for users in a group</title>
@@ -85,7 +85,7 @@ Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Changes to be made: Update title
 Links to original docs: - Test your policies with access simulations: https://developer.okta.com/docs/guides/policy-simulation/main/
 Content type: How-to: developer focused
-Goal-oriented. Focused on developing a solution for a specific use case. Developer focused. Cites code samples.</description>
+A How-to document illustrates how to perform a specific task that does not rely on writing code. How-tos tend to walk the reader step by step through administrative tasks but not exclusively.</description>
     </item>
     <item>
       <title>Enable a user consent dialog for an app</title>
@@ -108,7 +108,7 @@ Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Changes to be made: Update title
 Links to original docs: - Set up OAuth 2.0 On-Behalf-Of Token Exchange: https://developer.okta.com/docs/guides/set-up-token-exchange/main/
 Content type: How-to: developer focused
-Goal-oriented. Focused on developing a solution for a specific use case.</description>
+A How-to document illustrates how to perform a specific task that does not rely on writing code.</description>
     </item>
     <item>
       <title>Step up authentication based on access request using ACR</title>
@@ -120,7 +120,7 @@ Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Changes to be made: Update title
 Links to original docs: - Step-up authentication using ACR values: https://developer.okta.com/docs/guides/step-up-authentication/main/
 Content type: How-to: developer focused
-Goal-oriented. Focused on developing a solution for a specific use case. Developer focused. Cites code samples.</description>
+A How-to document illustrates how to perform a specific task that does not rely on writing code. How-tos tend to walk the reader step by step through administrative tasks but not exclusively.</description>
     </item>
     <item>
       <title>Manage access to Org objects with role assignments</title>

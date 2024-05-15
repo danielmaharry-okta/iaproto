@@ -16,8 +16,7 @@
 Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Links to original docs: - Auth JS fundamentals: https://developer.okta.com/docs/guides/archive-auth-js/main/
 Content type: Integration guide
-Goal-oriented. Similar to a how-to but the focus is more technical and geared towards developers integrating an SDK, API, or another library into their applications. These guides follow a specific use case.
-These guides DO NOT contain API Reference information like parameter descriptions (for example see https://developer.</description>
+An integration guide or coding guide illustrates how to perform a specific task that involves writing code. It is similar to a how-to but the focus is more technical and geared towards developers integrating an SDK, API, or another library into their applications.</description>
     </item>
     <item>
       <title>Configure sign-on policies</title>
@@ -28,7 +27,7 @@ These guides DO NOT contain API Reference information like parameter description
 Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Links to original docs: - Configure Okta sign-on and app sign-on policies: https://developer.okta.com/docs/guides/archive-configure-signon-policy/main/
 Content type: How-to: developer focused
-Goal-oriented. Focused on developing a solution for a specific use case. Developer focused. Cites code samples.</description>
+A How-to document illustrates how to perform a specific task that does not rely on writing code. How-tos tend to walk the reader step by step through administrative tasks but not exclusively.</description>
     </item>
     <item>
       <title>Embedded widget fundamentals</title>
@@ -39,8 +38,7 @@ Goal-oriented. Focused on developing a solution for a specific use case. Develop
 Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Links to original docs: - Embedded Okta Sign-In Widget fundamentals: https://developer.okta.com/docs/guides/archive-embedded-siw/main/
 Content type: Integration guide
-Goal-oriented. Similar to a how-to but the focus is more technical and geared towards developers integrating an SDK, API, or another library into their applications. These guides follow a specific use case.
-These guides DO NOT contain API Reference information like parameter descriptions (for example see https://developer.</description>
+An integration guide or coding guide illustrates how to perform a specific task that involves writing code. It is similar to a how-to but the focus is more technical and geared towards developers integrating an SDK, API, or another library into their applications.</description>
     </item>
     <item>
       <title>Sign in to SPA: Auth JS</title>
@@ -51,7 +49,7 @@ These guides DO NOT contain API Reference information like parameter description
 Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Links to original docs: - Sign in to SPA with Auth JS: https://developer.okta.com/docs/guides/archive-sign-in-to-spa-authjs/angular/main/
 Content type: Integration guide
-Goal-oriented. Similar to a how-to but the focus is more technical and geared towards developers integrating an SDK, API, or another library into their applications. These guides follow a specific use case.</description>
+An integration guide or coding guide illustrates how to perform a specific task that involves writing code. It is similar to a how-to but the focus is more technical and geared towards developers integrating an SDK, API, or another library into their applications.</description>
     </item>
     <item>
       <title>Sign in to SPA: Embedded Widget</title>
@@ -62,7 +60,7 @@ Goal-oriented. Similar to a how-to but the focus is more technical and geared to
 Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Links to original docs: - Sign in to SPA with embedded Widget: https://developer.okta.com/docs/guides/archive-sign-in-to-spa-embedded-widget/angular/main/
 Content type: Integration guide
-Goal-oriented. Similar to a how-to but the focus is more technical and geared towards developers integrating an SDK, API, or another library into their applications. These guides follow a specific use case.</description>
+An integration guide or coding guide illustrates how to perform a specific task that involves writing code. It is similar to a how-to but the focus is more technical and geared towards developers integrating an SDK, API, or another library into their applications.</description>
     </item>
     <item>
       <title>Sign users out</title>
@@ -73,8 +71,7 @@ Goal-oriented. Similar to a how-to but the focus is more technical and geared to
 Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Links to original docs: - Sign users out: https://developer.okta.com/docs/guides/sign-users-out/angular/main/
 Content type: Integration guide
-Goal-oriented. Similar to a how-to but the focus is more technical and geared towards developers integrating an SDK, API, or another library into their applications. These guides follow a specific use case.
-These guides DO NOT contain API Reference information like parameter descriptions (for example see https://developer.</description>
+An integration guide or coding guide illustrates how to perform a specific task that involves writing code. It is similar to a how-to but the focus is more technical and geared towards developers integrating an SDK, API, or another library into their applications.</description>
     </item>
     <item>
       <title>Add multifactor authentication</title>
@@ -85,7 +82,7 @@ These guides DO NOT contain API Reference information like parameter description
 Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Links to original docs: - Add multifactor authentication: https://developer.okta.com/docs/guides/mfa/ga/main/
 Content type: How-to: developer focused
-Goal-oriented. Focused on developing a solution for a specific use case. Developer focused. Cites code samples.</description>
+A How-to document illustrates how to perform a specific task that does not rely on writing code. How-tos tend to walk the reader step by step through administrative tasks but not exclusively. They might include code snippets such as API requests and responses, or outline how to develop the required solution but without walking through the majority of the code required to implement it.</description>
     </item>
     <item>
       <title>Registration inline hook</title>
@@ -96,8 +93,7 @@ Goal-oriented. Focused on developing a solution for a specific use case. Develop
 Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Links to original docs: - Registration inline hook: https://developer.okta.com/docs/guides/archive-registration-inline-hook/nodejs/main/
 Content type: Integration guide
-Goal-oriented. Similar to a how-to but the focus is more technical and geared towards developers integrating an SDK, API, or another library into their applications. These guides follow a specific use case.
-These guides DO NOT contain API Reference information like parameter descriptions (for example see https://developer.</description>
+An integration guide or coding guide illustrates how to perform a specific task that involves writing code. It is similar to a how-to but the focus is more technical and geared towards developers integrating an SDK, API, or another library into their applications.</description>
     </item>
     <item>
       <title>Set up self-service registration</title>
@@ -108,7 +104,7 @@ These guides DO NOT contain API Reference information like parameter description
 Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Links to original docs: - Set up self-service registration: https://developer.okta.com/docs/guides/archive-set-up-self-service-registration/main/
 Content type: How-to: developer focused
-Goal-oriented. Focused on developing a solution for a specific use case. Developer focused. Cites code samples.</description>
+A How-to document illustrates how to perform a specific task that does not rely on writing code. How-tos tend to walk the reader step by step through administrative tasks but not exclusively. They might include code snippets such as API requests and responses, or outline how to develop the required solution but without walking through the majority of the code required to implement it.</description>
     </item>
     <item>
       <title>Mobile apps</title>
@@ -119,9 +115,8 @@ Goal-oriented. Focused on developing a solution for a specific use case. Develop
 Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Links to original docs: - Mobile apps: https://developer.okta.com/docs/guides/mobile-apps/
 Content type: Summary redirect
-This document serves primarily as a pointer or a gateway to direct users to the main source material located elsewhere in the documentation.
-Key characteristics of this content type include:
-Brief Overview: Provides a concise summary or overview of the topic.</description>
+A redirect provides a summary of a topic with links to the articles elsewhere in the site that cover that content in full. For example:
+https://developer.okta.com/docs/guides/oie-upgrade-sign-in-widget-styling/main/ summarizes the options for styling the sign-in widget and links to a more in-depth page for each of them.</description>
     </item>
   </channel>
 </rss>

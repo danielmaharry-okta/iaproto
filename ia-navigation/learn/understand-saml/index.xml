@@ -17,7 +17,8 @@ Content Notes Target personas: New IAM Developers,Developers new to Okta
 Changes to be made: Update the flow charts away from Plant UML to use the Figma design.
 Links to original docs: - SAML: https://developer.okta.com/docs/concepts/saml/
 Content type: Conceptual overview
-High-level explanations of the underlying concepts, architecture, or design principles behind the product or service. These overviews provide developers with a broader understanding of how the system works.</description>
+Conceptual overviews present a high-level introduction to a topic. For example, there are product \ feature overviews:
+https://developer.okta.com/docs/concepts/multi-tenancy/ https://developer.okta.com/docs/concepts/scim/ https://developer.okta.com/docs/concepts/auth-servers/ And there are also overviews of lower-level material.</description>
     </item>
     <item>
       <title>Service provider Initiated flow</title>
@@ -39,7 +40,7 @@ Content type: Conceptual overview</description>
 Content Notes Target personas: New IAM Developers,Developers new to Okta
 Links to original docs: - SAML technical questions: https://developer.okta.com/docs/concepts/saml/faqs/
 Content type: FAQ
-Frequently asked questions that address common queries, concerns, or misconceptions developers might have.</description>
+A set of frequently asked questions that address common queries, concerns, or misconceptions developers might have.</description>
     </item>
   </channel>
 </rss>

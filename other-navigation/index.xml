@@ -15,7 +15,7 @@
       <description>Archive Click here to give feedback about this page
 Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Content type: Guide Hub
-This type of document serves as a central navigational starting point within a larger documentation system. It&amp;rsquo;s structured to outline various user journeys, guiding users to specific documents through organized links, often presented in a tree view or a similar hierarchical structure. Some key characteristics of a Guide Hub or Documentation Hub:</description>
+A guide hub is the main navigation page for a section, such as learn, plan, or build. It begins with &amp;ldquo;Who this section is for?&amp;rdquo; and how the user may have gotten to this page, i.e., where they are in their user journey at this point. It then outlines different user journeys \ tasks covered in the section, perhaps split up by level of experience, complexity, and so on (as determined by the document design process), guiding users to specific documents through organized links.</description>
     </item>
     <item>
       <title>Connect</title>
@@ -46,7 +46,8 @@ Not applicable</description>
       <description>The Okta APIs Click here to give feedback about this page
 Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Links to original docs: Link to APIs main page (ID: 171)
-Content type: Link</description>
+Content type: Link
+A link to a different website</description>
     </item>
     <item>
       <title>SDKs</title>
@@ -56,7 +57,8 @@ Content type: Link</description>
       <description>SDKs Click here to give feedback about this page
 Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Links to original docs: Link to SDKs main page (ID: 88)
-Content type: Link</description>
+Content type: Link
+A link to a different website</description>
     </item>
   </channel>
 </rss>

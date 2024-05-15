@@ -31,7 +31,7 @@ Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Changes to be made: - Move out of redocly to dev docs site.
 Update title Links to original docs: - https://developer.okta.com/docs/api/openapi/okta-oauth/guides/overview/
 Content type: Reference lookup
-A page containing mostly a series of tables or lists for users to look up a fact or definition, and a short explanatory text giving those tables the correct context</description>
+Reference lookups consist mostly of a series of tables or lists where users can look up facts or definitions, interspersed with short explanatory texts that give those tables the correct context.</description>
     </item>
     <item>
       <title>Enable CORS and cross-origin access to the Okta API</title>
@@ -44,7 +44,7 @@ Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Changes to be made: - Update title
 Links to original docs: - Enable CORS: https://developer.okta.com/docs/guides/enable-cors/main/
 Content type: How-to: developer focused
-Goal-oriented. Focused on developing a solution for a specific use case.</description>
+A How-to document illustrates how to perform a specific task that does not rely on writing code.</description>
     </item>
     <item>
       <title>API General Notes</title>
@@ -84,7 +84,7 @@ Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Description: This is an automatically generated document from the Monolith
 Links to original docs: - Okta error codes and descriptions: https://developer.okta.com/docs/reference/error-codes/
 Content type: Reference lookup
-A page containing mostly a series of tables or lists for users to look up a fact or definition, and a short explanatory text giving those tables the correct context</description>
+Reference lookups consist mostly of a series of tables or lists where users can look up facts or definitions, interspersed with short explanatory texts that give those tables the correct context.</description>
     </item>
     <item>
       <title>OAuth 2.0 Scopes</title>
@@ -96,7 +96,7 @@ Group Notes Group description: Straight copy from Redocly but need an introducti
 Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Links to original docs: https://developer.okta.com/docs/api/oauth2/
 Content type: Reference lookup
-A page containing mostly a series of tables or lists for users to look up a fact or definition, and a short explanatory text giving those tables the correct context</description>
+Reference lookups consist mostly of a series of tables or lists where users can look up facts or definitions, interspersed with short explanatory texts that give those tables the correct context.</description>
     </item>
     <item>
       <title>Release Lifecycle</title>
@@ -108,7 +108,7 @@ Group Notes Group description: Straight port from Redocly
 Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Links to original docs: https://developer.okta.com/docs/api/openapi/okta-management/guides/release-lifecycle/
 Content type: Explanation
-This content type is focused on more detailed, topic-specific discussions that clarify how certain features, functionalities, or aspects of the product or service operate. This type of document aims to demystify specific elements of the technology, offering practical insights, step-by-step guidance, or in-depth clarification on particular points of interest to developers.</description>
+Explanations present a more detailed dive into a single topic compared to Conceptual Overviews. They aim to clarify specific elements of the technology, offering developers practical insights or in-depth clarification on particular points of interest. For example, there are explanations \ deeper dives into single Okta features:</description>
     </item>
     <item>
       <title>API Rate Limits</title>
@@ -129,7 +129,7 @@ Links to original docs: - Rate Limits: https://developer.</description>
 Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Links to original docs: https://developer.okta.com/docs/reference/api/oidc/
 Content type: Guide Hub
-This type of document serves as a central navigational starting point within a larger documentation system. It&amp;rsquo;s structured to outline various user journeys, guiding users to specific documents through organized links, often presented in a tree view or a similar hierarchical structure.</description>
+A guide hub is the main navigation page for a section, such as learn, plan, or build. It begins with &amp;ldquo;Who this section is for?&amp;rdquo; and how the user may have gotten to this page, i.e., where they are in their user journey at this point.</description>
     </item>
     <item>
       <title>SCIM</title>
@@ -141,7 +141,7 @@ Group Notes Group description: Stands as is from DevDocs. Just a note on what it
 Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Links to original docs: https://developer.okta.com/docs/reference/scim/
 Content type: Explanation
-This content type is focused on more detailed, topic-specific discussions that clarify how certain features, functionalities, or aspects of the product or service operate.</description>
+Explanations present a more detailed dive into a single topic compared to Conceptual Overviews.</description>
     </item>
     <item>
       <title>Okta Admin Management APIs</title>
@@ -151,7 +151,7 @@ This content type is focused on more detailed, topic-specific discussions that c
       <description>Okta Admin Management APIs Click here to give feedback about this page
 Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Content type: Guide Hub
-This type of document serves as a central navigational starting point within a larger documentation system. It&amp;rsquo;s structured to outline various user journeys, guiding users to specific documents through organized links, often presented in a tree view or a similar hierarchical structure. Some key characteristics of a Guide Hub or Documentation Hub:</description>
+A guide hub is the main navigation page for a section, such as learn, plan, or build. It begins with &amp;ldquo;Who this section is for?&amp;rdquo; and how the user may have gotten to this page, i.e., where they are in their user journey at this point.</description>
     </item>
     <item>
       <title>MyAccount Management APIs</title>
@@ -161,7 +161,7 @@ This type of document serves as a central navigational starting point within a l
       <description>MyAccount Management APIs Click here to give feedback about this page
 Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Content type: Guide Hub
-This type of document serves as a central navigational starting point within a larger documentation system. It&amp;rsquo;s structured to outline various user journeys, guiding users to specific documents through organized links, often presented in a tree view or a similar hierarchical structure. Some key characteristics of a Guide Hub or Documentation Hub:</description>
+A guide hub is the main navigation page for a section, such as learn, plan, or build. It begins with &amp;ldquo;Who this section is for?&amp;rdquo; and how the user may have gotten to this page, i.e., where they are in their user journey at this point. It then outlines different user journeys \ tasks covered in the section, perhaps split up by level of experience, complexity, and so on (as determined by the document design process), guiding users to specific documents through organized links.</description>
     </item>
     <item>
       <title>Okta Aerial APIs</title>
@@ -171,7 +171,7 @@ This type of document serves as a central navigational starting point within a l
       <description>Okta Aerial APIs Click here to give feedback about this page
 Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Content type: Guide Hub
-This type of document serves as a central navigational starting point within a larger documentation system. It&amp;rsquo;s structured to outline various user journeys, guiding users to specific documents through organized links, often presented in a tree view or a similar hierarchical structure. Some key characteristics of a Guide Hub or Documentation Hub:</description>
+A guide hub is the main navigation page for a section, such as learn, plan, or build. It begins with &amp;ldquo;Who this section is for?&amp;rdquo; and how the user may have gotten to this page, i.e., where they are in their user journey at this point. It then outlines different user journeys \ tasks covered in the section, perhaps split up by level of experience, complexity, and so on (as determined by the document design process), guiding users to specific documents through organized links.</description>
     </item>
     <item>
       <title>Okta Privileged Access APIs</title>
@@ -193,7 +193,7 @@ Unknown</description>
 Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Links to original docs: https://developer.okta.com/docs/api/openapi/asa/
 Content type: Guide Hub
-This type of document serves as a central navigational starting point within a larger documentation system. It&amp;rsquo;s structured to outline various user journeys, guiding users to specific documents through organized links, often presented in a tree view or a similar hierarchical structure.</description>
+A guide hub is the main navigation page for a section, such as learn, plan, or build. It begins with &amp;ldquo;Who this section is for?&amp;rdquo; and how the user may have gotten to this page, i.e., where they are in their user journey at this point.</description>
     </item>
     <item>
       <title>Shared Signals Framework API</title>
@@ -204,7 +204,7 @@ This type of document serves as a central navigational starting point within a l
 Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Description: Overview of the Shared Signals Framework group of APIs
 Content type: Guide Hub
-This type of document serves as a central navigational starting point within a larger documentation system. It&amp;rsquo;s structured to outline various user journeys, guiding users to specific documents through organized links, often presented in a tree view or a similar hierarchical structure.</description>
+A guide hub is the main navigation page for a section, such as learn, plan, or build. It begins with &amp;ldquo;Who this section is for?&amp;rdquo; and how the user may have gotten to this page, i.</description>
     </item>
   </channel>
 </rss>

@@ -16,7 +16,9 @@
 Content Notes Target personas: New IAM Developers,Developers new to Okta
 Links to original docs: - OAuth 2.0 and OpenID Connect overview: https://developer.okta.com/docs/concepts/oauth-openid/
 Content type: Conceptual overview
-High-level explanations of the underlying concepts, architecture, or design principles behind the product or service. These overviews provide developers with a broader understanding of how the system works.</description>
+Conceptual overviews present a high-level introduction to a topic. For example, there are product \ feature overviews:
+https://developer.okta.com/docs/concepts/multi-tenancy/ https://developer.okta.com/docs/concepts/scim/ https://developer.okta.com/docs/concepts/auth-servers/ And there are also overviews of lower-level material. For example:
+The Client Credentials Flow: Taking this material from the top to &amp;ldquo;Set Up Your App&amp;rdquo;.</description>
     </item>
   </channel>
 </rss>

@@ -35,7 +35,7 @@ Content type: Explanation</description>
       <description>Understand the benefits of API Services Click here to give feedback about this page
 Content Notes Links to original docs: API service integrations in the OIN: https://developer.okta.com/docs/guides/oin-api-service-overview/
 Note that most of this content is not specific to the OIN. Ensure there is not OIN content here Content type: Explanation
-This content type is focused on more detailed, topic-specific discussions that clarify how certain features, functionalities, or aspects of the product or service operate.</description>
+Explanations present a more detailed dive into a single topic compared to Conceptual Overviews. They aim to clarify specific elements of the technology, offering developers practical insights or in-depth clarification on particular points of interest.</description>
     </item>
     <item>
       <title>Implement effective authentication strategies</title>
@@ -47,7 +47,7 @@ Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Changes to be made: Title change
 Links to original docs: - Authentication factors: https://developer.okta.com/docs/concepts/iam-overview-authentication-factors/
 Content type: Explanation
-This content type is focused on more detailed, topic-specific discussions that clarify how certain features, functionalities, or aspects of the product or service operate. This type of document aims to demystify specific elements of the technology, offering practical insights, step-by-step guidance, or in-depth clarification on particular points of interest to developers.</description>
+Explanations present a more detailed dive into a single topic compared to Conceptual Overviews. They aim to clarify specific elements of the technology, offering developers practical insights or in-depth clarification on particular points of interest.</description>
     </item>
     <item>
       <title>Compare Oktas sign-in deployment model</title>
@@ -59,7 +59,7 @@ Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Changes to be made: 1. Title change 2. Add content related to the Direct Auth API. (need PM/other confirmation)
 Links to original docs: - Sign users in overview: https://developer.okta.com/docs/guides/sign-in-overview/main/
 Content type: Explanation
-This content type is focused on more detailed, topic-specific discussions that clarify how certain features, functionalities, or aspects of the product or service operate.</description>
+Explanations present a more detailed dive into a single topic compared to Conceptual Overviews. They aim to clarify specific elements of the technology, offering developers practical insights or in-depth clarification on particular points of interest.</description>
     </item>
     <item>
       <title>Secure your users with Universal Directory</title>
@@ -71,7 +71,7 @@ Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Changes to be made: Title change
 Links to original docs: - Identity management factors: https://developer.okta.com/docs/concepts/iam-overview-identity-management-factors/
 Content type: Explanation
-This content type is focused on more detailed, topic-specific discussions that clarify how certain features, functionalities, or aspects of the product or service operate. This type of document aims to demystify specific elements of the technology, offering practical insights, step-by-step guidance, or in-depth clarification on particular points of interest to developers.</description>
+Explanations present a more detailed dive into a single topic compared to Conceptual Overviews. They aim to clarify specific elements of the technology, offering developers practical insights or in-depth clarification on particular points of interest.</description>
     </item>
     <item>
       <title>Optimize your access control</title>
@@ -83,7 +83,7 @@ Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Changes to be made: - Title change
 Replace &amp;ldquo;Authorization&amp;rdquo; wording? I don&amp;rsquo;t see it used as much in the latest Okta docs. Links to original docs: - Authorization factors: https://developer.okta.com/docs/concepts/iam-overview-authorization-factors/
 Content type: Explanation
-This content type is focused on more detailed, topic-specific discussions that clarify how certain features, functionalities, or aspects of the product or service operate.</description>
+Explanations present a more detailed dive into a single topic compared to Conceptual Overviews. They aim to clarify specific elements of the technology, offering developers practical insights or in-depth clarification on particular points of interest.</description>
     </item>
     <item>
       <title>Design your IAM solution for successful deployment</title>
@@ -95,7 +95,7 @@ Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Changes to be made: Title change
 Links to original docs: - Architectural factors: https://developer.okta.com/docs/concepts/iam-overview-architectural-factors/
 Content type: Explanation
-This content type is focused on more detailed, topic-specific discussions that clarify how certain features, functionalities, or aspects of the product or service operate. This type of document aims to demystify specific elements of the technology, offering practical insights, step-by-step guidance, or in-depth clarification on particular points of interest to developers.</description>
+Explanations present a more detailed dive into a single topic compared to Conceptual Overviews. They aim to clarify specific elements of the technology, offering developers practical insights or in-depth clarification on particular points of interest.</description>
     </item>
     <item>
       <title>Design your IAM solution for government entities</title>
@@ -105,7 +105,7 @@ This content type is focused on more detailed, topic-specific discussions that c
       <description>Design your IAM solution for government entities Click here to give feedback about this page
 Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Content type: Explanation
-This content type is focused on more detailed, topic-specific discussions that clarify how certain features, functionalities, or aspects of the product or service operate. This type of document aims to demystify specific elements of the technology, offering practical insights, step-by-step guidance, or in-depth clarification on particular points of interest to developers.</description>
+Explanations present a more detailed dive into a single topic compared to Conceptual Overviews. They aim to clarify specific elements of the technology, offering developers practical insights or in-depth clarification on particular points of interest. For example, there are explanations \ deeper dives into single Okta features:</description>
     </item>
     <item>
       <title>Build with Okta Identity Governance</title>
@@ -116,7 +116,7 @@ This content type is focused on more detailed, topic-specific discussions that c
 Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Why is this here?: All &amp;ldquo;Other&amp;rdquo; solutions (which are solutions other than LCM, Automation, and Authentication), 27% of the &amp;ldquo;Other&amp;rdquo; solutions customer are building are OIG based.
 Content type: Explanation
-This content type is focused on more detailed, topic-specific discussions that clarify how certain features, functionalities, or aspects of the product or service operate.</description>
+Explanations present a more detailed dive into a single topic compared to Conceptual Overviews. They aim to clarify specific elements of the technology, offering developers practical insights or in-depth clarification on particular points of interest.</description>
     </item>
     <item>
       <title>Best practices</title>
@@ -138,9 +138,8 @@ Although it was for OIN related topics, respondents also answered they were look
 Group Notes Group description: Brief summary and redirect to top build page
 Content Notes Target personas: New IAM Developers,Developers new to Okta
 Content type: Summary redirect
-This document serves primarily as a pointer or a gateway to direct users to the main source material located elsewhere in the documentation.
-Key characteristics of this content type include:
-Brief Overview: Provides a concise summary or overview of the topic.</description>
+A redirect provides a summary of a topic with links to the articles elsewhere in the site that cover that content in full. For example:
+https://developer.okta.com/docs/guides/oie-upgrade-sign-in-widget-styling/main/ summarizes the options for styling the sign-in widget and links to a more in-depth page for each of them.</description>
     </item>
   </channel>
 </rss>

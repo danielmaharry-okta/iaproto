@@ -16,7 +16,7 @@
 Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Why is this here?: - Internal workshop session: Session 1 - Team 2 chose the Okta APIs group.
 Internal workshop session: Session 2 - Team 1 chose the APIs group. Content type: Guide Hub
-This type of document serves as a central navigational starting point within a larger documentation system. It&amp;rsquo;s structured to outline various user journeys, guiding users to specific documents through organized links, often presented in a tree view or a similar hierarchical structure.</description>
+A guide hub is the main navigation page for a section, such as learn, plan, or build.</description>
     </item>
     <item>
       <title>SDKs</title>
@@ -49,7 +49,7 @@ Changes to be made: This document is currently dynamically generated, but it sho
 Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Links to original docs: Doc content is pulled from several docs:
 Customize email notifications: https://developer.okta.com/docs/guides/custom-email/main/ Velocity template language (help docs): https://help.okta.com/en-us/content/topics/settings/velocity-variables.htm Content type: Reference lookup
-A page containing mostly a series of tables or lists for users to look up a fact or definition, and a short explanatory text giving those tables the correct context</description>
+Reference lookups consist mostly of a series of tables or lists where users can look up facts or definitions, interspersed with short explanatory texts that give those tables the correct context.</description>
     </item>
     <item>
       <title>Okta expression language</title>
@@ -69,7 +69,7 @@ Content Notes Target personas: WIC App Developer,Experienced IAM developer</desc
 Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Links to original docs: Make this guide into a reference guide:
 Role assignment: https://developer.okta.com/docs/concepts/role-assignment/ Content type: Integration guide
-Goal-oriented. Similar to a how-to but the focus is more technical and geared towards developers integrating an SDK, API, or another library into their applications. These guides follow a specific use case.</description>
+An integration guide or coding guide illustrates how to perform a specific task that involves writing code. It is similar to a how-to but the focus is more technical and geared towards developers integrating an SDK, API, or another library into their applications.</description>
     </item>
     <item>
       <title>Dictionary</title>
@@ -79,7 +79,8 @@ Goal-oriented. Similar to a how-to but the focus is more technical and geared to
       <description>Terminology dictionary Click here to give feedback about this page
 Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Content type: Glossary
-A list of terms and definitions specific to the product, service, or domain, helping developers familiarize themselves with the vocabulary used in the documentation.</description>
+A Glossary is a list of often difficult or specialized words and acronyms with their definitions, in this case specific to IAM and Okta topics and products. For example:
+Flare Glossary Okta Dictionary </description>
     </item>
   </channel>
 </rss>

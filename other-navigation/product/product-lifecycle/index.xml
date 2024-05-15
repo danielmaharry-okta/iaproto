@@ -27,7 +27,7 @@ Changes are underway for this section. See https://oktainc.atlassian.net/browse/
 Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Links to original docs: - Feature lifecycle management: https://developer.okta.com/docs/concepts/feature-lifecycle-management/
 Content type: Explanation
-This content type is focused on more detailed, topic-specific discussions that clarify how certain features, functionalities, or aspects of the product or service operate. This type of document aims to demystify specific elements of the technology, offering practical insights, step-by-step guidance, or in-depth clarification on particular points of interest to developers.</description>
+Explanations present a more detailed dive into a single topic compared to Conceptual Overviews. They aim to clarify specific elements of the technology, offering developers practical insights or in-depth clarification on particular points of interest. For example, there are explanations \ deeper dives into single Okta features:</description>
     </item>
   </channel>
 </rss>

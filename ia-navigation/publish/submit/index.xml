@@ -16,7 +16,7 @@
 Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Links to original docs: - OIN submission requirements: https://developer.okta.com/docs/guides/submit-app-prereq/main/
 Content type: How-to: developer focused
-Goal-oriented. Focused on developing a solution for a specific use case. Developer focused. Cites code samples.</description>
+A How-to document illustrates how to perform a specific task that does not rely on writing code. How-tos tend to walk the reader step by step through administrative tasks but not exclusively. They might include code snippets such as API requests and responses, or outline how to develop the required solution but without walking through the majority of the code required to implement it.</description>
     </item>
     <item>
       <title>Single Sign-on (SSO)</title>
@@ -27,7 +27,7 @@ Goal-oriented. Focused on developing a solution for a specific use case. Develop
 Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Links to original docs: - Submit an SSO integration with the OIN Wizard: https://developer.okta.com/docs/guides/submit-oin-app/openidconnect/main/
 Content type: How-to: developer focused
-Goal-oriented. Focused on developing a solution for a specific use case. Developer focused. Cites code samples.</description>
+A How-to document illustrates how to perform a specific task that does not rely on writing code. How-tos tend to walk the reader step by step through administrative tasks but not exclusively.</description>
     </item>
     <item>
       <title>SCIM App</title>
@@ -38,7 +38,7 @@ Goal-oriented. Focused on developing a solution for a specific use case. Develop
 Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Links to original docs: - Submit an LCM integration: https://developer.okta.com/docs/guides/submit-app/scim/main/
 Content type: How-to: developer focused
-Goal-oriented. Focused on developing a solution for a specific use case. Developer focused. Cites code samples.</description>
+A How-to document illustrates how to perform a specific task that does not rely on writing code. How-tos tend to walk the reader step by step through administrative tasks but not exclusively. They might include code snippets such as API requests and responses, or outline how to develop the required solution but without walking through the majority of the code required to implement it.</description>
     </item>
     <item>
       <title>API Service</title>
@@ -49,7 +49,7 @@ Goal-oriented. Focused on developing a solution for a specific use case. Develop
 Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Links to original docs: The bottom of the following doc has content related to submitting an API Service:
 Build an API service integration: https://developer.okta.com/docs/guides/build-api-integration/main/ Content type: How-to: developer focused
-Goal-oriented. Focused on developing a solution for a specific use case. Developer focused. Cites code samples.</description>
+A How-to document illustrates how to perform a specific task that does not rely on writing code. How-tos tend to walk the reader step by step through administrative tasks but not exclusively.</description>
     </item>
   </channel>
 </rss>

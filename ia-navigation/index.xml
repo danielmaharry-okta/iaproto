@@ -54,7 +54,7 @@ Changes to be made: - There was a discussion last year to update this doc since:
       <description>Reference Click here to give feedback about this page
 Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Content type: Guide Hub
-This type of document serves as a central navigational starting point within a larger documentation system. It&amp;rsquo;s structured to outline various user journeys, guiding users to specific documents through organized links, often presented in a tree view or a similar hierarchical structure. Some key characteristics of a Guide Hub or Documentation Hub:</description>
+A guide hub is the main navigation page for a section, such as learn, plan, or build. It begins with &amp;ldquo;Who this section is for?&amp;rdquo; and how the user may have gotten to this page, i.e., where they are in their user journey at this point. It then outlines different user journeys \ tasks covered in the section, perhaps split up by level of experience, complexity, and so on (as determined by the document design process), guiding users to specific documents through organized links.</description>
     </item>
   </channel>
 </rss>

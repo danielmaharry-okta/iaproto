@@ -15,8 +15,8 @@
       <description>Upgrade to the Identity Engine Click here to give feedback about this page
 Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Content type: Dynamic Index
-This document type is designed to automatically generate and display a list of child documents when a particular node in the navigation tree is selected. Key characteristics of this content type are:
-Automated Listing: Automatically generates a list of links to child documents based on the site&amp;rsquo;s structure or predefined criteria.</description>
+A dynamic index is an automatically generated list of links to topics immediately beneath it based purely on the site&amp;rsquo;s structure, or with some level of filtering. A blind list of summaries and links to child docs. For example:
+https://developer.okta.com/docs/guides/authorization/ https://developer.okta.com/docs/guides/api-security/ https://developer.okta.com/docs/guides/manage-users/ </description>
     </item>
     <item>
       <title>Upgrade SAML apps to SHA256</title>
@@ -27,7 +27,7 @@ Automated Listing: Automatically generates a list of links to child documents ba
 Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Links to original docs: - Upgrade SAML apps to SHA256: https://developer.okta.com/docs/guides/updating-saml-cert/main/
 Content type: How-to: developer focused
-Goal-oriented. Focused on developing a solution for a specific use case. Developer focused. Cites code samples.</description>
+A How-to document illustrates how to perform a specific task that does not rely on writing code. How-tos tend to walk the reader step by step through administrative tasks but not exclusively. They might include code snippets such as API requests and responses, or outline how to develop the required solution but without walking through the majority of the code required to implement it.</description>
     </item>
   </channel>
 </rss>

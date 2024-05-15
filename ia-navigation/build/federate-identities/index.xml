@@ -16,7 +16,7 @@
 Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Links to original docs: - Add an external Identity Provider: https://developer.okta.com/docs/guides/identity-providers/
 Content type: Dynamic Index
-This document type is designed to automatically generate and display a list of child documents when a particular node in the navigation tree is selected. Key characteristics of this content type are:</description>
+A dynamic index is an automatically generated list of links to topics immediately beneath it based purely on the site&amp;rsquo;s structure, or with some level of filtering. A blind list of summaries and links to child docs.</description>
     </item>
     <item>
       <title>Define your own scopes, claims, and access policies</title>
@@ -34,8 +34,8 @@ Group Notes Group description: @Dan Maharry - After our conversation, I lookedup
       <description>Sync users across domains Click here to give feedback about this page
 Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Content type: Dynamic Index
-This document type is designed to automatically generate and display a list of child documents when a particular node in the navigation tree is selected. Key characteristics of this content type are:
-Automated Listing: Automatically generates a list of links to child documents based on the site&amp;rsquo;s structure or predefined criteria.</description>
+A dynamic index is an automatically generated list of links to topics immediately beneath it based purely on the site&amp;rsquo;s structure, or with some level of filtering. A blind list of summaries and links to child docs. For example:
+https://developer.okta.com/docs/guides/authorization/ https://developer.okta.com/docs/guides/api-security/ https://developer.okta.com/docs/guides/manage-users/ </description>
     </item>
     <item>
       <title>Store your users across multiple tenants </title>

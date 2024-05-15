@@ -29,7 +29,7 @@ Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Changes to be made: - Update title
 Even though the original doc say&amp;rsquo;s &amp;ldquo;Overview&amp;rdquo; it really is more like a Guide Hub Links to original docs: - Overview of lifecycle management in the OIN: https://developer.okta.com/docs/guides/oin-lifecycle-mgmt-overview/
 Content type: Guide Hub
-This type of document serves as a central navigational starting point within a larger documentation system.</description>
+A guide hub is the main navigation page for a section, such as learn, plan, or build.</description>
     </item>
     <item>
       <title>Prepare you API Service for the OIN</title>

@@ -16,7 +16,7 @@
 Content Notes Target personas: New IAM Developers,Developers new to Okta
 Links to original docs: - Test SAML app implementation with SAML Tracer: https://developer.okta.com/docs/guides/saml-tracer/main/
 Content type: How-to: developer focused
-Goal-oriented. Focused on developing a solution for a specific use case. Developer focused. Cites code samples.</description>
+A How-to document illustrates how to perform a specific task that does not rely on writing code. How-tos tend to walk the reader step by step through administrative tasks but not exclusively.</description>
     </item>
     <item>
       <title>Testing sign-in with Postman</title>
@@ -26,7 +26,7 @@ Goal-oriented. Focused on developing a solution for a specific use case. Develop
       <description>Testing sign-in with Postman Click here to give feedback about this page
 Content Notes Target personas: New IAM Developers,Developers new to Okta
 Content type: How-to: developer focused
-Goal-oriented. Focused on developing a solution for a specific use case. Developer focused. Cites code samples.</description>
+A How-to document illustrates how to perform a specific task that does not rely on writing code. How-tos tend to walk the reader step by step through administrative tasks but not exclusively. They might include code snippets such as API requests and responses, or outline how to develop the required solution but without walking through the majority of the code required to implement it.</description>
     </item>
     <item>
       <title>Test the Okta APIs with Postman</title>
@@ -37,7 +37,7 @@ Goal-oriented. Focused on developing a solution for a specific use case. Develop
 Content Notes Target personas: New IAM Developers,Developers new to Okta
 Links to original docs: https://developer.okta.com/docs/reference/rest/
 Content type: How-to: developer focused
-Goal-oriented. Focused on developing a solution for a specific use case. Developer focused. Cites code samples.</description>
+A How-to document illustrates how to perform a specific task that does not rely on writing code. How-tos tend to walk the reader step by step through administrative tasks but not exclusively. They might include code snippets such as API requests and responses, or outline how to develop the required solution but without walking through the majority of the code required to implement it.</description>
     </item>
     <item>
       <title>Postman Collections</title>
