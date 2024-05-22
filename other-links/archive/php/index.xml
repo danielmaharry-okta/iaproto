@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PHP on DevDocs Navigation Menu Test</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/other-links/archive/php/index.html</link>
+    <description>Recent content in PHP on DevDocs Navigation Menu Test</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/other-links/archive/php/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Protect Your API Endpoints</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/other-links/archive/php/protect-your-api-endpoints/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/other-links/archive/php/protect-your-api-endpoints/index.html</guid>
+      <description>Protect Your API Endpoints Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Links to original docs: https://developer.okta.com/archive/php/protect-your-api
+Structure type: Task
+Content type: Integration guide
+An integration guide or coding guide illustrates how to perform a specific task that involves writing code. It is similar to a how-to but the focus is more technical and geared towards developers integrating an SDK, API, or another library into their applications.</description>
+    </item>
+    <item>
+      <title>Use redirect auth with the Identity Engine sample apps</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/other-links/archive/php/use-redirect-auth-with-the-identity-engine-sample-apps/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/other-links/archive/php/use-redirect-auth-with-the-identity-engine-sample-apps/index.html</guid>
+      <description>Use redirect auth with the Identity Engine sample apps Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Links to original docs: https://developer.okta.com/archive/php/sampleapp-oie-redirectauth
+Structure type: Task
+Content type: Integration guide
+An integration guide or coding guide illustrates how to perform a specific task that involves writing code. It is similar to a how-to but the focus is more technical and geared towards developers integrating an SDK, API, or another library into their applications.</description>
+    </item>
+    <item>
+      <title>Sign users into your web app using the redirect model</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/other-links/archive/php/sign-users-into-your-web-app-using-the-redirect-model/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/other-links/archive/php/sign-users-into-your-web-app-using-the-redirect-model/index.html</guid>
+      <description>Sign users into your web app using the redirect model Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Links to original docs: https://developer.okta.com/archive/php/sign-into-web-app-redirect
+Structure type: Task
+Content type: Integration guide
+An integration guide or coding guide illustrates how to perform a specific task that involves writing code. It is similar to a how-to but the focus is more technical and geared towards developers integrating an SDK, API, or another library into their applications.</description>
+    </item>
+    <item>
+      <title>Validate access tokens</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/other-links/archive/php/validate-access-tokens/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/other-links/archive/php/validate-access-tokens/index.html</guid>
+      <description>Validate access tokens Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Links to original docs: https://developer.okta.com/archive/php/validate-access-tokens
+Structure type: Task
+Content type: Integration guide
+An integration guide or coding guide illustrates how to perform a specific task that involves writing code. It is similar to a how-to but the focus is more technical and geared towards developers integrating an SDK, API, or another library into their applications.</description>
+    </item>
+    <item>
+      <title>Get started with PHP &#43; Okta</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/other-links/archive/php/get-started-with-php-&#43;-okta/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/other-links/archive/php/get-started-with-php-&#43;-okta/index.html</guid>
+      <description>Get started with PHP + Okta Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Links to original docs: https://developer.okta.com/archive/php/get-started-with-php
+Structure type: Task
+Content type: Integration guide
+An integration guide or coding guide illustrates how to perform a specific task that involves writing code. It is similar to a how-to but the focus is more technical and geared towards developers integrating an SDK, API, or another library into their applications.</description>
+    </item>
+    <item>
+      <title>Use SimpleSAMLphp to add support for Okta via SAML</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/other-links/archive/php/use-simplesamlphp-to-add-support-for-okta-via-saml/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/other-links/archive/php/use-simplesamlphp-to-add-support-for-okta-via-saml/index.html</guid>
+      <description>Use SimpleSAMLphp to add support for Okta via SAML Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Links to original docs: https://developer.okta.com/archive/php/simplesamlphp
+Structure type: Task
+Content type: Integration guide
+An integration guide or coding guide illustrates how to perform a specific task that involves writing code. It is similar to a how-to but the focus is more technical and geared towards developers integrating an SDK, API, or another library into their applications.</description>
+    </item>
+  </channel>
+</rss>

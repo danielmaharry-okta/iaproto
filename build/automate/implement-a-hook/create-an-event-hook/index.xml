@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Create an event hook on DevDocs Navigation Menu Test</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/implement-a-hook/create-an-event-hook/index.html</link>
+    <description>Recent content in Create an event hook on DevDocs Navigation Menu Test</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/build/automate/implement-a-hook/create-an-event-hook/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Event hooks overview</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/implement-a-hook/create-an-event-hook/event-hooks-overview/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/implement-a-hook/create-an-event-hook/event-hooks-overview/index.html</guid>
+      <description>Event hooks overview Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Changes to be made: Update title
+Links to original docs: - Event hooks: https://developer.okta.com/docs/concepts/event-hooks/
+Structure type: Concept
+Content type: Explanation
+Explanations present a more detailed dive into a single topic compared to Conceptual Overviews. They aim to clarify specific elements of the technology, offering developers practical insights or in-depth clarification on particular points of interest.</description>
+    </item>
+    <item>
+      <title>Set up your event hooks project</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/implement-a-hook/create-an-event-hook/set-up-your-event-hooks-project/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/implement-a-hook/create-an-event-hook/set-up-your-event-hooks-project/index.html</guid>
+      <description>Set up your event hooks project Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Changes to be made: - Reference the common &amp;ldquo;Set up your hooks project&amp;rdquo; in this doc first and then add anything specific to event hooks here.
+See existing content field for more details. Links to original docs: This doc pulls only content related to event hooks from this doc.</description>
+    </item>
+    <item>
+      <title>Use glitch.com to subscribe to an event hook</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/implement-a-hook/create-an-event-hook/use-glitch.com-to-subscribe-to-an-event-hook/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/implement-a-hook/create-an-event-hook/use-glitch.com-to-subscribe-to-an-event-hook/index.html</guid>
+      <description>Use glitch.com to subscribe to an event hook Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Changes to be made: Update title
+Links to original docs: - Event hook implementation: https://developer.okta.com/docs/guides/event-hook-implementation/nodejs/main/
+Structure type: Task
+Content type: Integration guide
+An integration guide or coding guide illustrates how to perform a specific task that involves writing code. It is similar to a how-to but the focus is more technical and geared towards developers integrating an SDK, API, or another library into their applications.</description>
+    </item>
+    <item>
+      <title>Use ngrok to subscribe to an event hook</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/implement-a-hook/create-an-event-hook/use-ngrok-to-subscribe-to-an-event-hook/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/implement-a-hook/create-an-event-hook/use-ngrok-to-subscribe-to-an-event-hook/index.html</guid>
+      <description>Use ngrok to subscribe to an event hook Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Changes to be made: Update title
+Links to original docs: - Event hooks with ngrok: https://developer.okta.com/docs/guides/event-hook-ngrok/nodejs/main/
+Structure type: Task
+Content type: Integration guide
+An integration guide or coding guide illustrates how to perform a specific task that involves writing code. It is similar to a how-to but the focus is more technical and geared towards developers integrating an SDK, API, or another library into their applications.</description>
+    </item>
+    <item>
+      <title>Use hookdeck to subscribe to an event hook</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/implement-a-hook/create-an-event-hook/use-hookdeck-to-subscribe-to-an-event-hook/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/implement-a-hook/create-an-event-hook/use-hookdeck-to-subscribe-to-an-event-hook/index.html</guid>
+      <description>Use hookdeck to subscribe to an event hook Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Changes to be made: Update title
+Links to original docs: - Event hooks with Hookdeck: https://developer.okta.com/docs/guides/event-hook-hookdeck/nodejs/main/
+Structure type: Task
+Content type: Integration guide
+An integration guide or coding guide illustrates how to perform a specific task that involves writing code. It is similar to a how-to but the focus is more technical and geared towards developers integrating an SDK, API, or another library into their applications.</description>
+    </item>
+    <item>
+      <title>Reduce the amount of hook calls with filters</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/implement-a-hook/create-an-event-hook/reduce-the-amount-of-hook-calls-with-filters/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/implement-a-hook/create-an-event-hook/reduce-the-amount-of-hook-calls-with-filters/index.html</guid>
+      <description>Reduce the amount of hook calls with filters Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Changes to be made: Update title
+Links to original docs: - Event hook filtering: https://developer.okta.com/docs/guides/event-hook-filtering/main/
+Structure type: Task
+Content type: How-to: developer focused
+A How-to document illustrates how to perform a specific task that does not rely on writing code. How-tos tend to walk the reader step by step through administrative tasks but not exclusively.</description>
+    </item>
+  </channel>
+</rss>

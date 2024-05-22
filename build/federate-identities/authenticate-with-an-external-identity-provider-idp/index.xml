@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authenticate with an external identity provider (IdP) on DevDocs Navigation Menu Test</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/build/federate-identities/authenticate-with-an-external-identity-provider-idp/index.html</link>
+    <description>Recent content in Authenticate with an external identity provider (IdP) on DevDocs Navigation Menu Test</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/build/federate-identities/authenticate-with-an-external-identity-provider-idp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Overview of IdPs</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/federate-identities/authenticate-with-an-external-identity-provider-idp/overview-of-idps/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/federate-identities/authenticate-with-an-external-identity-provider-idp/overview-of-idps/index.html</guid>
+      <description>Overview of IdPs Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Changes to be made: Update title
+Links to original docs: - External Identity Providers: https://developer.okta.com/docs/concepts/identity-providers/
+Structure type: Concept
+Content type: Explanation
+Explanations present a more detailed dive into a single topic compared to Conceptual Overviews. They aim to clarify specific elements of the technology, offering developers practical insights or in-depth clarification on particular points of interest.</description>
+    </item>
+    <item>
+      <title>Add an enterprise IdP</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/federate-identities/authenticate-with-an-external-identity-provider-idp/add-an-enterprise-idp/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/federate-identities/authenticate-with-an-external-identity-provider-idp/add-an-enterprise-idp/index.html</guid>
+      <description>Add an enterprise IdP Click here to give feedback about this page
+Group Notes Group description: What is an &amp;ldquo;Enterprise&amp;rdquo; IdP. We need to define it and understand whether this is the best way to split up IdPs.
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Changes to be made: - To make it more clear, change the dimensions to: - Azure AD to Azure AD IdP - Okta - to Okta -&amp;gt; Okta IdP - Generic OIDC IdP - Generic SAML 2.</description>
+    </item>
+    <item>
+      <title>Add a social IdP</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/federate-identities/authenticate-with-an-external-identity-provider-idp/add-a-social-idp/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/federate-identities/authenticate-with-an-external-identity-provider-idp/add-a-social-idp/index.html</guid>
+      <description>Add a social IdP Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Links to original docs: Social Login: https://developer.okta.com/docs/guides/social-login/amazon/main/
+Structure type: Task
+Content type: How-to: developer focused
+A How-to document illustrates how to perform a specific task that does not rely on writing code. How-tos tend to walk the reader step by step through administrative tasks but not exclusively. They might include code snippets such as API requests and responses, or outline how to develop the required solution but without walking through the majority of the code required to implement it.</description>
+    </item>
+    <item>
+      <title>Add the Login.gov IdP</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/federate-identities/authenticate-with-an-external-identity-provider-idp/add-the-login.gov-idp/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/federate-identities/authenticate-with-an-external-identity-provider-idp/add-the-login.gov-idp/index.html</guid>
+      <description>Add the Login.gov IdP Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Changes to be made: - Understand why is this guide separate from the guides? Is it because the guides in this section are split up into IdP type? If so that leave as be, else merge this guide into Enterprise IdP and change the name to allow for a &amp;ldquo;Login.</description>
+    </item>
+  </channel>
+</rss>

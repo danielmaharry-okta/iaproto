@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Access Okta APIs using OAuth on DevDocs Navigation Menu Test</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-access/access-okta-apis-using-oauth/index.html</link>
+    <description>Recent content in Access Okta APIs using OAuth on DevDocs Navigation Menu Test</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/build/manage-access/access-okta-apis-using-oauth/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Access Okta APIs with users credentials</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-access/access-okta-apis-using-oauth/access-okta-apis-with-users-credentials/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-access/access-okta-apis-using-oauth/access-okta-apis-with-users-credentials/index.html</guid>
+      <description>Access Okta APIs with user&amp;rsquo;s credentials Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Changes to be made: Update title
+Links to original docs: - Implement OAuth for Okta: https://developer.okta.com/docs/guides/implement-oauth-for-okta/main/
+Structure type: Task
+Content type: How-to: developer focused
+A How-to document illustrates how to perform a specific task that does not rely on writing code. How-tos tend to walk the reader step by step through administrative tasks but not exclusively.</description>
+    </item>
+    <item>
+      <title>Access Okta APIs with machine credentials</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-access/access-okta-apis-using-oauth/access-okta-apis-with-machine-credentials/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-access/access-okta-apis-using-oauth/access-okta-apis-with-machine-credentials/index.html</guid>
+      <description>Access Okta APIs with machine credentials Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Changes to be made: Content is derived from two guides. Merge content from both to create this doc.
+Links to original docs: - Implement OAuth for Okta with a service app: https://developer.okta.com/docs/guides/implement-oauth-for-okta-serviceapp/main/
+Build an API service integration: https://developer.okta.com/docs/guides/build-api-integration/main/ Structure type: Task
+Content type: How-to: developer focused
+A How-to document illustrates how to perform a specific task that does not rely on writing code.</description>
+    </item>
+    <item>
+      <title>Bind access tokens to a particular client</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-access/access-okta-apis-using-oauth/bind-access-tokens-to-a-particular-client/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-access/access-okta-apis-using-oauth/bind-access-tokens-to-a-particular-client/index.html</guid>
+      <description>Bind access tokens to a particular client Click here to give feedback about this page
+Group Notes Group description: Is this topic only specific to Okta API calls?
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Changes to be made: - Note: Dimensioning this page based on resource server type is an acceptable page dimension. See exception rules.
+Update title Links to original docs: - Configure OAuth 2.0 Demonstrating Proof-of-Possession: https://developer.</description>
+    </item>
+  </channel>
+</rss>

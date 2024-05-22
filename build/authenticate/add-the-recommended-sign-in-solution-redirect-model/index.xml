@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Add the recommended sign-in solution: redirect model on DevDocs Navigation Menu Test</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-the-recommended-sign-in-solution-redirect-model/index.html</link>
+    <description>Recent content in Add the recommended sign-in solution: redirect model on DevDocs Navigation Menu Test</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-the-recommended-sign-in-solution-redirect-model/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sign users in to your SPA </title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-the-recommended-sign-in-solution-redirect-model/sign-users-in-to-your-spa/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-the-recommended-sign-in-solution-redirect-model/sign-users-in-to-your-spa/index.html</guid>
+      <description>Sign users in to your SPA Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Changes to be made: - Update title Combine this doc with following doc unless there is a strong reason to split out Auth JS
+This doc will need to be refactored in one of the phases. It&amp;rsquo;s covering a lot of uses cases and somewhat hard to follow.</description>
+    </item>
+    <item>
+      <title>Sign users in to your web app</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-the-recommended-sign-in-solution-redirect-model/sign-users-in-to-your-web-app/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-the-recommended-sign-in-solution-redirect-model/sign-users-in-to-your-web-app/index.html</guid>
+      <description>Sign users in to your web app Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Changes to be made: Update title
+Links to original docs: - Sign users in to your web app using the redirect model: https://developer.okta.com/docs/guides/sign-into-web-app-redirect/asp-net-core-3/main/
+Structure type: Task
+Content type: Integration guide
+An integration guide or coding guide illustrates how to perform a specific task that involves writing code.</description>
+    </item>
+    <item>
+      <title>Sign users in to your mobile app</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-the-recommended-sign-in-solution-redirect-model/sign-users-in-to-your-mobile-app/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-the-recommended-sign-in-solution-redirect-model/sign-users-in-to-your-mobile-app/index.html</guid>
+      <description>Sign users in to your mobile app Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Changes to be made: Update title
+Links to original docs: - Sign users in to your mobile app using the redirect model: https://developer.okta.com/docs/guides/sign-into-mobile-app-redirect/android/main/
+Structure type: Task
+Content type: Integration guide
+An integration guide or coding guide illustrates how to perform a specific task that involves writing code.</description>
+    </item>
+  </channel>
+</rss>

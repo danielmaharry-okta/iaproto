@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Best practices on DevDocs Navigation Menu Test</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/plan/best-practices/index.html</link>
+    <description>Recent content in Best practices on DevDocs Navigation Menu Test</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/plan/best-practices/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Passwordless</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/plan/best-practices/passwordless/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/plan/best-practices/passwordless/index.html</guid>
+      <description>Implementing passwordless Click here to give feedback about this page
+Content Notes Target personas: New IAM Developers,Developers new to Okta
+Links to original docs: - Best practices for password optional: https://developer.okta.com/docs/guides/pwd-optional-best-practices/nodeexpress/main/
+Structure type: Task
+Content type: How-to
+A How-to document illustrates how to perform a specific task that does not rely on writing code. How-tos tend to walk the reader step by step through administrative tasks but not exclusively. They might include code snippets such as API requests and responses, or outline how to develop the required solution but without walking through the majority of the code required to implement it.</description>
+    </item>
+  </channel>
+</rss>

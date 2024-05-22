@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Okta Terraform Provider on DevDocs Navigation Menu Test</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/okta-terraform-provider/index.html</link>
+    <description>Recent content in Okta Terraform Provider on DevDocs Navigation Menu Test</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/build/automate/okta-terraform-provider/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Terraform overview</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/okta-terraform-provider/terraform-overview/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/okta-terraform-provider/terraform-overview/index.html</guid>
+      <description>Terraform overview Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Links to original docs: - Terraform overview: https://developer.okta.com/docs/guides/terraform-overview/main/
+Structure type: Concept
+Content type: Explanation
+Explanations present a more detailed dive into a single topic compared to Conceptual Overviews. They aim to clarify specific elements of the technology, offering developers practical insights or in-depth clarification on particular points of interest. For example, there are explanations \ deeper dives into single Okta features:</description>
+    </item>
+    <item>
+      <title>Enable Terraform access</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/okta-terraform-provider/enable-terraform-access/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/okta-terraform-provider/enable-terraform-access/index.html</guid>
+      <description>Enable Terraform access for your Okta org Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Links to original docs: - Enable Terraform access for your Okta org: https://developer.okta.com/docs/guides/terraform-enable-org-access/main/
+Structure type: Task
+Content type: How-to: developer focused
+A How-to document illustrates how to perform a specific task that does not rely on writing code. How-tos tend to walk the reader step by step through administrative tasks but not exclusively.</description>
+    </item>
+    <item>
+      <title>Manage user access</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/okta-terraform-provider/manage-user-access/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/okta-terraform-provider/manage-user-access/index.html</guid>
+      <description>Manage user access Click here to give feedback about this page
+Group Notes Group description: - The current preference is to keep manage user access using Terraform under Terraform rather than under &amp;ldquo;Manage users&amp;rdquo;. The thought was at least for now keep the Terraform docs together and split up different ways to manage user access.
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Changes to be made: Update title</description>
+    </item>
+    <item>
+      <title>Manage groups</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/okta-terraform-provider/manage-groups/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/okta-terraform-provider/manage-groups/index.html</guid>
+      <description>Manage groups Click here to give feedback about this page
+Group Notes Group description: - See Manage user access Motiviations
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Changes to be made: Update title
+Links to original docs: - Manage groups with Terraform: https://developer.okta.com/docs/guides/terraform-manage-groups/main/
+Structure type: Task
+Content type: How-to: developer focused
+A How-to document illustrates how to perform a specific task that does not rely on writing code. How-tos tend to walk the reader step by step through administrative tasks but not exclusively.</description>
+    </item>
+    <item>
+      <title>Manage authentication services</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/okta-terraform-provider/manage-authentication-services/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/okta-terraform-provider/manage-authentication-services/index.html</guid>
+      <description>Manage authentication services Click here to give feedback about this page
+Group Notes Group description: This could go under level2 customize than we would split up Terraform based on functionality of what customers are trying to to do. Need more discussion regard this. Test at Oktane test.
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Changes to be made: Update title
+Links to original docs: - Manage authentication services with Terraform: https://developer.</description>
+    </item>
+    <item>
+      <title>Customize end-user experience</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/okta-terraform-provider/customize-end-user-experience/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/okta-terraform-provider/customize-end-user-experience/index.html</guid>
+      <description>Customize end-user experience Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Changes to be made: Update title
+Links to original docs: - Customize the end-user experience with Terraform: https://developer.okta.com/docs/guides/terraform-manage-end-user-experience/main/
+Structure type: Task
+Content type: How-to: developer focused
+A How-to document illustrates how to perform a specific task that does not rely on writing code. How-tos tend to walk the reader step by step through administrative tasks but not exclusively.</description>
+    </item>
+    <item>
+      <title>Control Terraform access</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/okta-terraform-provider/control-terraform-access/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/okta-terraform-provider/control-terraform-access/index.html</guid>
+      <description>Control Terraform access Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Changes to be made: Update title
+Links to original docs: - Control Terraform access to Okta: https://developer.okta.com/docs/guides/terraform-design-access-security/main/
+Structure type: Task
+Content type: How-to: developer focused
+A How-to document illustrates how to perform a specific task that does not rely on writing code. How-tos tend to walk the reader step by step through administrative tasks but not exclusively.</description>
+    </item>
+    <item>
+      <title>Optimize Terraform access</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/okta-terraform-provider/optimize-terraform-access/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/okta-terraform-provider/optimize-terraform-access/index.html</guid>
+      <description>Optimize Terraform access Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Changes to be made: Update title
+Links to original docs: - Optimize Terraform access to Okta APIs: https://developer.okta.com/docs/guides/terraform-design-rate-limits/main/
+Structure type: Task
+Content type: How-to: developer focused
+A How-to document illustrates how to perform a specific task that does not rely on writing code. How-tos tend to walk the reader step by step through administrative tasks but not exclusively.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Advanced Server Access API on DevDocs Navigation Menu Test</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/advanced-server-access-api/index.html</link>
+    <description>Recent content in Advanced Server Access API on DevDocs Navigation Menu Test</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/advanced-server-access-api/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AD Connections</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/advanced-server-access-api/ad-connections/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/advanced-server-access-api/ad-connections/index.html</guid>
+      <description>AD Connections API Click here to give feedback about this page
+Group Notes Group description: Straight port from Redocly
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Links to original docs: https://developer.okta.com/docs/api/openapi/asa/asa/tag/ad-connections/
+Structure type: Reference
+Content type: API reference
+API references contain comprehensive descriptions of APIs, including endpoints, methods, parameters, data types, authentication, and examples of how to use them. They serve as a technical guide for developers to understand the API&amp;rsquo;s functionality.</description>
+    </item>
+    <item>
+      <title>Attributes</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/advanced-server-access-api/attributes/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/advanced-server-access-api/attributes/index.html</guid>
+      <description>Attributes API Click here to give feedback about this page
+Group Notes Group description: Straight port from Redocly
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Links to original docs: https://developer.okta.com/docs/api/openapi/asa/asa/tag/attributes/
+Structure type: Reference
+Content type: API reference
+API references contain comprehensive descriptions of APIs, including endpoints, methods, parameters, data types, authentication, and examples of how to use them. They serve as a technical guide for developers to understand the API&amp;rsquo;s functionality.</description>
+    </item>
+    <item>
+      <title>Audits</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/advanced-server-access-api/audits/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/advanced-server-access-api/audits/index.html</guid>
+      <description>Audits API Click here to give feedback about this page
+Group Notes Group description: Straight port from Redocly
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Links to original docs: https://developer.okta.com/docs/api/openapi/asa/asa/tag/audits/
+Structure type: Reference
+Content type: API reference
+API references contain comprehensive descriptions of APIs, including endpoints, methods, parameters, data types, authentication, and examples of how to use them. They serve as a technical guide for developers to understand the API&amp;rsquo;s functionality.</description>
+    </item>
+    <item>
+      <title>Clients</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/advanced-server-access-api/clients/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/advanced-server-access-api/clients/index.html</guid>
+      <description>Clients API Click here to give feedback about this page
+Group Notes Group description: Straight port from Redocly
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Links to original docs: https://developer.okta.com/docs/api/openapi/asa/asa/tag/clients/
+Structure type: Reference
+Content type: API reference
+API references contain comprehensive descriptions of APIs, including endpoints, methods, parameters, data types, authentication, and examples of how to use them. They serve as a technical guide for developers to understand the API&amp;rsquo;s functionality.</description>
+    </item>
+    <item>
+      <title>Entitlements</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/advanced-server-access-api/entitlements/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/advanced-server-access-api/entitlements/index.html</guid>
+      <description>Entitlements API Click here to give feedback about this page
+Group Notes Group description: Straight port from Redocly
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Links to original docs: https://developer.okta.com/docs/api/openapi/asa/asa/tag/entitlements/
+Structure type: Reference
+Content type: API reference
+API references contain comprehensive descriptions of APIs, including endpoints, methods, parameters, data types, authentication, and examples of how to use them. They serve as a technical guide for developers to understand the API&amp;rsquo;s functionality.</description>
+    </item>
+    <item>
+      <title>Gateways</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/advanced-server-access-api/gateways/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/advanced-server-access-api/gateways/index.html</guid>
+      <description>Gateways API Click here to give feedback about this page
+Group Notes Group description: Straight port from Redocly
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Links to original docs: https://developer.okta.com/docs/api/openapi/asa/asa/tag/gateways/
+Structure type: Reference
+Content type: API reference
+API references contain comprehensive descriptions of APIs, including endpoints, methods, parameters, data types, authentication, and examples of how to use them. They serve as a technical guide for developers to understand the API&amp;rsquo;s functionality.</description>
+    </item>
+    <item>
+      <title>Groups</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/advanced-server-access-api/groups/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/advanced-server-access-api/groups/index.html</guid>
+      <description>Groups API Click here to give feedback about this page
+Group Notes Group description: Straight port from Redocly
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Links to original docs: https://developer.okta.com/docs/api/openapi/asa/asa/tag/groups/
+Structure type: Reference
+Content type: API reference
+API references contain comprehensive descriptions of APIs, including endpoints, methods, parameters, data types, authentication, and examples of how to use them. They serve as a technical guide for developers to understand the API&amp;rsquo;s functionality.</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/advanced-server-access-api/projects/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/advanced-server-access-api/projects/index.html</guid>
+      <description>Projects API Click here to give feedback about this page
+Group Notes Group description: Straight port from Redocly
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Links to original docs: https://developer.okta.com/docs/api/openapi/asa/asa/tag/projects/
+Structure type: Reference
+Content type: API reference
+API references contain comprehensive descriptions of APIs, including endpoints, methods, parameters, data types, authentication, and examples of how to use them. They serve as a technical guide for developers to understand the API&amp;rsquo;s functionality.</description>
+    </item>
+    <item>
+      <title>Service Users</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/advanced-server-access-api/service-users/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/advanced-server-access-api/service-users/index.html</guid>
+      <description>Service Users API Click here to give feedback about this page
+Group Notes Group description: Straight port from Redocly
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Links to original docs: https://developer.okta.com/docs/api/openapi/asa/asa/tag/service-users/
+Structure type: Reference
+Content type: API reference
+API references contain comprehensive descriptions of APIs, including endpoints, methods, parameters, data types, authentication, and examples of how to use them. They serve as a technical guide for developers to understand the API&amp;rsquo;s functionality.</description>
+    </item>
+    <item>
+      <title>Services</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/advanced-server-access-api/services/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/advanced-server-access-api/services/index.html</guid>
+      <description>Services API Click here to give feedback about this page
+Group Notes Group description: Straight port from Redocly
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Links to original docs: https://developer.okta.com/docs/api/openapi/asa/asa/tag/services/
+Structure type: Reference
+Content type: API reference
+API references contain comprehensive descriptions of APIs, including endpoints, methods, parameters, data types, authentication, and examples of how to use them. They serve as a technical guide for developers to understand the API&amp;rsquo;s functionality.</description>
+    </item>
+    <item>
+      <title>Teams</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/advanced-server-access-api/teams/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/advanced-server-access-api/teams/index.html</guid>
+      <description>Teams API Click here to give feedback about this page
+Group Notes Group description: Straight port from Redocly
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Links to original docs: https://developer.okta.com/docs/api/openapi/asa/asa/tag/teams/
+Structure type: Reference
+Content type: API reference
+API references contain comprehensive descriptions of APIs, including endpoints, methods, parameters, data types, authentication, and examples of how to use them. They serve as a technical guide for developers to understand the API&amp;rsquo;s functionality.</description>
+    </item>
+    <item>
+      <title>Users</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/advanced-server-access-api/users/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/advanced-server-access-api/users/index.html</guid>
+      <description>Users API Click here to give feedback about this page
+Group Notes Group description: Straight port from Redocly
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Links to original docs: https://developer.okta.com/docs/api/openapi/asa/asa/tag/users/
+Structure type: Reference
+Content type: API reference
+API references contain comprehensive descriptions of APIs, including endpoints, methods, parameters, data types, authentication, and examples of how to use them. They serve as a technical guide for developers to understand the API&amp;rsquo;s functionality.</description>
+    </item>
+  </channel>
+</rss>

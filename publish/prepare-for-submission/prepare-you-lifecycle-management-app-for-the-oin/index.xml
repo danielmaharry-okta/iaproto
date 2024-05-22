@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prepare you lifecycle management app for the OIN on DevDocs Navigation Menu Test</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/publish/prepare-for-submission/prepare-you-lifecycle-management-app-for-the-oin/index.html</link>
+    <description>Recent content in Prepare you lifecycle management app for the OIN on DevDocs Navigation Menu Test</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/publish/prepare-for-submission/prepare-you-lifecycle-management-app-for-the-oin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SCIM App</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/publish/prepare-for-submission/prepare-you-lifecycle-management-app-for-the-oin/scim-app/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/publish/prepare-for-submission/prepare-you-lifecycle-management-app-for-the-oin/scim-app/index.html</guid>
+      <description>Prepare you SCIM app for the OIN Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Description: OIN-specific content related to app prep.
+Changes to be made: OIN-specific content related to app prep.
+Links to original docs: Tease out only specifics on what exactly needs to be done for a SCIM app to be published on the OIN. From the following docs:</description>
+    </item>
+    <item>
+      <title>Workflows</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/publish/prepare-for-submission/prepare-you-lifecycle-management-app-for-the-oin/workflows/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/publish/prepare-for-submission/prepare-you-lifecycle-management-app-for-the-oin/workflows/index.html</guid>
+      <description>Workflows Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Structure type: Navigation
+Content type: Summary redirect
+A redirect provides a summary of a topic with links to the articles elsewhere in the site that cover that content in full. For example:
+https://developer.okta.com/docs/guides/oie-upgrade-sign-in-widget-styling/main/ summarizes the options for styling the sign-in widget and links to a more in-depth page for each of them. </description>
+    </item>
+  </channel>
+</rss>

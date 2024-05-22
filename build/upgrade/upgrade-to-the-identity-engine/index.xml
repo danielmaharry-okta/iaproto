@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Upgrade to the Identity Engine on DevDocs Navigation Menu Test</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/build/upgrade/upgrade-to-the-identity-engine/index.html</link>
+    <description>Recent content in Upgrade to the Identity Engine on DevDocs Navigation Menu Test</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/build/upgrade/upgrade-to-the-identity-engine/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Overview</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/upgrade/upgrade-to-the-identity-engine/overview/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/upgrade/upgrade-to-the-identity-engine/overview/index.html</guid>
+      <description>Overview Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Changes to be made: Update title
+Links to original docs: - Identity Engine upgrade overview: https://developer.okta.com/docs/guides/oie-upgrade-overview/main/
+Structure type: Concept
+Content type: Explanation
+Explanations present a more detailed dive into a single topic compared to Conceptual Overviews. They aim to clarify specific elements of the technology, offering developers practical insights or in-depth clarification on particular points of interest.</description>
+    </item>
+    <item>
+      <title>Plan your application upgrades</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/upgrade/upgrade-to-the-identity-engine/plan-your-application-upgrades/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/upgrade/upgrade-to-the-identity-engine/plan-your-application-upgrades/index.html</guid>
+      <description>Plan your application upgrades Click here to give feedback about this page
+Group Notes Group description: Upgrade to OIE
+Removed &amp;ldquo;embedded&amp;rdquo; from title because redirect is also discussed in doc
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Changes to be made: Update title
+Links to original docs: - Plan embedded auth app upgrades: https://developer.okta.com/docs/guides/oie-upgrade-plan-embedded-upgrades/main/
+Structure type: Task
+Content type: How-to
+A How-to document illustrates how to perform a specific task that does not rely on writing code.</description>
+    </item>
+    <item>
+      <title>Features not supported in Identity Engine</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/upgrade/upgrade-to-the-identity-engine/features-not-supported-in-identity-engine/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/upgrade/upgrade-to-the-identity-engine/features-not-supported-in-identity-engine/index.html</guid>
+      <description>Features not supported in Identity Engine Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Changes to be made: Update title
+Links to original docs: - Identity Engine limitations: https://developer.okta.com/docs/guides/ie-limitations/main/
+Structure type: Concept
+Content type: Explanation
+Explanations present a more detailed dive into a single topic compared to Conceptual Overviews. They aim to clarify specific elements of the technology, offering developers practical insights or in-depth clarification on particular points of interest.</description>
+    </item>
+    <item>
+      <title>Upgrade the Sign-in Widget</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/upgrade/upgrade-to-the-identity-engine/upgrade-the-sign-in-widget/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/upgrade/upgrade-to-the-identity-engine/upgrade-the-sign-in-widget/index.html</guid>
+      <description>Upgrade the Sign-in Widget Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Changes to be made: Update title
+Links to original docs: - Upgrade the Okta Sign-In Widget: https://developer.okta.com/docs/guides/oie-upgrade-sign-in-widget/main/
+Structure type: Task
+Content type: How-to: developer focused
+A How-to document illustrates how to perform a specific task that does not rely on writing code. How-tos tend to walk the reader step by step through administrative tasks but not exclusively.</description>
+    </item>
+    <item>
+      <title>Upgrade the Authentication SDK</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/upgrade/upgrade-to-the-identity-engine/upgrade-the-authentication-sdk/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/upgrade/upgrade-to-the-identity-engine/upgrade-the-authentication-sdk/index.html</guid>
+      <description>Upgrade the Authentication SDK Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Links to original docs: - Identity Engine SDK upgrade: https://developer.okta.com/docs/guides/identity-engine-sdk-upgrade/
+Structure type: Navigation
+Content type: Dynamic Index
+A dynamic index is an automatically generated list of links to topics immediately beneath it based purely on the site&amp;rsquo;s structure, or with some level of filtering. A blind list of summaries and links to child docs.</description>
+    </item>
+  </channel>
+</rss>

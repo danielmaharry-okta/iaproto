@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sync users between tenants using Org2Org on DevDocs Navigation Menu Test</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/build/federate-identities/sync-users-across-domains/sync-users-between-tenants-using-org2org/index.html</link>
+    <description>Recent content in Sync users between tenants using Org2Org on DevDocs Navigation Menu Test</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/build/federate-identities/sync-users-across-domains/sync-users-between-tenants-using-org2org/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

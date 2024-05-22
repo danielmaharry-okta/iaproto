@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prepare for submission on DevDocs Navigation Menu Test</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/publish/prepare-for-submission/index.html</link>
+    <description>Recent content in Prepare for submission on DevDocs Navigation Menu Test</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/publish/prepare-for-submission/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Prepare your SSO app for the OIN</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/publish/prepare-for-submission/prepare-your-sso-app-for-the-oin/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/publish/prepare-for-submission/prepare-your-sso-app-for-the-oin/index.html</guid>
+      <description>Prepare your SSO for the OIN Click here to give feedback about this page
+Group Notes Group description: What specific changes and preparations need to happen to your OIN app before submission starts
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Changes to be made: See existing content field for more details.
+Links to original docs: OIN-specific content related to app prep from the following docs:
+Build a Single Sign-On (SSO) integration: https://developer.</description>
+    </item>
+    <item>
+      <title>Prepare you lifecycle management app for the OIN</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/publish/prepare-for-submission/prepare-you-lifecycle-management-app-for-the-oin/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/publish/prepare-for-submission/prepare-you-lifecycle-management-app-for-the-oin/index.html</guid>
+      <description>Lifecycle management app Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Changes to be made: - Update title
+Even though the original doc say&amp;rsquo;s &amp;ldquo;Overview&amp;rdquo; it really is more like a Guide Hub Links to original docs: - Overview of lifecycle management in the OIN: https://developer.okta.com/docs/guides/oin-lifecycle-mgmt-overview/
+Structure type: Navigation
+Content type: Guide Hub
+A guide hub is the main navigation page for a section, such as learn, plan, or build.</description>
+    </item>
+    <item>
+      <title>Prepare you API Service for the OIN</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/publish/prepare-for-submission/prepare-you-api-service-for-the-oin/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/publish/prepare-for-submission/prepare-you-api-service-for-the-oin/index.html</guid>
+      <description>Prepare you API Service for the OIN Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Changes to be made: Add content on how to use the API Service Integration form.
+Links to original docs: Tease out how to prepare your API Service for the OIN from the following doc:
+Build an API service integration: https://developer.okta.com/docs/guides/build-api-integration/main/ Why is this here?: - Internal workshop: When asked what prevents devs form being successful on the OIN, respondents answered: - the API Service Integration form is confusing</description>
+    </item>
+  </channel>
+</rss>

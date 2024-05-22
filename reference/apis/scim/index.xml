@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SCIM on DevDocs Navigation Menu Test</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/scim/index.html</link>
+    <description>Recent content in SCIM on DevDocs Navigation Menu Test</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/scim/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SCIM v2.0</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/scim/scim-v2.0/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/scim/scim-v2.0/index.html</guid>
+      <description>SCIM v2.0 Click here to give feedback about this page
+Group Notes Group description: Needs to be ported into Redocly format
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Links to original docs: https://developer.okta.com/docs/reference/scim/scim-20/
+Structure type: Reference
+Content type: API reference
+API references contain comprehensive descriptions of APIs, including endpoints, methods, parameters, data types, authentication, and examples of how to use them. They serve as a technical guide for developers to understand the API&amp;rsquo;s functionality.</description>
+    </item>
+    <item>
+      <title>SCIM v1.1</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/scim/scim-v1.1/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/scim/scim-v1.1/index.html</guid>
+      <description>SCIM v1.1 Click here to give feedback about this page
+Group Notes Group description: Needs to be ported into Redocly format
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Links to original docs: https://developer.okta.com/docs/reference/scim/scim-11/
+Structure type: Reference
+Content type: API reference
+API references contain comprehensive descriptions of APIs, including endpoints, methods, parameters, data types, authentication, and examples of how to use them. They serve as a technical guide for developers to understand the API&amp;rsquo;s functionality.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>API Security Book on DevDocs Navigation Menu Test</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/other-links/archive/api-security-book/index.html</link>
+    <description>Recent content in API Security Book on DevDocs Navigation Menu Test</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/other-links/archive/api-security-book/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Acknowledgments</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/other-links/archive/api-security-book/acknowledgments/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/other-links/archive/api-security-book/acknowledgments/index.html</guid>
+      <description>Acknowledgments Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Links to original docs: https://developer.okta.com/books/api-security/acknowledgments/
+Structure type: Concept
+Content type: Integration guide
+An integration guide or coding guide illustrates how to perform a specific task that involves writing code. It is similar to a how-to but the focus is more technical and geared towards developers integrating an SDK, API, or another library into their applications.</description>
+    </item>
+    <item>
+      <title>Foreword</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/other-links/archive/api-security-book/foreword/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/other-links/archive/api-security-book/foreword/index.html</guid>
+      <description>Foreword Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Links to original docs: https://developer.okta.com/books/api-security/foreword/
+Structure type: Concept
+Content type: Explanation
+Explanations present a more detailed dive into a single topic compared to Conceptual Overviews. They aim to clarify specific elements of the technology, offering developers practical insights or in-depth clarification on particular points of interest. For example, there are explanations \ deeper dives into single Okta features:</description>
+    </item>
+    <item>
+      <title>Transport Layer Security</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/other-links/archive/api-security-book/transport-layer-security/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/other-links/archive/api-security-book/transport-layer-security/index.html</guid>
+      <description>Transport Layer Security Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Links to original docs: https://developer.okta.com/books/api-security/tls/
+Structure type: Concept
+Content type: Explanation
+Explanations present a more detailed dive into a single topic compared to Conceptual Overviews. They aim to clarify specific elements of the technology, offering developers practical insights or in-depth clarification on particular points of interest. For example, there are explanations \ deeper dives into single Okta features:</description>
+    </item>
+    <item>
+      <title>DOS Mitigation Strategies</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/other-links/archive/api-security-book/dos-mitigation-strategies/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/other-links/archive/api-security-book/dos-mitigation-strategies/index.html</guid>
+      <description>DOS Mitigation Strategies Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Links to original docs: https://developer.okta.com/books/api-security/dos/
+Structure type: Concept
+Content type: Explanation
+Explanations present a more detailed dive into a single topic compared to Conceptual Overviews. They aim to clarify specific elements of the technology, offering developers practical insights or in-depth clarification on particular points of interest. For example, there are explanations \ deeper dives into single Okta features:</description>
+    </item>
+    <item>
+      <title>Sanitizing Data</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/other-links/archive/api-security-book/sanitizing-data/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/other-links/archive/api-security-book/sanitizing-data/index.html</guid>
+      <description>Sanitizing Data Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Links to original docs: https://developer.okta.com/books/api-security/sanitizing/
+Structure type: Concept
+Content type: Explanation
+Explanations present a more detailed dive into a single topic compared to Conceptual Overviews. They aim to clarify specific elements of the technology, offering developers practical insights or in-depth clarification on particular points of interest. For example, there are explanations \ deeper dives into single Okta features:</description>
+    </item>
+    <item>
+      <title>Managing API Credentials</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/other-links/archive/api-security-book/managing-api-credentials/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/other-links/archive/api-security-book/managing-api-credentials/index.html</guid>
+      <description>Managing API Credentials Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Links to original docs: https://developer.okta.com/books/api-security/api-keys/
+Structure type: Concept
+Content type: Explanation
+Explanations present a more detailed dive into a single topic compared to Conceptual Overviews. They aim to clarify specific elements of the technology, offering developers practical insights or in-depth clarification on particular points of interest. For example, there are explanations \ deeper dives into single Okta features:</description>
+    </item>
+    <item>
+      <title>Authentication</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/other-links/archive/api-security-book/authentication/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/other-links/archive/api-security-book/authentication/index.html</guid>
+      <description>Authentication Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Links to original docs: https://developer.okta.com/books/api-security/authn/
+Structure type: Concept
+Content type: Explanation
+Explanations present a more detailed dive into a single topic compared to Conceptual Overviews. They aim to clarify specific elements of the technology, offering developers practical insights or in-depth clarification on particular points of interest. For example, there are explanations \ deeper dives into single Okta features:</description>
+    </item>
+    <item>
+      <title>Authorization</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/other-links/archive/api-security-book/authorization/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/other-links/archive/api-security-book/authorization/index.html</guid>
+      <description>Authorization Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Links to original docs: https://developer.okta.com/books/api-security/authz/
+Structure type: Concept
+Content type: Explanation
+Explanations present a more detailed dive into a single topic compared to Conceptual Overviews. They aim to clarify specific elements of the technology, offering developers practical insights or in-depth clarification on particular points of interest. For example, there are explanations \ deeper dives into single Okta features:</description>
+    </item>
+    <item>
+      <title>API Gateways</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/other-links/archive/api-security-book/api-gateways/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/other-links/archive/api-security-book/api-gateways/index.html</guid>
+      <description>API Gateways Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Links to original docs: https://developer.okta.com/books/api-security/gateways/
+Structure type: Concept
+Content type: Explanation
+Explanations present a more detailed dive into a single topic compared to Conceptual Overviews. They aim to clarify specific elements of the technology, offering developers practical insights or in-depth clarification on particular points of interest. For example, there are explanations \ deeper dives into single Okta features:</description>
+    </item>
+    <item>
+      <title>About the Authors</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/other-links/archive/api-security-book/about-the-authors/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/other-links/archive/api-security-book/about-the-authors/index.html</guid>
+      <description>About the Authors Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Links to original docs: https://developer.okta.com/books/api-security/about-the-authors/
+Structure type: Concept
+Content type: Explanation
+Explanations present a more detailed dive into a single topic compared to Conceptual Overviews. They aim to clarify specific elements of the technology, offering developers practical insights or in-depth clarification on particular points of interest. For example, there are explanations \ deeper dives into single Okta features:</description>
+    </item>
+  </channel>
+</rss>

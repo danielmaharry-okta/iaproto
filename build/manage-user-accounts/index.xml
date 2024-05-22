@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Manage user accounts on DevDocs Navigation Menu Test</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-accounts/index.html</link>
+    <description>Recent content in Manage user accounts on DevDocs Navigation Menu Test</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-accounts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Get user information with an ID Token</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-accounts/get-user-information-with-an-id-token/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-accounts/get-user-information-with-an-id-token/index.html</guid>
+      <description>Get user information with an ID Token Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Changes to be made: See the &amp;ldquo;Existing content link) field for more details.
+Links to original docs: Create a doc that describes how to get user info. Extract how the get user info section from here:
+Refresh the access and ID tokens: https://developer.okta.com/docs/guides/oie-embedded-common-refresh-tokens/android/main/ Structure type: Task</description>
+    </item>
+    <item>
+      <title>User driven account management</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-accounts/user-driven-account-management/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-accounts/user-driven-account-management/index.html</guid>
+      <description>User driven account management Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Structure type: Navigation
+Content type: Dynamic Index
+A dynamic index is an automatically generated list of links to topics immediately beneath it based purely on the site&amp;rsquo;s structure, or with some level of filtering. A blind list of summaries and links to child docs. For example:
+https://developer.okta.com/docs/guides/authorization/ https://developer.okta.com/docs/guides/api-security/ https://developer.okta.com/docs/guides/manage-users/ </description>
+    </item>
+    <item>
+      <title>Manage a users life cycle</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-accounts/manage-a-users-life-cycle/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-accounts/manage-a-users-life-cycle/index.html</guid>
+      <description>Manage a user&amp;rsquo;s life cycle Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Structure type: Navigation
+Content type: Dynamic Index
+A dynamic index is an automatically generated list of links to topics immediately beneath it based purely on the site&amp;rsquo;s structure, or with some level of filtering. A blind list of summaries and links to child docs. For example:
+https://developer.okta.com/docs/guides/authorization/ https://developer.okta.com/docs/guides/api-security/ https://developer.</description>
+    </item>
+    <item>
+      <title>Customize claims in the ID and Access tokens</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-accounts/customize-claims-in-the-id-and-access-tokens/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-accounts/customize-claims-in-the-id-and-access-tokens/index.html</guid>
+      <description>Customize claims in the ID and Access tokens Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Structure type: Navigation
+Content type: Dynamic Index
+A dynamic index is an automatically generated list of links to topics immediately beneath it based purely on the site&amp;rsquo;s structure, or with some level of filtering. A blind list of summaries and links to child docs. For example:</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Add the embedded SDK (fully customizable) on DevDocs Navigation Menu Test</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sdk-fully-customizable/index.html</link>
+    <description>Recent content in Add the embedded SDK (fully customizable) on DevDocs Navigation Menu Test</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sdk-fully-customizable/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Passwordless sign up with email only</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sdk-fully-customizable/passwordless-sign-up-with-email-only/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sdk-fully-customizable/passwordless-sign-up-with-email-only/index.html</guid>
+      <description>Passwordless sign up with email only Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Changes to be made: Update title
+Links to original docs: &amp;lsquo;- Sign up for new account with email only: https://developer.okta.com/docs/guides/pwd-optional-new-sign-up-email/aspnet/main/
+Sign in to your SPA with Auth JS: https://developer.okta.com/docs/guides/sign-in-to-spa-authjs/angular/main/ (Add lang and/or tech dimensions) Structure type: Task
+Content type: Integration guide
+An integration guide or coding guide illustrates how to perform a specific task that involves writing code.</description>
+    </item>
+    <item>
+      <title>Passwordless sign in with email only</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sdk-fully-customizable/passwordless-sign-in-with-email-only/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sdk-fully-customizable/passwordless-sign-in-with-email-only/index.html</guid>
+      <description>Passwordless sign in with email only Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Changes to be made: Update title
+Links to original docs: &amp;lsquo;- Sign in with email only: https://developer.okta.com/docs/guides/pwd-optional-sign-in-email/aspnet/main/
+Sign in to your SPA with Auth JS: https://developer.okta.com/docs/guides/sign-in-to-spa-authjs/angular/main/ (Add lang and/or tech dimensions) Structure type: Task
+Content type: Integration guide
+An integration guide or coding guide illustrates how to perform a specific task that involves writing code.</description>
+    </item>
+    <item>
+      <title>Sign in with email and password</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sdk-fully-customizable/sign-in-with-email-and-password/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sdk-fully-customizable/sign-in-with-email-and-password/index.html</guid>
+      <description>Sign in with email and password Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Changes to be made: Update title
+Links to original docs: &amp;lsquo;- Basic sign-in flow with the password factor: https://developer.okta.com/docs/guides/oie-embedded-sdk-use-case-basic-sign-in/aspnet/main/
+Sign in to your SPA with Auth JS: https://developer.okta.com/docs/guides/sign-in-to-spa-authjs/angular/main/ (Add lang and/or tech dimensions) Structure type: Task
+Content type: Integration guide
+An integration guide or coding guide illustrates how to perform a specific task that involves writing code.</description>
+    </item>
+    <item>
+      <title>Sign in with Facebook</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sdk-fully-customizable/sign-in-with-facebook/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sdk-fully-customizable/sign-in-with-facebook/index.html</guid>
+      <description>Sign in with Facebook Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Links to original docs: - Sign in with Facebook: https://developer.okta.com/docs/guides/oie-embedded-sdk-use-case-sign-in-soc-idp/aspnet/main/
+Structure type: Task
+Content type: Integration guide
+An integration guide or coding guide illustrates how to perform a specific task that involves writing code. It is similar to a how-to but the focus is more technical and geared towards developers integrating an SDK, API, or another library into their applications.</description>
+    </item>
+    <item>
+      <title>Recover user password</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sdk-fully-customizable/recover-user-password/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sdk-fully-customizable/recover-user-password/index.html</guid>
+      <description>Recover user password Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Changes to be made: Update title
+Links to original docs: &amp;lsquo;- User password recovery: https://developer.okta.com/docs/guides/oie-embedded-sdk-use-case-pwd-recovery-mfa/aspnet/main/
+Sign in to your SPA with Auth JS: https://developer.okta.com/docs/guides/sign-in-to-spa-authjs/angular/main/ (Add lang and/or tech dimensions) Structure type: Task
+Content type: Integration guide
+An integration guide or coding guide illustrates how to perform a specific task that involves writing code.</description>
+    </item>
+    <item>
+      <title>Sign up with email</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sdk-fully-customizable/sign-up-with-email/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sdk-fully-customizable/sign-up-with-email/index.html</guid>
+      <description>Sign up with email Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Changes to be made: Update title
+Links to original docs: &amp;lsquo;- Self-service registration: https://developer.okta.com/docs/guides/oie-embedded-sdk-use-case-self-reg/aspnet/main/
+Sign in to your SPA with Auth JS: https://developer.okta.com/docs/guides/sign-in-to-spa-authjs/angular/main/ (Add lang and/or tech dimensions) Structure type: Task
+Content type: Integration guide
+An integration guide or coding guide illustrates how to perform a specific task that involves writing code.</description>
+    </item>
+    <item>
+      <title>Activate a new user</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sdk-fully-customizable/activate-a-new-user/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sdk-fully-customizable/activate-a-new-user/index.html</guid>
+      <description>Activate a new user Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Changes to be made: Update title
+Links to original docs: &amp;lsquo;- New user activation: https://developer.okta.com/docs/guides/oie-embedded-sdk-use-case-new-user-activation/nodeexpress/main/
+Sign in to your SPA with Auth JS: https://developer.okta.com/docs/guides/sign-in-to-spa-authjs/angular/main/ (Add lang and/or tech dimensions) Structure type: Task
+Content type: Integration guide
+An integration guide or coding guide illustrates how to perform a specific task that involves writing code.</description>
+    </item>
+    <item>
+      <title>Sign in with password and email</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sdk-fully-customizable/sign-in-with-password-and-email/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sdk-fully-customizable/sign-in-with-password-and-email/index.html</guid>
+      <description>Sign in with password and email Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Changes to be made: Update title
+Links to original docs: &amp;lsquo;- Sign in with password and email factors: https://developer.okta.com/docs/guides/oie-embedded-sdk-use-case-sign-in-pwd-email/android/main/
+Sign in to your SPA with Auth JS: https://developer.okta.com/docs/guides/sign-in-to-spa-authjs/angular/main/ (Add lang and/or tech dimensions) Structure type: Task
+Content type: Integration guide
+An integration guide or coding guide illustrates how to perform a specific task that involves writing code.</description>
+    </item>
+    <item>
+      <title>Sign in with password and phone</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sdk-fully-customizable/sign-in-with-password-and-phone/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sdk-fully-customizable/sign-in-with-password-and-phone/index.html</guid>
+      <description>Sign in with password and phone Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Changes to be made: Update title
+Links to original docs: &amp;lsquo;- Sign in with password and phone factors: https://developer.okta.com/docs/guides/oie-embedded-sdk-use-case-sign-in-pwd-phone/android/main/
+Sign in to your SPA with Auth JS: https://developer.okta.com/docs/guides/sign-in-to-spa-authjs/angular/main/ (Add lang and/or tech dimensions) Structure type: Task
+Content type: Integration guide
+An integration guide or coding guide illustrates how to perform a specific task that involves writing code.</description>
+    </item>
+    <item>
+      <title>Sign out user (local app only)</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sdk-fully-customizable/sign-out-user-local-app-only/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sdk-fully-customizable/sign-out-user-local-app-only/index.html</guid>
+      <description>Sign out user (local app only) Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Changes to be made: - Update title
+Technically, this sign out could go under the Logout group but the desire was to keep as much as possible all the SDKs docs in one space. Links to original docs: &amp;lsquo;- User sign out (local app): https://developer.okta.com/docs/guides/oie-embedded-sdk-use-case-basic-sign-out/android/main/
+Sign in to your SPA with Auth JS: https://developer.</description>
+    </item>
+    <item>
+      <title>Add an authenticator </title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sdk-fully-customizable/add-an-authenticator/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sdk-fully-customizable/add-an-authenticator/index.html</guid>
+      <description>Add an authenticator Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Changes to be made: Update title
+Links to original docs: - Authenticators overview: https://developer.okta.com/docs/guides/authenticators-overview/main/
+Structure type: Navigation
+Content type: Guide Hub
+A guide hub is the main navigation page for a section, such as learn, plan, or build. It begins with &amp;ldquo;Who this section is for?&amp;rdquo; and how the user may have gotten to this page, i.</description>
+    </item>
+  </channel>
+</rss>
