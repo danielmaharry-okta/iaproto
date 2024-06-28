@@ -8,26 +8,60 @@
     <language>en-us</language>
     <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/build/get-started/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Get an Okta account and set up your org</title>
-      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/get-started/get-an-okta-account-and-set-up-your-org/index.html</link>
+      <title>Get an Okta account</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/get-started/get-an-okta-account/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/get-started/get-an-okta-account-and-set-up-your-org/index.html</guid>
-      <description>Get an Okta account and set up your org Click here to give feedback about this page
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/get-started/get-an-okta-account/index.html</guid>
+      <description>Get an Okta account Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Description: - Describes how to set up your Okta org for different scenarios.
+This doc came from the SDK section. We have to ensure it&amp;rsquo;s SDK agnostic based on it&amp;rsquo;s new IA location. Links to original docs: Overview of different SKUs. Developer Edition is the default, but note what is not included and how to add them, and what it costs to include them or the different SKUs required.</description>
+    </item>
+    <item>
+      <title>Set up your org</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/get-started/set-up-your-org/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/get-started/set-up-your-org/index.html</guid>
+      <description>Set up your org Click here to give feedback about this page
 Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Description: - Describes how to set up your Okta org for different scenarios.
 This doc came from the SDK section. We have to ensure it&amp;rsquo;s SDK agnostic based on it&amp;rsquo;s new IA location. Changes to be made: The north star is to have the &amp;ldquo;Set up your org&amp;rdquo; section for the redirect, embedded widget, and embedded SDKs.</description>
     </item>
     <item>
-      <title>Test a sign-in with a sample app</title>
-      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/get-started/test-a-sign-in-with-a-sample-app/index.html</link>
+      <title>Create an OIDC app integration</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/get-started/create-an-oidc-app-integration/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/get-started/test-a-sign-in-with-a-sample-app/index.html</guid>
-      <description>Test a sign-in with a sample app Click here to give feedback about this page
-Group Notes Group description: Organizes all docs that describe how to install and run sample apps. Right now just auth but we can expand this to other types of sample apps in the future.
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/get-started/create-an-oidc-app-integration/index.html</guid>
+      <description>Create an OIDC app integration Click here to give feedback about this page
 Content Notes Target personas: WIC App Developer,Experienced IAM developer
-Structure type: Navigation
-Content type: Dynamic Index
-A dynamic index is an automatically generated list of links to topics immediately beneath it based purely on the site&amp;rsquo;s structure, or with some level of filtering.</description>
+Description: This document covers only how to create an app integration in the Admin Console, dimensioned by the type of integration you want to create. So this https://developer.okta.com/docs/guides/sign-into-web-app-redirect/asp-net-core-3/main/#create-an-app-integration-in-the-admin-console but probably with some updating so it fits as many scenarios as it can without becoming too unwieldy. The full guide is on help.</description>
+    </item>
+    <item>
+      <title>Create a SAML app integration</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/get-started/create-a-saml-app-integration/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/get-started/create-a-saml-app-integration/index.html</guid>
+      <description>Create a SAML app integration Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Description: This document covers only how to create an app integration in the Admin Console, dimensioned by the type of integration you want to create. So this https://developer.okta.com/docs/guides/sign-into-web-app-redirect/asp-net-core-3/main/#create-an-app-integration-in-the-admin-console but probably with some updating so it fits as many scenarios as it can without becoming too unwieldy. The full guide is on help.</description>
+    </item>
+    <item>
+      <title>Create an API services app integration</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/get-started/create-an-api-services-app-integration/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/get-started/create-an-api-services-app-integration/index.html</guid>
+      <description>Create an API services app integration Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Description: This document covers only how to create an app integration in the Admin Console, dimensioned by the type of integration you want to create. So this https://developer.okta.com/docs/guides/sign-into-web-app-redirect/asp-net-core-3/main/#create-an-app-integration-in-the-admin-console but probably with some updating so it fits as many scenarios as it can without becoming too unwieldy. The full guide is on help.</description>
+    </item>
+    <item>
+      <title>Run the sample apps</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/get-started/run-the-sample-apps/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/get-started/run-the-sample-apps/index.html</guid>
+      <description>Run the sample apps Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Changes to be made: The goal of this article is to have the reader run a sample app with each type of redirect model. The base document is https://developer.okta.com/docs/guides/oie-embedded-common-run-samples/ which contains instructions for sing-in widget and embedded sdk samples. Similar instructions for the redirect model needed to be copied din from https://developer.</description>
     </item>
     <item>
       <title>Try a quickstart</title>

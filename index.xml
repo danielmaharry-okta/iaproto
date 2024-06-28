@@ -41,10 +41,9 @@ Description: Sets up journeys and provides links to content under this node. See
       <link>https://danielmaharry-okta.github.io:1313/iaproto/publish/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/publish/index.html</guid>
-      <description>Publish Click here to give feedback about this page
+      <description>Publish an integration to the OIN Click here to give feedback about this page
 Group Notes Group description: - Reasons for the name publish: - Aligned with the action/task based focus of the site - The ultimate goal of this section is to &amp;ldquo;Publish&amp;rdquo; on the OIN - Some user research evidence
-Existing doc needs to be updated to reflect new changes to sub groups Content Notes Target personas: WIC App Developer,Experienced IAM developer
-Changes to be made: - There was a discussion last year to update this doc since: - There was dissatisfaction from team members over the HTML format, and it&amp;rsquo;s overall content</description>
+Existing doc needs to be updated to reflect new changes to sub groups Content Notes Target personas: WIC App Developer,Experienced IAM developer</description>
     </item>
     <item>
       <title>Reference</title>
@@ -56,17 +55,6 @@ Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Structure type: Navigation
 Content type: Guide Hub
 A guide hub is the main navigation page for a section, such as learn, plan, or build. It begins with &amp;ldquo;Who this section is for?&amp;rdquo; and how the user may have gotten to this page, i.e., where they are in their user journey at this point.</description>
-    </item>
-    <item>
-      <title>Other Links</title>
-      <link>https://danielmaharry-okta.github.io:1313/iaproto/other-links/index.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://danielmaharry-okta.github.io:1313/iaproto/other-links/index.html</guid>
-      <description>Other Links Click here to give feedback about this page
-Content Notes Description: This area contains secondary content typically not found in the main navigation of the DevDocs site.
-Structure type: Unknown
-Content type: Not applicable
-Not applicable</description>
     </item>
   </channel>
 </rss>

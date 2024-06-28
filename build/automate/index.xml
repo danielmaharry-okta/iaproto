@@ -44,5 +44,15 @@ Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Changes to be made: Notes from conversation with Bhavik, Maurice and Dan:
 Doing a youtube about potential use cases. They have identified 525 custs using unofficial powershell cli. They are the target market. Target them in pendo in admin console - target them and notify them, Tell them Okta as a new powershell cli, Link to youtube podcast.</description>
     </item>
+    <item>
+      <title>Okta Workflows</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/okta-workflows/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/okta-workflows/index.html</guid>
+      <description>Okta Workflows Click here to give feedback about this page
+Group Notes Group description: &amp;lsquo;- Summary redirect page to a product help workflow main overview page (if one exists, else we need to create one)
+Allows developers to navigate to workflow content within developer docs even though its help docs content. Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Why is this here?: Based on GroupIt Oktane data, the majority of customers placed workflows under &amp;ldquo;Automate&amp;rdquo;: https://docs.</description>
+    </item>
   </channel>
 </rss>

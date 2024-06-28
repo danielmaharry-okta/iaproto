@@ -21,6 +21,16 @@ Content type: Guide Hub
 A guide hub is the main navigation page for a section, such as learn, plan, or build. It begins with &amp;ldquo;Who this section is for?</description>
     </item>
     <item>
+      <title>Decide on a sign-in protocol</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/decide-on-a-sign-in-protocol/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/decide-on-a-sign-in-protocol/index.html</guid>
+      <description>Decide which authentication protocol is right for you Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Links to original docs: - All content except for the use case examples from: - Overview of Single Sign-On in the OIN: https://developer.okta.com/docs/guides/oin-sso-overview/ - Note most of the content is good and not specific to the OIN - Ensure any OIN-specific content is removed.
+Structure type: Task</description>
+    </item>
+    <item>
       <title>Add the recommended sign-in solution: redirect model</title>
       <link>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-the-recommended-sign-in-solution-redirect-model/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -96,11 +106,11 @@ Changes to be made: - Update title
 Need to understand whether i can use this implementation for redirect, embedded, direct auth, etc. After we find out, we&amp;rsquo;ll update the keywords accordingly and potentially update the guide placement. Links to original docs: - Share application key credentials for IdPs across Apps: https://developer.</description>
     </item>
     <item>
-      <title>Logout</title>
-      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/logout/index.html</link>
+      <title>Add a sign-out solution</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-sign-out-solution/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/logout/index.html</guid>
-      <description>Logout Click here to give feedback about this page
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-sign-out-solution/index.html</guid>
+      <description>Add a sign-out solution Click here to give feedback about this page
 Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Structure type: Navigation
 Content type: Dynamic Index

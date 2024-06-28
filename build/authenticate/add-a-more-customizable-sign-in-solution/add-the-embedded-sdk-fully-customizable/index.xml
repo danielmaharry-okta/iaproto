@@ -8,11 +8,11 @@
     <language>en-us</language>
     <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sdk-fully-customizable/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Passwordless sign up with email only</title>
-      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sdk-fully-customizable/passwordless-sign-up-with-email-only/index.html</link>
+      <title>Sign up with email only (passwordless)</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sdk-fully-customizable/sign-up-with-email-only-passwordless/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sdk-fully-customizable/passwordless-sign-up-with-email-only/index.html</guid>
-      <description>Passwordless sign up with email only Click here to give feedback about this page
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sdk-fully-customizable/sign-up-with-email-only-passwordless/index.html</guid>
+      <description>Sign up with email only (passwordless) Click here to give feedback about this page
 Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Changes to be made: Update title
 Links to original docs: &amp;lsquo;- Sign up for new account with email only: https://developer.okta.com/docs/guides/pwd-optional-new-sign-up-email/aspnet/main/
@@ -21,11 +21,11 @@ Content type: Integration guide
 An integration guide or coding guide illustrates how to perform a specific task that involves writing code.</description>
     </item>
     <item>
-      <title>Passwordless sign in with email only</title>
-      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sdk-fully-customizable/passwordless-sign-in-with-email-only/index.html</link>
+      <title>Sign in with email only (passwordless)</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sdk-fully-customizable/sign-in-with-email-only-passwordless/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sdk-fully-customizable/passwordless-sign-in-with-email-only/index.html</guid>
-      <description>Passwordless sign in with email only Click here to give feedback about this page
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sdk-fully-customizable/sign-in-with-email-only-passwordless/index.html</guid>
+      <description>Sign in with email only (passwordless) Click here to give feedback about this page
 Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Changes to be made: Update title
 Links to original docs: &amp;lsquo;- Sign in with email only: https://developer.okta.com/docs/guides/pwd-optional-sign-in-email/aspnet/main/
@@ -124,11 +124,11 @@ Content type: Integration guide
 An integration guide or coding guide illustrates how to perform a specific task that involves writing code.</description>
     </item>
     <item>
-      <title>Sign out user (local app only)</title>
-      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sdk-fully-customizable/sign-out-user-local-app-only/index.html</link>
+      <title>Sign a user out (local app only)</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sdk-fully-customizable/sign-a-user-out-local-app-only/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sdk-fully-customizable/sign-out-user-local-app-only/index.html</guid>
-      <description>Sign out user (local app only) Click here to give feedback about this page
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sdk-fully-customizable/sign-a-user-out-local-app-only/index.html</guid>
+      <description>Sign a user out (local app only) Click here to give feedback about this page
 Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Changes to be made: - Update title
 Technically, this sign out could go under the Logout group but the desire was to keep as much as possible all the SDKs docs in one space. Links to original docs: &amp;lsquo;- User sign out (local app): https://developer.okta.com/docs/guides/oie-embedded-sdk-use-case-basic-sign-out/android/main/

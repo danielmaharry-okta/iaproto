@@ -8,11 +8,11 @@
     <language>en-us</language>
     <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/build/customize/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Overview</title>
-      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/customize/overview/index.html</link>
+      <title>Add your brand to Oktas UI</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/customize/add-your-brand-to-oktas-ui/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/customize/overview/index.html</guid>
-      <description>Overview Click here to give feedback about this page
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/customize/add-your-brand-to-oktas-ui/index.html</guid>
+      <description>Add your brand to Okta&amp;rsquo;s User Interface Click here to give feedback about this page
 Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Changes to be made: Update title
 Links to original docs: - Brands: https://developer.okta.com/docs/concepts/brands/

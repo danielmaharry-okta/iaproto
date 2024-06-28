@@ -21,11 +21,11 @@ Content type: Integration guide
 An integration guide or coding guide illustrates how to perform a specific task that involves writing code.</description>
     </item>
     <item>
-      <title>Passwordless sign-in with only email</title>
-      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sign-in-widget-more-customizable/passwordless-sign-in-with-only-email/index.html</link>
+      <title>Sign in with email only (passwordless)</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sign-in-widget-more-customizable/sign-in-with-email-only-passwordless/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sign-in-widget-more-customizable/passwordless-sign-in-with-only-email/index.html</guid>
-      <description>Passwordless sign-in with only email Click here to give feedback about this page
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sign-in-widget-more-customizable/sign-in-with-email-only-passwordless/index.html</guid>
+      <description>Sign in with email only (passwordless) Click here to give feedback about this page
 Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Changes to be made: Update title
 Links to original docs: - Sign in with email only: https://developer.okta.com/docs/guides/pwd-optional-widget-sign-in-email/aspnet/main/
@@ -34,11 +34,11 @@ Content type: Integration guide
 An integration guide or coding guide illustrates how to perform a specific task that involves writing code.</description>
     </item>
     <item>
-      <title>Sign with with username and password</title>
-      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sign-in-widget-more-customizable/sign-with-with-username-and-password/index.html</link>
+      <title>Sign in with username and password</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sign-in-widget-more-customizable/sign-in-with-username-and-password/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sign-in-widget-more-customizable/sign-with-with-username-and-password/index.html</guid>
-      <description>Sign with with username and password Click here to give feedback about this page
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sign-in-widget-more-customizable/sign-in-with-username-and-password/index.html</guid>
+      <description>Sign in with username and password Click here to give feedback about this page
 Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Changes to be made: Update title
 Links to original docs: - Basic sign-in flow using the Widget: https://developer.okta.com/docs/guides/oie-embedded-widget-use-case-basic-sign-in/aspnet/main/

@@ -41,17 +41,17 @@ A dynamic index is an automatically generated list of links to topics immediatel
 https://developer.okta.com/docs/guides/authorization/ https://developer.</description>
     </item>
     <item>
-      <title>Review best practices</title>
-      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/implement-a-hook/review-best-practices/index.html</link>
+      <title>Best practices</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/implement-a-hook/best-practices/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/implement-a-hook/review-best-practices/index.html</guid>
-      <description>Review best practices for hook implementations Click here to give feedback about this page
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/implement-a-hook/best-practices/index.html</guid>
+      <description>Best practices for hook implementations Click here to give feedback about this page
 Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Changes to be made: Update title
 Links to original docs: https://developer.okta.com/docs/reference/hooks-best-practices/
 Structure type: Concept
 Content type: Best practice
-A Best Practices document presents a set of best practices to the reader. They may pertain to design, coding, or administrative tasks but do not often include actual step-by-step instructions.</description>
+A Best Practices document presents a set of best practices to the reader. They may pertain to design, coding, or administrative tasks but do not often include actual step-by-step instructions. For example:</description>
     </item>
   </channel>
 </rss>

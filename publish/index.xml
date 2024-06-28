@@ -8,75 +8,42 @@
     <language>en-us</language>
     <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/publish/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Learn about the Okta Integration Network</title>
-      <link>https://danielmaharry-okta.github.io:1313/iaproto/publish/learn-about-the-okta-integration-network/index.html</link>
+      <title>Review the OIN restrictions</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/publish/review-the-oin-restrictions/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://danielmaharry-okta.github.io:1313/iaproto/publish/learn-about-the-okta-integration-network/index.html</guid>
-      <description>Learn Click here to give feedback about this page
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/publish/review-the-oin-restrictions/index.html</guid>
+      <description>Review the OIN restrictions Click here to give feedback about this page
 Content Notes Target personas: WIC App Developer,Experienced IAM developer
-Why is this here?: Reasons for a &amp;ldquo;Learn&amp;rdquo; section include:
-Internal OIN Workshop results: When asked &amp;ldquo;What do devs need to know about the OIN&amp;rdquo; employees answered: Why OIN What&amp;rsquo;s the value prop What is OIN? What does &amp;ldquo;Integration&amp;rdquo; mean? Whats the path to OIN success. All these points are described in this section When asked customers what&amp;rsquo;s missing in the OIN docs they answered: - Best practices, - Many comments on the need for use cases This section will cover the above customer feedback Structure type: Navigation</description>
+Description: The &amp;ldquo;OIN Limitations&amp;rdquo; section from the pre-requisites page. This is being pulled out separately as it is linked to in many other pages compares to the pre-reqs in general and it needs to be easier to find in the navigation as a result.
+Changes to be made: Update with any UL or SCIM Entitlements limitations if there are any</description>
     </item>
     <item>
-      <title>Plan your app integration</title>
-      <link>https://danielmaharry-okta.github.io:1313/iaproto/publish/plan-your-app-integration/index.html</link>
+      <title>Review the OIN submission requirements</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/publish/review-the-oin-submission-requirements/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://danielmaharry-okta.github.io:1313/iaproto/publish/plan-your-app-integration/index.html</guid>
-      <description>Plan your app integration Click here to give feedback about this page
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/publish/review-the-oin-submission-requirements/index.html</guid>
+      <description>Review the OIN submission requirements Click here to give feedback about this page
 Content Notes Target personas: WIC App Developer,Experienced IAM developer
-Description: Discuss factors developers need to think about before being successful on the OIN
-Why is this here?: - Internal Workshop: When asked, &amp;ldquo;What prevents developers from being successful on the OIN? devs answered: - &amp;ldquo;Docs focus on submission and not factors to think about before&amp;rdquo;
-Structure type: Concept</description>
+Description: Basically the existing OIN pre-reqs page minue the OIN limitations page which is being split out into its own page - &amp;ldquo;OIN Restrictions&amp;rdquo;
+Changes to be made: Update with any UL or SCIm Entitlements pre-reqs if there are any
+Links to original docs: - OIN submission requirements: https://developer.</description>
     </item>
     <item>
-      <title>Test with a sample app</title>
-      <link>https://danielmaharry-okta.github.io:1313/iaproto/publish/test-with-a-sample-app/index.html</link>
+      <title>Submit your integration to OIN</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/publish/submit-your-integration-to-oin/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://danielmaharry-okta.github.io:1313/iaproto/publish/test-with-a-sample-app/index.html</guid>
-      <description>Test with a sample app Click here to give feedback about this page
-Group Notes Group description: - Contains sample apps that customers can use to understand the configurations of an OIN app and ways to submit such an app.
-The sample app can be the basis for the customer&amp;rsquo;s OIN app if they choose to use it. Content Notes Target personas: WIC App Developer,Experienced IAM developer
-Structure type: Navigation</description>
-    </item>
-    <item>
-      <title>Build your app</title>
-      <link>https://danielmaharry-okta.github.io:1313/iaproto/publish/build-your-app/index.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://danielmaharry-okta.github.io:1313/iaproto/publish/build-your-app/index.html</guid>
-      <description>Build your app Click here to give feedback about this page
-Content Notes Target personas: WIC App Developer,Experienced IAM developer
-Description: This doc provides summaries and links to how to build an SSO app, LCM (SCIM) app, and API Service. No content to actually building these apps are located here
-Links to original docs: &amp;lsquo;- SSO - Only include content and links to other docs that show how to build an SSO app.</description>
-    </item>
-    <item>
-      <title>Prepare for submission</title>
-      <link>https://danielmaharry-okta.github.io:1313/iaproto/publish/prepare-for-submission/index.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://danielmaharry-okta.github.io:1313/iaproto/publish/prepare-for-submission/index.html</guid>
-      <description>Prepare for submission Click here to give feedback about this page
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/publish/submit-your-integration-to-oin/index.html</guid>
+      <description>Submitting a new app integration to the OIN Click here to give feedback about this page
 Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Structure type: Navigation
-Content type: Guide Hub
-A guide hub is the main navigation page for a section, such as learn, plan, or build. It begins with &amp;ldquo;Who this section is for?&amp;rdquo; and how the user may have gotten to this page, i.e., where they are in their user journey at this point.</description>
+Content type: Dynamic Index
+A dynamic index is an automatically generated list of links to topics immediately beneath it based purely on the site&amp;rsquo;s structure, or with some level of filtering. A blind list of summaries and links to child docs. For example:</description>
     </item>
     <item>
-      <title>Submit</title>
-      <link>https://danielmaharry-okta.github.io:1313/iaproto/publish/submit/index.html</link>
+      <title>Update your integration</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/publish/update-your-integration/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://danielmaharry-okta.github.io:1313/iaproto/publish/submit/index.html</guid>
-      <description>Submit Click here to give feedback about this page
-Content Notes Target personas: WIC App Developer,Experienced IAM developer
-Changes to be made: This doc is large and covers different types of content such as guide up, submission process, etc. For now, it&amp;rsquo;s one doc, but we may need to split this up.
-Links to original docs: - Publish an OIN integration: https://developer.okta.com/docs/guides/submit-app-overview/
-Structure type: Navigation
-Content type: Guide Hub
-A guide hub is the main navigation page for a section, such as learn, plan, or build.</description>
-    </item>
-    <item>
-      <title>Update your app</title>
-      <link>https://danielmaharry-okta.github.io:1313/iaproto/publish/update-your-app/index.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://danielmaharry-okta.github.io:1313/iaproto/publish/update-your-app/index.html</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/publish/update-your-integration/index.html</guid>
       <description>Releasing new versions of your app Click here to give feedback about this page
 Group Notes Group description: Based on the User research we need to determine what the content should be for this section.
 Content Notes Target personas: WIC App Developer,Experienced IAM developer
@@ -84,16 +51,14 @@ Why is this here?: At Oktane, the OIN Survey showed several customers citing the
 Missing information from the app providers on their new versions SP Software version info Structure type: Navigation</description>
     </item>
     <item>
-      <title>Connect for help</title>
-      <link>https://danielmaharry-okta.github.io:1313/iaproto/publish/connect-for-help/index.html</link>
+      <title>Find help for OIN problems</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/publish/find-help-for-oin-problems/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://danielmaharry-okta.github.io:1313/iaproto/publish/connect-for-help/index.html</guid>
-      <description>Connect Click here to give feedback about this page
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/publish/find-help-for-oin-problems/index.html</guid>
+      <description>Find help for OIN problems Click here to give feedback about this page
 Content Notes Target personas: WIC App Developer,Experienced IAM developer
-Why is this here?: - Internal workshop: When asked &amp;ldquo;What prevents developers from being successful on the OIN&amp;rdquo;, respondents answered: - How to ask for and receive help from OKta - Links to Okta Education classes
-Structure type: Concept
-Content type: Explanation
-Explanations present a more detailed dive into a single topic compared to Conceptual Overviews.</description>
+Description: The goal of this page is to give links to OIN related education courses, OIN support communites, sites where they need to talk to sales, etc.
+Why is this here?: - Internal workshop: When asked &amp;ldquo;What prevents developers from being successful on the OIN&amp;rdquo;, respondents answered: - How to ask for and receive help from OKta - Links to Okta Education classes</description>
     </item>
   </channel>
 </rss>

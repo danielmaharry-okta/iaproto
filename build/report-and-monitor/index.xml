@@ -16,9 +16,9 @@
 Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Changes to be made: Update title
 Links to original docs: - Monitor Okta: https://developer.okta.com/docs/concepts/monitor/
-Structure type: Concept
-Content type: Explanation
-Explanations present a more detailed dive into a single topic compared to Conceptual Overviews. They aim to clarify specific elements of the technology, offering developers practical insights or in-depth clarification on particular points of interest.</description>
+Structure type: Task
+Content type: How-to
+A How-to document illustrates how to perform a specific task that does not rely on writing code. How-tos tend to walk the reader step by step through administrative tasks but not exclusively.</description>
     </item>
   </channel>
 </rss>
