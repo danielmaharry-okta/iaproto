@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Okta Basics on DevDocs Navigation Menu Test</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-basics/index.html</link>
+    <description>Recent content in Okta Basics on DevDocs Navigation Menu Test</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-basics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Okta Identity Engine</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-basics/okta-identity-engine/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-basics/okta-identity-engine/index.html</guid>
+      <description>Okta Identity Engine Click here to give feedback about this page
+Content Notes Target personas: New IAM Developers,Developers new to Okta
+Changes to be made: &amp;lsquo;- Article title change
+After reading this doc it is rather outdated. We should update this doc and mention Okta&amp;rsquo;s latest offerings (OIG, PAM, etc) Also even calling it Identity Engine seems rather dated. Consider limiting &amp;ldquo;Identity Engine&amp;rdquo; and discuss with teammates Links to original docs: - Okta Identity Engine overview: https://developer.</description>
+    </item>
+    <item>
+      <title>The Okta org</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-basics/the-okta-org/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-basics/the-okta-org/index.html</guid>
+      <description>The Okta org Click here to give feedback about this page
+Content Notes Target personas: New IAM Developers,Developers new to Okta
+Changes to be made: Doc needs a thorough review and possibly updated to include new org features.
+Links to original docs: - Okta organizations: https://developer.okta.com/docs/concepts/okta-organizations/
+Why is this here?: - Internal workshop session: Session 1 - Team 2 chose the Okta Org group
+Structure type: Concept
+Content type: Explanation</description>
+    </item>
+    <item>
+      <title>Find your Okta Domain</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-basics/find-your-okta-domain/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-basics/find-your-okta-domain/index.html</guid>
+      <description>Find your Okta Domain Click here to give feedback about this page
+Content Notes Target personas: New IAM Developers,Developers new to Okta
+Changes to be made: - Add reasons why you need to know or use this &amp;ldquo;Okta domain&amp;rdquo;
+Links to original docs: - Find your Okta domain: https://developer.okta.com/docs/guides/find-your-domain/main/
+Structure type: Task
+Content type: How-to
+A How-to document illustrates how to perform a specific task that does not rely on writing code.</description>
+    </item>
+    <item>
+      <title>Find your application credentials</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-basics/find-your-application-credentials/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-basics/find-your-application-credentials/index.html</guid>
+      <description>Find your application credentials Click here to give feedback about this page
+Content Notes Target personas: New IAM Developers,Developers new to Okta
+Changes to be made: - Add reasons why you need to know or use the &amp;ldquo;Application credentials&amp;rdquo;
+Links to original docs: - Find your application credentials: https://developer.okta.com/docs/guides/find-your-app-credentials/-/main/
+Structure type: Task
+Content type: How-to
+A How-to document illustrates how to perform a specific task that does not rely on writing code.</description>
+    </item>
+    <item>
+      <title>Admin console</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-basics/admin-console/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-basics/admin-console/index.html</guid>
+      <description>Admin console Click here to give feedback about this page
+Content Notes Target personas: New IAM Developers,Developers new to Okta
+Description: Summary overview of the Admin console. I did not find this document on help.okta.com. We could also place this doc in help.okta.com and make this doc an summary redirect doc.
+Structure type: Concept
+Content type: Explanation
+Explanations present a more detailed dive into a single topic compared to Conceptual Overviews.</description>
+    </item>
+    <item>
+      <title>Global session and authentication policies</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-basics/global-session-and-authentication-policies/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-basics/global-session-and-authentication-policies/index.html</guid>
+      <description>Global session and authentication policies Click here to give feedback about this page
+Content Notes Target personas: New IAM Developers,Developers new to Okta
+Links to original docs: First section in Configure a global session policy and authentication policies: https://developer.okta.com/docs/guides/configure-signon-policy/main/
+Structure type: Concept
+Content type: Explanation
+Explanations present a more detailed dive into a single topic compared to Conceptual Overviews. They aim to clarify specific elements of the technology, offering developers practical insights or in-depth clarification on particular points of interest.</description>
+    </item>
+    <item>
+      <title>Okta APIs</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-basics/okta-apis/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-basics/okta-apis/index.html</guid>
+      <description>Okta APIs Click here to give feedback about this page
+Content Notes Target personas: New IAM Developers,Developers new to Okta
+Why is this here?: - At the Oktane MatchIt game, 35.5% of respondents could not define Okta APIs.
+In the Oktane GroupIt game, the topics placed under the APIs and SDKs group represented were very broad in scope. This broadness may indicate a lack of clarity of the meaning of API and SDK.</description>
+    </item>
+    <item>
+      <title>Okta SDKs</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-basics/okta-sdks/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-basics/okta-sdks/index.html</guid>
+      <description>Okta SDKs Click here to give feedback about this page
+Content Notes Target personas: New IAM Developers,Developers new to Okta
+Links to original docs: - Org setup: https://developer.okta.com/docs/guides/oie-embedded-common-org-setup/android/main/ - SDK overview section and diagrams
+Auth JS Fundamentals: https://developer.okta.com/docs/guides/auth-js/main/ - &amp;ldquo;About the Okta Auth JavaScript SDK&amp;rdquo; section Why is this here?: - In the Oktane GroupIt game, the topics placed under the APIs and SDKs group represented were very broad in scope.</description>
+    </item>
+    <item>
+      <title>Okta Sign-in Widget</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-basics/okta-sign-in-widget/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-basics/okta-sign-in-widget/index.html</guid>
+      <description>Okta Sign-in Widget Click here to give feedback about this page
+Content Notes Target personas: New IAM Developers,Developers new to Okta
+Why is this here?: - In the Oktane GroupIt game, the Embedded Sign-in Wdiget was placed in a significant amount of groups, which may indicate disagreement over the meaning.
+Structure type: Concept
+Content type: Explanation
+Explanations present a more detailed dive into a single topic compared to Conceptual Overviews. They aim to clarify specific elements of the technology, offering developers practical insights or in-depth clarification on particular points of interest.</description>
+    </item>
+  </channel>
+</rss>

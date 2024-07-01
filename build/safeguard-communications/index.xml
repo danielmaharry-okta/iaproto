@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Safeguard communications on DevDocs Navigation Menu Test</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/build/safeguard-communications/index.html</link>
+    <description>Recent content in Safeguard communications on DevDocs Navigation Menu Test</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/build/safeguard-communications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Secure your tokens</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/safeguard-communications/secure-your-tokens/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/safeguard-communications/secure-your-tokens/index.html</guid>
+      <description>Secure your tokens Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Structure type: Navigation
+Content type: Dynamic Index
+A dynamic index is an automatically generated list of links to topics immediately beneath it based purely on the site&amp;rsquo;s structure, or with some level of filtering. A blind list of summaries and links to child docs. For example:
+https://developer.okta.com/docs/guides/authorization/ https://developer.okta.com/docs/guides/api-security/ https://developer.okta.com/docs/guides/manage-users/ </description>
+    </item>
+    <item>
+      <title>Rotate your apps client secrets</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/safeguard-communications/rotate-your-apps-client-secrets/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/safeguard-communications/rotate-your-apps-client-secrets/index.html</guid>
+      <description>Rotate your app&amp;rsquo;s client secrets Click here to give feedback about this page
+Group Notes Group description: - No specific user research obtained for client secrets
+Client secrets are used in Authentication hence the reason why they are in Authenticate Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Links to original docs: - Client secret rotation and key management: https://developer.okta.com/docs/guides/client-secret-rotation-key/main/
+Structure type: Task
+Content type: How-to
+A How-to document illustrates how to perform a specific task that does not rely on writing code.</description>
+    </item>
+    <item>
+      <title>Secure your Okta API authentication with JWTs </title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/safeguard-communications/secure-your-okta-api-authentication-with-jwts/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/safeguard-communications/secure-your-okta-api-authentication-with-jwts/index.html</guid>
+      <description>Secure your Okta API authentication with JWTs Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Links to original docs: - Build a JWT for Client Authentication: https://developer.okta.com/docs/guides/build-self-signed-jwt/java/main/
+Structure type: Task
+Content type: Integration guide
+An integration guide or coding guide illustrates how to perform a specific task that involves writing code. It is similar to a how-to but the focus is more technical and geared towards developers integrating an SDK, API, or another library into their applications.</description>
+    </item>
+    <item>
+      <title>Add a third-party risk provider</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/safeguard-communications/add-a-third-party-risk-provider/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/safeguard-communications/add-a-third-party-risk-provider/index.html</guid>
+      <description>Add a third-party risk provider Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Description: This document shows how to configure a third party provider using the API and create a simple event log. I think we could make this use case more robust and describe a better more detailed use case.
+This risk engine described in this doc can be useful in both secure and system log.</description>
+    </item>
+  </channel>
+</rss>

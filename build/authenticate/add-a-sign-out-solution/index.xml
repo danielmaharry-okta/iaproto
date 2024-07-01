@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Add a sign-out solution on DevDocs Navigation Menu Test</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-sign-out-solution/index.html</link>
+    <description>Recent content in Add a sign-out solution on DevDocs Navigation Menu Test</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-sign-out-solution/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sign a user out from all SSO applications using OIDC</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-sign-out-solution/sign-a-user-out-from-all-sso-applications-using-oidc/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-sign-out-solution/sign-a-user-out-from-all-sso-applications-using-oidc/index.html</guid>
+      <description>Sign a user out from all SSO applications using OIDC Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Changes to be made: - Split out the OIDC/SAML page dimension into separate guides
+Update title Links to original docs: - Configure Single Logout: https://developer.okta.com/docs/guides/single-logout/openidconnect/main/
+Structure type: Task
+Content type: Integration guide
+An integration guide or coding guide illustrates how to perform a specific task that involves writing code.</description>
+    </item>
+    <item>
+      <title>Sign a user out from all SSO applications using SAML</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-sign-out-solution/sign-a-user-out-from-all-sso-applications-using-saml/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-sign-out-solution/sign-a-user-out-from-all-sso-applications-using-saml/index.html</guid>
+      <description>Sign a user out from all SSO applications using SAML Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Changes to be made: - Split out the OIDC/SAML page dimension into separate guides
+Update title Links to original docs: - Configure Single Logout: https://developer.okta.com/docs/guides/single-logout/saml2/main/
+Structure type: Task
+Content type: Integration guide
+An integration guide or coding guide illustrates how to perform a specific task that involves writing code.</description>
+    </item>
+    <item>
+      <title>Add Universal Logout to your app</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-sign-out-solution/add-universal-logout-to-your-app/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-sign-out-solution/add-universal-logout-to-your-app/index.html</guid>
+      <description>Add Universal Logout to your app Click here to give feedback about this page
+Content Notes Target personas: WIC App Developer,Experienced IAM developer
+Changes to be made: - Update title
+Error codes belong in a reference doc not in this doc cc: @Dan Maharry Links to original docs: - Build Universal Logout for your app: https://developer.okta.com/docs/guides/oin-universal-logout-overview/
+Include material from UL Blog workshop? Structure type: Task
+Content type: How-to: developer focused</description>
+    </item>
+  </channel>
+</rss>
