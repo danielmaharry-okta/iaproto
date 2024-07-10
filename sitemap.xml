@@ -10,7 +10,7 @@
     <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/identity-access-management-iam/index.html</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/identity-access-management-iam/sessions/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/identity-access-management-iam/user-and-application-sessions/index.html</loc>
   </url>
   <url>
     <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/application-types/index.html</loc>
@@ -148,21 +148,6 @@
     <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-integration-network-oin/use-cases-for-oin-integrations/service-app-use-cases/index.html</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/tools-for-testing/index.html</loc>
-  </url>
-  <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/tools-for-testing/test-saml-app-with-saml-tracer/index.html</loc>
-  </url>
-  <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/tools-for-testing/testing-sign-in-with-postman/index.html</loc>
-  </url>
-  <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/tools-for-testing/test-the-okta-apis-with-postman/index.html</loc>
-  </url>
-  <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/tools-for-testing/discover-postman-collections/index.html</loc>
-  </url>
-  <url>
     <loc>https://danielmaharry-okta.github.io:1313/iaproto/plan/index.html</loc>
   </url>
   <url>
@@ -193,7 +178,7 @@
     <loc>https://danielmaharry-okta.github.io:1313/iaproto/plan/build-with-okta-identity-governance/index.html</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/plan/compare-hi-code-and-no-code-lcm-apps/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/plan/compare-high-code-and-no-code-lcm-apps/index.html</loc>
   </url>
   <url>
     <loc>https://danielmaharry-okta.github.io:1313/iaproto/plan/plan-your-apps-sign-out-experience/index.html</loc>
@@ -424,7 +409,7 @@
     <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-sessions/index.html</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-sessions/manage-your-user-sessions/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-sessions/manage-sessions-with-sessions-api/index.html</loc>
   </url>
   <url>
     <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-sessions/retrieving-the-cookie-session-in-the-classic-engine/index.html</loc>
@@ -691,7 +676,19 @@
     <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/test/index.html</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/test/test-sso-is-working/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/test/test-single-sign-on/index.html</loc>
+  </url>
+  <url>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/test/test-saml-app-with-saml-tracer/index.html</loc>
+  </url>
+  <url>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/test/testing-sign-in-with-postman/index.html</loc>
+  </url>
+  <url>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/test/test-the-okta-apis-with-postman/index.html</loc>
+  </url>
+  <url>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/test/discover-postman-collections/index.html</loc>
   </url>
   <url>
     <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/deploy/index.html</loc>
@@ -877,7 +874,7 @@
     <loc>https://danielmaharry-okta.github.io:1313/iaproto/reference/roles-resources-and-permissions/index.html</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/reference/dictionary/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/reference/glossary/index.html</loc>
   </url>
   <url>
     <loc>https://danielmaharry-okta.github.io:1313/iaproto/categories/index.html</loc>

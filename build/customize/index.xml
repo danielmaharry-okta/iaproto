@@ -8,7 +8,7 @@
     <language>en-us</language>
     <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/build/customize/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Add your brand to Oktas UI</title>
+      <title>Add your brand to Okta’s UI</title>
       <link>https://danielmaharry-okta.github.io:1313/iaproto/build/customize/add-your-brand-to-oktas-ui/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/customize/add-your-brand-to-oktas-ui/index.html</guid>
@@ -30,8 +30,8 @@ Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Changes to be made: Update title
 Links to original docs: - Customize domain and email address: https://developer.okta.com/docs/guides/custom-url-domain/main/
 Structure type: Task
-Content type: How-to
-A How-to document illustrates how to perform a specific task that does not rely on writing code. How-tos tend to walk the reader step by step through administrative tasks but not exclusively.</description>
+Content type: How-to without code
+A &amp;ldquo;How-to without code&amp;rdquo; illustrates how to perform a specific task that does not rely on writing code. They tend to walk the reader through administrative tasks but not exclusively.</description>
     </item>
     <item>
       <title>Style the Sign-in widget</title>

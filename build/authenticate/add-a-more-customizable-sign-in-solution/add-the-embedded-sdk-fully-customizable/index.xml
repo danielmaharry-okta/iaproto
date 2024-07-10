@@ -17,8 +17,8 @@ Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Changes to be made: Update title
 Links to original docs: &amp;lsquo;- Sign up for new account with email only: https://developer.okta.com/docs/guides/pwd-optional-new-sign-up-email/aspnet/main/
 Sign in to your SPA with Auth JS: https://developer.okta.com/docs/guides/sign-in-to-spa-authjs/angular/main/ (Add lang and/or tech dimensions) Structure type: Task
-Content type: Integration guide
-An integration guide or coding guide illustrates how to perform a specific task that involves writing code.</description>
+Content type: How-to with code
+A &amp;ldquo;How-to with code&amp;rdquo; illustrates how to perform a specific task that involves writing code.</description>
     </item>
     <item>
       <title>Sign in with email only (passwordless)</title>
@@ -30,8 +30,8 @@ Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Changes to be made: Update title
 Links to original docs: &amp;lsquo;- Sign in with email only: https://developer.okta.com/docs/guides/pwd-optional-sign-in-email/aspnet/main/
 Sign in to your SPA with Auth JS: https://developer.okta.com/docs/guides/sign-in-to-spa-authjs/angular/main/ (Add lang and/or tech dimensions) Structure type: Task
-Content type: Integration guide
-An integration guide or coding guide illustrates how to perform a specific task that involves writing code.</description>
+Content type: How-to with code
+A &amp;ldquo;How-to with code&amp;rdquo; illustrates how to perform a specific task that involves writing code.</description>
     </item>
     <item>
       <title>Sign in with email and password</title>
@@ -43,8 +43,8 @@ Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Changes to be made: Update title
 Links to original docs: &amp;lsquo;- Basic sign-in flow with the password factor: https://developer.okta.com/docs/guides/oie-embedded-sdk-use-case-basic-sign-in/aspnet/main/
 Sign in to your SPA with Auth JS: https://developer.okta.com/docs/guides/sign-in-to-spa-authjs/angular/main/ (Add lang and/or tech dimensions) Structure type: Task
-Content type: Integration guide
-An integration guide or coding guide illustrates how to perform a specific task that involves writing code.</description>
+Content type: How-to with code
+A &amp;ldquo;How-to with code&amp;rdquo; illustrates how to perform a specific task that involves writing code.</description>
     </item>
     <item>
       <title>Sign in with Facebook</title>
@@ -55,8 +55,8 @@ An integration guide or coding guide illustrates how to perform a specific task 
 Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Links to original docs: - Sign in with Facebook: https://developer.okta.com/docs/guides/oie-embedded-sdk-use-case-sign-in-soc-idp/aspnet/main/
 Structure type: Task
-Content type: Integration guide
-An integration guide or coding guide illustrates how to perform a specific task that involves writing code. It is similar to a how-to but the focus is more technical and geared towards developers integrating an SDK, API, or another library into their applications.</description>
+Content type: How-to with code
+A &amp;ldquo;How-to with code&amp;rdquo; illustrates how to perform a specific task that involves writing code. The focus is geared towards developers integrating an SDK, API, or another library into their applications. For example</description>
     </item>
     <item>
       <title>Recover user password</title>
@@ -68,8 +68,8 @@ Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Changes to be made: Update title
 Links to original docs: &amp;lsquo;- User password recovery: https://developer.okta.com/docs/guides/oie-embedded-sdk-use-case-pwd-recovery-mfa/aspnet/main/
 Sign in to your SPA with Auth JS: https://developer.okta.com/docs/guides/sign-in-to-spa-authjs/angular/main/ (Add lang and/or tech dimensions) Structure type: Task
-Content type: Integration guide
-An integration guide or coding guide illustrates how to perform a specific task that involves writing code.</description>
+Content type: How-to with code
+A &amp;ldquo;How-to with code&amp;rdquo; illustrates how to perform a specific task that involves writing code.</description>
     </item>
     <item>
       <title>Sign up with email</title>
@@ -81,8 +81,8 @@ Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Changes to be made: Update title
 Links to original docs: &amp;lsquo;- Self-service registration: https://developer.okta.com/docs/guides/oie-embedded-sdk-use-case-self-reg/aspnet/main/
 Sign in to your SPA with Auth JS: https://developer.okta.com/docs/guides/sign-in-to-spa-authjs/angular/main/ (Add lang and/or tech dimensions) Structure type: Task
-Content type: Integration guide
-An integration guide or coding guide illustrates how to perform a specific task that involves writing code.</description>
+Content type: How-to with code
+A &amp;ldquo;How-to with code&amp;rdquo; illustrates how to perform a specific task that involves writing code.</description>
     </item>
     <item>
       <title>Activate a new user</title>
@@ -94,8 +94,8 @@ Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Changes to be made: Update title
 Links to original docs: &amp;lsquo;- New user activation: https://developer.okta.com/docs/guides/oie-embedded-sdk-use-case-new-user-activation/nodeexpress/main/
 Sign in to your SPA with Auth JS: https://developer.okta.com/docs/guides/sign-in-to-spa-authjs/angular/main/ (Add lang and/or tech dimensions) Structure type: Task
-Content type: Integration guide
-An integration guide or coding guide illustrates how to perform a specific task that involves writing code.</description>
+Content type: How-to with code
+A &amp;ldquo;How-to with code&amp;rdquo; illustrates how to perform a specific task that involves writing code.</description>
     </item>
     <item>
       <title>Sign in with password and email</title>
@@ -107,8 +107,8 @@ Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Changes to be made: Update title
 Links to original docs: &amp;lsquo;- Sign in with password and email factors: https://developer.okta.com/docs/guides/oie-embedded-sdk-use-case-sign-in-pwd-email/android/main/
 Sign in to your SPA with Auth JS: https://developer.okta.com/docs/guides/sign-in-to-spa-authjs/angular/main/ (Add lang and/or tech dimensions) Structure type: Task
-Content type: Integration guide
-An integration guide or coding guide illustrates how to perform a specific task that involves writing code.</description>
+Content type: How-to with code
+A &amp;ldquo;How-to with code&amp;rdquo; illustrates how to perform a specific task that involves writing code.</description>
     </item>
     <item>
       <title>Sign in with password and phone</title>
@@ -120,8 +120,8 @@ Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Changes to be made: Update title
 Links to original docs: &amp;lsquo;- Sign in with password and phone factors: https://developer.okta.com/docs/guides/oie-embedded-sdk-use-case-sign-in-pwd-phone/android/main/
 Sign in to your SPA with Auth JS: https://developer.okta.com/docs/guides/sign-in-to-spa-authjs/angular/main/ (Add lang and/or tech dimensions) Structure type: Task
-Content type: Integration guide
-An integration guide or coding guide illustrates how to perform a specific task that involves writing code.</description>
+Content type: How-to with code
+A &amp;ldquo;How-to with code&amp;rdquo; illustrates how to perform a specific task that involves writing code.</description>
     </item>
     <item>
       <title>Sign a user out (local app only)</title>

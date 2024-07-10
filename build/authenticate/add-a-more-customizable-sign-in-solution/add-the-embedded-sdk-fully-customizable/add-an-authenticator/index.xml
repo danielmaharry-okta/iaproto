@@ -17,8 +17,8 @@ Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Changes to be made: Update title
 Links to original docs: &amp;lsquo;- Okta email (magic link/OTP) integration guide: https://developer.okta.com/docs/guides/authenticators-okta-email/aspnet/main/
 Structure type: Task
-Content type: Integration guide
-An integration guide or coding guide illustrates how to perform a specific task that involves writing code. It is similar to a how-to but the focus is more technical and geared towards developers integrating an SDK, API, or another library into their applications.</description>
+Content type: How-to with code
+A &amp;ldquo;How-to with code&amp;rdquo; illustrates how to perform a specific task that involves writing code. The focus is geared towards developers integrating an SDK, API, or another library into their applications.</description>
     </item>
     <item>
       <title>Okta Verify</title>
@@ -30,8 +30,8 @@ Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Changes to be made: Update title
 Links to original docs: &amp;lsquo;- Okta Verify (Push/OTP) integration guide: https://developer.okta.com/docs/guides/authenticators-okta-verify/aspnet/main/
 Structure type: Task
-Content type: Integration guide
-An integration guide or coding guide illustrates how to perform a specific task that involves writing code. It is similar to a how-to but the focus is more technical and geared towards developers integrating an SDK, API, or another library into their applications.</description>
+Content type: How-to with code
+A &amp;ldquo;How-to with code&amp;rdquo; illustrates how to perform a specific task that involves writing code. The focus is geared towards developers integrating an SDK, API, or another library into their applications.</description>
     </item>
     <item>
       <title>Custom authenticator</title>
@@ -43,8 +43,8 @@ Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Changes to be made: Update title
 Links to original docs: - Custom authenticator integration guide: https://developer.okta.com/docs/guides/authenticators-custom-authenticator/android/main/
 Structure type: Task
-Content type: Integration guide
-An integration guide or coding guide illustrates how to perform a specific task that involves writing code. It is similar to a how-to but the focus is more technical and geared towards developers integrating an SDK, API, or another library into their applications.</description>
+Content type: How-to with code
+A &amp;ldquo;How-to with code&amp;rdquo; illustrates how to perform a specific task that involves writing code. The focus is geared towards developers integrating an SDK, API, or another library into their applications.</description>
     </item>
     <item>
       <title>Google authenticator</title>
@@ -56,8 +56,8 @@ Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Changes to be made: Update title
 Links to original docs: - Google Authenticator integration guide: https://developer.okta.com/docs/guides/authenticators-google-authenticator/aspnet/main/
 Structure type: Task
-Content type: Integration guide
-An integration guide or coding guide illustrates how to perform a specific task that involves writing code. It is similar to a how-to but the focus is more technical and geared towards developers integrating an SDK, API, or another library into their applications.</description>
+Content type: How-to with code
+A &amp;ldquo;How-to with code&amp;rdquo; illustrates how to perform a specific task that involves writing code. The focus is geared towards developers integrating an SDK, API, or another library into their applications.</description>
     </item>
     <item>
       <title>Web Authentication</title>
@@ -69,8 +69,8 @@ Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Changes to be made: Update title
 Links to original docs: - Web Authentication integration guide: https://developer.okta.com/docs/guides/authenticators-web-authn/aspnet/main/
 Structure type: Task
-Content type: Integration guide
-An integration guide or coding guide illustrates how to perform a specific task that involves writing code. It is similar to a how-to but the focus is more technical and geared towards developers integrating an SDK, API, or another library into their applications.</description>
+Content type: How-to with code
+A &amp;ldquo;How-to with code&amp;rdquo; illustrates how to perform a specific task that involves writing code. The focus is geared towards developers integrating an SDK, API, or another library into their applications.</description>
     </item>
   </channel>
 </rss>

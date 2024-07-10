@@ -18,8 +18,8 @@ Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Changes to be made: - Update title
 Links to original docs: - Validate Access Tokens: https://developer.okta.com/docs/guides/validate-access-tokens/dotnet/main/
 Structure type: Task
-Content type: Integration guide
-An integration guide or coding guide illustrates how to perform a specific task that involves writing code.</description>
+Content type: How-to with code
+A &amp;ldquo;How-to with code&amp;rdquo; illustrates how to perform a specific task that involves writing code.</description>
     </item>
     <item>
       <title>Validate your ID tokens</title>

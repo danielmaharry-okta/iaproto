@@ -40,8 +40,8 @@ Content Notes Target personas: New IAM Developers,Developers new to Okta
 Changes to be made: - Add reasons why you need to know or use this &amp;ldquo;Okta domain&amp;rdquo;
 Links to original docs: - Find your Okta domain: https://developer.okta.com/docs/guides/find-your-domain/main/
 Structure type: Task
-Content type: How-to
-A How-to document illustrates how to perform a specific task that does not rely on writing code.</description>
+Content type: How-to without code
+A &amp;ldquo;How-to without code&amp;rdquo; illustrates how to perform a specific task that does not rely on writing code.</description>
     </item>
     <item>
       <title>Find your application credentials</title>
@@ -53,8 +53,8 @@ Content Notes Target personas: New IAM Developers,Developers new to Okta
 Changes to be made: - Add reasons why you need to know or use the &amp;ldquo;Application credentials&amp;rdquo;
 Links to original docs: - Find your application credentials: https://developer.okta.com/docs/guides/find-your-app-credentials/-/main/
 Structure type: Task
-Content type: How-to
-A How-to document illustrates how to perform a specific task that does not rely on writing code.</description>
+Content type: How-to without code
+A &amp;ldquo;How-to without code&amp;rdquo; illustrates how to perform a specific task that does not rely on writing code.</description>
     </item>
     <item>
       <title>Admin console</title>

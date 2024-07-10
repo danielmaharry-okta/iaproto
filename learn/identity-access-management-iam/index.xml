@@ -8,11 +8,11 @@
     <language>en-us</language>
     <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/learn/identity-access-management-iam/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Sessions</title>
-      <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/identity-access-management-iam/sessions/index.html</link>
+      <title>User and application sessions</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/identity-access-management-iam/user-and-application-sessions/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://danielmaharry-okta.github.io:1313/iaproto/learn/identity-access-management-iam/sessions/index.html</guid>
-      <description>Session types Click here to give feedback about this page
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/learn/identity-access-management-iam/user-and-application-sessions/index.html</guid>
+      <description>User and application sessions Click here to give feedback about this page
 Content Notes Target personas: New IAM Developers,Developers new to Okta
 Description: Explains at a high level what is IAM.
 Links to original docs: This is a new doc. Bits of this doc can come from:

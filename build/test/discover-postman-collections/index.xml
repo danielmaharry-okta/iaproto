@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Discover Postman Collections on DevDocs Navigation Menu Test</title>
-    <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/tools-for-testing/discover-postman-collections/index.html</link>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/build/test/discover-postman-collections/index.html</link>
     <description>Recent content in Discover Postman Collections on DevDocs Navigation Menu Test</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/learn/tools-for-testing/discover-postman-collections/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/build/test/discover-postman-collections/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

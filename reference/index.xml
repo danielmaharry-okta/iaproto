@@ -49,8 +49,8 @@ Changes to be made: This document is currently dynamically generated, but it sho
 Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Links to original docs: Doc content is pulled from several docs:
 Customize email notifications: https://developer.okta.com/docs/guides/custom-email/main/ Velocity template language (help docs): https://help.okta.com/en-us/content/topics/settings/velocity-variables.htm Structure type: Reference
-Content type: Reference lookup
-Reference lookups consist mostly of a series of tables or lists where users can look up facts or definitions, interspersed with short explanatory texts that give those tables the correct context.</description>
+Content type: Lookup lists and tables
+A series of tables or lists where users can look up facts or definitions, interspersed with short explanatory texts that give those tables the correct context.</description>
     </item>
     <item>
       <title>Okta expression language</title>
@@ -70,15 +70,15 @@ Content Notes Target personas: WIC App Developer,Experienced IAM developer</desc
 Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Links to original docs: Make this guide into a reference guide:
 Role assignment: https://developer.okta.com/docs/concepts/role-assignment/ Structure type: Task
-Content type: Integration guide
-An integration guide or coding guide illustrates how to perform a specific task that involves writing code. It is similar to a how-to but the focus is more technical and geared towards developers integrating an SDK, API, or another library into their applications.</description>
+Content type: How-to with code
+A &amp;ldquo;How-to with code&amp;rdquo; illustrates how to perform a specific task that involves writing code. The focus is geared towards developers integrating an SDK, API, or another library into their applications.</description>
     </item>
     <item>
-      <title>Dictionary</title>
-      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/dictionary/index.html</link>
+      <title>Glossary</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/glossary/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/dictionary/index.html</guid>
-      <description>Terminology dictionary Click here to give feedback about this page
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/glossary/index.html</guid>
+      <description>Glossary of terms Click here to give feedback about this page
 Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Structure type: Reference
 Content type: Glossary

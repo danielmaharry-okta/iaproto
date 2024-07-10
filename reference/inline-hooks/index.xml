@@ -29,7 +29,7 @@ Description: Will be hosted in Redocly. This is a reference doc describing sampl
 Changes to be made: Note: It is possible this is ported into some Redocly content at some point
 Links to original docs: https://developer.okta.com/docs/reference/registration-hook/
 Structure type: Reference
-Content type: Reference lookup</description>
+Content type: Lookup lists and tables</description>
     </item>
     <item>
       <title>SAML Assertion Hook</title>

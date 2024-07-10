@@ -17,8 +17,8 @@ Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Changes to be made: - Update title
 Links to original docs: - Spring Security SAML: https://developer.okta.com/code/java/spring_security_saml/ CC @Dan Maharry- this doc was taken from the &amp;ldquo;SDK&amp;rdquo; section
 Structure type: Task
-Content type: Integration guide
-An integration guide or coding guide illustrates how to perform a specific task that involves writing code.</description>
+Content type: How-to with code
+A &amp;ldquo;How-to with code&amp;rdquo; illustrates how to perform a specific task that involves writing code.</description>
     </item>
   </channel>
 </rss>

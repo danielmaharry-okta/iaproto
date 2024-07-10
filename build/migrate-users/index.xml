@@ -17,8 +17,8 @@ Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Changes to be made: Update title
 Links to original docs: - Migrate to Okta — Prerequisites: https://developer.okta.com/docs/guides/migrate-to-okta-prerequisites/main/
 Structure type: Task
-Content type: How-to
-A How-to document illustrates how to perform a specific task that does not rely on writing code. How-tos tend to walk the reader step by step through administrative tasks but not exclusively.</description>
+Content type: How-to without code
+A &amp;ldquo;How-to without code&amp;rdquo; illustrates how to perform a specific task that does not rely on writing code. They tend to walk the reader through administrative tasks but not exclusively.</description>
     </item>
     <item>
       <title>Bulk migration with credentials</title>

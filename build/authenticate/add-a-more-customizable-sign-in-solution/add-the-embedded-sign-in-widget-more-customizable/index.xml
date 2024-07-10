@@ -17,8 +17,8 @@ Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Changes to be made: Update title
 Links to original docs: - Load the Widget: https://developer.okta.com/docs/guides/oie-embedded-widget-use-case-load/aspnet/main/
 Embedded Okta Sign-In Widget fundamentals: https://developer.okta.com/docs/guides/embedded-siw/main/ - Include content from this doc to make a SPA dimension Structure type: Task
-Content type: Integration guide
-An integration guide or coding guide illustrates how to perform a specific task that involves writing code.</description>
+Content type: How-to with code
+A &amp;ldquo;How-to with code&amp;rdquo; illustrates how to perform a specific task that involves writing code.</description>
     </item>
     <item>
       <title>Sign in with email only (passwordless)</title>
@@ -30,8 +30,8 @@ Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Changes to be made: Update title
 Links to original docs: - Sign in with email only: https://developer.okta.com/docs/guides/pwd-optional-widget-sign-in-email/aspnet/main/
 Embedded Okta Sign-In Widget fundamentals: https://developer.okta.com/docs/guides/embedded-siw/main/ - Include content from this doc to make a SPA dimension Structure type: Task
-Content type: Integration guide
-An integration guide or coding guide illustrates how to perform a specific task that involves writing code.</description>
+Content type: How-to with code
+A &amp;ldquo;How-to with code&amp;rdquo; illustrates how to perform a specific task that involves writing code.</description>
     </item>
     <item>
       <title>Sign in with username and password</title>
@@ -43,8 +43,8 @@ Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Changes to be made: Update title
 Links to original docs: - Basic sign-in flow using the Widget: https://developer.okta.com/docs/guides/oie-embedded-widget-use-case-basic-sign-in/aspnet/main/
 Embedded Okta Sign-In Widget fundamentals: https://developer.okta.com/docs/guides/embedded-siw/main/ - Include content from this doc to make a SPA dimension Structure type: Task
-Content type: Integration guide
-An integration guide or coding guide illustrates how to perform a specific task that involves writing code.</description>
+Content type: How-to with code
+A &amp;ldquo;How-to with code&amp;rdquo; illustrates how to perform a specific task that involves writing code.</description>
     </item>
     <item>
       <title>Sign in with Facebook</title>

@@ -27,8 +27,8 @@ Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Links to original docs: - Protect your API endpoints: https://developer.okta.com/docs/guides/protect-your-api/aspnetcore3/main/
 Why is this here?: A majority of oktane customers placed &amp;ldquo;API Service Integration&amp;rdquo; under &amp;ldquo;Authentication for service apps&amp;rdquo;
 Structure type: Task
-Content type: Integration guide
-An integration guide or coding guide illustrates how to perform a specific task that involves writing code.</description>
+Content type: How-to with code
+A &amp;ldquo;How-to with code&amp;rdquo; illustrates how to perform a specific task that involves writing code.</description>
     </item>
   </channel>
 </rss>

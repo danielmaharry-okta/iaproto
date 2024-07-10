@@ -27,8 +27,8 @@ Content Notes Target personas: WIC App Developer,Experienced IAM developer
 Changes to be made: Update title
 Links to original docs: - Change your primary email address: https://developer.okta.com/docs/guides/pwd-optional-change-email/aspnet/main/
 Structure type: Task
-Content type: Integration guide
-An integration guide or coding guide illustrates how to perform a specific task that involves writing code. It is similar to a how-to but the focus is more technical and geared towards developers integrating an SDK, API, or another library into their applications.</description>
+Content type: How-to with code
+A &amp;ldquo;How-to with code&amp;rdquo; illustrates how to perform a specific task that involves writing code. The focus is geared towards developers integrating an SDK, API, or another library into their applications.</description>
     </item>
   </channel>
 </rss>
