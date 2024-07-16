@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Find your application credentials on DevDocs Navigation Menu Test</title>
-    <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-basics/find-your-application-credentials/index.html</link>
-    <description>Recent content in Find your application credentials on DevDocs Navigation Menu Test</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Find your application credentials :: DevDocs Navigation Menu Test</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-basics/find-your-application-credentials/</link>
+    <description>Find your application credentials Click here to give feedback about this page&#xA;Content Notes Target personas: New IAM Developers,Developers new to Okta&#xA;Changes to be made: - Add reasons why you need to know or use the “Application credentials”&#xA;Links to original docs: - Find your application credentials: https://developer.okta.com/docs/guides/find-your-app-credentials/-/main/&#xA;Structure type: Task&#xA;Content type: How-to without code A “How-to without code” illustrates how to perform a specific task that does not rely on writing code.</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-basics/find-your-application-credentials/index.xml" rel="self" type="application/rss+xml" />
   </channel>

@@ -1,37 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Deploy  on DevDocs Navigation Menu Test</title>
-    <link>https://danielmaharry-okta.github.io:1313/iaproto/build/deploy/index.html</link>
-    <description>Recent content in Deploy  on DevDocs Navigation Menu Test</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Deploy  :: DevDocs Navigation Menu Test</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/build/deploy/</link>
+    <description>Deploy your sign-in solution Click here to give feedback about this page&#xA;Group Notes Group description: This section only talks about deploying an app. When there are so many deployment strategies these days, this section seems woefully inadequate.&#xA;Content Notes Target personas: WIC App Developer,Experienced IAM developer&#xA;Changes to be made: Changes for beyond phase 1: Per @Brian Duffield: Existing “Deploy to Production” content needs to be thoroughly reviewed; Understand better whether we need to add more content here or understand this section’s role better.</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/build/deploy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Deployment checklists</title>
-      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/deploy/deployment-checklists/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/deploy/deployment-checklists/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/deploy/deployment-checklists/index.html</guid>
-      <description>Deployment checklists Click here to give feedback about this page
-Content Notes Target personas: WIC App Developer,Experienced IAM developer
-Changes to be made: Update title
-Links to original docs: - Deployment and pre-launch checklists: https://developer.okta.com/docs/guides/deployment-checklist/main/
-Structure type: Task
-Content type: How-to without code
-A &amp;ldquo;How-to without code&amp;rdquo; illustrates how to perform a specific task that does not rely on writing code. They tend to walk the reader through administrative tasks but not exclusively.</description>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/deploy/deployment-checklists/</guid>
+      <description>Deployment checklists Click here to give feedback about this page&#xA;Content Notes Target personas: WIC App Developer,Experienced IAM developer&#xA;Changes to be made: Update title&#xA;Links to original docs: - Deployment and pre-launch checklists: https://developer.okta.com/docs/guides/deployment-checklist/main/&#xA;Structure type: Task&#xA;Content type: How-to without code A “How-to without code” illustrates how to perform a specific task that does not rely on writing code. They tend to walk the reader through administrative tasks but not exclusively.</description>
     </item>
     <item>
       <title>Deploy your app</title>
-      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/deploy/deploy-your-app/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/deploy/deploy-your-app/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/deploy/deploy-your-app/index.html</guid>
-      <description>Deploy your app Click here to give feedback about this page
-Content Notes Target personas: WIC App Developer,Experienced IAM developer
-Changes to be made: Update title
-Links to original docs: - Deploy to production: https://developer.okta.com/docs/guides/deploy-your-app/java/main/
-Structure type: Task
-Content type: How-to with code
-A &amp;ldquo;How-to with code&amp;rdquo; illustrates how to perform a specific task that involves writing code. The focus is geared towards developers integrating an SDK, API, or another library into their applications.</description>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/deploy/deploy-your-app/</guid>
+      <description>Deploy your app Click here to give feedback about this page&#xA;Content Notes Target personas: WIC App Developer,Experienced IAM developer&#xA;Changes to be made: Update title&#xA;Links to original docs: - Deploy to production: https://developer.okta.com/docs/guides/deploy-your-app/java/main/&#xA;Structure type: Task&#xA;Content type: How-to with code A “How-to with code” illustrates how to perform a specific task that involves writing code. The focus is geared towards developers integrating an SDK, API, or another library into their applications.</description>
     </item>
   </channel>
 </rss>

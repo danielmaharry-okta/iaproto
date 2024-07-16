@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Okta Universal Directory (UD) on DevDocs Navigation Menu Test</title>
-    <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-basics/the-okta-org/okta-universal-directory-ud/index.html</link>
-    <description>Recent content in Okta Universal Directory (UD) on DevDocs Navigation Menu Test</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Okta Universal Directory (UD) :: DevDocs Navigation Menu Test</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-basics/the-okta-org/okta-universal-directory-ud/</link>
+    <description>Okta Universal Directory (UD) Click here to give feedback about this page&#xA;Content Notes Target personas: New IAM Developers,Developers new to Okta&#xA;Changes to be made: ‘- Title change&#xA;Add summary content (and links) on how UD integrates with Hub and spoke Add summary content (and links) on how UD can be synced between other domains/systems/AD, etc Links to original docs: - User profiles: https://developer.okta.com/docs/concepts/user-profiles/&#xA;Structure type: Concept&#xA;Content type: Conceptual overview Conceptual overviews present a high-level introduction to a topic.</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-basics/the-okta-org/okta-universal-directory-ud/index.xml" rel="self" type="application/rss+xml" />
   </channel>

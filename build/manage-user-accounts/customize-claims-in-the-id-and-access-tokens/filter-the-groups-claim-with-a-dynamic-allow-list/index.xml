@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Filter the groups claim with a dynamic allow list on DevDocs Navigation Menu Test</title>
-    <link>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-accounts/customize-claims-in-the-id-and-access-tokens/filter-the-groups-claim-with-a-dynamic-allow-list/index.html</link>
-    <description>Recent content in Filter the groups claim with a dynamic allow list on DevDocs Navigation Menu Test</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Filter the groups claim with a dynamic allow list :: DevDocs Navigation Menu Test</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-accounts/customize-claims-in-the-id-and-access-tokens/filter-the-groups-claim-with-a-dynamic-allow-list/</link>
+    <description>Filter the groups claim with a dynamic allow list Click here to give feedback about this page&#xA;Group Notes Group description: This doc discuss returning a filtered list of groups that pertain to the user and app. It’s reading and returning user/group info and pertains to the R aspect of user CRUD.&#xA;Content Notes Target personas: WIC App Developer,Experienced IAM developer&#xA;Links to original docs: - Customize tokens returned from Okta with a dynamic allow list: https://developer.</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-accounts/customize-claims-in-the-id-and-access-tokens/filter-the-groups-claim-with-a-dynamic-allow-list/index.xml" rel="self" type="application/rss+xml" />
   </channel>

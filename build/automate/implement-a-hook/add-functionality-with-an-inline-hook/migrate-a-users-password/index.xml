@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Migrate a user’s password :: DevDocs Navigation Menu Test</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/implement-a-hook/add-functionality-with-an-inline-hook/migrate-a-users-password/</link>
+    <description>Migrate a user’s password Click here to give feedback about this page&#xA;Content Notes Target personas: WIC App Developer,Experienced IAM developer&#xA;Changes to be made: Update title&#xA;Links to original docs: - Password import inline hook: https://developer.okta.com/docs/guides/password-import-inline-hook/nodejs/main/&#xA;Why is this here?: Based on GroupIt Oktane, data Inline hooks was a split betwen automate and customize with Automate edging out.&#xA;Structure type: Task&#xA;Content type: How-to without code A “How-to without code” illustrates how to perform a specific task that does not rely on writing code.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/build/automate/implement-a-hook/add-functionality-with-an-inline-hook/migrate-a-users-password/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

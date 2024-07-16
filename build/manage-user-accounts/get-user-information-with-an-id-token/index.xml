@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Get user information with an ID Token on DevDocs Navigation Menu Test</title>
-    <link>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-accounts/get-user-information-with-an-id-token/index.html</link>
-    <description>Recent content in Get user information with an ID Token on DevDocs Navigation Menu Test</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Get user information with an ID Token :: DevDocs Navigation Menu Test</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-accounts/get-user-information-with-an-id-token/</link>
+    <description>Get user information with an ID Token Click here to give feedback about this page&#xA;Content Notes Target personas: WIC App Developer,Experienced IAM developer&#xA;Changes to be made: See the “Existing content link) field for more details.&#xA;Links to original docs: Create a doc that describes how to get user info. Extract how the get user info section from here:&#xA;Refresh the access and ID tokens: https://developer.okta.com/docs/guides/oie-embedded-common-refresh-tokens/android/main/ Structure type: Task</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-accounts/get-user-information-with-an-id-token/index.xml" rel="self" type="application/rss+xml" />
   </channel>

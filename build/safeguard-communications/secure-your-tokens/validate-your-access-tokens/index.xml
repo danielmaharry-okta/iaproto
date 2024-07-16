@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Validate your access tokens on DevDocs Navigation Menu Test</title>
-    <link>https://danielmaharry-okta.github.io:1313/iaproto/build/safeguard-communications/secure-your-tokens/validate-your-access-tokens/index.html</link>
-    <description>Recent content in Validate your access tokens on DevDocs Navigation Menu Test</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Validate your access tokens :: DevDocs Navigation Menu Test</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/build/safeguard-communications/secure-your-tokens/validate-your-access-tokens/</link>
+    <description>Validate your access tokens Click here to give feedback about this page&#xA;Group Notes Group description: Placed under “Secure” because it is verifying the Token&#xA;Content Notes Target personas: WIC App Developer,Experienced IAM developer&#xA;Changes to be made: - Update title&#xA;Links to original docs: - Validate Access Tokens: https://developer.okta.com/docs/guides/validate-access-tokens/dotnet/main/&#xA;Structure type: Task&#xA;Content type: How-to with code A “How-to with code” illustrates how to perform a specific task that involves writing code.</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/build/safeguard-communications/secure-your-tokens/validate-your-access-tokens/index.xml" rel="self" type="application/rss+xml" />
   </channel>

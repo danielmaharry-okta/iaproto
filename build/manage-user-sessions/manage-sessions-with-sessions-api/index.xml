@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Manage sessions with Sessions API on DevDocs Navigation Menu Test</title>
-    <link>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-sessions/manage-sessions-with-sessions-api/index.html</link>
-    <description>Recent content in Manage sessions with Sessions API on DevDocs Navigation Menu Test</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Manage sessions with Sessions API :: DevDocs Navigation Menu Test</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-sessions/manage-sessions-with-sessions-api/</link>
+    <description>Create and manage user sessions with the Session API Click here to give feedback about this page&#xA;Content Notes Target personas: WIC App Developer,Experienced IAM developer&#xA;Changes to be made: - Update title&#xA;This is a useful article that is currently in upgrades. It makes more sense to be here and linked from the upgrade section. Move this upgrade doc to this section and update the content to better fit this new section Links to original docs: - Understand how sessions work after the upgrade: https://developer.</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-sessions/manage-sessions-with-sessions-api/index.xml" rel="self" type="application/rss+xml" />
   </channel>

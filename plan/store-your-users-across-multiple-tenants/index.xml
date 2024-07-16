@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Store your users across multiple tenants  on DevDocs Navigation Menu Test</title>
-    <link>https://danielmaharry-okta.github.io:1313/iaproto/plan/store-your-users-across-multiple-tenants/index.html</link>
-    <description>Recent content in Store your users across multiple tenants  on DevDocs Navigation Menu Test</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Store your users across multiple tenants  :: DevDocs Navigation Menu Test</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/plan/store-your-users-across-multiple-tenants/</link>
+    <description>Store your users across multiple tenants Click here to give feedback about this page&#xA;Content Notes Target personas: WIC App Developer,Experienced IAM developer&#xA;Changes to be made: Change title, move definitions and theory of tenants and multi-tenants to Learn &gt; OIDC &gt; Tenants. This page is purely about helping the reader to understand and choose between the different ways to implement multi-tenant apps.&#x9;Hub and spoke, etc.&#xA;Links to original docs: - Multi-tenant solutions: https://developer.</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/plan/store-your-users-across-multiple-tenants/index.xml" rel="self" type="application/rss+xml" />
   </channel>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Telephony Hook on DevDocs Navigation Menu Test</title>
-    <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/inline-hooks/telephony-hook/index.html</link>
-    <description>Recent content in Telephony Hook on DevDocs Navigation Menu Test</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Telephony Hook :: DevDocs Navigation Menu Test</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/inline-hooks/telephony-hook/</link>
+    <description>Telephony Hook Click here to give feedback about this page&#xA;Content Notes Target personas: WIC App Developer,Experienced IAM developer&#xA;Description: Will be hosted in Redocly. This is a reference doc describing sample payloads and the JSON objects used in the Telephony Hook.&#xA;Changes to be made: Possibly the troubleshooting section at the end of the doc should be included in the Build section.&#xA;Does this need to be updated at all now that Okta doesn’t function as a telephony provider for authentication by SMS or Voice call?</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/reference/inline-hooks/telephony-hook/index.xml" rel="self" type="application/rss+xml" />
   </channel>

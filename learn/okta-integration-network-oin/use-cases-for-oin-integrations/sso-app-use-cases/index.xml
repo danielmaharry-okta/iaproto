@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>SSO app use cases on DevDocs Navigation Menu Test</title>
-    <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-integration-network-oin/use-cases-for-oin-integrations/sso-app-use-cases/index.html</link>
-    <description>Recent content in SSO app use cases on DevDocs Navigation Menu Test</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>SSO app use cases :: DevDocs Navigation Menu Test</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-integration-network-oin/use-cases-for-oin-integrations/sso-app-use-cases/</link>
+    <description>SSO app use cases Click here to give feedback about this page&#xA;Content Notes Target personas: New IAM Developers,Developers new to Okta&#xA;Changes to be made: Need to inlcude a SSO + Universal Logout use case&#xA;Links to original docs: ‘+ https://developer.okta.com/docs/guides/oin-sso-overview/ (Why Build an SSO integration with Okta?)&#xA;https://developer.okta.com/docs/guides/oin-sso-overview/ (Use case examples) Why is this here?: Oktane 2024: Need additional research on which specific use cases customers are looking for.</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-integration-network-oin/use-cases-for-oin-integrations/sso-app-use-cases/index.xml" rel="self" type="application/rss+xml" />
   </channel>

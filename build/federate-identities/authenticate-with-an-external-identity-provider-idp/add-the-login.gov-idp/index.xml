@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Add the Login.gov IdP on DevDocs Navigation Menu Test</title>
-    <link>https://danielmaharry-okta.github.io:1313/iaproto/build/federate-identities/authenticate-with-an-external-identity-provider-idp/add-the-login.gov-idp/index.html</link>
-    <description>Recent content in Add the Login.gov IdP on DevDocs Navigation Menu Test</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Add the Login.gov IdP :: DevDocs Navigation Menu Test</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/build/federate-identities/authenticate-with-an-external-identity-provider-idp/add-the-login.gov-idp/</link>
+    <description>Add the Login.gov IdP Click here to give feedback about this page&#xA;Content Notes Target personas: WIC App Developer,Experienced IAM developer&#xA;Changes to be made: - Understand why is this guide separate from the guides? Is it because the guides in this section are split up into IdP type? If so that leave as be, else merge this guide into Enterprise IdP and change the name to allow for a “Login.</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/build/federate-identities/authenticate-with-an-external-identity-provider-idp/add-the-login.gov-idp/index.xml" rel="self" type="application/rss+xml" />
   </channel>

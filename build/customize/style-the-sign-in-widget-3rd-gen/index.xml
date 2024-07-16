@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Style the sign-in widget (3rd gen) on DevDocs Navigation Menu Test</title>
-    <link>https://danielmaharry-okta.github.io:1313/iaproto/build/customize/style-the-sign-in-widget-3rd-gen/index.html</link>
-    <description>Recent content in Style the sign-in widget (3rd gen) on DevDocs Navigation Menu Test</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Style the sign-in widget (3rd gen) :: DevDocs Navigation Menu Test</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/build/customize/style-the-sign-in-widget-3rd-gen/</link>
+    <description>Style the sign-in widget (3rd gen) Click here to give feedback about this page&#xA;Group Notes Group description: - Can we roll this guide up with the other “Style the sign in widget” guide. Also, is the guide for the embedded sign-in widget or just redirect?&#xA;Content Notes Target personas: WIC App Developer,Experienced IAM developer&#xA;Changes to be made: - Update title&#xA;What does “3rd gen”? Is calling it a “3rd gen” distinguish it from Classic vs OIE?</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/build/customize/style-the-sign-in-widget-3rd-gen/index.xml" rel="self" type="application/rss+xml" />
   </channel>

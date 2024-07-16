@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Step up authentication based on access request using ACR on DevDocs Navigation Menu Test</title>
-    <link>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-access/step-up-authentication-based-on-access-request-using-acr/index.html</link>
-    <description>Recent content in Step up authentication based on access request using ACR on DevDocs Navigation Menu Test</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Step up authentication based on access request using ACR :: DevDocs Navigation Menu Test</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-access/step-up-authentication-based-on-access-request-using-acr/</link>
+    <description>Step up authentication based on access request using ACR Click here to give feedback about this page&#xA;Content Notes Target personas: WIC App Developer,Experienced IAM developer&#xA;Changes to be made: Update title&#xA;Links to original docs: - Step-up authentication using ACR values: https://developer.okta.com/docs/guides/step-up-authentication/main/&#xA;Structure type: Task&#xA;Content type: How-to without code A “How-to without code” illustrates how to perform a specific task that does not rely on writing code. They tend to walk the reader through administrative tasks but not exclusively.</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/build/manage-access/step-up-authentication-based-on-access-request-using-acr/index.xml" rel="self" type="application/rss+xml" />
   </channel>

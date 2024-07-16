@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Update the widget styling on DevDocs Navigation Menu Test</title>
-    <link>https://danielmaharry-okta.github.io:1313/iaproto/build/upgrade/upgrade-to-the-identity-engine/upgrade-the-sign-in-widget/update-the-widget-styling/index.html</link>
-    <description>Recent content in Update the widget styling on DevDocs Navigation Menu Test</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Update the widget styling :: DevDocs Navigation Menu Test</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/build/upgrade/upgrade-to-the-identity-engine/upgrade-the-sign-in-widget/update-the-widget-styling/</link>
+    <description>Update the widget styling Click here to give feedback about this page&#xA;Content Notes Target personas: WIC App Developer,Experienced IAM developer&#xA;Changes to be made: Update title&#xA;Links to original docs: - Updates to widget styling: https://developer.okta.com/docs/guides/oie-upgrade-sign-in-widget-styling/main/&#xA;Structure type: Navigation&#xA;Content type: Summary redirect A redirect provides a summary of a topic with links to the articles elsewhere in the site that cover that content in full.</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/build/upgrade/upgrade-to-the-identity-engine/upgrade-the-sign-in-widget/update-the-widget-styling/index.xml" rel="self" type="application/rss+xml" />
   </channel>

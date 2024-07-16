@@ -1,22 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>SAML on DevDocs Navigation Menu Test</title>
-    <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/saml/index.html</link>
-    <description>Recent content in SAML on DevDocs Navigation Menu Test</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>SAML :: DevDocs Navigation Menu Test</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/saml/</link>
+    <description>Understand SAML Click here to give feedback about this page&#xA;Content Notes Target personas: New IAM Developers,Developers new to Okta&#xA;Changes to be made: Update the flow charts away from Plant UML to use the Figma design.&#xA;Links to original docs: - SAML: https://developer.okta.com/docs/concepts/saml/&#xA;Structure type: Concept&#xA;Content type: Conceptual overview Conceptual overviews present a high-level introduction to a topic. Such high-level overviews provide developers with a broad understanding of the system’s workings.</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/learn/saml/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Service provider Initiated flow</title>
-      <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/saml/service-provider-initiated-flow/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/saml/service-provider-initiated-flow/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://danielmaharry-okta.github.io:1313/iaproto/learn/saml/service-provider-initiated-flow/index.html</guid>
-      <description>Service Provider Initiated Flow Click here to give feedback about this page
-Content Notes Target personas: New IAM Developers,Developers new to Okta
-Changes to be made: Title change to Service provider initiated flow. There are two types of flows and this doc describes the SP version. For details on the other flow see: https://workos.com/blog/sp-initiated-sso-vs-idp-authentication
-Links to original docs: &amp;lsquo;- Implement authorization by grant type (SAML 2.0 Assertion): https://developer.okta.com/docs/guides/implement-grant-type/saml2assert/main/
-Structure type: Concept</description>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/learn/saml/service-provider-initiated-flow/</guid>
+      <description>Service Provider Initiated Flow Click here to give feedback about this page&#xA;Content Notes Target personas: New IAM Developers,Developers new to Okta&#xA;Changes to be made: Title change to Service provider initiated flow. There are two types of flows and this doc describes the SP version. For details on the other flow see: https://workos.com/blog/sp-initiated-sso-vs-idp-authentication&#xA;Links to original docs: ‘- Implement authorization by grant type (SAML 2.0 Assertion): https://developer.okta.com/docs/guides/implement-grant-type/saml2assert/main/&#xA;Structure type: Concept</description>
     </item>
   </channel>
 </rss>

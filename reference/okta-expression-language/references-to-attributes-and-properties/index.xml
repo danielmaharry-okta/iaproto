@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>References to attributes and properties on DevDocs Navigation Menu Test</title>
-    <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/okta-expression-language/references-to-attributes-and-properties/index.html</link>
-    <description>Recent content in References to attributes and properties on DevDocs Navigation Menu Test</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>References to attributes and properties :: DevDocs Navigation Menu Test</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/okta-expression-language/references-to-attributes-and-properties/</link>
+    <description>References to attributes and properties Click here to give feedback about this page&#xA;Group Notes Group description: At the moment, there are two documents. The main one covers the “legacy” Okta expression language and the secondary one covers it in Identity Engine. Suggest that these documents are role-reversed so that the main doc covers all the support for IDX and the secondary doc covers the diffs between it and Classic Engine.</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/reference/okta-expression-language/references-to-attributes-and-properties/index.xml" rel="self" type="application/rss+xml" />
   </channel>

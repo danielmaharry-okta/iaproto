@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Migrate users with password hooks on DevDocs Navigation Menu Test</title>
-    <link>https://danielmaharry-okta.github.io:1313/iaproto/build/migrate-users/migrate-users-with-password-hooks/index.html</link>
-    <description>Recent content in Migrate users with password hooks on DevDocs Navigation Menu Test</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Migrate users with password hooks :: DevDocs Navigation Menu Test</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/build/migrate-users/migrate-users-with-password-hooks/</link>
+    <description>Migrate users with password hooks Click here to give feedback about this page&#xA;Content Notes Target personas: WIC App Developer,Experienced IAM developer&#xA;Changes to be made: Update title&#xA;Changes beyond phase 1: Per @Brian Duffield, the Password Hook content is similar to the Password Import inline hook. I think there are valid reasons to keep this doc in this section with more of a focus on migration. Maybe add links to the existing Password Import inline hook guide.</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/build/migrate-users/migrate-users-with-password-hooks/index.xml" rel="self" type="application/rss+xml" />
   </channel>

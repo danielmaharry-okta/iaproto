@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Plan your service application build on DevDocs Navigation Menu Test</title>
-    <link>https://danielmaharry-okta.github.io:1313/iaproto/plan/plan-your-build/plan-your-service-application-build/index.html</link>
-    <description>Recent content in Plan your service application build on DevDocs Navigation Menu Test</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Plan your service application build :: DevDocs Navigation Menu Test</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/plan/plan-your-build/plan-your-service-application-build/</link>
+    <description>Plan your service application build Click here to give feedback about this page&#xA;Content Notes Target personas: New IAM Developers,Developers new to Okta&#xA;Changes to be made: For best effect, it makes sense to rework these articles to match “Plan your web application build - i.e., to have a How-To \ Guide Hub style article that runs through the entire process of building a lifecycle-aware app.&#xA;Links to original docs: + https://developer.</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/plan/plan-your-build/plan-your-service-application-build/index.xml" rel="self" type="application/rss+xml" />
   </channel>

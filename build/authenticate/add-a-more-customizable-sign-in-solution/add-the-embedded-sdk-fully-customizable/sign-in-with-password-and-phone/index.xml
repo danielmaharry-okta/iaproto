@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sign in with password and phone on DevDocs Navigation Menu Test</title>
-    <link>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sdk-fully-customizable/sign-in-with-password-and-phone/index.html</link>
-    <description>Recent content in Sign in with password and phone on DevDocs Navigation Menu Test</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Sign in with password and phone :: DevDocs Navigation Menu Test</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sdk-fully-customizable/sign-in-with-password-and-phone/</link>
+    <description>Sign in with password and phone Click here to give feedback about this page&#xA;Content Notes Target personas: WIC App Developer,Experienced IAM developer&#xA;Changes to be made: Update title&#xA;Links to original docs: ‘- Sign in with password and phone factors: https://developer.okta.com/docs/guides/oie-embedded-sdk-use-case-sign-in-pwd-phone/android/main/&#xA;Sign in to your SPA with Auth JS: https://developer.okta.com/docs/guides/sign-in-to-spa-authjs/angular/main/ (Add lang and/or tech dimensions) Structure type: Task&#xA;Content type: How-to with code A “How-to with code” illustrates how to perform a specific task that involves writing code.</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sdk-fully-customizable/sign-in-with-password-and-phone/index.xml" rel="self" type="application/rss+xml" />
   </channel>

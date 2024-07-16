@@ -1,888 +1,876 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/workforce-identity-cloud-wic/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/workforce-identity-cloud-wic/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/identity-access-management-iam/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/identity-access-management-iam/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/identity-access-management-iam/user-and-application-sessions/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/identity-access-management-iam/user-and-application-sessions/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/application-types/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/application-types/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/multifactor-authentication-mfa/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/multifactor-authentication-mfa/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/single-sign-on-sso/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/single-sign-on-sso/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/oauth-and-oidc/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/oauth-and-oidc/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/oauth-and-oidc/flows-grant-types/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/oauth-and-oidc/flows-grant-types/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/oauth-and-oidc/flows-grant-types/authorization-code-flow/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/oauth-and-oidc/flows-grant-types/authorization-code-flow/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/oauth-and-oidc/flows-grant-types/authorization-code-flow-with-pkce/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/oauth-and-oidc/flows-grant-types/authorization-code-flow-with-pkce/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/oauth-and-oidc/flows-grant-types/client-credentials-flow/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/oauth-and-oidc/flows-grant-types/ciba-flow/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/oauth-and-oidc/flows-grant-types/ciba-flow/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/oauth-and-oidc/flows-grant-types/client-credentials-flow/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/oauth-and-oidc/flows-grant-types/interaction-code-flow-extension/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/oauth-and-oidc/flows-grant-types/interaction-code-flow-extension/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/oauth-and-oidc/authorization-servers/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/oauth-and-oidc/authorization-servers/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/oauth-and-oidc/access-id-and-refresh-tokens/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/oauth-and-oidc/access-id-and-refresh-tokens/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/oauth-and-oidc/json-web-tokens-jwts/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/oauth-and-oidc/json-web-tokens-jwts/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/oauth-and-oidc/tenants-and-multi-tenant-apps/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/oauth-and-oidc/tenants-and-multi-tenant-apps/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/oauth-and-oidc/identity-providers/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/oauth-and-oidc/identity-providers/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/saml/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/saml/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/saml/service-provider-initiated-flow/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/saml/service-provider-initiated-flow/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-basics/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-basics/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-basics/okta-identity-engine/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-basics/okta-identity-engine/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-basics/the-okta-org/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-basics/the-okta-org/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-basics/the-okta-org/org-object-model/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-basics/the-okta-org/org-object-model/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-basics/the-okta-org/policies/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-basics/the-okta-org/policies/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-basics/the-okta-org/okta-universal-directory-ud/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-basics/the-okta-org/okta-universal-directory-ud/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-basics/find-your-okta-domain/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-basics/find-your-okta-domain/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-basics/find-your-application-credentials/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-basics/find-your-application-credentials/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-basics/admin-console/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-basics/admin-console/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-basics/global-session-and-authentication-policies/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-basics/global-session-and-authentication-policies/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-basics/okta-apis/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-basics/okta-apis/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-basics/okta-sdks/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-basics/okta-sdks/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-basics/okta-sign-in-widget/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-basics/okta-sign-in-widget/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/single-logout-slo-and-universal-logout-ul/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/single-logout-slo-and-universal-logout-ul/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/automation-tools/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/automation-tools/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/automation-tools/okta-workflows/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/automation-tools/okta-workflows/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/automation-tools/workflow-connector-builder/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/automation-tools/workflow-connector-builder/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/automation-tools/hooks/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/automation-tools/hooks/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/user-lifecycle-management-lcm/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/user-lifecycle-management-lcm/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/user-lifecycle-management-lcm/scim/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/user-lifecycle-management-lcm/scim/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/user-lifecycle-management-lcm/scim-entitlements/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/user-lifecycle-management-lcm/scim-with-entitlements/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/identity-governance/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/identity-governance/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-integration-network-oin/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-integration-network-oin/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-integration-network-oin/best-practices-for-oin-apps/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-integration-network-oin/best-practices-for-oin-apps/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-integration-network-oin/use-cases-for-oin-integrations/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-integration-network-oin/use-cases-for-oin-integrations/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-integration-network-oin/use-cases-for-oin-integrations/sso-app-use-cases/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-integration-network-oin/use-cases-for-oin-integrations/sso-app-use-cases/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-integration-network-oin/use-cases-for-oin-integrations/lifecycle-management-app-use-cases/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-integration-network-oin/use-cases-for-oin-integrations/lifecycle-management-app-use-cases/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-integration-network-oin/use-cases-for-oin-integrations/service-app-use-cases/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-integration-network-oin/use-cases-for-oin-integrations/service-app-use-cases/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/plan/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/plan/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/plan/design-an-iam-solution/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/plan/best-practices-for-implementing-a-passwordless-solution/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/plan/implement-effective-authentication-strategies/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/plan/build-with-okta-identity-governance/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/plan/compare-oktas-sign-in-deployment-models/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/plan/compare-high-code-and-no-code-lcm-apps/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/plan/secure-your-users-with-universal-directory/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/plan/compare-oktas-sign-in-deployment-models/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/plan/optimize-your-access-control/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/plan/design-an-iam-solution/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/plan/design-your-iam-solution-for-successful-deployment/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/plan/design-your-iam-solution-for-government-entities/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/plan/store-your-users-across-multiple-tenants/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/plan/design-your-iam-solution-for-successful-deployment/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/plan/design-your-iam-solution-for-government-entities/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/plan/implement-effective-authentication-strategies/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/plan/build-with-okta-identity-governance/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/plan/optimize-your-access-control/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/plan/compare-high-code-and-no-code-lcm-apps/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/plan/plan-your-apps-sign-out-experience/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/plan/plan-your-apps-sign-out-experience/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/plan/plan-your-build/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/plan/best-practices-for-implementing-a-passwordless-solution/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/plan/plan-your-build/plan-your-lifecycle-manegement-application-build/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/plan/plan-your-build/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/plan/plan-your-build/plan-your-service-application-build/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/plan/plan-your-build/plan-your-web-application-build/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/plan/plan-your-build/plan-your-web-application-build/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/plan/plan-your-build/plan-your-lifecycle-manegement-application-build/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/plan/secure-your-users-with-universal-directory/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/plan/plan-your-build/plan-your-service-application-build/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/plan/store-your-users-across-multiple-tenants/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/get-started/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/get-started/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/get-started/get-an-okta-account/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/get-started/get-an-okta-account/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/get-started/set-up-your-org/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/get-started/set-up-your-org/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/get-started/create-an-oidc-app-integration/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/get-started/create-an-oidc-app-integration/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/get-started/create-a-saml-app-integration/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/get-started/create-a-saml-app-integration/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/get-started/create-an-api-services-app-integration/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/get-started/create-an-api-services-app-integration/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/get-started/run-the-sample-apps/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/get-started/run-the-sample-apps/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/get-started/try-a-quickstart/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/get-started/try-a-quickstart/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/decide-on-a-sign-in-solution/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/decide-on-a-sign-in-solution/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/decide-on-a-sign-in-protocol/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/decide-on-a-sign-in-protocol/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-the-recommended-sign-in-solution-redirect-model/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-the-recommended-sign-in-solution-redirect-model/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-the-recommended-sign-in-solution-redirect-model/sign-users-in-to-your-spa/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-the-recommended-sign-in-solution-redirect-model/sign-users-in-to-your-spa/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-the-recommended-sign-in-solution-redirect-model/sign-users-in-to-your-web-app/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-the-recommended-sign-in-solution-redirect-model/sign-users-in-to-your-web-app/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-the-recommended-sign-in-solution-redirect-model/sign-users-in-to-your-mobile-app/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-the-recommended-sign-in-solution-redirect-model/sign-users-in-to-your-mobile-app/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-browser-sign-in-solution-for-mobile-devices/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sign-in-widget-more-customizable/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sign-in-widget-more-customizable/load-the-widget/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sign-in-widget-more-customizable/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sign-in-widget-more-customizable/sign-in-with-email-only-passwordless/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sign-in-widget-more-customizable/load-the-widget/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sign-in-widget-more-customizable/sign-in-with-username-and-password/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sign-in-widget-more-customizable/sign-in-with-email-only-passwordless/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sign-in-widget-more-customizable/sign-in-with-facebook/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sign-in-widget-more-customizable/sign-in-with-username-and-password/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sdk-fully-customizable/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sign-in-widget-more-customizable/sign-in-with-facebook/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sdk-fully-customizable/sign-up-with-email-only-passwordless/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sdk-fully-customizable/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sdk-fully-customizable/sign-in-with-email-only-passwordless/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sdk-fully-customizable/sign-up-with-email-only-passwordless/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sdk-fully-customizable/sign-in-with-email-and-password/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sdk-fully-customizable/sign-in-with-email-only-passwordless/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sdk-fully-customizable/sign-in-with-facebook/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sdk-fully-customizable/sign-in-with-email-and-password/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sdk-fully-customizable/recover-user-password/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sdk-fully-customizable/sign-in-with-facebook/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sdk-fully-customizable/sign-up-with-email/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sdk-fully-customizable/recover-user-password/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sdk-fully-customizable/activate-a-new-user/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sdk-fully-customizable/sign-up-with-email/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sdk-fully-customizable/sign-in-with-password-and-email/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sdk-fully-customizable/activate-a-new-user/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sdk-fully-customizable/sign-in-with-password-and-phone/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sdk-fully-customizable/sign-in-with-password-and-email/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sdk-fully-customizable/sign-a-user-out-local-app-only/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sdk-fully-customizable/sign-in-with-password-and-phone/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sdk-fully-customizable/add-an-authenticator/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sdk-fully-customizable/sign-a-user-out-local-app-only/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sdk-fully-customizable/add-an-authenticator/okta-email/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sdk-fully-customizable/add-an-authenticator/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sdk-fully-customizable/add-an-authenticator/okta-verify/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sdk-fully-customizable/add-an-authenticator/custom-authenticator/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sdk-fully-customizable/add-an-authenticator/custom-authenticator/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sdk-fully-customizable/add-an-authenticator/google-authenticator/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sdk-fully-customizable/add-an-authenticator/google-authenticator/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sdk-fully-customizable/add-an-authenticator/okta-email/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sdk-fully-customizable/add-an-authenticator/web-authentication/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sdk-fully-customizable/add-an-authenticator/okta-verify/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-mobile-sdk-fully-customizable/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-sdk-fully-customizable/add-an-authenticator/web-authentication/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-mobile-sdk-fully-customizable/integrate-all-sign-in-flows/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-mobile-sdk-fully-customizable/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/enable-email-magic-links-during-sign-in/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/add-the-embedded-mobile-sdk-fully-customizable/integrate-all-sign-in-flows/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/enable-device-rules/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/enable-email-magic-links-during-sign-in/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/enable-email-magic-link-during-password-recovery/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/enable-device-rules/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-sign-in-experience-directly-with-okta-api/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/enable-email-magic-link-during-password-recovery/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-sign-in-experience-directly-with-okta-api/add-a-passwordless-sign-in-with-otp/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-sign-in-experience-directly-with-okta-api/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-sign-in-experience-directly-with-okta-api/add-a-sign-in-with-otp/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-sign-in-experience-directly-with-okta-api/add-a-passwordless-sign-in-with-okta-verify/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-sign-in-experience-directly-with-okta-api/add-a-passwordless-sign-in-with-okta-verify/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-sign-in-experience-directly-with-okta-api/add-a-passwordless-sign-in-with-otp/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-sign-in-experience-directly-with-okta-api/add-a-sign-in-with-okta-verify/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-sign-in-experience-directly-with-okta-api/add-a-passwordless-sign-in-with-the-phone-authenticator/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-sign-in-experience-directly-with-okta-api/add-a-passwordless-sign-in-with-the-phone-authenticator/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-sign-in-experience-directly-with-okta-api/add-a-sign-in-with-okta-verify/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-sign-in-experience-directly-with-okta-api/add-a-sign-in-with-the-phone-authenticator/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-sign-in-experience-directly-with-okta-api/add-a-sign-in-with-otp/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/eliminate-duplicate-factor-challenges-with-amr/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-sign-in-experience-directly-with-okta-api/add-a-sign-in-with-the-phone-authenticator/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-sign-in-solution-to-an-input-constrained-device-e.g.-apple-tv/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/eliminate-duplicate-factor-challenges-with-amr/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-browser-sign-in-solution-for-mobile-devices/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-sign-in-solution-to-an-input-constrained-device-e.g.-apple-tv/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/share-application-key-credentials-across-apps/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/share-application-key-credentials-across-apps/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-sign-out-solution/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-sign-out-solution/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-sign-out-solution/sign-a-user-out-from-all-sso-applications-using-oidc/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-sign-out-solution/sign-a-user-out-from-all-sso-applications-using-oidc/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-sign-out-solution/sign-a-user-out-from-all-sso-applications-using-saml/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-sign-out-solution/sign-a-user-out-from-all-sso-applications-using-saml/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-sign-out-solution/add-universal-logout-to-your-app/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-sign-out-solution/add-universal-logout-to-your-app/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-saml-sign-in-solution/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-saml-sign-in-solution/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-saml-sign-in-solution/add-a-sign-in-solution-using-java-and-spring-security/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-saml-sign-in-solution/add-a-sign-in-solution-using-java-and-spring-security/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/safeguard-communications/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/safeguard-communications/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/safeguard-communications/secure-your-tokens/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/safeguard-communications/secure-your-tokens/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/safeguard-communications/secure-your-tokens/validate-your-access-tokens/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/safeguard-communications/secure-your-tokens/validate-your-access-tokens/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/safeguard-communications/secure-your-tokens/validate-your-id-tokens/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/safeguard-communications/secure-your-tokens/validate-your-id-tokens/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/safeguard-communications/secure-your-tokens/key-rotation/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/safeguard-communications/secure-your-tokens/key-rotation/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/safeguard-communications/rotate-your-apps-client-secrets/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/safeguard-communications/rotate-your-apps-client-secrets/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/safeguard-communications/secure-your-okta-api-authentication-with-jwts/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/safeguard-communications/secure-your-okta-api-authentication-with-jwts/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/safeguard-communications/add-a-third-party-risk-provider/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/safeguard-communications/add-a-third-party-risk-provider/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-sessions/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-sessions/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-sessions/manage-sessions-with-sessions-api/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-sessions/manage-sessions-with-sessions-api/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-sessions/retrieving-the-cookie-session-in-the-classic-engine/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-sessions/retrieving-the-cookie-session-in-the-classic-engine/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-sessions/keep-a-user-sign-in-session-alive-with-a-refresh-token/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-sessions/keep-a-user-sign-in-session-alive-with-a-refresh-token/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-sessions/keep-a-user-sign-in-session-alive-with-a-refresh-token/basics-and-configuration/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-sessions/keep-a-user-sign-in-session-alive-with-a-refresh-token/basics-and-configuration/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-sessions/keep-a-user-sign-in-session-alive-with-a-refresh-token/how-to-implement-in-your-app/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-sessions/keep-a-user-sign-in-session-alive-with-a-refresh-token/how-to-implement-in-your-app/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-access/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-access/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-access/manage-user-access-to-your-api-service/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-access/manage-user-access-to-your-api-service/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-access/manage-user-access-to-your-api-service/overview/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-access/manage-user-access-to-your-api-service/overview/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-access/manage-user-access-to-your-api-service/add-oauth-access-token-support-to-your-rest-api/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-access/manage-user-access-to-your-api-service/add-oauth-access-token-support-to-your-rest-api/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-access/access-okta-apis-using-oauth/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-access/access-okta-apis-using-oauth/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-access/access-okta-apis-using-oauth/access-okta-apis-with-users-credentials/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-access/access-okta-apis-using-oauth/access-okta-apis-with-users-credentials/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-access/access-okta-apis-using-oauth/access-okta-apis-with-machine-credentials/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-access/access-okta-apis-using-oauth/access-okta-apis-with-machine-credentials/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-access/access-okta-apis-using-oauth/bind-access-tokens-to-a-particular-client/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-access/access-okta-apis-using-oauth/bind-access-tokens-to-a-particular-client/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-access/limit-scopes-for-particular-clients/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-access/limit-scopes-for-particular-clients/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-access/configure-a-custom-access-token-lifetime/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-access/configure-a-custom-access-token-lifetime/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-access/require-an-additional-authenticator-for-users-in-a-group/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-access/require-an-additional-authenticator-for-users-in-a-group/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-access/require-an-additional-authenticator-when-outside-of-us/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-access/require-an-additional-authenticator-when-outside-of-us/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-access/test-your-access-configurations-with-an-simulation/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-access/test-your-access-configurations-with-an-simulation/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-access/enable-a-user-consent-dialog-for-an-app/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-access/enable-a-user-consent-dialog-for-an-app/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-access/set-up-delegated-access-to-a-resource/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-access/set-up-delegated-access-to-a-resource/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-access/step-up-authentication-based-on-access-request-using-acr/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-access/step-up-authentication-based-on-access-request-using-acr/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-access/manage-access-to-org-objects-with-role-assignments/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-access/manage-access-to-org-objects-with-role-assignments/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-accounts/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-accounts/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-accounts/get-user-information-with-an-id-token/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-accounts/get-user-information-with-an-id-token/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-accounts/user-driven-account-management/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-accounts/user-driven-account-management/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-accounts/user-driven-account-management/allow-user-to-update-their-profile-using-the-myaccountapi/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-accounts/user-driven-account-management/allow-user-to-update-their-profile-using-the-myaccountapi/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-accounts/user-driven-account-management/allow-user-to-change-their-primary-email-address/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-accounts/user-driven-account-management/allow-user-to-change-their-primary-email-address/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-accounts/manage-a-users-life-cycle/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-accounts/manage-a-users-life-cycle/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-accounts/manage-a-users-life-cycle/scim/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-accounts/manage-a-users-life-cycle/scim/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-accounts/manage-a-users-life-cycle/scim/differences-between-v1-and-v2/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-accounts/manage-a-users-life-cycle/scim/differences-between-v1-and-v2/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-accounts/manage-a-users-life-cycle/scim/build-a-scim-v2-app/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-accounts/manage-a-users-life-cycle/scim/build-a-scim-v2-app/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-accounts/manage-a-users-life-cycle/scim/build-a-scim-v1-app/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-accounts/manage-a-users-life-cycle/scim/build-a-scim-v1-app/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-accounts/manage-a-users-life-cycle/scim/build-a-scim-v2-app-with-entitlements/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-accounts/manage-a-users-life-cycle/scim/build-a-scim-v2-app-with-entitlements/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-accounts/manage-a-users-life-cycle/scim/prepare-your-scim-app/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-accounts/manage-a-users-life-cycle/scim/prepare-your-scim-app/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-accounts/manage-a-users-life-cycle/scim/consume-okta-requests-from-your-scim-app/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-accounts/manage-a-users-life-cycle/scim/consume-okta-requests-from-your-scim-app/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-accounts/manage-a-users-life-cycle/scim/test-your-scim-app/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-accounts/manage-a-users-life-cycle/scim/test-your-scim-app/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-accounts/customize-claims-in-the-id-and-access-tokens/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-accounts/customize-claims-in-the-id-and-access-tokens/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-accounts/customize-claims-in-the-id-and-access-tokens/add-custom-user-attributes-claims/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-accounts/customize-claims-in-the-id-and-access-tokens/add-custom-user-attributes-claims/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-accounts/customize-claims-in-the-id-and-access-tokens/add-the-user-groups-claim/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-accounts/customize-claims-in-the-id-and-access-tokens/add-the-user-groups-claim/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-accounts/customize-claims-in-the-id-and-access-tokens/filter-the-groups-claim-with-a-dynamic-allow-list/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-accounts/customize-claims-in-the-id-and-access-tokens/filter-the-groups-claim-with-a-dynamic-allow-list/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-accounts/customize-claims-in-the-id-and-access-tokens/filter-the-groups-claim-with-a-static-allow-list/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-accounts/customize-claims-in-the-id-and-access-tokens/filter-the-groups-claim-with-a-static-allow-list/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/federate-identities/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/federate-identities/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/federate-identities/authenticate-with-an-external-identity-provider-idp/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/federate-identities/authenticate-with-an-external-identity-provider-idp/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/federate-identities/authenticate-with-an-external-identity-provider-idp/add-an-enterprise-idp/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/federate-identities/authenticate-with-an-external-identity-provider-idp/add-a-social-idp/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/federate-identities/authenticate-with-an-external-identity-provider-idp/add-a-social-idp/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/federate-identities/authenticate-with-an-external-identity-provider-idp/add-an-enterprise-idp/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/federate-identities/authenticate-with-an-external-identity-provider-idp/add-the-login.gov-idp/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/federate-identities/authenticate-with-an-external-identity-provider-idp/add-the-login.gov-idp/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/federate-identities/define-your-own-scopes-claims-and-access-policies/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/federate-identities/define-your-own-scopes-claims-and-access-policies/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/federate-identities/sync-users-across-domains/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/federate-identities/sync-users-across-domains/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/federate-identities/sync-users-across-domains/sync-okta-identities-from-an-hr-system/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/federate-identities/sync-users-across-domains/sync-okta-identities-from-an-hr-system/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/federate-identities/sync-users-across-domains/sync-users-between-tenants-using-org2org/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/federate-identities/sync-users-across-domains/sync-users-between-tenants-using-org2org/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/customize/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/customize/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/customize/add-your-brand-to-oktas-ui/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/customize/add-your-brand-to-oktas-ui/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/customize/customize-your-domain-name-and-email-address/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/customize/customize-your-domain-name-and-email-address/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/customize/style-the-sign-in-widget/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/customize/style-the-sign-in-widget/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/customize/style-the-sign-in-widget-3rd-gen/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/customize/style-the-sign-in-widget-3rd-gen/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/customize/customize-error-pages/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/customize/customize-error-pages/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/customize/customize-and-internationalize-sms-messages/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/customize/customize-and-internationalize-sms-messages/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/customize/customize-email-notifications/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/customize/customize-email-notifications/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/okta-terraform-provider/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/okta-terraform-provider/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/okta-terraform-provider/terraform-basics/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/okta-terraform-provider/terraform-basics/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/okta-terraform-provider/enable-terraform-access/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/okta-terraform-provider/enable-terraform-access/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/okta-terraform-provider/manage-user-access/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/okta-terraform-provider/manage-user-access/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/okta-terraform-provider/manage-groups/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/okta-terraform-provider/manage-groups/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/okta-terraform-provider/manage-authentication-services/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/okta-terraform-provider/manage-authentication-services/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/okta-terraform-provider/customize-end-user-experience/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/okta-terraform-provider/customize-end-user-experience/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/okta-terraform-provider/control-terraform-access/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/okta-terraform-provider/control-terraform-access/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/okta-terraform-provider/optimize-terraform-access/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/okta-terraform-provider/optimize-terraform-access/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/implement-a-hook/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/implement-a-hook/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/implement-a-hook/set-up-your-hooks-project/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/implement-a-hook/create-an-event-hook/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/implement-a-hook/create-an-event-hook/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/implement-a-hook/create-an-event-hook/use-glitch.com-to-test-an-event-hook/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/implement-a-hook/create-an-event-hook/event-hooks-basics/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/implement-a-hook/create-an-event-hook/use-ngrok-to-test-an-event-hook/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/implement-a-hook/create-an-event-hook/set-up-your-event-hooks-project/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/implement-a-hook/create-an-event-hook/use-hookdeck-to-test-an-event-hook/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/implement-a-hook/create-an-event-hook/use-glitch.com-to-subscribe-to-an-event-hook/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/implement-a-hook/create-an-event-hook/reduce-the-amount-of-hook-calls-with-filters/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/implement-a-hook/create-an-event-hook/use-ngrok-to-subscribe-to-an-event-hook/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/implement-a-hook/add-functionality-with-an-inline-hook/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/implement-a-hook/create-an-event-hook/use-hookdeck-to-subscribe-to-an-event-hook/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/implement-a-hook/add-functionality-with-an-inline-hook/extend-a-saml-sign-in-flow/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/implement-a-hook/create-an-event-hook/reduce-the-amount-of-hook-calls-with-filters/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/implement-a-hook/add-functionality-with-an-inline-hook/extend-a-user-registration-flow/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/implement-a-hook/add-functionality-with-an-inline-hook/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/implement-a-hook/add-functionality-with-an-inline-hook/extend-an-oidc-sign-in-flow/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/implement-a-hook/add-functionality-with-an-inline-hook/inline-hooks-basics/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/implement-a-hook/add-functionality-with-an-inline-hook/migrate-a-users-password/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/implement-a-hook/add-functionality-with-an-inline-hook/set-up-your-inline-hooks-project/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/implement-a-hook/add-functionality-with-an-inline-hook/set-your-phone-provider/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/implement-a-hook/add-functionality-with-an-inline-hook/validate-a-users-credentials/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/implement-a-hook/secure-your-hooks-project/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/implement-a-hook/add-functionality-with-an-inline-hook/deny-or-allow-a-user-registration/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/implement-a-hook/best-practices-for-hook-projects/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/implement-a-hook/add-functionality-with-an-inline-hook/customize-a-saml-insertion-during-the-sign-in-flow/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/manage-your-org-with-the-powershell-cli/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/implement-a-hook/add-functionality-with-an-inline-hook/user-another-phone-provider-for-sms-verification/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/okta-workflows/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/implement-a-hook/add-functionality-with-an-inline-hook/add-a-custom-claim-in-the-oauth--oidc-flow/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/test/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/implement-a-hook/best-practices/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/test/test-single-sign-on/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/manage-your-org-with-the-powershell-cli/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/test/test-saml-app-with-saml-tracer/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/okta-workflows/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/test/testing-sign-in-with-postman/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/test/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/test/test-the-okta-apis-with-postman/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/test/test-single-sign-on/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/test/discover-postman-collections/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/test/test-saml-app-with-saml-tracer/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/deploy/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/test/testing-sign-in-with-postman/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/deploy/deployment-checklists/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/test/test-the-okta-apis-with-postman/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/deploy/deploy-your-app/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/test/discover-postman-collections/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/migrate-users/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/deploy/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/migrate-users/prerequisites/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/deploy/deployment-checklists/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/migrate-users/bulk-migration-with-credentials/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/deploy/deploy-your-app/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/migrate-users/migrate-users-with-password-hooks/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/migrate-users/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/report-and-monitor/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/migrate-users/prerequisites/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/report-and-monitor/monitor-your-okta-org/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/migrate-users/bulk-migration-with-credentials/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/upgrade/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/migrate-users/migrate-users-with-password-hooks/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/upgrade/upgrade-to-the-identity-engine/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/report-and-monitor/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/upgrade/upgrade-to-the-identity-engine/plan-your-application-upgrades/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/report-and-monitor/monitor-your-okta-org/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/upgrade/upgrade-to-the-identity-engine/features-not-supported-in-identity-engine/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/upgrade/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/upgrade/upgrade-to-the-identity-engine/upgrade-the-sign-in-widget/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/upgrade/upgrade-to-the-identity-engine/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/upgrade/upgrade-to-the-identity-engine/upgrade-the-sign-in-widget/remove-deprecated-widget-methods/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/upgrade/upgrade-to-the-identity-engine/plan-your-application-upgrades/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/upgrade/upgrade-to-the-identity-engine/upgrade-the-sign-in-widget/update-the-widget-styling/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/upgrade/upgrade-to-the-identity-engine/features-not-supported-in-identity-engine/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/upgrade/upgrade-to-the-identity-engine/upgrade-the-sign-in-widget/internationalize-the-widget/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/upgrade/upgrade-to-the-identity-engine/upgrade-the-sign-in-widget/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/upgrade/upgrade-to-the-identity-engine/upgrade-the-authentication-sdk/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/upgrade/upgrade-to-the-identity-engine/upgrade-the-sign-in-widget/remove-deprecated-widget-methods/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/upgrade/upgrade-to-the-identity-engine/upgrade-the-authentication-sdk/add-the-identity-engine-sdk/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/upgrade/upgrade-to-the-identity-engine/upgrade-the-sign-in-widget/update-the-widget-styling/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/upgrade/upgrade-to-the-identity-engine/upgrade-the-authentication-sdk/upgrade-your-application/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/upgrade/upgrade-to-the-identity-engine/upgrade-the-sign-in-widget/internationalize-the-widget/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/upgrade/upgrade-to-the-identity-engine/upgrade-the-authentication-sdk/learn-about-policy-changes/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/upgrade/upgrade-to-the-identity-engine/upgrade-the-authentication-sdk/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/upgrade/upgrade-saml-apps-to-sha256/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/upgrade/upgrade-to-the-identity-engine/upgrade-the-authentication-sdk/add-the-identity-engine-sdk/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/publish/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/upgrade/upgrade-to-the-identity-engine/upgrade-the-authentication-sdk/upgrade-your-application/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/publish/review-the-oin-restrictions/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/upgrade/upgrade-to-the-identity-engine/upgrade-the-authentication-sdk/learn-about-policy-changes/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/publish/review-the-oin-submission-requirements/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/upgrade/upgrade-saml-apps-to-sha256/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/publish/submit-your-integration-to-oin/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/publish/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/publish/submit-your-integration-to-oin/submit-an-sso-oidc-integration/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/publish/review-the-oin-restrictions/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/publish/submit-your-integration-to-oin/submit-an-sso-saml-integration/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/publish/review-the-oin-submission-requirements/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/publish/submit-your-integration-to-oin/submit-a-lcm-integration/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/publish/submit-your-integration-to-oin/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/publish/submit-your-integration-to-oin/submit-an-api-service-integration/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/publish/submit-your-integration-to-oin/submit-an-sso-oidc-integration/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/publish/update-your-integration/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/publish/submit-your-integration-to-oin/submit-an-sso-saml-integration/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/publish/update-your-integration/update-an-sso-oidc-integration-with-oin-wizard/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/publish/submit-your-integration-to-oin/submit-a-lcm-integration/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/publish/update-your-integration/update-an-sso-saml-integration-with-oin-wizard/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/publish/submit-your-integration-to-oin/submit-an-api-service-integration/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/publish/update-your-integration/update-an-sso-oidc-integration-with-oin-manager/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/publish/update-your-integration/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/publish/update-your-integration/update-an-sso-saml-integration-with-oin-manager/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/publish/update-your-integration/update-an-sso-oidc-integration-with-oin-wizard/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/publish/update-your-integration/update-an-lifecycle-management-integration/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/publish/update-your-integration/update-an-sso-saml-integration-with-oin-wizard/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/publish/update-your-integration/update-a-service-app-integration/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/publish/update-your-integration/update-an-sso-oidc-integration-with-oin-manager/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/publish/update-your-integration/update-your-users-on-new-versions-of-your-app/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/publish/update-your-integration/update-an-sso-saml-integration-with-oin-manager/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/publish/update-your-integration/be-notified-when-apps-you-use-are-updated/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/publish/update-your-integration/update-an-lifecycle-management-integration/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/publish/find-help-for-oin-problems/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/publish/update-your-integration/update-a-service-app-integration/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/reference/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/publish/update-your-integration/update-your-users-on-new-versions-of-your-app/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/publish/update-your-integration/be-notified-when-apps-you-use-are-updated/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/reference/sdks/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/publish/find-help-for-oin-problems/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/reference/sdks/sdk-versioning/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/reference/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/reference/inline-hooks/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/reference/inline-hooks/password-import-hook/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/reference/sdks/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/reference/inline-hooks/registration-hook/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/reference/sdks/sdk-versioning/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/reference/inline-hooks/saml-assertion-hook/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/reference/inline-hooks/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/reference/inline-hooks/telephony-hook/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/reference/inline-hooks/password-import-hook/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/reference/inline-hooks/token-hook/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/reference/inline-hooks/registration-hook/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/reference/inline-hooks/user-import-hook/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/reference/inline-hooks/saml-assertion-hook/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/reference/velocity-template-language/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/reference/inline-hooks/telephony-hook/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/reference/okta-expression-language/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/reference/inline-hooks/token-hook/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/reference/okta-expression-language/conditional-expressions/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/reference/inline-hooks/user-import-hook/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/reference/okta-expression-language/constants-and-operators/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/reference/velocity-template-language/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/reference/okta-expression-language/expressions-for-custom-claims/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/reference/okta-expression-language/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/reference/okta-expression-language/expressions-in-group-rules/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/reference/okta-expression-language/references-to-attributes-and-properties/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/reference/okta-expression-language/functions/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/reference/okta-expression-language/functions/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/reference/okta-expression-language/references-to-attributes-and-properties/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/reference/okta-expression-language/constants-and-operators/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/reference/okta-expression-language/time-zone-codes/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/reference/okta-expression-language/conditional-expressions/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/reference/roles-resources-and-permissions/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/reference/okta-expression-language/expressions-for-custom-claims/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/reference/glossary/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/reference/okta-expression-language/expressions-in-group-rules/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/categories/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/reference/okta-expression-language/time-zone-codes/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/reference/roles-resources-and-permissions/index.html</loc>
-  </url>
-  <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/reference/glossary/index.html</loc>
-  </url>
-  <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/categories/index.html</loc>
-  </url>
-  <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/index.html</loc>
-  </url>
-  <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/tags/index.html</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/tags/</loc>
   </url>
 </urlset>

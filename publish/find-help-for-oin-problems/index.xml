@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Find help for OIN problems on DevDocs Navigation Menu Test</title>
-    <link>https://danielmaharry-okta.github.io:1313/iaproto/publish/find-help-for-oin-problems/index.html</link>
-    <description>Recent content in Find help for OIN problems on DevDocs Navigation Menu Test</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Find help for OIN problems :: DevDocs Navigation Menu Test</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/publish/find-help-for-oin-problems/</link>
+    <description>Find help for OIN problems Click here to give feedback about this page&#xA;Content Notes Target personas: WIC App Developer,Experienced IAM developer&#xA;Description: The goal of this page is to give links to OIN related education courses, OIN support communites, sites where they need to talk to sales, etc.&#xA;Why is this here?: - Internal workshop: When asked “What prevents developers from being successful on the OIN”, respondents answered: - How to ask for and receive help from OKta - Links to Okta Education classes</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/publish/find-help-for-oin-problems/index.xml" rel="self" type="application/rss+xml" />
   </channel>

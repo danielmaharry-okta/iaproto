@@ -1,64 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publish on DevDocs Navigation Menu Test</title>
-    <link>https://danielmaharry-okta.github.io:1313/iaproto/publish/index.html</link>
-    <description>Recent content in Publish on DevDocs Navigation Menu Test</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Publish :: DevDocs Navigation Menu Test</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/publish/</link>
+    <description>Publish an integration to the OIN Click here to give feedback about this page&#xA;Group Notes Group description: - Reasons for the name publish: - Aligned with the action/task based focus of the site - The ultimate goal of this section is to “Publish” on the OIN - Some user research evidence&#xA;Existing doc needs to be updated to reflect new changes to sub groups Content Notes Target personas: WIC App Developer,Experienced IAM developer</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/publish/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Review the OIN restrictions</title>
-      <link>https://danielmaharry-okta.github.io:1313/iaproto/publish/review-the-oin-restrictions/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/publish/review-the-oin-restrictions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://danielmaharry-okta.github.io:1313/iaproto/publish/review-the-oin-restrictions/index.html</guid>
-      <description>Review the OIN restrictions Click here to give feedback about this page
-Content Notes Target personas: WIC App Developer,Experienced IAM developer
-Description: The &amp;ldquo;OIN Limitations&amp;rdquo; section from the pre-requisites page. This is being pulled out separately as it is linked to in many other pages compares to the pre-reqs in general and it needs to be easier to find in the navigation as a result.
-Changes to be made: Update with any UL or SCIM Entitlements limitations if there are any</description>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/publish/review-the-oin-restrictions/</guid>
+      <description>Review the OIN restrictions Click here to give feedback about this page&#xA;Content Notes Target personas: WIC App Developer,Experienced IAM developer&#xA;Description: The “OIN Limitations” section from the pre-requisites page. This is being pulled out separately as it is linked to in many other pages compares to the pre-reqs in general and it needs to be easier to find in the navigation as a result.&#xA;Changes to be made: Update with any UL or SCIM Entitlements limitations if there are any</description>
     </item>
     <item>
       <title>Review the OIN submission requirements</title>
-      <link>https://danielmaharry-okta.github.io:1313/iaproto/publish/review-the-oin-submission-requirements/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/publish/review-the-oin-submission-requirements/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://danielmaharry-okta.github.io:1313/iaproto/publish/review-the-oin-submission-requirements/index.html</guid>
-      <description>Review the OIN submission requirements Click here to give feedback about this page
-Content Notes Target personas: WIC App Developer,Experienced IAM developer
-Description: Basically the existing OIN pre-reqs page minue the OIN limitations page which is being split out into its own page - &amp;ldquo;OIN Restrictions&amp;rdquo;
-Changes to be made: Update with any UL or SCIm Entitlements pre-reqs if there are any
-Links to original docs: - OIN submission requirements: https://developer.</description>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/publish/review-the-oin-submission-requirements/</guid>
+      <description>Review the OIN submission requirements Click here to give feedback about this page&#xA;Content Notes Target personas: WIC App Developer,Experienced IAM developer&#xA;Description: Basically the existing OIN pre-reqs page minue the OIN limitations page which is being split out into its own page - “OIN Restrictions”&#xA;Changes to be made: Update with any UL or SCIm Entitlements pre-reqs if there are any&#xA;Links to original docs: - OIN submission requirements: https://developer.</description>
     </item>
     <item>
       <title>Submit your integration to OIN</title>
-      <link>https://danielmaharry-okta.github.io:1313/iaproto/publish/submit-your-integration-to-oin/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/publish/submit-your-integration-to-oin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://danielmaharry-okta.github.io:1313/iaproto/publish/submit-your-integration-to-oin/index.html</guid>
-      <description>Submitting a new app integration to the OIN Click here to give feedback about this page
-Content Notes Target personas: WIC App Developer,Experienced IAM developer
-Structure type: Navigation
-Content type: Autogenerated Index
-An autogenerated index is an automatically generated list of links to topics immediately beneath it based purely on the site&amp;rsquo;s structure, or with some level of filtering. A blind list of summaries and links to child docs. For example:</description>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/publish/submit-your-integration-to-oin/</guid>
+      <description>Submitting a new app integration to the OIN Click here to give feedback about this page&#xA;Content Notes Target personas: WIC App Developer,Experienced IAM developer&#xA;Structure type: Navigation&#xA;Content type: Autogenerated Index An autogenerated index is an automatically generated list of links to topics immediately beneath it based purely on the site’s structure, or with some level of filtering. A blind list of summaries and links to child docs.</description>
     </item>
     <item>
       <title>Update your integration</title>
-      <link>https://danielmaharry-okta.github.io:1313/iaproto/publish/update-your-integration/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/publish/update-your-integration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://danielmaharry-okta.github.io:1313/iaproto/publish/update-your-integration/index.html</guid>
-      <description>Releasing new versions of your app Click here to give feedback about this page
-Group Notes Group description: Based on the User research we need to determine what the content should be for this section.
-Content Notes Target personas: WIC App Developer,Experienced IAM developer
-Why is this here?: At Oktane, the OIN Survey showed several customers citing the following as &amp;ldquo;Missing info with the OIN Docs&amp;rdquo;:
-Missing information from the app providers on their new versions SP Software version info Structure type: Navigation</description>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/publish/update-your-integration/</guid>
+      <description>Releasing new versions of your app Click here to give feedback about this page&#xA;Group Notes Group description: Based on the User research we need to determine what the content should be for this section.&#xA;Content Notes Target personas: WIC App Developer,Experienced IAM developer&#xA;Why is this here?: At Oktane, the OIN Survey showed several customers citing the following as “Missing info with the OIN Docs”:&#xA;Missing information from the app providers on their new versions SP Software version info Structure type: Navigation</description>
     </item>
     <item>
       <title>Find help for OIN problems</title>
-      <link>https://danielmaharry-okta.github.io:1313/iaproto/publish/find-help-for-oin-problems/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/publish/find-help-for-oin-problems/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://danielmaharry-okta.github.io:1313/iaproto/publish/find-help-for-oin-problems/index.html</guid>
-      <description>Find help for OIN problems Click here to give feedback about this page
-Content Notes Target personas: WIC App Developer,Experienced IAM developer
-Description: The goal of this page is to give links to OIN related education courses, OIN support communites, sites where they need to talk to sales, etc.
-Why is this here?: - Internal workshop: When asked &amp;ldquo;What prevents developers from being successful on the OIN&amp;rdquo;, respondents answered: - How to ask for and receive help from OKta - Links to Okta Education classes</description>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/publish/find-help-for-oin-problems/</guid>
+      <description>Find help for OIN problems Click here to give feedback about this page&#xA;Content Notes Target personas: WIC App Developer,Experienced IAM developer&#xA;Description: The goal of this page is to give links to OIN related education courses, OIN support communites, sites where they need to talk to sales, etc.&#xA;Why is this here?: - Internal workshop: When asked “What prevents developers from being successful on the OIN”, respondents answered: - How to ask for and receive help from OKta - Links to Okta Education classes</description>
     </item>
   </channel>
 </rss>

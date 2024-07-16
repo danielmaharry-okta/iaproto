@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Submit an SSO OIDC integration on DevDocs Navigation Menu Test</title>
-    <link>https://danielmaharry-okta.github.io:1313/iaproto/publish/submit-your-integration-to-oin/submit-an-sso-oidc-integration/index.html</link>
-    <description>Recent content in Submit an SSO OIDC integration on DevDocs Navigation Menu Test</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Submit an SSO OIDC integration :: DevDocs Navigation Menu Test</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/publish/submit-your-integration-to-oin/submit-an-sso-oidc-integration/</link>
+    <description>Submit a SSO OIDC integration Click here to give feedback about this page&#xA;Content Notes Target personas: WIC App Developer,Experienced IAM developer&#xA;Description: How to submit your SSO integration (including the test process) using the OIN Wizard&#xA;Changes to be made: This is a really big how-to document. Bring in the flow diagram from “Publish an OIN integration” to the top of it to help give it some direction. Split out the update section to Publish &gt; Update your integration Links to original docs: ‘+ https://developer.</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/publish/submit-your-integration-to-oin/submit-an-sso-oidc-integration/index.xml" rel="self" type="application/rss+xml" />
   </channel>

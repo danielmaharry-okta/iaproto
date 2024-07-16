@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Validate your ID tokens on DevDocs Navigation Menu Test</title>
-    <link>https://danielmaharry-okta.github.io:1313/iaproto/build/safeguard-communications/secure-your-tokens/validate-your-id-tokens/index.html</link>
-    <description>Recent content in Validate your ID tokens on DevDocs Navigation Menu Test</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Validate your ID tokens :: DevDocs Navigation Menu Test</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/build/safeguard-communications/secure-your-tokens/validate-your-id-tokens/</link>
+    <description>Validate your ID tokens Click here to give feedback about this page&#xA;Group Notes Group description: Placed under “Secure” because it is verifying the Token&#xA;Content Notes Target personas: WIC App Developer,Experienced IAM developer&#xA;Changes to be made: - Convert this doc from an “explanation” to a how-to. Currently, it reads like an explanation but it’s not specific like a how-to&#xA;Update title Links to original docs: - Validate ID Tokens: https://developer.</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/build/safeguard-communications/secure-your-tokens/validate-your-id-tokens/index.xml" rel="self" type="application/rss+xml" />
   </channel>

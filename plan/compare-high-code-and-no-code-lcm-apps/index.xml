@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Compare high-code and no-code LCM apps on DevDocs Navigation Menu Test</title>
-    <link>https://danielmaharry-okta.github.io:1313/iaproto/plan/compare-high-code-and-no-code-lcm-apps/index.html</link>
-    <description>Recent content in Compare high-code and no-code LCM apps on DevDocs Navigation Menu Test</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Compare high-code and no-code LCM apps :: DevDocs Navigation Menu Test</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/plan/compare-high-code-and-no-code-lcm-apps/</link>
+    <description>Compare high-code and no-code lifecycle management apps Click here to give feedback about this page&#xA;Content Notes Target personas: WIC App Developer,Experienced IAM developer&#xA;Structure type: Concept&#xA;Content type: Explanation Explanations present a more detailed dive into a single topic compared to Conceptual Overviews. They aim to clarify specific elements of the technology, offering developers practical insights or in-depth clarification on particular points of interest.</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/plan/compare-high-code-and-no-code-lcm-apps/index.xml" rel="self" type="application/rss+xml" />
   </channel>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Add OAuth access token support to your Rest API on DevDocs Navigation Menu Test</title>
-    <link>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-access/manage-user-access-to-your-api-service/add-oauth-access-token-support-to-your-rest-api/index.html</link>
-    <description>Recent content in Add OAuth access token support to your Rest API on DevDocs Navigation Menu Test</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Add OAuth access token support to your Rest API :: DevDocs Navigation Menu Test</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-access/manage-user-access-to-your-api-service/add-oauth-access-token-support-to-your-rest-api/</link>
+    <description>Add OAuth access token support to your Rest API Click here to give feedback about this page&#xA;Content Notes Target personas: WIC App Developer,Experienced IAM developer&#xA;Links to original docs: - Protect your API endpoints: https://developer.okta.com/docs/guides/protect-your-api/aspnetcore3/main/&#xA;Why is this here?: A majority of oktane customers placed “API Service Integration” under “Authentication for service apps”&#xA;Structure type: Task&#xA;Content type: How-to with code A “How-to with code” illustrates how to perform a specific task that involves writing code.</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/build/manage-access/manage-user-access-to-your-api-service/add-oauth-access-token-support-to-your-rest-api/index.xml" rel="self" type="application/rss+xml" />
   </channel>

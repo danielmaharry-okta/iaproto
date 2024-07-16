@@ -1,133 +1,88 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authenticate on DevDocs Navigation Menu Test</title>
-    <link>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/index.html</link>
-    <description>Recent content in Authenticate on DevDocs Navigation Menu Test</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Authenticate :: DevDocs Navigation Menu Test</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/</link>
+    <description>Authenticate Click here to give feedback about this page&#xA;Group Notes Group description: - Describe authentication options available. - Set up user journeys.&#xA;Currently splitting authentication by functionality. We can either lead the split by functionality or by product. Currently split by functionality. Do we want a quickstart that is quick and short and more in-depth integration guides in the authentication section? Candidate for a separate workshop. Split level 3 either by product or functionality?</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Decide on a sign-in solution</title>
-      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/decide-on-a-sign-in-solution/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/decide-on-a-sign-in-solution/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/decide-on-a-sign-in-solution/index.html</guid>
-      <description>Decide which sign-in solution is right for you Click here to give feedback about this page
-Content Notes Target personas: WIC App Developer,Experienced IAM developer
-Changes to be made: - Update title
-Links to original docs: - Okta deployment models - redirect vs. embedded: https://developer.okta.com/docs/concepts/redirect-vs-embedded/
-Structure type: Navigation
-Content type: Guide Hub
-A guide hub is the main navigation page for a section, such as learn, plan, or build. It begins with &amp;ldquo;Who this section is for?</description>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/decide-on-a-sign-in-solution/</guid>
+      <description>Decide which sign-in solution is right for you Click here to give feedback about this page&#xA;Content Notes Target personas: WIC App Developer,Experienced IAM developer&#xA;Changes to be made: - Update title&#xA;Links to original docs: - Okta deployment models - redirect vs. embedded: https://developer.okta.com/docs/concepts/redirect-vs-embedded/&#xA;Structure type: Navigation&#xA;Content type: Guide Hub A guide hub is the main navigation page for a section, such as learn, plan, or build. It begins with “Who this section is for?</description>
     </item>
     <item>
       <title>Decide on a sign-in protocol</title>
-      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/decide-on-a-sign-in-protocol/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/decide-on-a-sign-in-protocol/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/decide-on-a-sign-in-protocol/index.html</guid>
-      <description>Decide which authentication protocol is right for you Click here to give feedback about this page
-Content Notes Target personas: WIC App Developer,Experienced IAM developer
-Links to original docs: - All content except for the use case examples from: - Overview of Single Sign-On in the OIN: https://developer.okta.com/docs/guides/oin-sso-overview/ - Note most of the content is good and not specific to the OIN - Ensure any OIN-specific content is removed.
-Structure type: Task</description>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/decide-on-a-sign-in-protocol/</guid>
+      <description>Decide which authentication protocol is right for you Click here to give feedback about this page&#xA;Content Notes Target personas: WIC App Developer,Experienced IAM developer&#xA;Links to original docs: - All content except for the use case examples from: - Overview of Single Sign-On in the OIN: https://developer.okta.com/docs/guides/oin-sso-overview/ - Note most of the content is good and not specific to the OIN - Ensure any OIN-specific content is removed.&#xA;Structure type: Task</description>
     </item>
     <item>
       <title>Add the recommended sign-in solution: redirect model</title>
-      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-the-recommended-sign-in-solution-redirect-model/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-the-recommended-sign-in-solution-redirect-model/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-the-recommended-sign-in-solution-redirect-model/index.html</guid>
-      <description>Add the recommended sign-in solution: redirect model Click here to give feedback about this page
-Content Notes Target personas: WIC App Developer,Experienced IAM developer
-Changes to be made: In phase 1 if &amp;ldquo;Setting up okta org policies&amp;rdquo; can be unified into one place for all (redirect and embedded) guides, we&amp;rsquo;ll have to add a specific set up guides for redirect and each of the embedded models.
-Why is this here?: Based on GroupIt Oktane user research, customers seem confused of what Redirect model means.</description>
-    </item>
-    <item>
-      <title>Add a more customizable sign-in solution</title>
-      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/index.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/index.html</guid>
-      <description>Add a more customizable sign-in solution Click here to give feedback about this page
-Content Notes Target personas: WIC App Developer,Experienced IAM developer
-Structure type: Navigation
-Content type: Autogenerated Index
-An autogenerated index is an automatically generated list of links to topics immediately beneath it based purely on the site&amp;rsquo;s structure, or with some level of filtering. A blind list of summaries and links to child docs. For example:
-https://developer.okta.com/docs/guides/authorization/ https://developer.</description>
-    </item>
-    <item>
-      <title>Add a sign-in experience directly with Okta API</title>
-      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-sign-in-experience-directly-with-okta-api/index.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-sign-in-experience-directly-with-okta-api/index.html</guid>
-      <description>Add a sign-in experience directly with the Direct Authentication API Click here to give feedback about this page
-Group Notes Group description: This group contains all the Direct Auth integration guides. This section was created by pulling on the dimensions of the doc into separate guides in the new IA. This was done for several reasons:
-See the &amp;ldquo;Notes&amp;rdquo; tab on dimension rules.
-Content Notes Target personas: WIC App Developer,Experienced IAM developer</description>
-    </item>
-    <item>
-      <title>Eliminate duplicate factor challenges with AMR</title>
-      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/eliminate-duplicate-factor-challenges-with-amr/index.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/eliminate-duplicate-factor-challenges-with-amr/index.html</guid>
-      <description>Eliminate duplicate factor challenges with AMR Click here to give feedback about this page
-Content Notes Target personas: WIC App Developer,Experienced IAM developer
-Changes to be made: - Update title
-Update Plant UML flowcharts Links to original docs: - Configure AMR claims mapping: https://developer.okta.com/docs/guides/configure-amr-claims-mapping/main/
-Structure type: Task
-Content type: How-to with code
-A &amp;ldquo;How-to with code&amp;rdquo; illustrates how to perform a specific task that involves writing code. The focus is geared towards developers integrating an SDK, API, or another library into their applications.</description>
-    </item>
-    <item>
-      <title>Add a sign-in solution to an input constrained device (e.g. Apple TV)</title>
-      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-sign-in-solution-to-an-input-constrained-device-e.g.-apple-tv/index.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-sign-in-solution-to-an-input-constrained-device-e.g.-apple-tv/index.html</guid>
-      <description>Add a sign-in solution to an input constrained device (e.g. Apple TV) Click here to give feedback about this page
-Content Notes Target personas: WIC App Developer,Experienced IAM developer
-Changes to be made: - This guide contains reference endpoint information that needs to be stripped out of this guide and placed under the API reference if it doesn&amp;rsquo;t exist.
-Understand which auth solution this is for: redirect, embedded, SDKS, API, or a combination of all three.</description>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-the-recommended-sign-in-solution-redirect-model/</guid>
+      <description>Add the recommended sign-in solution: redirect model Click here to give feedback about this page&#xA;Content Notes Target personas: WIC App Developer,Experienced IAM developer&#xA;Changes to be made: In phase 1 if “Setting up okta org policies” can be unified into one place for all (redirect and embedded) guides, we’ll have to add a specific set up guides for redirect and each of the embedded models.&#xA;Why is this here?: Based on GroupIt Oktane user research, customers seem confused of what Redirect model means.</description>
     </item>
     <item>
       <title>Add a browser sign-in solution for mobile devices</title>
-      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-browser-sign-in-solution-for-mobile-devices/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-browser-sign-in-solution-for-mobile-devices/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-browser-sign-in-solution-for-mobile-devices/index.html</guid>
-      <description>Add a browser sign-in solution for mobile devices Click here to give feedback about this page
-Content Notes Target personas: WIC App Developer,Experienced IAM developer
-Changes to be made: - Add a intro paragraph specifically stating what scenarios this implementation is used for. When would i use this scenario over direct auth?
-We need to make it clear that this is a Non-interaction code implementation Remove &amp;ldquo;Native&amp;rdquo; and use Mobile instead.</description>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-browser-sign-in-solution-for-mobile-devices/</guid>
+      <description>Add a browser sign-in solution for mobile devices Click here to give feedback about this page&#xA;Content Notes Target personas: WIC App Developer,Experienced IAM developer&#xA;Changes to be made: - Add a intro paragraph specifically stating what scenarios this implementation is used for. When would i use this scenario over direct auth?&#xA;We need to make it clear that this is a Non-interaction code implementation Remove “Native” and use Mobile instead.</description>
+    </item>
+    <item>
+      <title>Add a more customizable sign-in solution</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-more-customizable-sign-in-solution/</guid>
+      <description>Add a more customizable sign-in solution Click here to give feedback about this page&#xA;Content Notes Target personas: WIC App Developer,Experienced IAM developer&#xA;Structure type: Navigation&#xA;Content type: Autogenerated Index An autogenerated index is an automatically generated list of links to topics immediately beneath it based purely on the site’s structure, or with some level of filtering. A blind list of summaries and links to child docs.</description>
+    </item>
+    <item>
+      <title>Add a sign-in experience directly with Okta API</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-sign-in-experience-directly-with-okta-api/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-sign-in-experience-directly-with-okta-api/</guid>
+      <description>Add a sign-in experience directly with the Direct Authentication API Click here to give feedback about this page&#xA;Group Notes Group description: This group contains all the Direct Auth integration guides. This section was created by pulling on the dimensions of the doc into separate guides in the new IA. This was done for several reasons:&#xA;See the “Notes” tab on dimension rules.&#xA;Content Notes Target personas: WIC App Developer,Experienced IAM developer</description>
+    </item>
+    <item>
+      <title>Eliminate duplicate factor challenges with AMR</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/eliminate-duplicate-factor-challenges-with-amr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/eliminate-duplicate-factor-challenges-with-amr/</guid>
+      <description>Eliminate duplicate factor challenges with AMR Click here to give feedback about this page&#xA;Content Notes Target personas: WIC App Developer,Experienced IAM developer&#xA;Changes to be made: - Update title&#xA;Update Plant UML flowcharts Links to original docs: - Configure AMR claims mapping: https://developer.okta.com/docs/guides/configure-amr-claims-mapping/main/&#xA;Structure type: Task&#xA;Content type: How-to with code A “How-to with code” illustrates how to perform a specific task that involves writing code. The focus is geared towards developers integrating an SDK, API, or another library into their applications.</description>
+    </item>
+    <item>
+      <title>Add a sign-in solution to an input constrained device (e.g. Apple TV)</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-sign-in-solution-to-an-input-constrained-device-e.g.-apple-tv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-sign-in-solution-to-an-input-constrained-device-e.g.-apple-tv/</guid>
+      <description>Add a sign-in solution to an input constrained device (e.g. Apple TV) Click here to give feedback about this page&#xA;Content Notes Target personas: WIC App Developer,Experienced IAM developer&#xA;Changes to be made: - This guide contains reference endpoint information that needs to be stripped out of this guide and placed under the API reference if it doesn’t exist.&#xA;Understand which auth solution this is for: redirect, embedded, SDKS, API, or a combination of all three.</description>
     </item>
     <item>
       <title>Share application key credentials across apps</title>
-      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/share-application-key-credentials-across-apps/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/share-application-key-credentials-across-apps/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/share-application-key-credentials-across-apps/index.html</guid>
-      <description>Share application key credentials across apps Click here to give feedback about this page
-Content Notes Target personas: WIC App Developer,Experienced IAM developer
-Changes to be made: - Update title
-Need to understand whether i can use this implementation for redirect, embedded, direct auth, etc. After we find out, we&amp;rsquo;ll update the keywords accordingly and potentially update the guide placement. Links to original docs: - Share application key credentials for IdPs across Apps: https://developer.</description>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/share-application-key-credentials-across-apps/</guid>
+      <description>Share application key credentials across apps Click here to give feedback about this page&#xA;Content Notes Target personas: WIC App Developer,Experienced IAM developer&#xA;Changes to be made: - Update title&#xA;Need to understand whether i can use this implementation for redirect, embedded, direct auth, etc. After we find out, we’ll update the keywords accordingly and potentially update the guide placement. Links to original docs: - Share application key credentials for IdPs across Apps: https://developer.</description>
     </item>
     <item>
       <title>Add a sign-out solution</title>
-      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-sign-out-solution/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-sign-out-solution/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-sign-out-solution/index.html</guid>
-      <description>Add a sign-out solution Click here to give feedback about this page
-Content Notes Target personas: WIC App Developer,Experienced IAM developer
-Structure type: Navigation
-Content type: Autogenerated Index
-An autogenerated index is an automatically generated list of links to topics immediately beneath it based purely on the site&amp;rsquo;s structure, or with some level of filtering. A blind list of summaries and links to child docs. For example:
-https://developer.okta.com/docs/guides/authorization/ https://developer.okta.com/docs/guides/api-security/ https://developer.okta.com/docs/guides/manage-users/ </description>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-sign-out-solution/</guid>
+      <description>Add a sign-out solution Click here to give feedback about this page&#xA;Content Notes Target personas: WIC App Developer,Experienced IAM developer&#xA;Structure type: Navigation&#xA;Content type: Autogenerated Index An autogenerated index is an automatically generated list of links to topics immediately beneath it based purely on the site’s structure, or with some level of filtering. A blind list of summaries and links to child docs.</description>
     </item>
     <item>
       <title>Add a SAML sign-in solution</title>
-      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-saml-sign-in-solution/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-saml-sign-in-solution/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-saml-sign-in-solution/index.html</guid>
-      <description>Add a SAML sign-in solution Click here to give feedback about this page
-Content Notes Target personas: WIC App Developer,Experienced IAM developer
-Structure type: Navigation
-Content type: Autogenerated Index
-An autogenerated index is an automatically generated list of links to topics immediately beneath it based purely on the site&amp;rsquo;s structure, or with some level of filtering. A blind list of summaries and links to child docs. For example:
-https://developer.okta.com/docs/guides/authorization/ https://developer.okta.com/docs/guides/api-security/ https://developer.</description>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-saml-sign-in-solution/</guid>
+      <description>Add a SAML sign-in solution Click here to give feedback about this page&#xA;Content Notes Target personas: WIC App Developer,Experienced IAM developer&#xA;Structure type: Navigation&#xA;Content type: Autogenerated Index An autogenerated index is an automatically generated list of links to topics immediately beneath it based purely on the site’s structure, or with some level of filtering. A blind list of summaries and links to child docs.</description>
     </item>
   </channel>
 </rss>

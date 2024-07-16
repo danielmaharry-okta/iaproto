@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Service provider Initiated flow on DevDocs Navigation Menu Test</title>
-    <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/saml/service-provider-initiated-flow/index.html</link>
-    <description>Recent content in Service provider Initiated flow on DevDocs Navigation Menu Test</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Service provider Initiated flow :: DevDocs Navigation Menu Test</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/saml/service-provider-initiated-flow/</link>
+    <description>Service Provider Initiated Flow Click here to give feedback about this page&#xA;Content Notes Target personas: New IAM Developers,Developers new to Okta&#xA;Changes to be made: Title change to Service provider initiated flow. There are two types of flows and this doc describes the SP version. For details on the other flow see: https://workos.com/blog/sp-initiated-sso-vs-idp-authentication&#xA;Links to original docs: ‘- Implement authorization by grant type (SAML 2.0 Assertion): https://developer.okta.com/docs/guides/implement-grant-type/saml2assert/main/&#xA;Structure type: Concept</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/learn/saml/service-provider-initiated-flow/index.xml" rel="self" type="application/rss+xml" />
   </channel>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Glossary on DevDocs Navigation Menu Test</title>
-    <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/glossary/index.html</link>
-    <description>Recent content in Glossary on DevDocs Navigation Menu Test</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Glossary :: DevDocs Navigation Menu Test</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/glossary/</link>
+    <description>Glossary of terms Click here to give feedback about this page&#xA;Content Notes Target personas: WIC App Developer,Experienced IAM developer&#xA;Structure type: Reference&#xA;Content type: Glossary A Glossary is a list of often difficult or specialized words and acronyms with their definitions, in this case specific to IAM and Okta topics and products.</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/reference/glossary/index.xml" rel="self" type="application/rss+xml" />
   </channel>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Optimize your access control on DevDocs Navigation Menu Test</title>
-    <link>https://danielmaharry-okta.github.io:1313/iaproto/plan/optimize-your-access-control/index.html</link>
-    <description>Recent content in Optimize your access control on DevDocs Navigation Menu Test</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Optimize your access control :: DevDocs Navigation Menu Test</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/plan/optimize-your-access-control/</link>
+    <description>Optimize your access control Click here to give feedback about this page&#xA;Content Notes Target personas: WIC App Developer,Experienced IAM developer&#xA;Changes to be made: - Title change&#xA;Replace “Authorization” wording? I don’t see it used as much in the latest Okta docs. Links to original docs: - Authorization factors: https://developer.okta.com/docs/concepts/iam-overview-authorization-factors/&#xA;Structure type: Concept&#xA;Content type: Explanation Explanations present a more detailed dive into a single topic compared to Conceptual Overviews.</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/plan/optimize-your-access-control/index.xml" rel="self" type="application/rss+xml" />
   </channel>

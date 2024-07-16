@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>APIs on DevDocs Navigation Menu Test</title>
-    <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/index.html</link>
-    <description>Recent content in APIs on DevDocs Navigation Menu Test</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>APIs :: DevDocs Navigation Menu Test</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/</link>
+    <description>The Okta APIs Click here to give feedback about this page&#xA;Content Notes Target personas: WIC App Developer,Experienced IAM developer&#xA;Description: This is a short summary redirect pointing the developer to the new Redocly site where all API related material is located&#xA;Why is this here?: - Internal workshop session: Session 1 - Team 2 chose the Okta APIs group.&#xA;Internal workshop session: Session 2 - Team 1 chose the APIs group.</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/index.xml" rel="self" type="application/rss+xml" />
   </channel>

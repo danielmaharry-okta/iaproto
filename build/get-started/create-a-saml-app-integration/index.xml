@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Create a SAML app integration on DevDocs Navigation Menu Test</title>
-    <link>https://danielmaharry-okta.github.io:1313/iaproto/build/get-started/create-a-saml-app-integration/index.html</link>
-    <description>Recent content in Create a SAML app integration on DevDocs Navigation Menu Test</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Create a SAML app integration :: DevDocs Navigation Menu Test</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/build/get-started/create-a-saml-app-integration/</link>
+    <description>Create a SAML app integration Click here to give feedback about this page&#xA;Content Notes Target personas: WIC App Developer,Experienced IAM developer&#xA;Description: This document covers only how to create an app integration in the Admin Console, dimensioned by the type of integration you want to create. So this https://developer.okta.com/docs/guides/sign-into-web-app-redirect/asp-net-core-3/main/#create-an-app-integration-in-the-admin-console but probably with some updating so it fits as many scenarios as it can without becoming too unwieldy. The full guide is on help.</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/build/get-started/create-a-saml-app-integration/index.xml" rel="self" type="application/rss+xml" />
   </channel>

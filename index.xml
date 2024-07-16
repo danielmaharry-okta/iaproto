@@ -1,60 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homepage on DevDocs Navigation Menu Test</title>
-    <link>https://danielmaharry-okta.github.io:1313/iaproto/index.html</link>
-    <description>Recent content in Homepage on DevDocs Navigation Menu Test</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Homepage :: DevDocs Navigation Menu Test</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/</link>
+    <description>developer.okta.com Navigation prototype v2.01 Click here to give feedback about this page&#xA;Please give us your feedback on the redesigned navigation system for the developer documentation website.&#xA;The goal is a task-based navigation that makes it easier for developers to find the content they’re looking for… the answer to their question. We’ve biased the design to developers inexperienced with Identity and Access Management.&#xA;To leave feedback, click the large feedback link at the top of each page.</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Learn</title>
-      <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://danielmaharry-okta.github.io:1313/iaproto/learn/index.html</guid>
-      <description>Learn about Okta and Identity Access Management Click here to give feedback about this page
-Group Notes Group description: - The &amp;ldquo;Learn&amp;rdquo; section guides developers new to IAM and/or Okta through the basics of OAuth, IAM, and Okta&amp;rsquo;s products.
-The goal of this section is to empower these developers to be successful in developing applications using Okta&amp;rsquo;s products. It serves as a one-stop resource for understanding Okta&amp;rsquo;s products&amp;rsquo; features, the necessary tools for development, and industry best practices, ensuring developers have a solid foundation to start building secure and efficient applications.</description>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/learn/</guid>
+      <description>Learn about Okta and Identity Access Management Click here to give feedback about this page&#xA;Group Notes Group description: - The “Learn” section guides developers new to IAM and/or Okta through the basics of OAuth, IAM, and Okta’s products.&#xA;The goal of this section is to empower these developers to be successful in developing applications using Okta’s products. It serves as a one-stop resource for understanding Okta’s products’ features, the necessary tools for development, and industry best practices, ensuring developers have a solid foundation to start building secure and efficient applications.</description>
     </item>
     <item>
       <title>Plan</title>
-      <link>https://danielmaharry-okta.github.io:1313/iaproto/plan/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/plan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://danielmaharry-okta.github.io:1313/iaproto/plan/index.html</guid>
-      <description>Plan Click here to give feedback about this page
-Group Notes Group description: The plan group&amp;rsquo;s scope includes:
-Content focused on readers wanting to understand how to plan out their IAM solutions strategically and holistically. The content includes: Available access control strategies Available authentication methods (MFA, biometrics, etc) Policies Deployment considerations including topics such as: Availability Reliability Performance etc Best practices content Content Notes Target personas: WIC App Developer,Experienced IAM developer</description>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/plan/</guid>
+      <description>Plan Click here to give feedback about this page&#xA;Group Notes Group description: The plan group’s scope includes:&#xA;Content focused on readers wanting to understand how to plan out their IAM solutions strategically and holistically. The content includes: Available access control strategies Available authentication methods (MFA, biometrics, etc) Policies Deployment considerations including topics such as: Availability Reliability Performance etc Best practices content Content Notes Target personas: WIC App Developer,Experienced IAM developer</description>
     </item>
     <item>
       <title>Build</title>
-      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/index.html</guid>
-      <description>Build Click here to give feedback about this page
-Group Notes Group description: This group is oriented toward developers looking for ways to integrate Okta with their applications. The types of docs focus specifically on:
-Specific use cases Best practices The largest topics are:
-LCM OIG Authenntication Automation Content Notes Target personas: WIC App Developer,Experienced IAM developer
-Description: Sets up journeys and provides links to content under this node. See Guide Hub description for more details on the contents of this doc type.</description>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/</guid>
+      <description>Build Click here to give feedback about this page&#xA;Group Notes Group description: This group is oriented toward developers looking for ways to integrate Okta with their applications. The types of docs focus specifically on:&#xA;Specific use cases Best practices The largest topics are:&#xA;LCM OIG Authenntication Automation Content Notes Target personas: WIC App Developer,Experienced IAM developer&#xA;Description: Sets up journeys and provides links to content under this node. See Guide Hub description for more details on the contents of this doc type.</description>
     </item>
     <item>
       <title>Publish</title>
-      <link>https://danielmaharry-okta.github.io:1313/iaproto/publish/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/publish/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://danielmaharry-okta.github.io:1313/iaproto/publish/index.html</guid>
-      <description>Publish an integration to the OIN Click here to give feedback about this page
-Group Notes Group description: - Reasons for the name publish: - Aligned with the action/task based focus of the site - The ultimate goal of this section is to &amp;ldquo;Publish&amp;rdquo; on the OIN - Some user research evidence
-Existing doc needs to be updated to reflect new changes to sub groups Content Notes Target personas: WIC App Developer,Experienced IAM developer</description>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/publish/</guid>
+      <description>Publish an integration to the OIN Click here to give feedback about this page&#xA;Group Notes Group description: - Reasons for the name publish: - Aligned with the action/task based focus of the site - The ultimate goal of this section is to “Publish” on the OIN - Some user research evidence&#xA;Existing doc needs to be updated to reflect new changes to sub groups Content Notes Target personas: WIC App Developer,Experienced IAM developer</description>
     </item>
     <item>
       <title>Reference</title>
-      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/index.html</link>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/index.html</guid>
-      <description>Reference Click here to give feedback about this page
-Content Notes Target personas: WIC App Developer,Experienced IAM developer
-Structure type: Navigation
-Content type: Guide Hub
-A guide hub is the main navigation page for a section, such as learn, plan, or build. It begins with &amp;ldquo;Who this section is for?&amp;rdquo; and how the user may have gotten to this page, i.e., where they are in their user journey at this point.</description>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/</guid>
+      <description>Reference Click here to give feedback about this page&#xA;Content Notes Target personas: WIC App Developer,Experienced IAM developer&#xA;Structure type: Navigation&#xA;Content type: Guide Hub A guide hub is the main navigation page for a section, such as learn, plan, or build. It begins with “Who this section is for?” and how the user may have gotten to this page, i.e., where they are in their user journey at this point.</description>
     </item>
   </channel>
 </rss>

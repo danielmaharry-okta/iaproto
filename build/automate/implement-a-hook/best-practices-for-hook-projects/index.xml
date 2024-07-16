@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Best practices for hook projects :: DevDocs Navigation Menu Test</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/implement-a-hook/best-practices-for-hook-projects/</link>
+    <description>Best practices for hook projects Click here to give feedback about this page&#xA;Content Notes Target personas: WIC App Developer,Experienced IAM developer&#xA;Changes to be made: Update title&#xA;Links to original docs: https://developer.okta.com/docs/reference/hooks-best-practices/&#xA;Structure type: Concept&#xA;Content type: Best practice A Best Practices document presents a set of best practices to the reader. They may pertain to design, coding, or administrative tasks but do not often include actual step-by-step instructions.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/build/automate/implement-a-hook/best-practices-for-hook-projects/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

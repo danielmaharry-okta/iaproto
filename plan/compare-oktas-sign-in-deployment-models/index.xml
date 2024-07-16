@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Compare Okta’s sign-in deployment models on DevDocs Navigation Menu Test</title>
-    <link>https://danielmaharry-okta.github.io:1313/iaproto/plan/compare-oktas-sign-in-deployment-models/index.html</link>
-    <description>Recent content in Compare Okta’s sign-in deployment models on DevDocs Navigation Menu Test</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Compare Okta’s sign-in deployment models :: DevDocs Navigation Menu Test</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/plan/compare-oktas-sign-in-deployment-models/</link>
+    <description>Compare Okta’s sign-in deployment models Click here to give feedback about this page&#xA;Content Notes Target personas: WIC App Developer,Experienced IAM developer&#xA;Changes to be made: 1. Title change 2. Add content related to the Direct Auth API. (need PM/other confirmation)&#xA;Links to original docs: - Sign users in overview: https://developer.okta.com/docs/guides/sign-in-overview/main/&#xA;Structure type: Concept&#xA;Content type: Explanation Explanations present a more detailed dive into a single topic compared to Conceptual Overviews.</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/plan/compare-oktas-sign-in-deployment-models/index.xml" rel="self" type="application/rss+xml" />
   </channel>

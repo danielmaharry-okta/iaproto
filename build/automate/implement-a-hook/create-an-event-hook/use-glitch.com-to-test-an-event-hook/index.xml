@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Use glitch.com to test an event hook :: DevDocs Navigation Menu Test</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/implement-a-hook/create-an-event-hook/use-glitch.com-to-test-an-event-hook/</link>
+    <description>Use glitch.com to test an event hook Click here to give feedback about this page&#xA;Content Notes Target personas: WIC App Developer,Experienced IAM developer&#xA;Changes to be made: Update title&#xA;Links to original docs: - Event hook implementation: https://developer.okta.com/docs/guides/event-hook-implementation/nodejs/main/&#xA;Structure type: Task&#xA;Content type: How-to with code A “How-to with code” illustrates how to perform a specific task that involves writing code. The focus is geared towards developers integrating an SDK, API, or another library into their applications.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/build/automate/implement-a-hook/create-an-event-hook/use-glitch.com-to-test-an-event-hook/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

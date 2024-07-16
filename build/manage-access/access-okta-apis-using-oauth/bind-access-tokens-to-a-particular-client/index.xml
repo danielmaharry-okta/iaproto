@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Bind access tokens to a particular client on DevDocs Navigation Menu Test</title>
-    <link>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-access/access-okta-apis-using-oauth/bind-access-tokens-to-a-particular-client/index.html</link>
-    <description>Recent content in Bind access tokens to a particular client on DevDocs Navigation Menu Test</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Bind access tokens to a particular client :: DevDocs Navigation Menu Test</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-access/access-okta-apis-using-oauth/bind-access-tokens-to-a-particular-client/</link>
+    <description>Bind access tokens to a particular client Click here to give feedback about this page&#xA;Group Notes Group description: Is this topic only specific to Okta API calls?&#xA;Content Notes Target personas: WIC App Developer,Experienced IAM developer&#xA;Changes to be made: - Note: Dimensioning this page based on resource server type is an acceptable page dimension. See exception rules.&#xA;Update title Links to original docs: - Configure OAuth 2.0 Demonstrating Proof-of-Possession: https://developer.</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/build/manage-access/access-okta-apis-using-oauth/bind-access-tokens-to-a-particular-client/index.xml" rel="self" type="application/rss+xml" />
   </channel>

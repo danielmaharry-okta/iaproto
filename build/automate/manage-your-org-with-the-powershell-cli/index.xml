@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Manage your org with the Powershell CLI on DevDocs Navigation Menu Test</title>
-    <link>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/manage-your-org-with-the-powershell-cli/index.html</link>
-    <description>Recent content in Manage your org with the Powershell CLI on DevDocs Navigation Menu Test</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Manage your org with the Powershell CLI :: DevDocs Navigation Menu Test</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/manage-your-org-with-the-powershell-cli/</link>
+    <description>Manage your org with the Powershell CLI Click here to give feedback about this page&#xA;Content Notes Target personas: WIC App Developer,Experienced IAM developer&#xA;Changes to be made: Notes from conversation with Bhavik, Maurice and Dan:&#xA;Doing a youtube about potential use cases. They have identified 525 custs using unofficial powershell cli. They are the target market. Target them in pendo in admin console - target them and notify them, Tell them Okta as a new powershell cli, Link to youtube podcast.</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/build/automate/manage-your-org-with-the-powershell-cli/index.xml" rel="self" type="application/rss+xml" />
   </channel>

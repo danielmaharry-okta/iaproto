@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Add Universal Logout to your app on DevDocs Navigation Menu Test</title>
-    <link>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-sign-out-solution/add-universal-logout-to-your-app/index.html</link>
-    <description>Recent content in Add Universal Logout to your app on DevDocs Navigation Menu Test</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Add Universal Logout to your app :: DevDocs Navigation Menu Test</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-sign-out-solution/add-universal-logout-to-your-app/</link>
+    <description>Add Universal Logout to your app Click here to give feedback about this page&#xA;Content Notes Target personas: WIC App Developer,Experienced IAM developer&#xA;Changes to be made: - Update title&#xA;Error codes belong in a reference doc not in this doc cc: @Dan Maharry Links to original docs: - Build Universal Logout for your app: https://developer.okta.com/docs/guides/oin-universal-logout-overview/&#xA;Include material from UL Blog workshop? Structure type: Task&#xA;Content type: How-to without code A “How-to without code” illustrates how to perform a specific task that does not rely on writing code.</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-sign-out-solution/add-universal-logout-to-your-app/index.xml" rel="self" type="application/rss+xml" />
   </channel>

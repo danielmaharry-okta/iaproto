@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Enable a user consent dialog for an app on DevDocs Navigation Menu Test</title>
-    <link>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-access/enable-a-user-consent-dialog-for-an-app/index.html</link>
-    <description>Recent content in Enable a user consent dialog for an app on DevDocs Navigation Menu Test</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Enable a user consent dialog for an app :: DevDocs Navigation Menu Test</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-access/enable-a-user-consent-dialog-for-an-app/</link>
+    <description>Enable a user consent dialog for an app Click here to give feedback about this page&#xA;Group Notes Group description: This article discusses how to enable a consent dialog for an app wanting permission to access certain resources&#xA;Content Notes Target personas: WIC App Developer,Experienced IAM developer&#xA;Changes to be made: - This guide needs to main things: - Content answer “When would I use this user consent functionality over other methods?</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/build/manage-access/enable-a-user-consent-dialog-for-an-app/index.xml" rel="self" type="application/rss+xml" />
   </channel>
