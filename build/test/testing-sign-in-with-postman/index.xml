@@ -3,7 +3,7 @@
   <channel>
     <title>Testing sign-in with Postman :: DevDocs Navigation Menu Test</title>
     <link>https://danielmaharry-okta.github.io:1313/iaproto/build/test/testing-sign-in-with-postman/</link>
-    <description>Testing sign-in with Postman Click here to give feedback about this page&#xA;Content Notes Target personas: New IAM Developers,Developers new to Okta&#xA;Structure type: Task&#xA;Content type: How-to without code A “How-to without code” illustrates how to perform a specific task that does not rely on writing code. They tend to walk the reader through administrative tasks but not exclusively. They might include code snippets such as API requests and responses, or outline how to develop the required solution but without walking through the majority of the code required to implement it.</description>
+    <description>Testing sign-in with Postman Click here to give feedback about this page&#xA;About This Page Is this a new page?: Completely new doc with new content&#xA;Target personas: New IAM Developers, Developers new to Okta&#xA;Page type: Task&#xA;Content type: How-to without code&#xA;A “How-to without code” illustrates how to perform a specific task that does not rely on writing code. They tend to walk the reader through administrative tasks but not exclusively.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/build/test/testing-sign-in-with-postman/index.xml" rel="self" type="application/rss+xml" />

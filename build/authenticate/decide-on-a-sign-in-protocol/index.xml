@@ -3,7 +3,7 @@
   <channel>
     <title>Decide on a sign-in protocol :: DevDocs Navigation Menu Test</title>
     <link>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/decide-on-a-sign-in-protocol/</link>
-    <description>Decide which authentication protocol is right for you Click here to give feedback about this page&#xA;Content Notes Target personas: WIC App Developer,Experienced IAM developer&#xA;Links to original docs: - All content except for the use case examples from: - Overview of Single Sign-On in the OIN: https://developer.okta.com/docs/guides/oin-sso-overview/ - Note most of the content is good and not specific to the OIN - Ensure any OIN-specific content is removed.&#xA;Structure type: Task</description>
+    <description>Decide which authentication protocol is right for you Click here to give feedback about this page&#xA;About This Page Is this a new page?: New doc with new content but also pulling from existing content&#xA;Target personas: WIC App Developer, Experienced IAM developer&#xA;Links to original docs:&#xA;All content except for the use case examples from:&#xA;Overview of Single Sign-On in the OIN: https://developer.okta.com/docs/guides/oin-sso-overview/ Note most of the content is good and not specific to the OIN Ensure any OIN-specific content is removed.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/decide-on-a-sign-in-protocol/index.xml" rel="self" type="application/rss+xml" />

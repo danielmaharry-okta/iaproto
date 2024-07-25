@@ -3,7 +3,7 @@
   <channel>
     <title>Secure your hooks project :: DevDocs Navigation Menu Test</title>
     <link>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/implement-a-hook/secure-your-hooks-project/</link>
-    <description>Secure your hooks project Click here to give feedback about this page&#xA;Content Notes Target personas: WIC App Developer,Experienced IAM developer&#xA;Changes to be made: A new doc that describes specifically how to secure a hook project. Takes information from the current setup your hooks doc.&#xA;Links to original docs: This doc pulls security content from this doc.&#xA;Common Hook set-up steps: https://developer.okta.com/docs/guides/common-hook-set-up-steps/nodejs/main/ Structure type: Task&#xA;Content type: How-to without code A “How-to without code” illustrates how to perform a specific task that does not rely on writing code.</description>
+    <description>Secure your hooks project Click here to give feedback about this page&#xA;About This Page Is this a new page?: New doc with new content but also pulling from existing content&#xA;Target personas: WIC App Developer, Experienced IAM developer&#xA;Changes to be made: A new doc that describes specifically how to secure a hook project. Takes information from the current setup your hooks doc.&#xA;Links to original docs:&#xA;This doc pulls security content from this doc.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/build/automate/implement-a-hook/secure-your-hooks-project/index.xml" rel="self" type="application/rss+xml" />

@@ -3,7 +3,7 @@
   <channel>
     <title>Set up delegated access to a resource :: DevDocs Navigation Menu Test</title>
     <link>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-access/set-up-delegated-access-to-a-resource/</link>
-    <description>Set up delegated access to a resource Click here to give feedback about this page&#xA;Group Notes Group description: This article was placed under “Manage access” because it discuss delegated “access” to other apps.&#xA;Content Notes Target personas: WIC App Developer,Experienced IAM developer&#xA;Changes to be made: Update title&#xA;Links to original docs: - Set up OAuth 2.0 On-Behalf-Of Token Exchange: https://developer.okta.com/docs/guides/set-up-token-exchange/main/&#xA;Structure type: Task&#xA;Content type: How-to without code A “How-to without code” illustrates how to perform a specific task that does not rely on writing code.</description>
+    <description>Set up delegated access to a resource Click here to give feedback about this page&#xA;About This Page Is this a new page?: Existing doc: changes are needed to update the doc and to fit the new IA&#xA;Target personas: WIC App Developer, Experienced IAM developer&#xA;Description: This article was placed under “Manage access” because it discusses delegated “access” to other apps.&#xA;Changes to be made: Update title&#xA;Links to original docs:</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/build/manage-access/set-up-delegated-access-to-a-resource/index.xml" rel="self" type="application/rss+xml" />

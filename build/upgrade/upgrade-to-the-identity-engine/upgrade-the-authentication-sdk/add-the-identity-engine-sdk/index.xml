@@ -3,7 +3,7 @@
   <channel>
     <title>Add the Identity Engine SDK :: DevDocs Navigation Menu Test</title>
     <link>https://danielmaharry-okta.github.io:1313/iaproto/build/upgrade/upgrade-to-the-identity-engine/upgrade-the-authentication-sdk/add-the-identity-engine-sdk/</link>
-    <description>Add the Identity Engine SDK to your app Click here to give feedback about this page&#xA;Content Notes Target personas: WIC App Developer,Experienced IAM developer&#xA;Changes to be made: Update title&#xA;Links to original docs: - Add the Identity Engine SDK to your app: https://developer.okta.com/docs/guides/oie-upgrade-add-sdk-to-your-app/android/main/&#xA;Structure type: Task&#xA;Content type: How-to without code A “How-to without code” illustrates how to perform a specific task that does not rely on writing code.</description>
+    <description>Add the Identity Engine SDK to your app Click here to give feedback about this page&#xA;About This Page Is this a new page?: Existing doc: changes are needed to update the doc and to fit the new IA&#xA;Target personas: WIC App Developer, Experienced IAM developer&#xA;Changes to be made: Update title&#xA;Links to original docs:&#xA;Add the Identity Engine SDK to your app: https://developer.okta.com/docs/guides/oie-upgrade-add-sdk-to-your-app/android/main/ Page type: Task&#xA;Content type: How-to without code</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/build/upgrade/upgrade-to-the-identity-engine/upgrade-the-authentication-sdk/add-the-identity-engine-sdk/index.xml" rel="self" type="application/rss+xml" />

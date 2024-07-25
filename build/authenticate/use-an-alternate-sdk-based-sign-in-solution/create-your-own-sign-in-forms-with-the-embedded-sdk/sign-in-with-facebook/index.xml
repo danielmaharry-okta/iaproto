@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sign in with Facebook :: DevDocs Navigation Menu Test</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/use-an-alternate-sdk-based-sign-in-solution/create-your-own-sign-in-forms-with-the-embedded-sdk/sign-in-with-facebook/</link>
+    <description>Sign in with Facebook Click here to give feedback about this page&#xA;About This Page Is this a new page?: Existing doc: no changes needed to fit the new IA&#xA;Target personas: WIC App Developer, Experienced IAM developer&#xA;Links to original docs:&#xA;Sign in with Facebook: https://developer.okta.com/docs/guides/oie-embedded-sdk-use-case-sign-in-soc-idp/aspnet/main/ Page type: Task&#xA;Content type: How-to with code&#xA;A “How-to with code” illustrates how to perform a specific task that involves writing code. The focus is geared towards developers integrating an SDK, API, or another library into their applications.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/use-an-alternate-sdk-based-sign-in-solution/create-your-own-sign-in-forms-with-the-embedded-sdk/sign-in-with-facebook/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

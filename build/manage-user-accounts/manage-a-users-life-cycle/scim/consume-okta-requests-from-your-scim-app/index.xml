@@ -3,7 +3,7 @@
   <channel>
     <title>Consume Okta requests from your SCIM app :: DevDocs Navigation Menu Test</title>
     <link>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-accounts/manage-a-users-life-cycle/scim/consume-okta-requests-from-your-scim-app/</link>
-    <description>Consume Okta requests from your SCIM app Click here to give feedback about this page&#xA;Content Notes Target personas: WIC App Developer,Experienced IAM developer&#xA;Changes to be made: See existing content field for more details.&#xA;Links to original docs: - Connect your SCIM API service to Okta: https://developer.okta.com/docs/guides/scim-provisioning-integration-connect/main/ - Non OIN related content only&#xA;Structure type: Task&#xA;Content type: How-to without code A “How-to without code” illustrates how to perform a specific task that does not rely on writing code.</description>
+    <description>Consume Okta requests from your SCIM app Click here to give feedback about this page&#xA;About This Page Is this a new page?: Existing doc: changes are needed to update the doc and to fit the new IA&#xA;Target personas: WIC App Developer, Experienced IAM developer&#xA;Links to original docs:&#xA;Connect your SCIM API service to Okta: https://developer.okta.com/docs/guides/scim-provisioning-integration-connect/main/ - Non OIN related content only Page type: Task&#xA;Content type: How-to without code</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-accounts/manage-a-users-life-cycle/scim/consume-okta-requests-from-your-scim-app/index.xml" rel="self" type="application/rss+xml" />

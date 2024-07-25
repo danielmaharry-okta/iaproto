@@ -3,7 +3,7 @@
   <channel>
     <title>Add custom user attributes (claims) :: DevDocs Navigation Menu Test</title>
     <link>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-accounts/customize-claims-in-the-id-and-access-tokens/add-custom-user-attributes-claims/</link>
-    <description>Add custom user attributes (claims) Click here to give feedback about this page&#xA;Group Notes Group description: Claims are user attributes that are returned in tokens. This is the R part of CRUD in “Manage user accounts”&#xA;Content Notes Target personas: WIC App Developer,Experienced IAM developer&#xA;Links to original docs: - Customize tokens returned from Okta with custom claims: https://developer.okta.com/docs/guides/customize-tokens-returned-from-okta/main/&#xA;Structure type: Task&#xA;Content type: How-to without code A “How-to without code” illustrates how to perform a specific task that does not rely on writing code.</description>
+    <description>Add custom user attributes (claims) Click here to give feedback about this page&#xA;About This Page Is this a new page?: Existing doc: no changes needed to fit the new IA&#xA;Target personas: WIC App Developer, Experienced IAM developer&#xA;Description: Claims are user attributes that are returned in tokens. This is the R part of CRUD in “Manage user accounts”&#xA;Links to original docs:&#xA;Customize tokens returned from Okta with custom claims: https://developer.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-accounts/customize-claims-in-the-id-and-access-tokens/add-custom-user-attributes-claims/index.xml" rel="self" type="application/rss+xml" />

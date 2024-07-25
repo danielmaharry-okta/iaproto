@@ -3,7 +3,7 @@
   <channel>
     <title>Customize your domain name and email address :: DevDocs Navigation Menu Test</title>
     <link>https://danielmaharry-okta.github.io:1313/iaproto/build/customize/customize-your-domain-name-and-email-address/</link>
-    <description>Customize your domain name and email address Click here to give feedback about this page&#xA;Content Notes Target personas: WIC App Developer,Experienced IAM developer&#xA;Changes to be made: Update title&#xA;Links to original docs: - Customize domain and email address: https://developer.okta.com/docs/guides/custom-url-domain/main/&#xA;Structure type: Task&#xA;Content type: How-to without code A “How-to without code” illustrates how to perform a specific task that does not rely on writing code. They tend to walk the reader through administrative tasks but not exclusively.</description>
+    <description>Customize your domain name and email address Click here to give feedback about this page&#xA;About This Page Is this a new page?: Existing doc: changes are needed to update the doc and to fit the new IA&#xA;Target personas: WIC App Developer, Experienced IAM developer&#xA;Changes to be made: Update title&#xA;Links to original docs:&#xA;Customize domain and email address: https://developer.okta.com/docs/guides/custom-url-domain/main/ Page type: Task&#xA;Content type: How-to without code</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/build/customize/customize-your-domain-name-and-email-address/index.xml" rel="self" type="application/rss+xml" />

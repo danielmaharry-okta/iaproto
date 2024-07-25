@@ -3,7 +3,7 @@
   <channel>
     <title>Identity Access Management (IAM) :: DevDocs Navigation Menu Test</title>
     <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/identity-access-management-iam/</link>
-    <description>Identity Access Management (IAM) basics Click here to give feedback about this page&#xA;Content Notes Target personas: New IAM Developers,Developers new to Okta&#xA;Description: Explains at a high level what is IAM.&#xA;Links to original docs: This is a new doc. Bits of this doc can come from:&#xA;Identity and Access Management (IAM) overview: https://developer.okta.com/docs/concepts/iam-overview/ Why is this here?: See (ID: 1)&#xA;Structure type: Concept&#xA;Content type: Conceptual overview Conceptual overviews present a high-level introduction to a topic.</description>
+    <description>Identity Access Management (IAM) basics Click here to give feedback about this page&#xA;About This Page Is this a new page?: Completely new doc with new content&#xA;Target personas: New IAM Developers, Developers new to Okta&#xA;Description: Explains Identity Access Management at a high level&#xA;Links to original docs:&#xA;Identity and Access Management (IAM) overview: https://developer.okta.com/docs/concepts/iam-overview/&#xA;Why is this here?:&#xA;Respondents with IAM experience level lower that 5 say that they rarely come to the site.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/learn/identity-access-management-iam/index.xml" rel="self" type="application/rss+xml" />
@@ -12,7 +12,7 @@
       <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/identity-access-management-iam/user-and-application-sessions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/learn/identity-access-management-iam/user-and-application-sessions/</guid>
-      <description>User and application sessions Click here to give feedback about this page&#xA;Content Notes Target personas: New IAM Developers,Developers new to Okta&#xA;Description: Explains at a high level what is IAM.&#xA;Links to original docs: This is a new doc. Bits of this doc can come from:&#xA;Session management (https://developer.okta.com/docs/concepts/session/ ) - the definitions of IdP and Application session Why is this here?: See (ID: 1)&#xA;Structure type: Concept&#xA;Content type: Conceptual overview Conceptual overviews present a high-level introduction to a topic.</description>
+      <description>User and application sessions Click here to give feedback about this page&#xA;About This Page Is this a new page?: Completely new doc with new content&#xA;Target personas: New IAM Developers, Developers new to Okta&#xA;Description: Introduces the core concepts of user, application, and IdP sessions.&#xA;Links to original docs:&#xA;Session management (the definitions of IdP and Application session): https://developer.okta.com/docs/concepts/session&#xA;Page type: Concept&#xA;Content type: Conceptual overview&#xA;Conceptual overviews present a high-level introduction to a topic.</description>
     </item>
   </channel>
 </rss>

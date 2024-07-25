@@ -3,7 +3,7 @@
   <channel>
     <title>Add a third-party risk provider :: DevDocs Navigation Menu Test</title>
     <link>https://danielmaharry-okta.github.io:1313/iaproto/build/safeguard-communications/add-a-third-party-risk-provider/</link>
-    <description>Add a third-party risk provider Click here to give feedback about this page&#xA;Content Notes Target personas: WIC App Developer,Experienced IAM developer&#xA;Description: This document shows how to configure a third party provider using the API and create a simple event log. I think we could make this use case more robust and describe a better more detailed use case.&#xA;This risk engine described in this doc can be useful in both secure and system log.</description>
+    <description>Add a third-party risk provider Click here to give feedback about this page&#xA;About This Page Is this a new page?: Existing doc: changes are needed to update the doc and to fit the new IA&#xA;Target personas: WIC App Developer, Experienced IAM developer&#xA;Description: This document shows how to configure a third-party provider using the API and create a simple event log. I think we could make this use case more robust and describe a more detailed use case.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/build/safeguard-communications/add-a-third-party-risk-provider/index.xml" rel="self" type="application/rss+xml" />

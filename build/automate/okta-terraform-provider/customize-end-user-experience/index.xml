@@ -3,7 +3,7 @@
   <channel>
     <title>Customize end-user experience :: DevDocs Navigation Menu Test</title>
     <link>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/okta-terraform-provider/customize-end-user-experience/</link>
-    <description>Customize end-user experience Click here to give feedback about this page&#xA;Content Notes Target personas: WIC App Developer,Experienced IAM developer&#xA;Changes to be made: Update title&#xA;Links to original docs: - Customize the end-user experience with Terraform: https://developer.okta.com/docs/guides/terraform-manage-end-user-experience/main/&#xA;Structure type: Task&#xA;Content type: How-to without code A “How-to without code” illustrates how to perform a specific task that does not rely on writing code. They tend to walk the reader through administrative tasks but not exclusively.</description>
+    <description>Customize end-user experience Click here to give feedback about this page&#xA;About This Page Is this a new page?: Existing doc: changes are needed to update the doc and to fit the new IA&#xA;Target personas: WIC App Developer, Experienced IAM developer&#xA;Changes to be made: Update title&#xA;Links to original docs:&#xA;Customize the end-user experience with Terraform: https://developer.okta.com/docs/guides/terraform-manage-end-user-experience/main/ Page type: Task&#xA;Content type: How-to without code&#xA;A “How-to without code” illustrates how to perform a specific task that does not rely on writing code.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/build/automate/okta-terraform-provider/customize-end-user-experience/index.xml" rel="self" type="application/rss+xml" />

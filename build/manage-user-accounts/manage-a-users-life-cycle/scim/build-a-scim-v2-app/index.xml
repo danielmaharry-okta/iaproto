@@ -3,7 +3,7 @@
   <channel>
     <title>Build a SCIM v2 app :: DevDocs Navigation Menu Test</title>
     <link>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-accounts/manage-a-users-life-cycle/scim/build-a-scim-v2-app/</link>
-    <description>Build a SCIM v2 app Click here to give feedback about this page&#xA;Content Notes Target personas: WIC App Developer,Experienced IAM developer&#xA;Changes to be made: - Update this doc to be more of a clear “How-to” on how to create a v2 SCIM app with all the required endpoints&#xA;Pull content from the existing guide that would make a how-to for developers. All reference-style content belongs in the reference section.</description>
+    <description>Build a SCIM v2 app Click here to give feedback about this page&#xA;About This Page Is this a new page?: Existing doc: changes are needed to update the doc and to fit the new IA&#xA;Target personas: WIC App Developer, Experienced IAM developer&#xA;Changes to be made:&#xA;Update this doc to be more of a clear “How-to” on how to create a v2 SCIM app with all the required endpoints Pull content from the existing guide that would make a how-to for developers.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-accounts/manage-a-users-life-cycle/scim/build-a-scim-v2-app/index.xml" rel="self" type="application/rss+xml" />

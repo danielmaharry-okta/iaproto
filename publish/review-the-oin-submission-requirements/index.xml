@@ -3,7 +3,7 @@
   <channel>
     <title>Review the OIN submission requirements :: DevDocs Navigation Menu Test</title>
     <link>https://danielmaharry-okta.github.io:1313/iaproto/publish/review-the-oin-submission-requirements/</link>
-    <description>Review the OIN submission requirements Click here to give feedback about this page&#xA;Content Notes Target personas: WIC App Developer,Experienced IAM developer&#xA;Description: Basically the existing OIN pre-reqs page minue the OIN limitations page which is being split out into its own page - “OIN Restrictions”&#xA;Changes to be made: Update with any UL or SCIm Entitlements pre-reqs if there are any&#xA;Links to original docs: - OIN submission requirements: https://developer.</description>
+    <description>Review the OIN submission requirements Click here to give feedback about this page&#xA;About This Page Is this a new page?: Existing doc: no changes needed to fit the new IA&#xA;Target personas: WIC App Developer, Experienced IAM developer&#xA;Description: Basically, the existing OIN prereqs page minus the OIN limitations page, which is being split out into its own page - “Review the OIN Restrictions”&#xA;Changes to be made: Update with any UL or SCIM Entitlements prereqs if there are any.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/publish/review-the-oin-submission-requirements/index.xml" rel="self" type="application/rss+xml" />

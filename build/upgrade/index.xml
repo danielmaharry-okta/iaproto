@@ -3,7 +3,7 @@
   <channel>
     <title>Upgrade :: DevDocs Navigation Menu Test</title>
     <link>https://danielmaharry-okta.github.io:1313/iaproto/build/upgrade/</link>
-    <description>Upgrade Click here to give feedback about this page&#xA;Content Notes Target personas: WIC App Developer,Experienced IAM developer&#xA;Changes to be made: Changes have been made to this section but they are minimized for now because:&#xA;Lack of user research on specifically how customers are working with the current upgrade docs The docs are already isolated into one section on the site and seem fairly organized, although, they would need to be analyzed from a user journey perspective in the future An educated guess would be that Upgrade docs are not used as much by customers when compared to other docs such as Authentication (We need to confirm this) Links to original docs: If a dynamic index can be customized, add a link to a doc to this ID: 310</description>
+    <description>Upgrade Click here to give feedback about this page&#xA;About This Page Is this a new page?: Completely new doc with new content&#xA;Target personas: WIC App Developer, Experienced IAM developer&#xA;Changes to be made: Changes have been made to this section but they are minimized for now because:&#xA;Lack of user research on specifically how customers are working with the current upgrade docs The docs are already isolated into one section on the site and seem fairly organized, although, they would need to be analyzed from a user journey perspective in the future An educated guess would be that Upgrade docs are not used as much by customers when compared to other docs such as Authentication (We need to confirm this) Links to original docs:</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/build/upgrade/index.xml" rel="self" type="application/rss+xml" />
@@ -12,14 +12,14 @@
       <link>https://danielmaharry-okta.github.io:1313/iaproto/build/upgrade/upgrade-to-the-identity-engine/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/upgrade/upgrade-to-the-identity-engine/</guid>
-      <description>Upgrade to the Identity Engine Click here to give feedback about this page&#xA;Content Notes Target personas: WIC App Developer,Experienced IAM developer&#xA;Changes to be made: Update title&#xA;Links to original docs: - Identity Engine upgrade overview: https://developer.okta.com/docs/guides/oie-upgrade-overview/main/&#xA;Structure type: Concept&#xA;Content type: Explanation Explanations present a more detailed dive into a single topic compared to Conceptual Overviews. They aim to clarify specific elements of the technology, offering developers practical insights or in-depth clarification on particular points of interest.</description>
+      <description>Upgrade to the Identity Engine Click here to give feedback about this page&#xA;About This Page Is this a new page?: Existing doc: changes are needed to update the doc and to fit the new IA&#xA;Target personas: WIC App Developer, Experienced IAM developer&#xA;Changes to be made: Update title&#xA;Links to original docs:&#xA;Identity Engine upgrade overview: https://developer.okta.com/docs/guides/oie-upgrade-overview/main/ Page type: Concept&#xA;Content type: Explanation&#xA;Explanations present a more detailed dive into a single topic compared to Conceptual Overviews.</description>
     </item>
     <item>
       <title>Upgrade SAML apps to SHA256</title>
       <link>https://danielmaharry-okta.github.io:1313/iaproto/build/upgrade/upgrade-saml-apps-to-sha256/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/upgrade/upgrade-saml-apps-to-sha256/</guid>
-      <description>Upgrade SAML apps to SHA256 Click here to give feedback about this page&#xA;Content Notes Target personas: WIC App Developer,Experienced IAM developer&#xA;Links to original docs: - Upgrade SAML apps to SHA256: https://developer.okta.com/docs/guides/updating-saml-cert/main/&#xA;Structure type: Task&#xA;Content type: How-to without code A “How-to without code” illustrates how to perform a specific task that does not rely on writing code. They tend to walk the reader through administrative tasks but not exclusively.</description>
+      <description>Upgrade SAML apps to SHA256 Click here to give feedback about this page&#xA;About This Page Is this a new page?: Existing doc: no changes needed to fit the new IA&#xA;Target personas: WIC App Developer, Experienced IAM developer&#xA;Links to original docs:&#xA;Upgrade SAML apps to SHA256: https://developer.okta.com/docs/guides/updating-saml-cert/main/ Page type: Task&#xA;Content type: How-to without code&#xA;A “How-to without code” illustrates how to perform a specific task that does not rely on writing code.</description>
     </item>
   </channel>
 </rss>

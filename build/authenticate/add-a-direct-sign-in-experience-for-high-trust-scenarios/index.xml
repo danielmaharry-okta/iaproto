@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Add a direct sign-in experience for high trust scenarios :: DevDocs Navigation Menu Test</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-direct-sign-in-experience-for-high-trust-scenarios/</link>
+    <description>Add a sign-in experience directly with the Direct Authentication API Click here to give feedback about this page&#xA;Section Notes This section contains all the Direct Auth integration guides. Each version of the original guide has been pulled into its own guide in the new IA. This was done for several reasons:&#xA;It improves search results from Google It makes tagging individual guides easier and makes it easier to discover the right version of the guide in both the navbar and via internal search.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-direct-sign-in-experience-for-high-trust-scenarios/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Add a passwordless sign-in with Okta Verify</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-direct-sign-in-experience-for-high-trust-scenarios/add-a-passwordless-sign-in-with-okta-verify/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-direct-sign-in-experience-for-high-trust-scenarios/add-a-passwordless-sign-in-with-okta-verify/</guid>
+      <description>Add a passwordless sign-in with Okta Verify Click here to give feedback about this page&#xA;About This Page Is this a new page?: Existing doc: changes are needed to update the doc and to fit the new IA&#xA;Target personas: WIC App Developer, Experienced IAM developer&#xA;Changes to be made: Update title&#xA;Links to original docs:&#xA;Configure Direct Authentication grant types: https://developer.okta.com/docs/guides/configure-direct-auth-grants/coobov/main/ Page type: Task&#xA;Content type: How-to with code</description>
+    </item>
+    <item>
+      <title>Add a passwordless sign-in with OTP</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-direct-sign-in-experience-for-high-trust-scenarios/add-a-passwordless-sign-in-with-otp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-direct-sign-in-experience-for-high-trust-scenarios/add-a-passwordless-sign-in-with-otp/</guid>
+      <description>Add a passwordless sign-in with OTP Click here to give feedback about this page&#xA;About This Page Is this a new page?: Existing doc: changes are needed to update the doc and to fit the new IA&#xA;Target personas: WIC App Developer, Experienced IAM developer&#xA;Changes to be made: Update title&#xA;Links to original docs:&#xA;Configure Direct Authentication grant types: https://developer.okta.com/docs/guides/configure-direct-auth-grants/aotp/main/ Page type: Task&#xA;Content type: How-to with code&#xA;A “How-to with code” illustrates how to perform a specific task that involves writing code.</description>
+    </item>
+    <item>
+      <title>Add a passwordless sign-in with the Phone authenticator</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-direct-sign-in-experience-for-high-trust-scenarios/add-a-passwordless-sign-in-with-the-phone-authenticator/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-direct-sign-in-experience-for-high-trust-scenarios/add-a-passwordless-sign-in-with-the-phone-authenticator/</guid>
+      <description>Add a passwordless sign-in with the Phone authenticator Click here to give feedback about this page&#xA;About This Page Is this a new page?: Existing doc: changes are needed to update the doc and to fit the new IA&#xA;Target personas: WIC App Developer, Experienced IAM developer&#xA;Changes to be made: Update title&#xA;Links to original docs:&#xA;Configure Direct Authentication grant types: https://developer.okta.com/docs/guides/configure-direct-auth-grants/eoobsv/main/ Page type: Task&#xA;Content type: How-to with code</description>
+    </item>
+    <item>
+      <title>Add a sign-in with Okta Verify</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-direct-sign-in-experience-for-high-trust-scenarios/add-a-sign-in-with-okta-verify/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-direct-sign-in-experience-for-high-trust-scenarios/add-a-sign-in-with-okta-verify/</guid>
+      <description>Add a sign-in with Okta Verify Click here to give feedback about this page&#xA;About This Page Is this a new page?: Existing doc: changes are needed to update the doc and to fit the new IA&#xA;Target personas: WIC App Developer, Experienced IAM developer&#xA;Changes to be made: Update title&#xA;Links to original docs:&#xA;Configure Direct Authentication grant types: https://developer.okta.com/docs/guides/configure-direct-auth-grants/dmfaoobov/main/ Page type: Task&#xA;Content type: How-to with code&#xA;A “How-to with code” illustrates how to perform a specific task that involves writing code.</description>
+    </item>
+    <item>
+      <title>Add a sign-in with OTP</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-direct-sign-in-experience-for-high-trust-scenarios/add-a-sign-in-with-otp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-direct-sign-in-experience-for-high-trust-scenarios/add-a-sign-in-with-otp/</guid>
+      <description>Add a sign-in with OTP Click here to give feedback about this page&#xA;About This Page Is this a new page?: Existing doc: changes are needed to update the doc and to fit the new IA&#xA;Target personas: WIC App Developer, Experienced IAM developer&#xA;Changes to be made: Update title&#xA;Links to original docs:&#xA;Configure Direct Authentication grant types: https://developer.okta.com/docs/guides/configure-direct-auth-grants/bmfaotp/main/ Page type: Task&#xA;Content type: How-to with code&#xA;A “How-to with code” illustrates how to perform a specific task that involves writing code.</description>
+    </item>
+    <item>
+      <title>Add a sign-in with the Phone authenticator</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-direct-sign-in-experience-for-high-trust-scenarios/add-a-sign-in-with-the-phone-authenticator/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-direct-sign-in-experience-for-high-trust-scenarios/add-a-sign-in-with-the-phone-authenticator/</guid>
+      <description>Add a sign-in with the Phone authenticator Click here to give feedback about this page&#xA;About This Page Is this a new page?: Existing doc: changes are needed to update the doc and to fit the new IA&#xA;Target personas: WIC App Developer, Experienced IAM developer&#xA;Changes to be made: Update title&#xA;Links to original docs:&#xA;Configure Direct Authentication grant types: https://developer.okta.com/docs/guides/configure-direct-auth-grants/fmfaoobsv/main/ Page type: Task&#xA;Content type: How-to with code</description>
+    </item>
+  </channel>
+</rss>

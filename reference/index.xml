@@ -3,7 +3,7 @@
   <channel>
     <title>Reference :: DevDocs Navigation Menu Test</title>
     <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/</link>
-    <description>Reference Click here to give feedback about this page&#xA;Content Notes Target personas: WIC App Developer,Experienced IAM developer&#xA;Structure type: Navigation&#xA;Content type: Guide Hub A guide hub is the main navigation page for a section, such as learn, plan, or build. It begins with “Who this section is for?” and how the user may have gotten to this page, i.e., where they are in their user journey at this point.</description>
+    <description>Reference Click here to give feedback about this page&#xA;About This Page Is this a new page?: Completely new doc with new content&#xA;Target personas: WIC App Developer, Experienced IAM developer&#xA;Page type: Navigation&#xA;Content type: Guide Hub&#xA;A guide hub is the main navigation page for a section, such as learn, plan, or build. It begins with “Who this section is for?” and how the user may have gotten to this page, i.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/reference/index.xml" rel="self" type="application/rss+xml" />
@@ -12,49 +12,49 @@
       <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/</guid>
-      <description>The Okta APIs Click here to give feedback about this page&#xA;Content Notes Target personas: WIC App Developer,Experienced IAM developer&#xA;Description: This is a short summary redirect pointing the developer to the new Redocly site where all API related material is located&#xA;Why is this here?: - Internal workshop session: Session 1 - Team 2 chose the Okta APIs group.&#xA;Internal workshop session: Session 2 - Team 1 chose the APIs group.</description>
+      <description>The Okta APIs Click here to give feedback about this page&#xA;About This Page Is this a new page?: Completely new doc with new content&#xA;Target personas: WIC App Developer, Experienced IAM developer&#xA;Description: This is a short summary redirect pointing the developer to the new Redocly site where all API related material is located&#xA;Why is this here?:&#xA;Internal workshop session: Session 1 - Team 2 chose the Okta APIs group.</description>
     </item>
     <item>
       <title>SDKs</title>
       <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/sdks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/sdks/</guid>
-      <description>SDKs Click here to give feedback about this page&#xA;Group Notes Group description: Describe and list all supported SDKs provided by Okta. Does not go into specific use cases.&#xA;Candidate for a separate workshop.&#xA;Content Notes Target personas: WIC App Developer,Experienced IAM developer&#xA;Changes to be made: - See Existing content link for more details.&#xA;We might need a new content type for this style of doc cc @Dan Maharry @Anne Juan Links to original docs: See this doc for the overall structure and content: New Code | SDK Libraries Page Version 2: https://docs.</description>
+      <description>SDKs Click here to give feedback about this page&#xA;About This Page Is this a new page?: IA defined in a separate document&#xA;Target personas: WIC App Developer, Experienced IAM developer&#xA;Description: This page describes and lists all supported SDKs supported by Okta. It does not go into specific use cases&#xA;Links to original docs:&#xA;See this doc for the overall structure and content: New Code | SDK Libraries Page Version 2: https://docs.</description>
     </item>
     <item>
       <title>Inline Hooks</title>
       <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/inline-hooks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/inline-hooks/</guid>
-      <description>Okta Inline Hooks Click here to give feedback about this page&#xA;Content Notes Target personas: WIC App Developer,Experienced IAM developer&#xA;Description: Will be hosted in Redocly. This is the overview of the section containing sample JSON content to and from each type of inline hook.&#xA;Changes to be made: This document is currently dynamically generated, but it should be a written piece fo content that pulls in all the common introduction text from the reference documents underneath it, so those docs can just be reference material rather than having to be an introduction to hooks and then a specific type of hook first.</description>
+      <description>Okta Inline Hooks Click here to give feedback about this page&#xA;About This Page Is this a new page?: Existing doc: changes are needed to update the doc and to fit the new IA&#xA;Target personas: WIC App Developer, Experienced IAM developer&#xA;Description: This is a short summary redirect pointing the developer to the new Redocly site where all Hooks API related material is located&#xA;Links to original docs:&#xA;Original doc: https://developer.</description>
     </item>
     <item>
       <title>Velocity template language</title>
       <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/velocity-template-language/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/velocity-template-language/</guid>
-      <description>Velocity template language Click here to give feedback about this page&#xA;Content Notes Target personas: WIC App Developer,Experienced IAM developer&#xA;Links to original docs: Doc content is pulled from several docs:&#xA;Customize email notifications: https://developer.okta.com/docs/guides/custom-email/main/ Velocity template language (help docs): https://help.okta.com/en-us/content/topics/settings/velocity-variables.htm Structure type: Reference&#xA;Content type: Lookup lists and tables A series of tables or lists where users can look up facts or definitions, interspersed with short explanatory texts that give those tables the correct context.</description>
+      <description>Velocity template language Click here to give feedback about this page&#xA;About This Page Is this a new page?: Completely new doc with new content&#xA;Target personas: WIC App Developer, Experienced IAM developer&#xA;Links to original docs:&#xA;Doc content is pulled from several docs:&#xA;Customize email notifications: https://developer.okta.com/docs/guides/custom-email/main/ Velocity template language (help docs): https://help.okta.com/en-us/content/topics/settings/velocity-variables.htm Page type: Reference&#xA;Content type: Lookup lists and tables&#xA;A series of tables or lists where users can look up facts or definitions, interspersed with short explanatory texts that give those tables the correct context.</description>
     </item>
     <item>
       <title>Okta expression language</title>
       <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/okta-expression-language/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/okta-expression-language/</guid>
-      <description>Okta expression language Click here to give feedback about this page&#xA;Group Notes Group description: At the moment, there are two documents. The main one covers the “legacy” Okta expression language and the secondary one covers it in Identity Engine. Suggest that these documents are role-reversed so that the main doc covers all the support for IDX and the secondary doc covers the diffs between it and Classic Engine.&#xA;Content Notes Target personas: WIC App Developer,Experienced IAM developer</description>
+      <description>Okta expression language Click here to give feedback about this page&#xA;About This Page Is this a new page?: Existing doc: changes are needed to update the doc and to fit the new IA&#xA;Target personas: WIC App Developer, Experienced IAM developer&#xA;Links to original docs:&#xA;“Legacy” Expression Language : https://developer.okta.com/docs/reference/okta-expression-language/ (intro, popular expressions, unsupported features) Expression Language in IDX : https://developer.okta.com/docs/reference/okta-expression-language-in-identity-engine/ Page type: Reference&#xA;Content type: Lookup lists and tables</description>
     </item>
     <item>
       <title>Roles, resources, and permissions</title>
       <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/roles-resources-and-permissions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/roles-resources-and-permissions/</guid>
-      <description>Manage access to Org objects with role assignments Click here to give feedback about this page&#xA;Content Notes Target personas: WIC App Developer,Experienced IAM developer&#xA;Links to original docs: Make this guide into a reference guide:&#xA;Role assignment: https://developer.okta.com/docs/concepts/role-assignment/ Structure type: Task&#xA;Content type: How-to with code A “How-to with code” illustrates how to perform a specific task that involves writing code. The focus is geared towards developers integrating an SDK, API, or another library into their applications.</description>
+      <description>Manage access to Org objects with role assignments Click here to give feedback about this page&#xA;About This Page Is this a new page?: Existing doc: changes are needed to update the doc and to fit the new IA&#xA;Target personas: WIC App Developer, Experienced IAM developer&#xA;Links to original docs:&#xA;Make this guide into a reference guide:&#xA;Role assignment: https://developer.okta.com/docs/concepts/role-assignment/ Page type: Task&#xA;Content type: How-to with code&#xA;A “How-to with code” illustrates how to perform a specific task that involves writing code.</description>
     </item>
     <item>
       <title>Glossary</title>
       <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/glossary/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/glossary/</guid>
-      <description>Glossary of terms Click here to give feedback about this page&#xA;Content Notes Target personas: WIC App Developer,Experienced IAM developer&#xA;Structure type: Reference&#xA;Content type: Glossary A Glossary is a list of often difficult or specialized words and acronyms with their definitions, in this case specific to IAM and Okta topics and products.</description>
+      <description>Glossary of terms Click here to give feedback about this page&#xA;About This Page Is this a new page?: Completely new doc with new content&#xA;Target personas: WIC App Developer, Experienced IAM developer&#xA;Page type: Reference&#xA;Content type: Glossary&#xA;A Glossary is a list of often difficult or specialized words and acronyms with their definitions, in this case specific to IAM and Okta topics and products.</description>
     </item>
   </channel>
 </rss>

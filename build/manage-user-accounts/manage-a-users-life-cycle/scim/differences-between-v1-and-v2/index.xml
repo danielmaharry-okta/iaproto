@@ -3,7 +3,7 @@
   <channel>
     <title>Differences between v1 and v2 :: DevDocs Navigation Menu Test</title>
     <link>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-accounts/manage-a-users-life-cycle/scim/differences-between-v1-and-v2/</link>
-    <description>Differences between v1 and v2 Click here to give feedback about this page&#xA;Group Notes Group description: Overview of a SCIM application&#xA;Content Notes Target personas: WIC App Developer,Experienced IAM developer&#xA;Changes to be made: Title change and proof read content&#xA;Links to original docs: - SCIM Protocol: https://developer.okta.com/docs/reference/scim/&#xA;Why is this here?: - In the Oktane GroupIt user research “SCIM Application was placed under the most in two groups: - Manage Users - User Lifecycle Management</description>
+    <description>Differences between v1 and v2 Click here to give feedback about this page&#xA;About This Page Is this a new page?: Existing doc: changes are needed to update the doc and to fit the new IA&#xA;Target personas: WIC App Developer, Experienced IAM developer&#xA;Description: Overview of a SCIM application&#xA;Changes to be made: Title change and proof read content&#xA;Links to original docs:&#xA;SCIM Protocol: https://developer.okta.com/docs/reference/scim/ Why is this here?</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-accounts/manage-a-users-life-cycle/scim/differences-between-v1-and-v2/index.xml" rel="self" type="application/rss+xml" />

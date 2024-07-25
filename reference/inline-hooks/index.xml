@@ -3,51 +3,9 @@
   <channel>
     <title>Inline Hooks :: DevDocs Navigation Menu Test</title>
     <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/inline-hooks/</link>
-    <description>Okta Inline Hooks Click here to give feedback about this page&#xA;Content Notes Target personas: WIC App Developer,Experienced IAM developer&#xA;Description: Will be hosted in Redocly. This is the overview of the section containing sample JSON content to and from each type of inline hook.&#xA;Changes to be made: This document is currently dynamically generated, but it should be a written piece fo content that pulls in all the common introduction text from the reference documents underneath it, so those docs can just be reference material rather than having to be an introduction to hooks and then a specific type of hook first.</description>
+    <description>Okta Inline Hooks Click here to give feedback about this page&#xA;About This Page Is this a new page?: Existing doc: changes are needed to update the doc and to fit the new IA&#xA;Target personas: WIC App Developer, Experienced IAM developer&#xA;Description: This is a short summary redirect pointing the developer to the new Redocly site where all Hooks API related material is located&#xA;Links to original docs:&#xA;Original doc: https://developer.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/reference/inline-hooks/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Password Import Hook</title>
-      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/inline-hooks/password-import-hook/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/inline-hooks/password-import-hook/</guid>
-      <description>Password Import Hook Click here to give feedback about this page&#xA;Content Notes Target personas: WIC App Developer,Experienced IAM developer&#xA;Description: Will be hosted in Redocly. This is a reference doc describing sample payloads and the JSON objects used in the Password Import Hook.&#xA;Changes to be made: There is some non-reference material at the end of the doc that should be included in the Build section.&#xA;Note: It is possible this is ported into some Redocly content at some point</description>
-    </item>
-    <item>
-      <title>Registration Hook</title>
-      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/inline-hooks/registration-hook/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/inline-hooks/registration-hook/</guid>
-      <description>Registration Inline Hook Click here to give feedback about this page&#xA;Content Notes Target personas: WIC App Developer,Experienced IAM developer&#xA;Description: Will be hosted in Redocly. This is a reference doc describing sample payloads and the JSON objects used in the Registration Hook.&#xA;Changes to be made: Note: It is possible this is ported into some Redocly content at some point&#xA;Links to original docs: https://developer.okta.com/docs/reference/registration-hook/&#xA;Structure type: Reference&#xA;Content type: Lookup lists and tables A series of tables or lists where users can look up facts or definitions, interspersed with short explanatory texts that give those tables the correct context.</description>
-    </item>
-    <item>
-      <title>SAML Assertion Hook</title>
-      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/inline-hooks/saml-assertion-hook/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/inline-hooks/saml-assertion-hook/</guid>
-      <description>SAML Assertion Hook Click here to give feedback about this page&#xA;Content Notes Target personas: WIC App Developer,Experienced IAM developer&#xA;Description: Will be hosted in Redocly. This is a reference doc describing sample payloads and the JSON objects used in the SAML Hook.&#xA;Changes to be made: There is some non-reference material at the end of the doc that should be included in the Build section.&#xA;Note: It is also possible this is ported into some Redocly content at some point</description>
-    </item>
-    <item>
-      <title>Telephony Hook</title>
-      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/inline-hooks/telephony-hook/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/inline-hooks/telephony-hook/</guid>
-      <description>Telephony Hook Click here to give feedback about this page&#xA;Content Notes Target personas: WIC App Developer,Experienced IAM developer&#xA;Description: Will be hosted in Redocly. This is a reference doc describing sample payloads and the JSON objects used in the Telephony Hook.&#xA;Changes to be made: Possibly the troubleshooting section at the end of the doc should be included in the Build section.&#xA;Does this need to be updated at all now that Okta doesn’t function as a telephony provider for authentication by SMS or Voice call?</description>
-    </item>
-    <item>
-      <title>Token Hook</title>
-      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/inline-hooks/token-hook/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/inline-hooks/token-hook/</guid>
-      <description>Token Hook Click here to give feedback about this page&#xA;Content Notes Target personas: WIC App Developer,Experienced IAM developer&#xA;Description: Will be hosted in Redocly. This is a reference doc describing sample payloads and the JSON objects used in the Token Hook.&#xA;Changes to be made: There is some non-reference material at the end of the doc that should be included in the Build section.&#xA;Note: It is also possible this is ported into some Redocly content at some point</description>
-    </item>
-    <item>
-      <title>User Import Hook</title>
-      <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/inline-hooks/user-import-hook/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/inline-hooks/user-import-hook/</guid>
-      <description>User Import Hook Click here to give feedback about this page&#xA;Content Notes Target personas: WIC App Developer,Experienced IAM developer&#xA;Description: Will be hosted in Redocly. This is a reference doc describing sample payloads and the JSON objects used in the User Import Hook.&#xA;Changes to be made: There is some non-reference material at the end of the doc that should be included in the Build section.&#xA;Note: It is also possible this is ported into some Redocly content at some point</description>
-    </item>
   </channel>
 </rss>

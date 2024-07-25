@@ -3,7 +3,7 @@
   <channel>
     <title>Allow user to update their profile using the MyAccountAPI :: DevDocs Navigation Menu Test</title>
     <link>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-accounts/user-driven-account-management/allow-user-to-update-their-profile-using-the-myaccountapi/</link>
-    <description>Allow user to update their profile using the MyAccountAPI Click here to give feedback about this page&#xA;Group Notes Group description: Title change: Whats the “How do I” question what the developer is asking? They are attempting to solve something. It’s a task. It’s a how do I? Anything that will take them through something.&#xA;This doc has API Reference content that needs to be moved&#xA;Content Notes Target personas: WIC App Developer,Experienced IAM developer</description>
+    <description>Allow user to update their profile using the MyAccountAPI Click here to give feedback about this page&#xA;About This Page Is this a new page?: Existing doc: changes are needed to update the doc and to fit the new IA&#xA;Target personas: WIC App Developer, Experienced IAM developer&#xA;Changes to be made: Title change: What’s the “How do I” question that the developer is asking? They are attempting to solve something.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-accounts/user-driven-account-management/allow-user-to-update-their-profile-using-the-myaccountapi/index.xml" rel="self" type="application/rss+xml" />

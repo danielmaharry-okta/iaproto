@@ -3,7 +3,7 @@
   <channel>
     <title>Internationalize the widget :: DevDocs Navigation Menu Test</title>
     <link>https://danielmaharry-okta.github.io:1313/iaproto/build/upgrade/upgrade-to-the-identity-engine/upgrade-the-sign-in-widget/internationalize-the-widget/</link>
-    <description>Internationalize the widget Click here to give feedback about this page&#xA;Content Notes Target personas: WIC App Developer,Experienced IAM developer&#xA;Changes to be made: Update title&#xA;Links to original docs: - Updates to widget i18n properties: https://developer.okta.com/docs/guides/oie-upgrade-sign-in-widget-i18n/main/&#xA;Structure type: Task&#xA;Content type: How-to without code A “How-to without code” illustrates how to perform a specific task that does not rely on writing code. They tend to walk the reader through administrative tasks but not exclusively.</description>
+    <description>Internationalize the widget Click here to give feedback about this page&#xA;About This Page Is this a new page?: Existing doc: changes are needed to update the doc and to fit the new IA&#xA;Target personas: WIC App Developer, Experienced IAM developer&#xA;Changes to be made: Update title&#xA;Links to original docs:&#xA;Updates to widget i18n properties: https://developer.okta.com/docs/guides/oie-upgrade-sign-in-widget-i18n/main/ Page type: Task&#xA;Content type: How-to without code&#xA;A “How-to without code” illustrates how to perform a specific task that does not rely on writing code.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/build/upgrade/upgrade-to-the-identity-engine/upgrade-the-sign-in-widget/internationalize-the-widget/index.xml" rel="self" type="application/rss+xml" />

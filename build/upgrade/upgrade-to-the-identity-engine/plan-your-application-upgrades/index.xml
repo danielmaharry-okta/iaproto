@@ -3,7 +3,7 @@
   <channel>
     <title>Plan your application upgrades :: DevDocs Navigation Menu Test</title>
     <link>https://danielmaharry-okta.github.io:1313/iaproto/build/upgrade/upgrade-to-the-identity-engine/plan-your-application-upgrades/</link>
-    <description>Plan your application upgrades Click here to give feedback about this page&#xA;Group Notes Group description: Upgrade to OIE&#xA;Removed “embedded” from title because redirect is also discussed in doc&#xA;Content Notes Target personas: WIC App Developer,Experienced IAM developer&#xA;Changes to be made: Update title&#xA;Links to original docs: - Plan embedded auth app upgrades: https://developer.okta.com/docs/guides/oie-upgrade-plan-embedded-upgrades/main/&#xA;Structure type: Task&#xA;Content type: How-to without code A “How-to without code” illustrates how to perform a specific task that does not rely on writing code.</description>
+    <description>Plan your application upgrades Click here to give feedback about this page&#xA;About This Page Is this a new page?: Existing doc: changes are needed to update the doc and to fit the new IA&#xA;Target personas: WIC App Developer, Experienced IAM developer&#xA;Description: Upgrade to OIE&#xA;Removed “embedded” from title because redirect is also discussed in doc&#xA;Changes to be made: Update title&#xA;Links to original docs:&#xA;Plan embedded auth app upgrades: https://developer.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/build/upgrade/upgrade-to-the-identity-engine/plan-your-application-upgrades/index.xml" rel="self" type="application/rss+xml" />

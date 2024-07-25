@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sign in with Facebook :: DevDocs Navigation Menu Test</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/use-an-alternate-sdk-based-sign-in-solution/use-the-embedded-sign-in-widget/sign-in-with-facebook/</link>
+    <description>Sign in with Facebook Click here to give feedback about this page&#xA;About This Page Is this a new page?: Existing doc: changes are needed to update the doc and to fit the new IA&#xA;Target personas: WIC App Developer, Experienced IAM developer&#xA;Changes to be made:&#xA;Update title Since there is only one use case it doesn’t make sense to move just this one guide to the “federate identities” group Links to original docs:</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/use-an-alternate-sdk-based-sign-in-solution/use-the-embedded-sign-in-widget/sign-in-with-facebook/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

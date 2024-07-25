@@ -3,7 +3,7 @@
   <channel>
     <title>Manage user access :: DevDocs Navigation Menu Test</title>
     <link>https://danielmaharry-okta.github.io:1313/iaproto/build/automate/okta-terraform-provider/manage-user-access/</link>
-    <description>Manage user access Click here to give feedback about this page&#xA;Group Notes Group description: - The current preference is to keep manage user access using Terraform under Terraform rather than under “Manage users”. The thought was at least for now keep the Terraform docs together and split up different ways to manage user access.&#xA;Content Notes Target personas: WIC App Developer,Experienced IAM developer&#xA;Changes to be made: Update title</description>
+    <description>Manage user access Click here to give feedback about this page&#xA;About This Page Is this a new page?: Existing doc: changes are needed to update the doc and to fit the new IA&#xA;Target personas: WIC App Developer, Experienced IAM developer&#xA;Changes to be made: Update title&#xA;Links to original docs:&#xA;Manage user access with Terraform: https://developer.okta.com/docs/guides/terraform-manage-user-access/main/ Page type: Task&#xA;Content type: How-to without code&#xA;A “How-to without code” illustrates how to perform a specific task that does not rely on writing code.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/build/automate/okta-terraform-provider/manage-user-access/index.xml" rel="self" type="application/rss+xml" />

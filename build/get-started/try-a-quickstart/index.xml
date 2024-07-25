@@ -3,7 +3,7 @@
   <channel>
     <title>Try a quickstart :: DevDocs Navigation Menu Test</title>
     <link>https://danielmaharry-okta.github.io:1313/iaproto/build/get-started/try-a-quickstart/</link>
-    <description>Try a quickstart Click here to give feedback about this page&#xA;Group Notes Group description: The quick start proposal is defined here: https://docs.google.com/document/d/1P8Jt4kvVCC9zAeDsgd18RYXymuNqnHjJLvcy2VtLuis/edit#heading=h.7xq7dm2x4vk6&#xA;PUSH TO PHASE 2 PROPOSAL I’m proposing to push the “Quickstarts” into Phase 2. My reasoning is for the following reasons:&#xA;Quickstarts were heavily discussed when Okta was moving to CIC. But now that we are in WIC, I don’t think they make as much sense, considering the workforce focus.</description>
+    <description>Try a quickstart Click here to give feedback about this page&#xA;About This Page Is this a new page?: IA defined in a separate document&#xA;Target personas: WIC App Developer, Experienced IAM developer&#xA;Description: A number of quickstart guides have been proposed here: https://docs.google.com/document/d/1P8Jt4kvVCC9zAeDsgd18RYXymuNqnHjJLvcy2VtLuis/edit#heading=h.7xq7dm2x4vk6&#xA;However, it is still up for debate whether we will include them in due course.&#xA;Quickstarts were heavily discussed when Okta was moving to CIC. But now that we are in WIC, I don’t think they make as much sense, considering the workforce focus.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/build/get-started/try-a-quickstart/index.xml" rel="self" type="application/rss+xml" />

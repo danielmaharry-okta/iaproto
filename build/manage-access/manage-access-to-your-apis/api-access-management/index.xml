@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>API Access Management :: DevDocs Navigation Menu Test</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-access/manage-access-to-your-apis/api-access-management/</link>
+    <description>API Access Management Click here to give feedback about this page&#xA;About This Page Is this a new page?: Existing doc: changes are needed to update the doc and to fit the new IA&#xA;Target personas: WIC App Developer, Experienced IAM developer&#xA;Changes to be made: This document needs to be thoroughly reexamined. We need to remove content not related to API Access Management such as content that discusses Web apps and OIDC.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/build/manage-access/manage-access-to-your-apis/api-access-management/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

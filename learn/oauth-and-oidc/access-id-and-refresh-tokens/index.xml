@@ -3,7 +3,7 @@
   <channel>
     <title>Access, ID, and refresh tokens :: DevDocs Navigation Menu Test</title>
     <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/oauth-and-oidc/access-id-and-refresh-tokens/</link>
-    <description>Access, ID, and refresh tokens Click here to give feedback about this page&#xA;Content Notes Target personas: New IAM Developers,Developers new to Okta&#xA;Description: Overview of Access, Id and refresh tokens.&#xA;Links to original docs: Some content for the new doc originating from:&#xA;Refresh access tokens: https://developer.okta.com/docs/guides/refresh-tokens/main/ Possible Access and ID token content is in other docs as well Why is this here?: - Group results showed authorization server is a “no consensus” term, which may indicate term confusion and/or differing interpretations by respondents.</description>
+    <description>Access, ID, and refresh tokens Click here to give feedback about this page&#xA;About This Page Is this a new page?: New doc with new content but also pulling from existing content&#xA;Target personas: New IAM Developers, Developers new to Okta&#xA;Description: Overview of Access, Id and refresh tokens.&#xA;Links to original docs:&#xA;Some content for the new doc originating from:&#xA;Refresh access tokens: https://developer.okta.com/docs/guides/refresh-tokens/main/ Possible Access and ID token content is in other docs as well Page type: Concept</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/learn/oauth-and-oidc/access-id-and-refresh-tokens/index.xml" rel="self" type="application/rss+xml" />

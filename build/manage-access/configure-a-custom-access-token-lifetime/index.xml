@@ -3,7 +3,7 @@
   <channel>
     <title>Configure a custom access token lifetime :: DevDocs Navigation Menu Test</title>
     <link>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-access/configure-a-custom-access-token-lifetime/</link>
-    <description>Configure a custom access token lifetime Click here to give feedback about this page&#xA;Content Notes Target personas: WIC App Developer,Experienced IAM developer&#xA;Changes to be made: See existing content link for more details.&#xA;Links to original docs: - The “Configure a custom access token lifetime per client” section in Configure an access policy: https://developer.okta.com/docs/guides/configure-access-policy/main/&#xA;Structure type: Task&#xA;Content type: How-to without code A “How-to without code” illustrates how to perform a specific task that does not rely on writing code.</description>
+    <description>Configure a custom access token lifetime Click here to give feedback about this page&#xA;About This Page Is this a new page?: New doc with new content but also pulling from existing content&#xA;Target personas: WIC App Developer, Experienced IAM developer&#xA;Changes to be made: See existing content link for more details.&#xA;Links to original docs:&#xA;The “Configure a custom access token lifetime per client” section in Configure an access policy: https://developer.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/build/manage-access/configure-a-custom-access-token-lifetime/index.xml" rel="self" type="application/rss+xml" />
