@@ -3,7 +3,7 @@
   <channel>
     <title>Submit an SSO SAML integration :: DevDocs Navigation Menu Test</title>
     <link>https://danielmaharry-okta.github.io:1313/iaproto/publish/submit-your-integration-to-oin/submit-an-sso-saml-integration/</link>
-    <description>Submit a SSO SAML integration Click here to give feedback about this page&#xA;About This Page Is this a new page?: Existing doc: no changes needed to fit the new IA&#xA;Target personas: WIC App Developer, Experienced IAM developer&#xA;Description: How to submit your SSO integration (including the test process) using the OIN Wizard&#xA;Changes to be made: This is a really big how-to document. Bring in the flow diagram from “Publish an OIN integration” to the top of it to help give it some direction.</description>
+    <description>Submit a SSO SAML integration Click here to give feedback about this page&#xA;About This Page Is this a new page?: Existing doc: no changes needed to fit the new IA&#xA;Target personas: Saas Builder&#xA;Description: How to submit your SSO integration (including the test process) using the OIN Wizard&#xA;Changes to be made: This is a really big how-to document. Bring in the flow diagram from “Publish an OIN integration” to the top of it to help give it some direction.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/publish/submit-your-integration-to-oin/submit-an-sso-saml-integration/index.xml" rel="self" type="application/rss+xml" />

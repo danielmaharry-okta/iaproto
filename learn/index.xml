@@ -8,95 +8,46 @@
     <language>en-us</language>
     <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/learn/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>IAM Cheat sheet</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/iam-cheat-sheet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/learn/iam-cheat-sheet/</guid>
+      <description>IAM Cheat sheet Click here to give feedback about this page&#xA;About This Page Is this a new page?: Completely new doc with new content&#xA;Target personas: Internal application builders, Saas Builder&#xA;Description: Lists the IAM and Okta’s acronyms. Questions remain regarding:&#xA;Which acronyms should be listed? Is their a limit of how many acronyms? Top 20, etc. Why is this here?:&#xA;Requested by product management (Jeff Taylor).&#xA;Page type: Reference</description>
+    </item>
+    <item>
       <title>Workforce Identity Cloud (WIC)</title>
       <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/workforce-identity-cloud-wic/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/learn/workforce-identity-cloud-wic/</guid>
-      <description>Workforce Identity Cloud (WIC) overview Click here to give feedback about this page&#xA;About This Page Is this a new page?: Completely new doc with new content&#xA;Target personas: New IAM Developers, Developers new to Okta, Independent software vendor (ISV)&#xA;Description: Explains WIC and compares it to the CIC domain. Describes the domain of what developer.okta.com covers.&#xA;Why is this here?:&#xA;26% of respondents could not identify Workforce Identity Cloud despite “Workforce” being in the definition.</description>
+      <description>Workforce Identity Cloud (WIC) overview Click here to give feedback about this page&#xA;About This Page Is this a new page?: Completely new doc with new content&#xA;Target personas: Internal application builders, Saas Builder&#xA;Description: Explains WIC and compares it to the CIC domain. Describes the domain of what developer.okta.com covers. Draws the reader in with the problems they are trying to solve.&#xA;Why is this here?:&#xA;26% of respondents could not identify Workforce Identity Cloud despite “Workforce” being in the definition.</description>
     </item>
     <item>
-      <title>Identity Access Management (IAM)</title>
-      <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/identity-access-management-iam/</link>
+      <title>Identity Access Management (IAM) Basics</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/identity-access-management-iam-basics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://danielmaharry-okta.github.io:1313/iaproto/learn/identity-access-management-iam/</guid>
-      <description>Identity Access Management (IAM) basics Click here to give feedback about this page&#xA;About This Page Is this a new page?: Completely new doc with new content&#xA;Target personas: New IAM Developers, Developers new to Okta&#xA;Description: Explains Identity Access Management at a high level&#xA;Links to original docs:&#xA;Identity and Access Management (IAM) overview: https://developer.okta.com/docs/concepts/iam-overview/&#xA;Why is this here?:&#xA;Respondents with IAM experience level lower that 5 say that they rarely come to the site.</description>
-    </item>
-    <item>
-      <title>Application Types</title>
-      <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/application-types/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://danielmaharry-okta.github.io:1313/iaproto/learn/application-types/</guid>
-      <description>Types of application you can build Click here to give feedback about this page&#xA;About This Page Is this a new page?: Completely new doc with new content&#xA;Description: Explains at a high level the different types of applications developers can build as Okta defines them. Also, why you’d want to build them in the first place.&#xA;Web applications (OIDC, SAML, SWA) API Service Apps Lifecycle apps (SCIM and Workflow Connectors)) Expands “Create your own integration in Okta” to be more of a thought-leading piece about making any type of app public or private and the pros and cons of that decision.</description>
-    </item>
-    <item>
-      <title>Multifactor Authentication (MFA)</title>
-      <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/multifactor-authentication-mfa/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://danielmaharry-okta.github.io:1313/iaproto/learn/multifactor-authentication-mfa/</guid>
-      <description>Multifactor Authentication (MFA) Click here to give feedback about this page&#xA;About This Page Is this a new page?: Completely new doc with new content&#xA;Target personas: New IAM Developers, Developers new to Okta&#xA;Description: Explain the basic concept of MFA, and the difference between a Authentication Factor and an Authenticator.&#xA;Why is this here?:&#xA;At Oktane 2023, 20% of respondents placed “Multi-factor Authentication” under “IAM Fundamentals”.&#xA;After discussions with employees (and probably customers as well) there is a misunderstanding of what is a “Factor” and what is an Authenticator&#34;.</description>
-    </item>
-    <item>
-      <title>Single Sign-On (SSO)</title>
-      <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/single-sign-on-sso/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://danielmaharry-okta.github.io:1313/iaproto/learn/single-sign-on-sso/</guid>
-      <description>Single Sign-On (SSO) at Okta Click here to give feedback about this page&#xA;About This Page Is this a new page?: New doc with new content but also pulling from existing content&#xA;Target personas: New IAM Developers, Developers new to Okta&#xA;Description: Answers “What is SSO?”, how it differs from a basic sign in, and “How Okta supports it”. Also “How does a user experience SSO from the Okta End User Dashboard or from another place?</description>
-    </item>
-    <item>
-      <title>OAuth and OIDC</title>
-      <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/oauth-and-oidc/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://danielmaharry-okta.github.io:1313/iaproto/learn/oauth-and-oidc/</guid>
-      <description>OAuth and OIDC Explained Click here to give feedback about this page&#xA;About This Page Is this a new page?: Existing doc: no changes needed to fit the new IA&#xA;Target personas: New IAM Developers, Developers new to Okta&#xA;Links to original docs:&#xA;OAuth 2.0 and OpenID Connect overview: https://developer.okta.com/docs/concepts/oauth-openid/ Page type: Concept&#xA;Content type: Conceptual overview&#xA;Conceptual overviews present a high-level introduction to a topic. Such high-level overviews provide developers with a broad understanding of the system’s workings.</description>
-    </item>
-    <item>
-      <title>SAML</title>
-      <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/saml/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://danielmaharry-okta.github.io:1313/iaproto/learn/saml/</guid>
-      <description>Understand SAML Click here to give feedback about this page&#xA;About This Page Is this a new page?: Existing doc: changes are needed to update the doc and to fit the new IA&#xA;Target personas: New IAM Developers, Developers new to Okta&#xA;Changes to be made: Update the flow charts away from Plant UML to use the Figma design.&#xA;Links to original docs:&#xA;SAML: https://developer.okta.com/docs/concepts/saml/ Page type: Concept&#xA;Content type: Conceptual overview</description>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/learn/identity-access-management-iam-basics/</guid>
+      <description>Identity Access Management (IAM) basics Click here to give feedback about this page&#xA;About This Page Is this a new page?: Completely new doc with new content&#xA;Target personas: Internal application builders, Saas Builder&#xA;Description: Explains Identity Access Management at a high level. Include links to child docs in this group.&#xA;Links to original docs:&#xA;Identity and Access Management (IAM) overview: https://developer.okta.com/docs/concepts/iam-overview/&#xA;Why is this here?:&#xA;Respondents with IAM experience level lower that 5 say that they rarely come to the site.</description>
     </item>
     <item>
       <title>Okta Basics</title>
       <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-basics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-basics/</guid>
-      <description>Okta Basics Click here to give feedback about this page&#xA;Section Notes The Okta Basics section gives new-to-IAM or new-to-Okta developers an introduction to Okta-specific basic concepts that they will need to build solutions that integrate with Okta.&#xA;About This Page Is this a new page?: Completely new doc with new content&#xA;Target personas: New IAM Developers, Developers new to Okta&#xA;Why is this here?:&#xA;Respondents with an IAM experience level lower than 5 say that the developer docs “Needs improvement” Respondents with IAM experience level lower that 5 say that they rarely come to the site See Learn (ID: 1)</description>
-    </item>
-    <item>
-      <title>Single Logout (SLO) and Universal Logout (UL)</title>
-      <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/single-logout-slo-and-universal-logout-ul/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://danielmaharry-okta.github.io:1313/iaproto/learn/single-logout-slo-and-universal-logout-ul/</guid>
-      <description>Single Logout (SLO) and Universal Logout (UL) Click here to give feedback about this page&#xA;About This Page Is this a new page?: New doc with new content but also pulling from existing content&#xA;Target personas: New IAM Developers, Developers new to Okta&#xA;Description: Summary overview of the two sign-out products from Okta, paying special attention to the scenarios in which they will apply. One of the goals is to have readers understand the difference between the two products, their limitations and where to find more info on how to implement them in their apps.</description>
-    </item>
-    <item>
-      <title>Automation Tools</title>
-      <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/automation-tools/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://danielmaharry-okta.github.io:1313/iaproto/learn/automation-tools/</guid>
-      <description>Okta Automation Tools Click here to give feedback about this page&#xA;About This Page Is this a new page?: Completely new doc with new content&#xA;Target personas: New IAM Developers, Developers new to Okta&#xA;Page type: Navigation&#xA;Content type: Autogenerated Index&#xA;An autogenerated index is an automatically generated list of links to topics immediately beneath it based purely on the site’s structure, or with some level of filtering. A blind list of summaries and links to child docs.</description>
-    </item>
-    <item>
-      <title>User Lifecycle Management (LCM)</title>
-      <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/user-lifecycle-management-lcm/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://danielmaharry-okta.github.io:1313/iaproto/learn/user-lifecycle-management-lcm/</guid>
-      <description>User Lifecycle Management (LCM) Click here to give feedback about this page&#xA;About This Page Is this a new page?: Completely new doc with new content&#xA;Target personas: New IAM Developers, Developers new to Okta&#xA;Description: An overview of lifecycle management and why we care about it, or at least why Enterprise app vendors care about it, and what that means for developers who need to incorporate it. Add emphasis on user provisioning and deprovisioning in this doc.</description>
-    </item>
-    <item>
-      <title>Identity Governance</title>
-      <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/identity-governance/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://danielmaharry-okta.github.io:1313/iaproto/learn/identity-governance/</guid>
-      <description>Identity Governance Click here to give feedback about this page&#xA;About This Page Is this a new page?: Completely new doc with new content&#xA;Target personas: New IAM Developers, Developers new to Okta&#xA;Description: This guide defines and outlines PAM, IGA, and the differences between them and IAM, and how you have to pay for them separately as they are enabled in different SKUs.&#xA;Page type: Concept&#xA;Content type: Conceptual overview</description>
+      <description>Okta Basics Click here to give feedback about this page&#xA;Section Notes The Okta Basics section gives new-to-IAM or new-to-Okta developers an introduction to Okta-specific basic concepts that they will need to build solutions that integrate with Okta.&#xA;About This Page Is this a new page?: Completely new doc with new content&#xA;Target personas: Internal application builders, Saas Builder&#xA;Why is this here?:&#xA;Respondents with an IAM experience level lower than 5 say that the developer docs “Needs improvement” Respondents with IAM experience level lower that 5 say that they rarely come to the site See Learn (ID: 1)</description>
     </item>
     <item>
       <title>Okta Integration Network (OIN)</title>
       <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-integration-network-oin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-integration-network-oin/</guid>
-      <description>Okta Integration Network (OIN) Click here to give feedback about this page&#xA;About This Page Is this a new page?: Completely new doc with new content&#xA;Target personas: New IAM Developers, Developers new to Okta&#xA;Description: An introduction to the OIN, what it is, what an integration is, different types of integration in the OIN, differences between OIN Manager and OIN Wizard, why publish to the OIN at all?&#xA;Lists reasons why people / ISVs should care about publishing on the OIN in the first place.</description>
+      <description>Okta Integration Network (OIN) Click here to give feedback about this page&#xA;About This Page Is this a new page?: Completely new doc with new content&#xA;Target personas: Saas Builder&#xA;Description: An introduction to the OIN, what it is, what an integration is, different types of integration in the OIN, differences between OIN Manager and OIN Wizard, why publish to the OIN at all?&#xA;Lists reasons why people / ISVs should care about publishing on the OIN in the first place.</description>
+    </item>
+    <item>
+      <title>Automation Tools</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/automation-tools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/learn/automation-tools/</guid>
+      <description>Okta Automation Tools Click here to give feedback about this page&#xA;About This Page Is this a new page?: Completely new doc with new content&#xA;Target personas: Internal application builders&#xA;Page type: Navigation&#xA;Content type: Autogenerated Index&#xA;An autogenerated index is an automatically generated list of links to topics immediately beneath it based purely on the site’s structure, or with some level of filtering. A blind list of summaries and links to child docs.</description>
     </item>
   </channel>
 </rss>

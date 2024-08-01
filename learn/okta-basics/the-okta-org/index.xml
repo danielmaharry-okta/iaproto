@@ -3,30 +3,30 @@
   <channel>
     <title>The Okta org :: DevDocs Navigation Menu Test</title>
     <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-basics/the-okta-org/</link>
-    <description>The Okta org Click here to give feedback about this page&#xA;About This Page Is this a new page?: Existing doc: changes are needed to update the doc and to fit the new IA&#xA;Target personas: New IAM Developers, Developers new to Okta&#xA;Changes to be made: Doc needs a thorough review and possibly updated to include new org features.&#xA;Links to original docs:&#xA;Okta organizations: https://developer.okta.com/docs/concepts/okta-organizations/ Why is this here?</description>
+    <description>The Okta org Click here to give feedback about this page&#xA;About This Page Is this a new page?: Existing doc: changes are needed to update the doc and to fit the new IA&#xA;Target personas: Internal application builders, Saas Builder&#xA;Changes to be made: Doc needs a thorough review and possibly updated to include new org features.&#xA;Links to original docs:&#xA;Okta organizations: https://developer.okta.com/docs/concepts/okta-organizations/ Why is this here?:&#xA;Internal workshop session: Session 1 - Team 2 chose the Okta Org group Page type: Concept</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-basics/the-okta-org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Applications</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-basics/the-okta-org/applications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-basics/the-okta-org/applications/</guid>
+      <description>Applications Click here to give feedback about this page&#xA;About This Page Is this a new page?: Completely new doc with new content&#xA;Target personas: Internal application builders, Saas Builder&#xA;Why is this here?:&#xA;Requested by product management (Jeff Taylor).&#xA;Page type: Concept&#xA;Content type: Explanation&#xA;Explanations present a more detailed dive into a single topic compared to Conceptual Overviews. They aim to clarify specific elements of the technology, offering developers practical insights or in-depth clarification on particular points of interest.</description>
+    </item>
     <item>
       <title>Org object model</title>
       <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-basics/the-okta-org/org-object-model/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-basics/the-okta-org/org-object-model/</guid>
-      <description>The Okta org object model Click here to give feedback about this page&#xA;About This Page Is this a new page?: Existing doc: changes are needed to update the doc and to fit the new IA&#xA;Target personas: New IAM Developers, Developers new to Okta&#xA;Changes to be made:&#xA;Update doc to include new features of an org and important missing attributes including: Users and groups Policies Links to original docs:</description>
+      <description>The Okta org object model Click here to give feedback about this page&#xA;About This Page Is this a new page?: Existing doc: changes are needed to update the doc and to fit the new IA&#xA;Target personas: Internal application builders, Saas Builder&#xA;Changes to be made:&#xA;Update doc to include new features of an org and important missing attributes including: Users and groups Policies Links to original docs:&#xA;Okta Data Model: https://developer.</description>
     </item>
     <item>
-      <title>Policies</title>
-      <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-basics/the-okta-org/policies/</link>
+      <title>Devices</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-basics/the-okta-org/devices/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-basics/the-okta-org/policies/</guid>
-      <description>Policies Click here to give feedback about this page&#xA;About This Page Is this a new page?: Existing doc: no changes needed to fit the new IA&#xA;Target personas: New IAM Developers, Developers new to Okta&#xA;Links to original docs:&#xA;What are policies: https://developer.okta.com/docs/concepts/policies/ Page type: Concept&#xA;Content type: Explanation&#xA;Explanations present a more detailed dive into a single topic compared to Conceptual Overviews. They aim to clarify specific elements of the technology, offering developers practical insights or in-depth clarification on particular points of interest.</description>
-    </item>
-    <item>
-      <title>Okta Universal Directory (UD)</title>
-      <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-basics/the-okta-org/okta-universal-directory-ud/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-basics/the-okta-org/okta-universal-directory-ud/</guid>
-      <description>Okta Universal Directory (UD) Click here to give feedback about this page&#xA;About This Page Is this a new page?: Existing doc: changes are needed to update the doc and to fit the new IA&#xA;Target personas: New IAM Developers, Developers new to Okta&#xA;Changes to be made:&#xA;Title change Add summary content (and links) on how UD integrates with Hub and spoke Add summary content (and links) on how UD can be synced between other domains/systems/AD, etc Links to original docs:</description>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-basics/the-okta-org/devices/</guid>
+      <description>Devices Click here to give feedback about this page&#xA;About This Page Is this a new page?: Completely new doc with new content&#xA;Target personas: Internal application builders, Saas Builder&#xA;Why is this here?:&#xA;Requested by product management (Jeff Taylor).&#xA;Page type: Concept&#xA;Content type: Explanation&#xA;Explanations present a more detailed dive into a single topic compared to Conceptual Overviews. They aim to clarify specific elements of the technology, offering developers practical insights or in-depth clarification on particular points of interest.</description>
     </item>
   </channel>
 </rss>

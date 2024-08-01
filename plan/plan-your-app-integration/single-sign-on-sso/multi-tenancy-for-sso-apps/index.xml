@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Multi-tenancy for SSO Apps :: DevDocs Navigation Menu Test</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/plan/plan-your-app-integration/single-sign-on-sso/multi-tenancy-for-sso-apps/</link>
+    <description>Multi-tenancy for SSO Apps Click here to give feedback about this page&#xA;About This Page Is this a new page?: Completely new doc with new content&#xA;Target personas: Internal application builders, Saas Builder&#xA;Why is this here?:&#xA;Requested by a DCS Team member (Dan Maharry)&#xA;Page type: Concept&#xA;Content type: Explanation&#xA;Explanations present a more detailed dive into a single topic compared to Conceptual Overviews. They aim to clarify specific elements of the technology, offering developers practical insights or in-depth clarification on particular points of interest.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/plan/plan-your-app-integration/single-sign-on-sso/multi-tenancy-for-sso-apps/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

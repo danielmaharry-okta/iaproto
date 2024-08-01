@@ -3,7 +3,7 @@
   <channel>
     <title>Rotate your app’s client secrets :: DevDocs Navigation Menu Test</title>
     <link>https://danielmaharry-okta.github.io:1313/iaproto/build/safeguard-communications/rotate-your-apps-client-secrets/</link>
-    <description>Rotate your app’s client secrets Click here to give feedback about this page&#xA;About This Page Is this a new page?: Existing doc: no changes needed to fit the new IA&#xA;Target personas: WIC App Developer, Experienced IAM developer&#xA;Links to original docs:&#xA;Client secret rotation and key management: https://developer.okta.com/docs/guides/client-secret-rotation-key/main/ Why is this here?:&#xA;No specific user research obtained for client secrets Client secrets are used in Authentication hence the reason why they are in Authenticate Page type: Task</description>
+    <description>Rotate your app’s client secrets Click here to give feedback about this page&#xA;About This Page Is this a new page?: Existing doc: no changes needed to fit the new IA&#xA;Target personas: Internal application builders, Saas Builder&#xA;Links to original docs:&#xA;Client secret rotation and key management: https://developer.okta.com/docs/guides/client-secret-rotation-key/main/ Why is this here?:&#xA;No specific user research obtained for client secrets Client secrets are used in Authentication hence the reason why they are in Authenticate Page type: Task</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/build/safeguard-communications/rotate-your-apps-client-secrets/index.xml" rel="self" type="application/rss+xml" />

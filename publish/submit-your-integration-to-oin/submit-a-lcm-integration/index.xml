@@ -3,7 +3,7 @@
   <channel>
     <title>Submit a LCM integration  :: DevDocs Navigation Menu Test</title>
     <link>https://danielmaharry-okta.github.io:1313/iaproto/publish/submit-your-integration-to-oin/submit-a-lcm-integration/</link>
-    <description>Submit a lifecycle management integration Click here to give feedback about this page&#xA;About This Page Is this a new page?: Existing doc: no changes needed to fit the new IA&#xA;Target personas: WIC App Developer, Experienced IAM developer&#xA;Changes to be made:&#xA;Bring the flow diagram from “Publish an OIN integration” to the top to help give it some direction. Split out the update section to Publish &gt; Update your integration Links to original docs:</description>
+    <description>Submit a lifecycle management integration Click here to give feedback about this page&#xA;About This Page Is this a new page?: Existing doc: no changes needed to fit the new IA&#xA;Target personas: Saas Builder&#xA;Changes to be made:&#xA;Bring the flow diagram from “Publish an OIN integration” to the top to help give it some direction. Split out the update section to Publish &gt; Update your integration Links to original docs:</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/publish/submit-your-integration-to-oin/submit-a-lcm-integration/index.xml" rel="self" type="application/rss+xml" />
