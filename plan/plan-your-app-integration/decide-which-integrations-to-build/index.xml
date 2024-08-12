@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Decide which integrations to build :: DevDocs Navigation Menu Test</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/plan/plan-your-app-integration/decide-which-integrations-to-build/</link>
+    <description>Decide which integrations to build to enter the market Click here to give feedback about this page&#xA;About This Page Is this a new page?: Completely new doc with new content&#xA;Target personas: Saas Builder&#xA;Description: Discuss with Jeff content. Original title was “What integrations should I build to enter the market?”&#xA;Why is this here?:&#xA;Requested by product management.&#xA;Page type: Concept&#xA;Content type: Explanation&#xA;Explanations present a more detailed dive into a single topic compared to Conceptual Overviews.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/plan/plan-your-app-integration/decide-which-integrations-to-build/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

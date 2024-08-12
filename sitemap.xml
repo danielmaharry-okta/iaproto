@@ -136,22 +136,16 @@
     <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-integration-network-oin/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-integration-network-oin/integrations-you-should-build/</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-integration-network-oin/use-case-examples/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-integration-network-oin/best-practices-for-oin-apps/</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-integration-network-oin/use-case-examples/sso-app-use-cases/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-integration-network-oin/use-cases-for-oin-integrations/</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-integration-network-oin/use-case-examples/lifecycle-management-app-use-cases/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-integration-network-oin/use-cases-for-oin-integrations/sso-app-use-cases/</loc>
-  </url>
-  <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-integration-network-oin/use-cases-for-oin-integrations/lifecycle-management-app-use-cases/</loc>
-  </url>
-  <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-integration-network-oin/use-cases-for-oin-integrations/service-app-use-cases/</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-integration-network-oin/use-case-examples/service-app-use-cases/</loc>
   </url>
   <url>
     <loc>https://danielmaharry-okta.github.io:1313/iaproto/learn/automation-tools/</loc>
@@ -188,6 +182,9 @@
   </url>
   <url>
     <loc>https://danielmaharry-okta.github.io:1313/iaproto/plan/plan-your-app-integration/</loc>
+  </url>
+  <url>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/plan/plan-your-app-integration/decide-which-integrations-to-build/</loc>
   </url>
   <url>
     <loc>https://danielmaharry-okta.github.io:1313/iaproto/plan/plan-your-app-integration/single-sign-on-sso/</loc>
@@ -248,6 +245,9 @@
   </url>
   <url>
     <loc>https://danielmaharry-okta.github.io:1313/iaproto/plan/plan-your-app-integration/universal-logout-ul/readying-for-ul-session-and-token-management/</loc>
+  </url>
+  <url>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/plan/plan-your-app-integration/best-practices-for-all-app-integrations/</loc>
   </url>
   <url>
     <loc>https://danielmaharry-okta.github.io:1313/iaproto/plan/design-for-automation/</loc>
@@ -856,13 +856,16 @@
     <loc>https://danielmaharry-okta.github.io:1313/iaproto/publish/update-your-integration/be-notified-when-apps-you-use-are-updated/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/publish/find-help-for-oin-problems/</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/publish/find-help-for-oin-issues/</loc>
   </url>
   <url>
     <loc>https://danielmaharry-okta.github.io:1313/iaproto/reference/</loc>
   </url>
   <url>
     <loc>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/</loc>
+  </url>
+  <url>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/reference/apis/learn-what-to-build-with-okta-api-use-cases/</loc>
   </url>
   <url>
     <loc>https://danielmaharry-okta.github.io:1313/iaproto/reference/sdks/</loc>
