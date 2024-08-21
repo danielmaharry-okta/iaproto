@@ -3,7 +3,7 @@
   <channel>
     <title>Okta Integration Network (OIN) :: DevDocs Navigation Menu Test</title>
     <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-integration-network-oin/</link>
-    <description>Okta Integration Network (OIN) Click here to give feedback about this page&#xA;About This Page Is this a new page?: Completely new doc with new content&#xA;Target personas: Saas Builder&#xA;Description: An introduction to the OIN, what it is, what an integration is, different types of integration in the OIN, differences between OIN Manager and OIN Wizard, why publish to the OIN at all?&#xA;Lists reasons why people / ISVs should care about publishing on the OIN in the first place.</description>
+    <description>Okta Integration Network (OIN) Click here to give feedback about this page&#xA;About This Page Page ID: 353&#xA;Is this a new page?: Completely new doc with new content&#xA;Target personas: Saas Builder&#xA;Description: An introduction to the OIN, what it is, what an integration is, different types of integration in the OIN, differences between OIN Manager and OIN Wizard, why publish to the OIN at all?&#xA;Lists reasons why people / ISVs should care about publishing on the OIN in the first place.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-integration-network-oin/index.xml" rel="self" type="application/rss+xml" />
@@ -12,7 +12,7 @@
       <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-integration-network-oin/use-case-examples/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-integration-network-oin/use-case-examples/</guid>
-      <description>Use cases Click here to give feedback about this page&#xA;About This Page Is this a new page?: Completely new doc with new content&#xA;Target personas: Saas Builder&#xA;Description: Real-world scenarios or case studies showing how the product can be used effectively.&#xA;Why is this here?:&#xA;At Oktane, the OIN Survey showed several customers citing the following as “Missing info with the OIN Docs”:&#xA;Best practices and use cases Docs on use case scenarios Use cases Use case flows Use cases were consistently the most sought after docs</description>
+      <description>Use cases Click here to give feedback about this page&#xA;About This Page Page ID: 368&#xA;Is this a new page?: Completely new doc with new content&#xA;Target personas: Saas Builder&#xA;Description: Real-world scenarios or case studies showing how the product can be used effectively.&#xA;Why is this here?:&#xA;At Oktane, the OIN Survey showed several customers citing the following as “Missing info with the OIN Docs”:&#xA;Best practices and use cases Docs on use case scenarios Use cases Use case flows Use cases were consistently the most sought after docs</description>
     </item>
   </channel>
 </rss>

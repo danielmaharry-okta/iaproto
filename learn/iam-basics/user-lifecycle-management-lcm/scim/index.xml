@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SCIM :: DevDocs Navigation Menu Test</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/iam-basics/user-lifecycle-management-lcm/scim/</link>
+    <description>System for Cross-domain Identity Management (SCIM) Click here to give feedback about this page&#xA;About This Page Page ID: 473&#xA;Is this a new page?: Existing doc: no changes needed to fit the new IA&#xA;Target personas: Internal app builders, Saas Builder&#xA;Description: A high-level overview of SCIM and how it powers LCM. This is a rework of the current SCIM concept doc, that then provides links to the Build &gt; Get Started &gt; Create a SAML app integration &gt; Build a SCIM App (ID: 781) and the Build &gt; Manage User Accounts &gt; Manage a Users Lifecycle &gt; SCIM section (ID: 474)</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/learn/iam-basics/user-lifecycle-management-lcm/scim/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

@@ -3,7 +3,7 @@
   <channel>
     <title>Enable a user consent dialog for an app :: DevDocs Navigation Menu Test</title>
     <link>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-access/enable-a-user-consent-dialog-for-an-app/</link>
-    <description>Enable a user consent dialog for an app Click here to give feedback about this page&#xA;About This Page Is this a new page?: Existing doc: changes are needed to update the doc and to fit the new IA&#xA;Target personas: Internal application builders, Saas Builder&#xA;Description: This article discusses how to enable a consent dialog for an app wanting permission to access certain resources&#xA;Changes to be made: This guide needs two main things:</description>
+    <description>Enable a user consent dialog for an app Click here to give feedback about this page&#xA;About This Page Page ID: 323&#xA;Is this a new page?: Existing doc: changes are needed to update the doc and to fit the new IA&#xA;Target personas: Internal app builders, Saas Builder&#xA;Description: This article discusses how to enable a consent dialog for an app wanting permission to access certain resources&#xA;Changes to be made: This guide needs two main things:</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/build/manage-access/enable-a-user-consent-dialog-for-an-app/index.xml" rel="self" type="application/rss+xml" />

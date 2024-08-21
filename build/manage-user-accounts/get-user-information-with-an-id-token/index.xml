@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Get user information with an ID Token :: DevDocs Navigation Menu Test</title>
+    <title>Get user information with an ID token :: DevDocs Navigation Menu Test</title>
     <link>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-accounts/get-user-information-with-an-id-token/</link>
-    <description>Get user information with an ID Token Click here to give feedback about this page&#xA;About This Page Is this a new page?: Completely new doc with new content&#xA;Target personas: Internal application builders, Saas Builder&#xA;Links to original docs:&#xA;Create a doc that describes how to get user info. Extract the get user info section from here:&#xA;Refresh the access and ID tokens: https://developer.okta.com/docs/guides/oie-embedded-common-refresh-tokens/android/main/ Page type: Task&#xA;Content type: How-to without code</description>
+    <description>Get user information with an ID token Click here to give feedback about this page&#xA;About This Page Page ID: 231&#xA;Is this a new page?: Completely new doc with new content&#xA;Target personas: Internal app builders, Saas Builder&#xA;Links to original docs:&#xA;Create a doc that describes how to get user info. Extract the get user info section from here:&#xA;Refresh the access and ID tokens: https://developer.okta.com/docs/guides/oie-embedded-common-refresh-tokens/android/main/ Page type: Task</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-accounts/get-user-information-with-an-id-token/index.xml" rel="self" type="application/rss+xml" />

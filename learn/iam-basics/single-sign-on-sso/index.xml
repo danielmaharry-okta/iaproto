@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Single Sign-On (SSO) :: DevDocs Navigation Menu Test</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/iam-basics/single-sign-on-sso/</link>
+    <description>Single Sign-On (SSO) at Okta Click here to give feedback about this page&#xA;About This Page Page ID: 345&#xA;Is this a new page?: New doc with new content but also pulling from existing content&#xA;Target personas: Internal app builders, Saas Builder&#xA;Description: Answers “What is SSO?”, how it differs from a basic sign in, and “How Okta supports it”. Also “How does a user experience SSO from the Okta End User Dashboard or from another place?</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/learn/iam-basics/single-sign-on-sso/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

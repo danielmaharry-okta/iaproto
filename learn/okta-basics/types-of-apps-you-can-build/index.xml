@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Types of apps you can build :: DevDocs Navigation Menu Test</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-basics/types-of-apps-you-can-build/</link>
+    <description>Types of apps you can build Click here to give feedback about this page&#xA;About This Page Page ID: 755&#xA;Is this a new page?: Completely new doc with new content&#xA;Target personas: Internal app builders, Saas Builder&#xA;Description: Explains at a high level the different types of applications developers can build as Okta defines them. Also, why you’d want to build them in the first place.&#xA;Web applications (OIDC, SAML, SWA) API Service Apps Lifecycle apps (SCIM and Workflow Connectors)) Expands “Create your own integration in Okta” to be more of a thought-leading piece about making any type of app public or private and the pros and cons of that decision.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-basics/types-of-apps-you-can-build/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

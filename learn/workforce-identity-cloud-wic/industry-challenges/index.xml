@@ -3,7 +3,7 @@
   <channel>
     <title>Industry challenges :: DevDocs Navigation Menu Test</title>
     <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/workforce-identity-cloud-wic/industry-challenges/</link>
-    <description>Industry challenges Click here to give feedback about this page&#xA;About This Page Is this a new page?: Completely new doc with new content&#xA;Target personas: Internal application builders, Saas Builder&#xA;Why is this here?:&#xA;Requested by product management (Jeff Taylor).&#xA;Page type: Concept&#xA;Content type: Explanation&#xA;Explanations present a more detailed dive into a single topic compared to Conceptual Overviews. They aim to clarify specific elements of the technology, offering developers practical insights or in-depth clarification on particular points of interest.</description>
+    <description>Industry challenges Click here to give feedback about this page&#xA;About This Page Page ID: 805&#xA;Is this a new page?: Completely new doc with new content&#xA;Target personas: Internal app builders, Saas Builder&#xA;Description: Discuss industry challenges and align with the marketing content. Write a short blurb and link to the relevant docs.&#xA;Why is this here?:&#xA;Requested by product management (Jeff Taylor).&#xA;Page type: Concept&#xA;Content type: Conceptual overview</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/learn/workforce-identity-cloud-wic/industry-challenges/index.xml" rel="self" type="application/rss+xml" />

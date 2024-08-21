@@ -3,7 +3,7 @@
   <channel>
     <title>Access Okta APIs with user credentials :: DevDocs Navigation Menu Test</title>
     <link>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-access/manage-access-to-okta-apis/access-okta-apis-with-user-credentials/</link>
-    <description>Access Okta APIs with user credentials Click here to give feedback about this page&#xA;About This Page Is this a new page?: Existing doc: changes are needed to update the doc and to fit the new IA&#xA;Target personas: Internal application builders, Saas Builder&#xA;Changes to be made: Update title&#xA;Links to original docs:&#xA;Implement OAuth for Okta: https://developer.okta.com/docs/guides/implement-oauth-for-okta/main/ Page type: Task&#xA;Content type: How-to without code&#xA;A “How-to without code” illustrates how to perform a specific task that does not rely on writing code.</description>
+    <description>Access Okta APIs with user credentials Click here to give feedback about this page&#xA;About This Page Page ID: 424&#xA;Is this a new page?: Existing doc: changes are needed to update the doc and to fit the new IA&#xA;Target personas: Internal app builders, Saas Builder&#xA;Changes to be made: Update title&#xA;Links to original docs:&#xA;Implement OAuth for Okta: https://developer.okta.com/docs/guides/implement-oauth-for-okta/main/ Page type: Task&#xA;Content type: How-to without code</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/build/manage-access/manage-access-to-okta-apis/access-okta-apis-with-user-credentials/index.xml" rel="self" type="application/rss+xml" />

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Orchestrate with Okta Workflows :: DevDocs Navigation Menu Test</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/automation-tools/orchestrate-with-okta-workflows/</link>
+    <description>Okta Workflows Click here to give feedback about this page&#xA;About This Page Page ID: 756&#xA;Is this a new page?: Completely new doc with new content&#xA;Target personas: Internal app builders&#xA;Description: A developer’s introduction to Okta Workflows, what it is for, what problems it solves, and how developers write code against it (if at all). Are there any connections with SCIM and LCM applications and therefore the OIN for example?</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/learn/automation-tools/orchestrate-with-okta-workflows/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Workflow Connector Builder</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/automation-tools/orchestrate-with-okta-workflows/workflow-connector-builder/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/learn/automation-tools/orchestrate-with-okta-workflows/workflow-connector-builder/</guid>
+      <description>Workflow Connector Builder Click here to give feedback about this page&#xA;About This Page Page ID: 757&#xA;Is this a new page?: Completely new doc with new content&#xA;Target personas: Internal app builders&#xA;Description: A brief introduction to Workflows Connector Builder that distinguishes it from Okta Workflows the Platform and what hooks are for. Note that WCB can create flows that can also be submitted to OIN. Then redirect to the help doc area.</description>
+    </item>
+  </channel>
+</rss>

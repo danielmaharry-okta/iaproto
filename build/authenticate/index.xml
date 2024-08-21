@@ -3,7 +3,7 @@
   <channel>
     <title>Authenticate :: DevDocs Navigation Menu Test</title>
     <link>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/</link>
-    <description>Authenticate Click here to give feedback about this page&#xA;About This Page Is this a new page?: Completely new doc with new content&#xA;Target personas: Internal application builders, Saas Builder&#xA;Description: Simple guide hub with a summary paragraph and links to the various guides in the section.&#xA;Describe authentication options available. Set up user journeys. Currently splitting authentication by functionality. We can either lead the split by functionality or by product.</description>
+    <description>Authenticate Click here to give feedback about this page&#xA;About This Page Page ID: 24&#xA;Is this a new page?: Completely new doc with new content&#xA;Target personas: Internal app builders, Saas Builder&#xA;Description: Simple guide hub with a summary paragraph and links to the various guides in the section.&#xA;Describe authentication options available. Set up user journeys. Currently splitting authentication by functionality. We can either lead the split by functionality or by product.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/index.xml" rel="self" type="application/rss+xml" />
@@ -12,28 +12,28 @@
       <link>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/decide-on-a-sign-in-solution/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/decide-on-a-sign-in-solution/</guid>
-      <description>Decide which sign-in solution is right for you Click here to give feedback about this page&#xA;About This Page Is this a new page?: Existing doc: changes are needed to update the doc and to fit the new IA&#xA;Target personas: Internal application builders, Saas Builder&#xA;Changes to be made:&#xA;Update title Links to original docs:&#xA;Okta deployment models - redirect vs. embedded: https://developer.okta.com/docs/concepts/redirect-vs-embedded/ Page type: Navigation&#xA;Content type: Guide Hub</description>
+      <description>Decide which sign-in solution is right for you Click here to give feedback about this page&#xA;About This Page Page ID: 465&#xA;Is this a new page?: Existing doc: changes are needed to update the doc and to fit the new IA&#xA;Target personas: Internal app builders, Saas Builder&#xA;Changes to be made:&#xA;Update title Links to original docs:&#xA;Okta deployment models - redirect vs. embedded: https://developer.okta.com/docs/concepts/redirect-vs-embedded/ Page type: Navigation</description>
     </item>
     <item>
       <title>Decide on a sign-in protocol</title>
       <link>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/decide-on-a-sign-in-protocol/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/decide-on-a-sign-in-protocol/</guid>
-      <description>Decide which authentication protocol is right for you Click here to give feedback about this page&#xA;About This Page Is this a new page?: New doc with new content but also pulling from existing content&#xA;Target personas: Internal application builders, Saas Builder&#xA;Description: Duplicate of “Decide: SCIM vs Okta Workflows or both?” ID: 813. Requires further discussion.&#xA;Links to original docs:&#xA;All content except for the use case examples from:</description>
+      <description>Decide which authentication protocol is right for you Click here to give feedback about this page&#xA;About This Page Page ID: 716&#xA;Is this a new page?: New doc with new content but also pulling from existing content&#xA;Target personas: Internal app builders, Saas Builder&#xA;Links to original docs:&#xA;All content except for the use case examples from:&#xA;Overview of Single Sign-On in the OIN: https://developer.okta.com/docs/guides/oin-sso-overview/ Note most of the content is good and not specific to the OIN Ensure any OIN-specific content is removed.</description>
     </item>
     <item>
       <title>Use the recommended sign-in solution: redirect model</title>
       <link>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/use-the-recommended-sign-in-solution-redirect-model/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/use-the-recommended-sign-in-solution-redirect-model/</guid>
-      <description>Use the recommended sign-in solution: redirect model Click here to give feedback about this page&#xA;About This Page Is this a new page?: Completely new doc with new content&#xA;Target personas: Internal application builders, Saas Builder&#xA;Description: In phase 1, if “Setting up okta org policies” can be unified into one place for all (redirect and embedded) guides, we’ll have to add a specific set-up guide for redirect and each of the embedded models.</description>
+      <description>Use the recommended sign-in solution: redirect model Click here to give feedback about this page&#xA;About This Page Page ID: 26&#xA;Is this a new page?: Completely new doc with new content&#xA;Target personas: Internal app builders, Saas Builder&#xA;Description: In phase 1, if “Setting up okta org policies” can be unified into one place for all (redirect and embedded) guides, we’ll have to add a specific set-up guide for redirect and each of the embedded models.</description>
     </item>
     <item>
       <title>Use an alternate SDK-based sign-in solution</title>
       <link>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/use-an-alternate-sdk-based-sign-in-solution/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/use-an-alternate-sdk-based-sign-in-solution/</guid>
-      <description>Add a more customizable sign-in solution Click here to give feedback about this page&#xA;About This Page Is this a new page?: Completely new doc with new content&#xA;Target personas: Internal application builders, Saas Builder&#xA;Page type: Navigation&#xA;Content type: Autogenerated Index&#xA;An autogenerated index is an automatically generated list of links to topics immediately beneath it based purely on the site’s structure, or with some level of filtering. A blind list of summaries and links to child docs.</description>
+      <description>Add a more customizable sign-in solution Click here to give feedback about this page&#xA;About This Page Page ID: 404&#xA;Is this a new page?: Completely new doc with new content&#xA;Target personas: Internal app builders, Saas Builder&#xA;Page type: Navigation&#xA;Content type: Autogenerated Index&#xA;An autogenerated index is an automatically generated list of links to topics immediately beneath it based purely on the site’s structure, or with some level of filtering.</description>
     </item>
     <item>
       <title>Add a direct sign-in experience for high trust scenarios</title>
@@ -47,42 +47,42 @@
       <link>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-sign-in-experience-for-mobile-and-desktop-devices/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-sign-in-experience-for-mobile-and-desktop-devices/</guid>
-      <description>Add a sign-in experience for mobile and desktop devices Click here to give feedback about this page&#xA;About This Page Is this a new page?: Existing doc: changes are needed to update the doc and to fit the new IA&#xA;Target personas: Internal application builders, Saas Builder&#xA;Changes to be made:&#xA;Add a intro paragraph specifically stating what scenarios this implementation is used for. When would i use this scenario over direct auth?</description>
+      <description>Add a sign-in experience for mobile and desktop devices Click here to give feedback about this page&#xA;About This Page Page ID: 317&#xA;Is this a new page?: Existing doc: changes are needed to update the doc and to fit the new IA&#xA;Target personas: Internal app builders, Saas Builder&#xA;Changes to be made:&#xA;Add a intro paragraph specifically stating what scenarios this implementation is used for. When would i use this scenario over direct auth?</description>
     </item>
     <item>
       <title>Add a sign-in solution to an input constrained device (e.g. Apple TV)</title>
       <link>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-sign-in-solution-to-an-input-constrained-device-e.g.-apple-tv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-sign-in-solution-to-an-input-constrained-device-e.g.-apple-tv/</guid>
-      <description>Add a sign-in solution to an input constrained device (e.g. Apple TV) Click here to give feedback about this page&#xA;About This Page Is this a new page?: Existing doc: changes are needed to update the doc and to fit the new IA&#xA;Target personas: Internal application builders, Saas Builder&#xA;Changes to be made:&#xA;This guide contains reference endpoint information that needs to be stripped out of this guide and placed under the API reference if it doesn’t exist.</description>
+      <description>Add a sign-in solution to an input constrained device (e.g. Apple TV) Click here to give feedback about this page&#xA;About This Page Page ID: 314&#xA;Is this a new page?: Existing doc: changes are needed to update the doc and to fit the new IA&#xA;Target personas: Internal app builders, Saas Builder&#xA;Changes to be made:&#xA;This guide contains reference endpoint information that needs to be stripped out of this guide and placed under the API reference if it doesn’t exist.</description>
     </item>
     <item>
       <title>Eliminate duplicate factor challenges with AMR</title>
       <link>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/eliminate-duplicate-factor-challenges-with-amr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/eliminate-duplicate-factor-challenges-with-amr/</guid>
-      <description>Eliminate duplicate factor challenges with AMR Click here to give feedback about this page&#xA;About This Page Is this a new page?: Existing doc: changes are needed to update the doc and to fit the new IA&#xA;Target personas: Internal application builders, Saas Builder&#xA;Changes to be made:&#xA;Update title Update Plant UML flowcharts Links to original docs:&#xA;Configure AMR claims mapping: https://developer.okta.com/docs/guides/configure-amr-claims-mapping/main/ Page type: Task&#xA;Content type: How-to with code</description>
+      <description>Eliminate duplicate factor challenges with AMR Click here to give feedback about this page&#xA;About This Page Page ID: 286&#xA;Is this a new page?: Existing doc: changes are needed to update the doc and to fit the new IA&#xA;Target personas: Internal app builders, Saas Builder&#xA;Changes to be made:&#xA;Update title Update Plant UML flowcharts Links to original docs:&#xA;Configure AMR claims mapping: https://developer.okta.com/docs/guides/configure-amr-claims-mapping/main/ Page type: Task&#xA;Content type: How-to with code</description>
     </item>
     <item>
       <title>Share application key credentials across apps</title>
       <link>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/share-application-key-credentials-across-apps/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/share-application-key-credentials-across-apps/</guid>
-      <description>Share application key credentials across apps Click here to give feedback about this page&#xA;About This Page Is this a new page?: Existing doc: changes are needed to update the doc and to fit the new IA&#xA;Target personas: Internal application builders, Saas Builder&#xA;Changes to be made:&#xA;Update title Understand which auth solution this is for: redirect, embedded, SDKS, API, or a combination of all three. After we find out reorganize in IA appropriately Links to original docs:</description>
+      <description>Share application key credentials across apps Click here to give feedback about this page&#xA;About This Page Page ID: 291&#xA;Is this a new page?: Existing doc: changes are needed to update the doc and to fit the new IA&#xA;Target personas: Internal app builders, Saas Builder&#xA;Changes to be made:&#xA;Update title Understand which auth solution this is for: redirect, embedded, SDKS, API, or a combination of all three. After we find out reorganize in IA appropriately Links to original docs:</description>
     </item>
     <item>
       <title>Add a SAML sign-in solution</title>
       <link>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-saml-sign-in-solution/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-saml-sign-in-solution/</guid>
-      <description>Add a SAML sign-in solution Click here to give feedback about this page&#xA;About This Page Is this a new page?: Completely new doc with new content&#xA;Target personas: Internal application builders, Saas Builder&#xA;Page type: Navigation&#xA;Content type: Autogenerated Index&#xA;An autogenerated index is an automatically generated list of links to topics immediately beneath it based purely on the site’s structure, or with some level of filtering. A blind list of summaries and links to child docs.</description>
+      <description>Add a SAML sign-in solution Click here to give feedback about this page&#xA;About This Page Page ID: 626&#xA;Is this a new page?: Completely new doc with new content&#xA;Target personas: Internal app builders, Saas Builder&#xA;Page type: Navigation&#xA;Content type: Autogenerated Index&#xA;An autogenerated index is an automatically generated list of links to topics immediately beneath it based purely on the site’s structure, or with some level of filtering.</description>
     </item>
     <item>
       <title>Add a sign-out solution</title>
       <link>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-sign-out-solution/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/authenticate/add-a-sign-out-solution/</guid>
-      <description>Add a sign-out solution Click here to give feedback about this page&#xA;About This Page Is this a new page?: Completely new doc with new content&#xA;Target personas: Internal application builders, Saas Builder&#xA;Page type: Navigation&#xA;Content type: Autogenerated Index&#xA;An autogenerated index is an automatically generated list of links to topics immediately beneath it based purely on the site’s structure, or with some level of filtering. A blind list of summaries and links to child docs.</description>
+      <description>Add a sign-out solution Click here to give feedback about this page&#xA;About This Page Page ID: 420&#xA;Is this a new page?: Completely new doc with new content&#xA;Target personas: Internal app builders, Saas Builder&#xA;Page type: Navigation&#xA;Content type: Autogenerated Index&#xA;An autogenerated index is an automatically generated list of links to topics immediately beneath it based purely on the site’s structure, or with some level of filtering. A blind list of summaries and links to child docs.</description>
     </item>
   </channel>
 </rss>

@@ -3,7 +3,7 @@
   <channel>
     <title>Update a service app integration :: DevDocs Navigation Menu Test</title>
     <link>https://danielmaharry-okta.github.io:1313/iaproto/publish/update-your-integration/update-a-service-app-integration/</link>
-    <description>Update a service app integration Click here to give feedback about this page&#xA;About This Page Is this a new page?: Completely new doc with new content&#xA;Target personas: Saas Builder&#xA;Page type: Task&#xA;Content type: How-to without code&#xA;A “How-to without code” illustrates how to perform a specific task that does not rely on writing code. They tend to walk the reader through administrative tasks but not exclusively. They might include code snippets such as API requests and responses, or outline how to develop the required solution but without walking through the majority of the code required to implement it.</description>
+    <description>Update a service app integration Click here to give feedback about this page&#xA;About This Page Page ID: 777&#xA;Is this a new page?: Completely new doc with new content&#xA;Target personas: Saas Builder&#xA;Page type: Task&#xA;Content type: How-to without code&#xA;A “How-to without code” illustrates how to perform a specific task that does not rely on writing code. They tend to walk the reader through administrative tasks but not exclusively.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/publish/update-your-integration/update-a-service-app-integration/index.xml" rel="self" type="application/rss+xml" />

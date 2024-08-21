@@ -3,7 +3,7 @@
   <channel>
     <title>Hooks :: DevDocs Navigation Menu Test</title>
     <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/automation-tools/hooks/</link>
-    <description>Inline and Event Hooks Click here to give feedback about this page&#xA;About This Page Is this a new page?: Existing doc: changes are needed to update the doc and to fit the new IA&#xA;Target personas: Internal application builders&#xA;Description: An overview of event and inline hooks, what they are, and some basic use cases. Establish the difference between hooks and the Workflows platform, and then provide a link to the more detailed “How to Implement a hook section” (ID: 660)</description>
+    <description>Inline and event hooks Click here to give feedback about this page&#xA;About This Page Page ID: 758&#xA;Is this a new page?: Existing doc: changes are needed to update the doc and to fit the new IA&#xA;Target personas: Internal app builders&#xA;Description: An overview of event and inline hooks, what they are, and some basic use cases. Establish the difference between hooks and the Workflows platform, and then provide a link to the more detailed “How to Implement a hook section” (ID: 660)</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/learn/automation-tools/hooks/index.xml" rel="self" type="application/rss+xml" />

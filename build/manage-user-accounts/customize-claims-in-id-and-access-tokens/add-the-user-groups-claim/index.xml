@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Add the user groups claim :: DevDocs Navigation Menu Test</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-accounts/customize-claims-in-id-and-access-tokens/add-the-user-groups-claim/</link>
+    <description>Add the user groups claim Click here to give feedback about this page&#xA;About This Page Page ID: 329&#xA;Is this a new page?: Existing doc: no changes needed to fit the new IA&#xA;Target personas: Internal app builders, Saas Builder&#xA;Links to original docs:&#xA;Customize tokens returned from Okta with a Groups claim: https://developer.okta.com/docs/guides/customize-tokens-groups-claim/main/ Why is this here?:&#xA;This doc is under Manage user accounts because it discuss return the user’s group information</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-accounts/customize-claims-in-id-and-access-tokens/add-the-user-groups-claim/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

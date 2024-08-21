@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Strengthen your org’s security :: DevDocs Navigation Menu Test</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/plan/design-your-iam-enterprise-architecture/strengthen-your-orgs-security/</link>
+    <description>Strengthen your org’s security Click here to give feedback about this page&#xA;About This Page Page ID: 809&#xA;Is this a new page?: Completely new doc with new content&#xA;Target personas: Internal app builders, Saas Builder&#xA;Description:&#xA;The details of this doc need to be workshopped.&#xA;Reach out to Jeff Taylor for more details on the content of this doc.&#xA;Jeff’s original title for this doc was “How to increase security”</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/plan/design-your-iam-enterprise-architecture/strengthen-your-orgs-security/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

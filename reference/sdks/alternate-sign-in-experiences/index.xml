@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alternate sign-in experiences :: DevDocs Navigation Menu Test</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/sdks/alternate-sign-in-experiences/</link>
+    <description>Alternate Sign-in experience SDKs Click here to give feedback about this page&#xA;About This Page Page ID: 824&#xA;Is this a new page?: IA defined in a separate document&#xA;Target personas: Internal app builders, Saas Builder&#xA;Description: This page describes and lists all supported SDKs supported by Okta. It does not go into specific use cases&#xA;Changes to be made: None&#xA;Links to original docs:&#xA;New Code | Alternate Sign-In SDK Libraries Page: https://docs.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/reference/sdks/alternate-sign-in-experiences/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
