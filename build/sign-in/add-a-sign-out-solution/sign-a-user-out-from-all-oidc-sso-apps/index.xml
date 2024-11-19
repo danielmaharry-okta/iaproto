@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sign a user out from all OIDC SSO apps :: DevDocs Navigation Menu Test</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/build/sign-in/add-a-sign-out-solution/sign-a-user-out-from-all-oidc-sso-apps/</link>
+    <description>Sign a user out from all OIDC SSO apps Click here to give feedback about this page&#xA;About This Page Page ID: 656&#xA;Is this a new page?: Existing doc: changes are needed to update the doc and to fit the new IA&#xA;Target personas: Internal app builders, Saas Builder&#xA;Changes to be made:&#xA;Split out the OIDC/SAML page dimension into separate guides Update title Links to original docs:&#xA;Configure Single Logout: https://developer.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/build/sign-in/add-a-sign-out-solution/sign-a-user-out-from-all-oidc-sso-apps/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

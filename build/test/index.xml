@@ -8,10 +8,10 @@
     <language>en-us</language>
     <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/build/test/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Test Single Sign-On</title>
-      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/test/test-single-sign-on/</link>
+      <title>Test Single Sign-On is working</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/test/test-single-sign-on-is-working/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/test/test-single-sign-on/</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/test/test-single-sign-on-is-working/</guid>
       <description>Test Single Sign-On Click here to give feedback about this page&#xA;About This Page Page ID: 769&#xA;Is this a new page?: Existing doc: changes are needed to update the doc and to fit the new IA&#xA;Target personas: Internal app builders, Saas Builder&#xA;Description: Describes how to test whether SSO is working for your app integration. Current source page is dimensioned by OIDC and SAML. Need to check if this still necessary for this section fo it.</description>
     </item>
     <item>

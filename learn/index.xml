@@ -8,11 +8,11 @@
     <language>en-us</language>
     <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/learn/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Identity Access Management (IAM) cheat sheet</title>
-      <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/identity-access-management-iam-cheat-sheet/</link>
+      <title>Identity and Access Management (IAM) cheat sheet</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/identity-and-access-management-iam-cheat-sheet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://danielmaharry-okta.github.io:1313/iaproto/learn/identity-access-management-iam-cheat-sheet/</guid>
-      <description>Identity Access Management (IAM) cheat sheet Click here to give feedback about this page&#xA;About This Page Page ID: 807&#xA;Is this a new page?: Completely new doc with new content&#xA;Target personas: Internal app builders, Saas Builder&#xA;Description: Lists all the most relevant IAM and Okta’s acronyms. Outstanding questions that still need to be answered include:&#xA;Which acronyms should be listed? Is there a limit to how many acronyms? Top 20, etc.</description>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/learn/identity-and-access-management-iam-cheat-sheet/</guid>
+      <description>Identity and Access Management (IAM) cheat sheet Click here to give feedback about this page&#xA;About This Page Page ID: 807&#xA;Is this a new page?: Completely new doc with new content&#xA;Target personas: Internal app builders, Saas Builder&#xA;Description: Lists all the most relevant IAM and Okta’s acronyms. Outstanding questions that still need to be answered include:&#xA;Which acronyms should be listed? Is there a limit to how many acronyms?</description>
     </item>
     <item>
       <title>Workforce Identity Cloud (WIC)</title>
@@ -22,18 +22,18 @@
       <description>Workforce Identity Cloud (WIC) overview Click here to give feedback about this page&#xA;About This Page Page ID: 488&#xA;Is this a new page?: Completely new doc with new content&#xA;Target personas: Internal app builders, Saas Builder&#xA;Description: Explains WIC and compares it to the CIC domain. Describes the domain of what developer.okta.com covers. Draws the reader in with the problems they are trying to solve.&#xA;Why is this here?:</description>
     </item>
     <item>
-      <title>IAM basics</title>
-      <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/iam-basics/</link>
+      <title>IAM fundamentals</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/iam-fundamentals/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://danielmaharry-okta.github.io:1313/iaproto/learn/iam-basics/</guid>
-      <description>Identity Access Management (IAM) basics Click here to give feedback about this page&#xA;About This Page Page ID: 141&#xA;Is this a new page?: Completely new doc with new content&#xA;Target personas: Internal app builders, Saas Builder&#xA;Description: Explains Identity Access Management at a high level. Include links to child docs in this group.&#xA;Links to original docs:&#xA;Identity and Access Management (IAM) overview: https://developer.okta.com/docs/concepts/iam-overview/&#xA;Why is this here?:&#xA;Respondents with IAM experience level lower that 5 say that they rarely come to the site.</description>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/learn/iam-fundamentals/</guid>
+      <description>Identity and Access Management (IAM) fundamentals Click here to give feedback about this page&#xA;About This Page Page ID: 141&#xA;Is this a new page?: Completely new doc with new content&#xA;Target personas: Internal app builders, Saas Builder&#xA;Page type: Navigation&#xA;Content type: Guide Hub&#xA;A guide hub is the main navigation page for a section, such as learn, plan, or build. It begins with “Who this section is for?” and how the user may have gotten to this page, i.</description>
     </item>
     <item>
-      <title>Okta basics</title>
-      <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-basics/</link>
+      <title>Okta fundamentals</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-fundamentals/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-basics/</guid>
-      <description>Okta basics Click here to give feedback about this page&#xA;Section Notes The Okta Basics section gives new-to-IAM or new-to-Okta developers an introduction to Okta-specific basic concepts that they will need to build solutions that integrate with Okta.&#xA;About This Page Page ID: 144&#xA;Is this a new page?: Completely new doc with new content&#xA;Target personas: Internal app builders, Saas Builder&#xA;Why is this here?:&#xA;Respondents with an IAM experience level lower than 5 say that the developer docs “Needs improvement” Respondents with IAM experience level lower that 5 say that they rarely come to the site See Learn (ID: 1)</description>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-fundamentals/</guid>
+      <description>Okta fundamentals Click here to give feedback about this page&#xA;Section Notes The Okta Basics section gives new-to-IAM or new-to-Okta developers an introduction to Okta-specific basic concepts that they will need to build solutions that integrate with Okta.&#xA;About This Page Page ID: 144&#xA;Is this a new page?: Completely new doc with new content&#xA;Target personas: Internal app builders, Saas Builder&#xA;Why is this here?:&#xA;Respondents with an IAM experience level lower than 5 say that the developer docs “Needs improvement” Respondents with IAM experience level lower that 5 say that they rarely come to the site See Learn (ID: 1)</description>
     </item>
     <item>
       <title>Okta Integration Network (OIN)</title>

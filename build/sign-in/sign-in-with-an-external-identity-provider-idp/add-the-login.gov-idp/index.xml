@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Add the Login.gov IdP :: DevDocs Navigation Menu Test</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/build/sign-in/sign-in-with-an-external-identity-provider-idp/add-the-login.gov-idp/</link>
+    <description>Add the Login.gov IdP Click here to give feedback about this page&#xA;About This Page Page ID: 280&#xA;Is this a new page?: Existing doc: changes are needed to update the doc and to fit the new IA&#xA;Target personas: Internal app builders, Saas Builder&#xA;Changes to be made:&#xA;Add an explanation of why this guide is separate from the other two IdP guides. Is it because the guides in this section are split up into IdP types?</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/build/sign-in/sign-in-with-an-external-identity-provider-idp/add-the-login.gov-idp/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

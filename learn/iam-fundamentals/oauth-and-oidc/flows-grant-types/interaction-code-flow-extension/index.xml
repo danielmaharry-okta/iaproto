@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Interaction code flow extension :: DevDocs Navigation Menu Test</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/iam-fundamentals/oauth-and-oidc/flows-grant-types/interaction-code-flow-extension/</link>
+    <description>Interaction code grant type extension Click here to give feedback about this page&#xA;About This Page Page ID: 457&#xA;Is this a new page?: Existing doc: changes are needed to update the doc and to fit the new IA&#xA;Target personas: Internal app builders, Saas Builder&#xA;Description: Overview of the interaction code grant type.&#xA;Changes to be made: Review this doc and make it consistent with other docs in this section.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/learn/iam-fundamentals/oauth-and-oidc/flows-grant-types/interaction-code-flow-extension/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

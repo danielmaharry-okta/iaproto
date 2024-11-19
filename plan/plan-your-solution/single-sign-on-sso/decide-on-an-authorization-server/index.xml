@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Decide on an authorization server :: DevDocs Navigation Menu Test</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/plan/plan-your-solution/single-sign-on-sso/decide-on-an-authorization-server/</link>
+    <description>Decide which authorization server is right for you Click here to give feedback about this page&#xA;About This Page Page ID: 868&#xA;Is this a new page?: Existing doc: changes are needed to update the doc and to fit the new IA&#xA;Target personas: Internal app builders, Saas Builder&#xA;Links to original docs:&#xA;Which auth server should you choose - https://developer.okta.com/docs/concepts/auth-servers/ Page type: Concept&#xA;Content type: Explanation&#xA;Explanations present a more detailed dive into a single topic compared to Conceptual Overviews.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/plan/plan-your-solution/single-sign-on-sso/decide-on-an-authorization-server/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

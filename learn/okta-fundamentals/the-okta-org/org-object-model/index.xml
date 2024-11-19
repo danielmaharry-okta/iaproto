@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Org object model :: DevDocs Navigation Menu Test</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-fundamentals/the-okta-org/org-object-model/</link>
+    <description>The Okta org object model Click here to give feedback about this page&#xA;About This Page Page ID: 466&#xA;Is this a new page?: Existing doc: changes are needed to update the doc and to fit the new IA&#xA;Target personas: Internal app builders, Saas Builder&#xA;Changes to be made:&#xA;Update doc to include new features of an org and important missing attributes including: Users and groups Policies Links to original docs:</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-fundamentals/the-okta-org/org-object-model/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

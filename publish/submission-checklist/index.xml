@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Submission Checklist :: DevDocs Navigation Menu Test</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/publish/submission-checklist/</link>
+    <description>OIN submission checklist Click here to give feedback about this page&#xA;About This Page Page ID: 849&#xA;Is this a new page?: New doc with new content but also pulling from existing content&#xA;Target personas: Saas Builder&#xA;Page type: Concept&#xA;Content type: Explanation&#xA;Explanations present a more detailed dive into a single topic compared to Conceptual Overviews. They aim to clarify specific elements of the technology, offering developers practical insights or in-depth clarification on particular points of interest.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/publish/submission-checklist/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OIN integration limitations</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/publish/submission-checklist/oin-integration-limitations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/publish/submission-checklist/oin-integration-limitations/</guid>
+      <description>OIN Integration requirements and limitations Click here to give feedback about this page&#xA;About This Page Page ID: 850&#xA;Is this a new page?: New doc with new content but also pulling from existing content&#xA;Target personas: Saas Builder&#xA;Description: The “OIN Limitations” section from the pre-requisites page. This is being pulled out separately as it is linked to in many other pages compares to the pre-reqs in general and it needs to be easier to find in the navigation as a result.</description>
+    </item>
+    <item>
+      <title>OIN integration submission requirements</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/publish/submission-checklist/oin-integration-submission-requirements/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/publish/submission-checklist/oin-integration-submission-requirements/</guid>
+      <description>OIN integration submission requirements Click here to give feedback about this page&#xA;About This Page Page ID: 851&#xA;Is this a new page?: New doc with new content but also pulling from existing content&#xA;Target personas: Saas Builder&#xA;Description: Basically, the existing OIN prereqs page minus the OIN limitations page, which is being split out into its own page - “Review the OIN Restrictions”&#xA;Page type: Concept&#xA;Content type: Explanation</description>
+    </item>
+  </channel>
+</rss>

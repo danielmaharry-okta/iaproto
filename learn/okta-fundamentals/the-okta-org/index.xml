@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Okta org :: DevDocs Navigation Menu Test</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-fundamentals/the-okta-org/</link>
+    <description>The Okta org Click here to give feedback about this page&#xA;About This Page Page ID: 153&#xA;Is this a new page?: Existing doc: changes are needed to update the doc and to fit the new IA&#xA;Target personas: Internal app builders, Saas Builder&#xA;Changes to be made: Doc needs a thorough review and possibly updated to include new org features.&#xA;Links to original docs:&#xA;Okta organizations: https://developer.okta.com/docs/concepts/okta-organizations/ Why is this here?</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-fundamentals/the-okta-org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Org object model</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-fundamentals/the-okta-org/org-object-model/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-fundamentals/the-okta-org/org-object-model/</guid>
+      <description>The Okta org object model Click here to give feedback about this page&#xA;About This Page Page ID: 466&#xA;Is this a new page?: Existing doc: changes are needed to update the doc and to fit the new IA&#xA;Target personas: Internal app builders, Saas Builder&#xA;Changes to be made:&#xA;Update doc to include new features of an org and important missing attributes including: Users and groups Policies Links to original docs:</description>
+    </item>
+    <item>
+      <title>Apps</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-fundamentals/the-okta-org/apps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-fundamentals/the-okta-org/apps/</guid>
+      <description>Apps Click here to give feedback about this page&#xA;About This Page Page ID: 811&#xA;Is this a new page?: Completely new doc with new content&#xA;Target personas: Internal app builders, Saas Builder&#xA;Description: A summary of what is an “App integration” and how it fits into the Okta org object model. Provide links to help docs for more information.&#xA;Why is this here?:&#xA;Requested by product management (Jeff Taylor).</description>
+    </item>
+    <item>
+      <title>Devices</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-fundamentals/the-okta-org/devices/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/learn/okta-fundamentals/the-okta-org/devices/</guid>
+      <description>Devices Click here to give feedback about this page&#xA;About This Page Page ID: 810&#xA;Is this a new page?: Completely new doc with new content&#xA;Target personas: Internal app builders, Saas Builder&#xA;Description: A summary of how devices are used and integrated into an Okta org.&#xA;Why is this here?:&#xA;Requested by product management (Jeff Taylor).&#xA;Page type: Navigation&#xA;Content type: Summary redirect&#xA;A redirect provides a summary of a topic with links to the articles elsewhere in the site that cover that content in full.</description>
+    </item>
+  </channel>
+</rss>

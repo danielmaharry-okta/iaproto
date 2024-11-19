@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Add an enterprise IdP :: DevDocs Navigation Menu Test</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/build/sign-in/sign-in-with-an-external-identity-provider-idp/add-an-enterprise-idp/</link>
+    <description>Add an enterprise IdP Click here to give feedback about this page&#xA;About This Page Page ID: 282&#xA;Is this a new page?: Existing doc: changes are needed to update the doc and to fit the new IA&#xA;Target personas: Internal app builders, Saas Builder&#xA;Description: What is an “Enterprise” IdP. We need to define it and understand whether this is the best way to split up IdPs.&#xA;Changes to be made:</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/build/sign-in/sign-in-with-an-external-identity-provider-idp/add-an-enterprise-idp/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

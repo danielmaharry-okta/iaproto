@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Decide: SCIM vs Okta Workflows or both? :: DevDocs Navigation Menu Test</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/plan/plan-your-solution/lifecycle-management-lcm/decide-scim-vs-okta-workflows-or-both/</link>
+    <description>Decide: SCIM vs Okta Workflows or both? Click here to give feedback about this page&#xA;About This Page Page ID: 813&#xA;Is this a new page?: Completely new doc with new content&#xA;Target personas: Internal app builders, Saas Builder&#xA;Description:&#xA;Content needs to be workshopped Possible duplicate of ID: 770 (Compare pro-code and no-code LCM apps) Why is this here?:&#xA;Requested by product management (Jeff Taylor).&#xA;Page type: Concept&#xA;Content type: Explanation</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/plan/plan-your-solution/lifecycle-management-lcm/decide-scim-vs-okta-workflows-or-both/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

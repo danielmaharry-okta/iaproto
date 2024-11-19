@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Submit an SSO integration :: DevDocs Navigation Menu Test</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/publish/submit-an-sso-integration/</link>
+    <description>Submit a Single Sign-On (SSO) Integration Click here to give feedback about this page&#xA;About This Page Page ID: 856&#xA;Is this a new page?: Existing doc: changes are needed to update the doc and to fit the new IA&#xA;Target personas: Saas Builder&#xA;Description: How to submit your SSO integration (including the test process) using the OIN Wizard&#xA;Page type: Concept&#xA;Content type: Explanation&#xA;Explanations present a more detailed dive into a single topic compared to Conceptual Overviews.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/publish/submit-an-sso-integration/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Add OIDC details to the OIN Wizard</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/publish/submit-an-sso-integration/add-oidc-details-to-the-oin-wizard/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/publish/submit-an-sso-integration/add-oidc-details-to-the-oin-wizard/</guid>
+      <description>Add your OIDC integration’s details to the OIN wizard Click here to give feedback about this page&#xA;About This Page Page ID: 857&#xA;Is this a new page?: Existing doc: changes are needed to update the doc and to fit the new IA&#xA;Target personas: Saas Builder&#xA;Description: How to submit your SSO integration (including the test process) using the OIN Wizard&#xA;Page type: Task&#xA;Content type: How-to without code</description>
+    </item>
+    <item>
+      <title>Add SAML details to the OIN Wizard</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/publish/submit-an-sso-integration/add-saml-details-to-the-oin-wizard/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/publish/submit-an-sso-integration/add-saml-details-to-the-oin-wizard/</guid>
+      <description>Add your SAML integration’s details to the OIN wizard Click here to give feedback about this page&#xA;About This Page Page ID: 858&#xA;Is this a new page?: Existing doc: changes are needed to update the doc and to fit the new IA&#xA;Target personas: Saas Builder&#xA;Description: How to submit your SSO integration (including the test process) using the OIN Wizard&#xA;Page type: Task&#xA;Content type: How-to without code</description>
+    </item>
+    <item>
+      <title>Run OIDC integration tests in OIN Wizard</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/publish/submit-an-sso-integration/run-oidc-integration-tests-in-oin-wizard/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/publish/submit-an-sso-integration/run-oidc-integration-tests-in-oin-wizard/</guid>
+      <description>Test your SSO OIDC integration in the OIN wizard Click here to give feedback about this page&#xA;About This Page Page ID: 859&#xA;Is this a new page?: Existing doc: changes are needed to update the doc and to fit the new IA&#xA;Target personas: Saas Builder&#xA;Description: How to submit your SSO integration (including the test process) using the OIN Wizard&#xA;Page type: Task&#xA;Content type: How-to without code</description>
+    </item>
+    <item>
+      <title>Run SAML integration tests in OIN Wizard</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/publish/submit-an-sso-integration/run-saml-integration-tests-in-oin-wizard/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/publish/submit-an-sso-integration/run-saml-integration-tests-in-oin-wizard/</guid>
+      <description>Test your SSO OIDC integration in the OIN wizard Click here to give feedback about this page&#xA;About This Page Page ID: 864&#xA;Is this a new page?: Existing doc: changes are needed to update the doc and to fit the new IA&#xA;Target personas: Saas Builder&#xA;Description: How to submit your SSO integration (including the test process) using the OIN Wizard&#xA;Page type: Task&#xA;Content type: How-to without code</description>
+    </item>
+    <item>
+      <title>Submit your integration to the OIN</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/publish/submit-an-sso-integration/submit-your-integration-to-the-oin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/publish/submit-an-sso-integration/submit-your-integration-to-the-oin/</guid>
+      <description>Submit your integration to the OIN Click here to give feedback about this page&#xA;About This Page Page ID: 862&#xA;Is this a new page?: Existing doc: changes are needed to update the doc and to fit the new IA&#xA;Target personas: Saas Builder&#xA;Description: How to submit your SSO integration (including the test process) using the OIN Wizard&#xA;Page type: Task&#xA;Content type: How-to without code&#xA;A “How-to without code” illustrates how to perform a specific task that does not rely on writing code.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Decide which application to build :: DevDocs Navigation Menu Test</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/plan/decide-which-application-to-build/</link>
+    <description>Decide which applications to build to enter the market Click here to give feedback about this page&#xA;About This Page Page ID: 808&#xA;Is this a new page?: Completely new doc with new content&#xA;Target personas: Saas Builder&#xA;Description:&#xA;Demisitfy the term “integrations” here. The term is too overloaded. The doc’s contents need to be workshopped. Discuss with Jeff the specific content for this doc. Jeff’s original title for this doc was: “What integrations should I build to enter the market?</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/plan/decide-which-application-to-build/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why add SCIM entitlements?</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/plan/decide-which-application-to-build/why-add-scim-entitlements/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/plan/decide-which-application-to-build/why-add-scim-entitlements/</guid>
+      <description>Why add SCIM entitlements to LCM-enabled applications? Click here to give feedback about this page&#xA;About This Page Page ID: 814&#xA;Is this a new page?: Completely new doc with new content&#xA;Target personas: Internal app builders, Saas Builder&#xA;Description:&#xA;Content needs to be workshopped Jeff’s original title for this doc was “Why build LCM and Entitlements” Why is this here?:&#xA;Requested by product management (Jeff Taylor).&#xA;Page type: Concept</description>
+    </item>
+    <item>
+      <title>Why add Universal Logout (UL)?</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/plan/decide-which-application-to-build/why-add-universal-logout-ul/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/plan/decide-which-application-to-build/why-add-universal-logout-ul/</guid>
+      <description>Why add Universal Logout (UL) to SSO-enabled applications? Click here to give feedback about this page&#xA;About This Page Page ID: 820&#xA;Is this a new page?: Completely new doc with new content&#xA;Target personas: Internal app builders, Saas Builder&#xA;Description:&#xA;Content needs to be workshopped Why is this here?:&#xA;Requested by product management (Jeff Taylor).&#xA;Page type: Concept&#xA;Content type: Explanation&#xA;Explanations present a more detailed dive into a single topic compared to Conceptual Overviews.</description>
+    </item>
+  </channel>
+</rss>

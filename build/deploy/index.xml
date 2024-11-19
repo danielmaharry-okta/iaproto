@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Deploy  :: DevDocs Navigation Menu Test</title>
+    <title>Deploy :: DevDocs Navigation Menu Test</title>
     <link>https://danielmaharry-okta.github.io:1313/iaproto/build/deploy/</link>
     <description>Deploy your sign-in solution Click here to give feedback about this page&#xA;About This Page Page ID: 67&#xA;Is this a new page?: Completely new doc with new content&#xA;Target personas: Internal app builders, Saas Builder&#xA;Description: This section only talks about deploying an app. When there are so many deployment strategies these days, this section seems woefully inadequate.&#xA;Changes to be made: Changes for beyond phase 1: Per @Brian Duffield: Existing “Deploy to Production” content needs to be thoroughly reviewed; Understand better whether we need to add more content here or understand this section’s role better.</description>
     <generator>Hugo</generator>

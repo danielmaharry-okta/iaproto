@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Why add SCIM entitlements? :: DevDocs Navigation Menu Test</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/plan/decide-which-application-to-build/why-add-scim-entitlements/</link>
+    <description>Why add SCIM entitlements to LCM-enabled applications? Click here to give feedback about this page&#xA;About This Page Page ID: 814&#xA;Is this a new page?: Completely new doc with new content&#xA;Target personas: Internal app builders, Saas Builder&#xA;Description:&#xA;Content needs to be workshopped Jeff’s original title for this doc was “Why build LCM and Entitlements” Why is this here?:&#xA;Requested by product management (Jeff Taylor).&#xA;Page type: Concept</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/plan/decide-which-application-to-build/why-add-scim-entitlements/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

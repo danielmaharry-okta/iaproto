@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Legacy features :: DevDocs Navigation Menu Test</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/reference/okta-expression-language/legacy-features/</link>
+    <description>Okta expression language - legacy features Click here to give feedback about this page&#xA;About This Page Page ID: 791&#xA;Is this a new page?: New doc with new content but also pulling from existing content&#xA;Target personas: Internal app builders, Saas Builder&#xA;Links to original docs:&#xA;Expression Language in IDX : https://developer.okta.com/docs/reference/okta-expression-language-in-identity-engine/ “Legacy” Expression Language : https://developer.okta.com/docs/reference/okta-expression-language/ Page type: Reference&#xA;Content type: Lookup lists and tables&#xA;A series of tables or lists where users can look up facts or definitions, interspersed with short explanatory texts that give those tables the correct context.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/reference/okta-expression-language/legacy-features/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

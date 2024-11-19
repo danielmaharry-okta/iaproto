@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Test your submission :: DevDocs Navigation Menu Test</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/publish/submit-an-sso-integration/run-oidc-integration-tests-in-oin-wizard/test-your-submission/</link>
+    <description>Test your submission with the OIN submission tester Click here to give feedback about this page&#xA;About This Page Page ID: 863&#xA;Is this a new page?: Existing doc: changes are needed to update the doc and to fit the new IA&#xA;Target personas: Saas Builder&#xA;Description: How to submit your SSO integration (including the test process) using the OIN Wizard&#xA;Page type: Task&#xA;Content type: How-to without code&#xA;A “How-to without code” illustrates how to perform a specific task that does not rely on writing code.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/publish/submit-an-sso-integration/run-oidc-integration-tests-in-oin-wizard/test-your-submission/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
