@@ -3,7 +3,7 @@
   <channel>
     <title>Find your path :: DevDocs Navigation Menu Test</title>
     <link>https://danielmaharry-okta.github.io:1313/iaproto/find-your-path/</link>
-    <description>Find your path at Okta Click here to give feedback about this page&#xA;About This Page Page ID: 867&#xA;Is this a new page?: Completely new doc with new content&#xA;Target personas: Internal app builders, Saas Builder&#xA;Page type: Navigation&#xA;Content type: Guide Hub&#xA;A guide hub is the main navigation page for a section, such as learn, plan, or build. It begins with “Who this section is for?” and how the user may have gotten to this page, i.</description>
+    <description>Okta Pathways Landing Page Click here to give feedback about this page&#xA;About This Page Page ID: 867&#xA;Is this a new page?: Completely new doc with new content&#xA;Target personas: Internal app builders, Saas Builder&#xA;Description: Okta Pathways Landing Page&#xA;Links to original docs:&#xA;https://docs.google.com/document/d/1OtuEMrAhI-7e_Q7CD12_N0xenEMYZJcVDBnWa4tIqyg/edit?usp=sharing&#xA;Page type: Navigation&#xA;Content type: Guide Hub&#xA;A guide hub is the main navigation page for a section, such as learn, plan, or build. It begins with “Who this section is for?</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/find-your-path/index.xml" rel="self" type="application/rss+xml" />
@@ -12,14 +12,14 @@
       <link>https://danielmaharry-okta.github.io:1313/iaproto/find-your-path/add-authentication-to-a-spa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/find-your-path/add-authentication-to-a-spa/</guid>
-      <description>Add a sign-in experience to your single-page application Click here to give feedback about this page&#xA;About This Page Page ID: 866&#xA;Is this a new page?: Completely new doc with new content&#xA;Target personas: Internal app builders, Saas Builder&#xA;Page type: Concept&#xA;Content type: Conceptual overview&#xA;Conceptual overviews present a high-level introduction to a topic. Such high-level overviews provide developers with a broad understanding of the system’s workings. Deeper discussions into single topics are called Explanations.</description>
+      <description>Add a sign-in experience to your single-page application Click here to give feedback about this page&#xA;About This Page Page ID: 866&#xA;Is this a new page?: Completely new doc with new content&#xA;Target personas: Internal app builders, Saas Builder&#xA;Description: Okta Add sign in to a SPA with Redirect journey doc&#xA;Page type: Concept&#xA;Content type: Conceptual overview&#xA;Conceptual overviews present a high-level introduction to a topic. Such high-level overviews provide developers with a broad understanding of the system’s workings.</description>
     </item>
     <item>
       <title>Submit a SSO web app to OIN</title>
       <link>https://danielmaharry-okta.github.io:1313/iaproto/find-your-path/submit-a-sso-web-app-to-oin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/find-your-path/submit-a-sso-web-app-to-oin/</guid>
-      <description>Submit a single sign-on integration to Okta Integration Network Click here to give feedback about this page&#xA;About This Page Page ID: 865&#xA;Is this a new page?: Completely new doc with new content&#xA;Target personas: Internal app builders, Saas Builder&#xA;Page type: Concept&#xA;Content type: Conceptual overview&#xA;Conceptual overviews present a high-level introduction to a topic. Such high-level overviews provide developers with a broad understanding of the system’s workings. Deeper discussions into single topics are called Explanations.</description>
+      <description>Submit a single sign-on integration to Okta Integration Network Click here to give feedback about this page&#xA;About This Page Page ID: 865&#xA;Is this a new page?: Completely new doc with new content&#xA;Target personas: Internal app builders, Saas Builder&#xA;Description: Okta publish SSO OIDC integration to OIN journey doc&#xA;Links to original docs:&#xA;https://docs.google.com/document/d/1cLnFUCsIFFCEfK47W1-Mxq9Hv-QMDGOi0OFNHOx87B4/edit?usp=sharing&#xA;Page type: Concept&#xA;Content type: Conceptual overview&#xA;Conceptual overviews present a high-level introduction to a topic.</description>
     </item>
   </channel>
 </rss>

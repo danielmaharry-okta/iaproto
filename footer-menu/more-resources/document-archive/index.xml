@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Document Archive :: DevDocs Navigation Menu Test</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/footer-menu/more-resources/document-archive/</link>
+    <description>Click here to give feedback about this page&#xA;About This Page Page ID: 883&#xA;Is this a new page?: Not applicable&#xA;Links to original docs:&#xA;https://developer.okta.com/archive/&#xA;Page type: Navigation&#xA;Content type: Link&#xA;A link to a different website</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/footer-menu/more-resources/document-archive/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
