@@ -8,11 +8,11 @@
     <language>en-us</language>
     <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/build/customize/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Add your brand to Okta’s UI</title>
-      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/customize/add-your-brand-to-oktas-ui/</link>
+      <title>Style Okta’s UI with branding</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/customize/style-oktas-ui-with-branding/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/customize/add-your-brand-to-oktas-ui/</guid>
-      <description>Add your brand to Okta’s user interface Click here to give feedback about this page&#xA;About This Page Page ID: 51&#xA;Is this a new page?: Existing doc: changes are needed to update the doc and to fit the new IA&#xA;Target personas: Internal app builders, Saas Builder&#xA;Changes to be made: Update title&#xA;Links to original docs:&#xA;Brands: https://developer.okta.com/docs/concepts/brands/ Page type: Concept&#xA;Content type: Explanation&#xA;Explanations present a more detailed dive into a single topic compared to Conceptual Overviews.</description>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/customize/style-oktas-ui-with-branding/</guid>
+      <description>Style Okta’s UI with branding Click here to give feedback about this page&#xA;About This Page Page ID: 51&#xA;Is this a new page?: Existing doc: changes are needed to update the doc and to fit the new IA&#xA;Target personas: Internal app builders, Saas Builder&#xA;Changes to be made: Update title&#xA;Links to original docs:&#xA;Brands: https://developer.okta.com/docs/concepts/brands/ Page type: Concept&#xA;Content type: Explanation&#xA;Explanations present a more detailed dive into a single topic compared to Conceptual Overviews.</description>
     </item>
     <item>
       <title>Customize your domain name and email address</title>

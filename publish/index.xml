@@ -36,6 +36,13 @@
       <description>Submit an API service integration Click here to give feedback about this page&#xA;About This Page Page ID: 393&#xA;Is this a new page?: New doc with new content but also pulling from existing content&#xA;Target personas: Saas Builder&#xA;Links to original docs:&#xA;The bottom of the following doc has content related to submitting an API Service:&#xA;Build an API service integration: https://developer.okta.com/docs/guides/build-api-integration/main/ https://developer.okta.com/docs/guides/submit-app-overview/ (Submission process for SSO integrations) Page type: Task</description>
     </item>
     <item>
+      <title>OIN Submission Review Process</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/publish/oin-submission-review-process/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/publish/oin-submission-review-process/</guid>
+      <description>The OIN Submission Review Process Click here to give feedback about this page&#xA;About This Page Page ID: 886&#xA;Is this a new page?: New doc with new content but also pulling from existing content&#xA;Target personas: Saas Builder&#xA;Page type: Task&#xA;Content type: How-to with code&#xA;A “How-to with code” illustrates how to perform a specific task that involves writing code. The focus is geared towards developers integrating an SDK, API, or another library into their applications.</description>
+    </item>
+    <item>
       <title>Update your integration</title>
       <link>https://danielmaharry-okta.github.io:1313/iaproto/publish/update-your-integration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

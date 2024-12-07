@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Footer Menu :: DevDocs Navigation Menu Test</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/footer-menu/</link>
+    <description>Click here to give feedback about this page&#xA;About This Page Page ID: 832&#xA;Is this a new page?: Not applicable&#xA;Links to original docs:&#xA;https://www.okta.com/contact-sales/&#xA;Page type: Navigation&#xA;Content type: Link&#xA;A link to a different website</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/footer-menu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact &amp; Legal</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/footer-menu/contact--legal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/footer-menu/contact--legal/</guid>
+      <description>Click here to give feedback about this page&#xA;About This Page Page ID: 892&#xA;Is this a new page?: Not applicable&#xA;Links to original docs:&#xA;https://www.okta.com/contact-sales/&#xA;Page type: Navigation&#xA;Content type: Link&#xA;A link to a different website</description>
+    </item>
+    <item>
+      <title>Get Certified</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/footer-menu/get-certified/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/footer-menu/get-certified/</guid>
+      <description>Click here to give feedback about this page&#xA;About This Page Page ID: 876&#xA;Is this a new page?: Not applicable&#xA;Links to original docs:&#xA;https://www.okta.com/services/training/&#xA;Page type: Navigation&#xA;Content type: Link&#xA;A link to a different website</description>
+    </item>
+    <item>
+      <title>More resources</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/footer-menu/more-resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/footer-menu/more-resources/</guid>
+      <description>Click here to give feedback about this page&#xA;About This Page Page ID: 878&#xA;Is this a new page?: Not applicable&#xA;Links to original docs:&#xA;https://www.okta.com/pricing/#workforce-identity-pricing&#xA;Page type: Navigation&#xA;Content type: Link&#xA;A link to a different website</description>
+    </item>
+  </channel>
+</rss>

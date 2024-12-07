@@ -3,16 +3,23 @@
   <channel>
     <title>Homepage :: DevDocs Navigation Menu Test</title>
     <link>https://danielmaharry-okta.github.io:1313/iaproto/</link>
-    <description>developer.okta.com Navigation prototype v3.0b1 Click here to give feedback about this page&#xA;Please give us your feedback on the redesigned navigation system for the developer documentation website.&#xA;The goal is a task-based navigation that makes it easier for developers to find the content they’re looking for… the answer to their question. We’ve biased the design to developers inexperienced with Identity and Access Management.&#xA;Please do NOT give us your feedback on the design and visuals of this prototype or its lack of actual documentation.</description>
+    <description>developer.okta.com Navigation prototype v3.0b2 Click here to give feedback about this page&#xA;Please give us your feedback on the redesigned navigation system for the developer documentation website.&#xA;The goal is a task-based navigation that makes it easier for developers to find the content they’re looking for… the answer to their question. We’ve biased the design to developers inexperienced with Identity and Access Management.&#xA;Please do NOT give us your feedback on the design and visuals of this prototype or its lack of actual documentation.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Header Menu</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/header-menu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/header-menu/</guid>
+      <description>The Okta APIs Click here to give feedback about this page&#xA;About This Page Page ID: 689&#xA;Is this a new page?: Not applicable&#xA;Target personas: Internal app builders, Saas Builder&#xA;Links to original docs:&#xA;Link to APIs main page (ID: 171)&#xA;Content type: Link&#xA;A link to a different website</description>
+    </item>
     <item>
       <title>Find your path</title>
       <link>https://danielmaharry-okta.github.io:1313/iaproto/find-your-path/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/find-your-path/</guid>
-      <description>Find your path at Okta Click here to give feedback about this page&#xA;About This Page Page ID: 867&#xA;Is this a new page?: Completely new doc with new content&#xA;Target personas: Internal app builders, Saas Builder&#xA;Page type: Navigation&#xA;Content type: Guide Hub&#xA;A guide hub is the main navigation page for a section, such as learn, plan, or build. It begins with “Who this section is for?” and how the user may have gotten to this page, i.</description>
+      <description>Okta Pathways Landing Page Click here to give feedback about this page&#xA;About This Page Page ID: 867&#xA;Is this a new page?: Completely new doc with new content&#xA;Target personas: Internal app builders, Saas Builder&#xA;Description: Okta Pathways Landing Page&#xA;Links to original docs:&#xA;https://docs.google.com/document/d/1OtuEMrAhI-7e_Q7CD12_N0xenEMYZJcVDBnWa4tIqyg/edit?usp=sharing&#xA;Page type: Navigation&#xA;Content type: Guide Hub&#xA;A guide hub is the main navigation page for a section, such as learn, plan, or build. It begins with “Who this section is for?</description>
     </item>
     <item>
       <title>Learn</title>
@@ -48,6 +55,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/reference/</guid>
       <description>Reference Click here to give feedback about this page&#xA;About This Page Page ID: 172&#xA;Is this a new page?: Completely new doc with new content&#xA;Target personas: Internal app builders, Saas Builder&#xA;Page type: Navigation&#xA;Content type: Guide Hub&#xA;A guide hub is the main navigation page for a section, such as learn, plan, or build. It begins with “Who this section is for?” and how the user may have gotten to this page, i.</description>
+    </item>
+    <item>
+      <title>Footer Menu</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/footer-menu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/footer-menu/</guid>
+      <description>Click here to give feedback about this page&#xA;About This Page Page ID: 832&#xA;Is this a new page?: Not applicable&#xA;Links to original docs:&#xA;https://www.okta.com/contact-sales/&#xA;Page type: Navigation&#xA;Content type: Link&#xA;A link to a different website</description>
     </item>
   </channel>
 </rss>
