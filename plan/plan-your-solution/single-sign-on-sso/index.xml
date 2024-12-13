@@ -8,32 +8,32 @@
     <language>en-us</language>
     <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/plan/plan-your-solution/single-sign-on-sso/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Compare sign-in deployment models</title>
-      <link>https://danielmaharry-okta.github.io:1313/iaproto/plan/plan-your-solution/single-sign-on-sso/compare-sign-in-deployment-models/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://danielmaharry-okta.github.io:1313/iaproto/plan/plan-your-solution/single-sign-on-sso/compare-sign-in-deployment-models/</guid>
-      <description>Compare Okta’s sign-in deployment models Click here to give feedback about this page&#xA;About This Page Page ID: 693&#xA;Is this a new page?: Existing doc: changes are needed to update the doc and to fit the new IA&#xA;Target personas: Internal app builders, Saas Builder&#xA;Changes to be made:&#xA;Title change Add content related to the Direct Auth API. (need PM/other confirmation) Links to original docs:&#xA;Sign users in overview: https://developer.</description>
-    </item>
-    <item>
       <title>Decide on a sign-in solution</title>
       <link>https://danielmaharry-okta.github.io:1313/iaproto/plan/plan-your-solution/single-sign-on-sso/decide-on-a-sign-in-solution/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/plan/plan-your-solution/single-sign-on-sso/decide-on-a-sign-in-solution/</guid>
-      <description>Decide which sign-in solution is right for you Click here to give feedback about this page&#xA;About This Page Page ID: 465&#xA;Is this a new page?: Existing doc: changes are needed to update the doc and to fit the new IA&#xA;Target personas: Internal app builders, Saas Builder&#xA;Changes to be made:&#xA;Update title Links to original docs:&#xA;Okta deployment models - redirect vs. embedded: https://developer.okta.com/docs/concepts/redirect-vs-embedded/ Page type: Navigation</description>
+      <description>Decide on a sign-in solution Click here to give feedback about this page&#xA;About This Page Page ID: 465&#xA;Is this a new page?: Existing doc: changes are needed to update the doc and to fit the new IA&#xA;Target personas: Internal app builders, Saas Builder&#xA;Changes to be made:&#xA;Update title Links to original docs:&#xA;Okta deployment models - redirect vs. embedded: https://developer.okta.com/docs/concepts/redirect-vs-embedded/ Page type: Navigation&#xA;Content type: Guide Hub</description>
     </item>
     <item>
-      <title>Decide on an authorization server</title>
-      <link>https://danielmaharry-okta.github.io:1313/iaproto/plan/plan-your-solution/single-sign-on-sso/decide-on-an-authorization-server/</link>
+      <title>Choose an SSO protocol</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/plan/plan-your-solution/single-sign-on-sso/choose-an-sso-protocol/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://danielmaharry-okta.github.io:1313/iaproto/plan/plan-your-solution/single-sign-on-sso/decide-on-an-authorization-server/</guid>
-      <description>Decide which authorization server is right for you Click here to give feedback about this page&#xA;About This Page Page ID: 868&#xA;Is this a new page?: Existing doc: changes are needed to update the doc and to fit the new IA&#xA;Target personas: Internal app builders, Saas Builder&#xA;Links to original docs:&#xA;Which auth server should you choose - https://developer.okta.com/docs/concepts/auth-servers/ Page type: Concept&#xA;Content type: Explanation&#xA;Explanations present a more detailed dive into a single topic compared to Conceptual Overviews.</description>
-    </item>
-    <item>
-      <title>Decide on a sign-in protocol</title>
-      <link>https://danielmaharry-okta.github.io:1313/iaproto/plan/plan-your-solution/single-sign-on-sso/decide-on-a-sign-in-protocol/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://danielmaharry-okta.github.io:1313/iaproto/plan/plan-your-solution/single-sign-on-sso/decide-on-a-sign-in-protocol/</guid>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/plan/plan-your-solution/single-sign-on-sso/choose-an-sso-protocol/</guid>
       <description>Decide which authentication protocol is right for you Click here to give feedback about this page&#xA;About This Page Page ID: 716&#xA;Is this a new page?: New doc with new content but also pulling from existing content&#xA;Target personas: Internal app builders, Saas Builder&#xA;Links to original docs:&#xA;All content except for the use case examples from:&#xA;Overview of Single Sign-On in the OIN: https://developer.okta.com/docs/guides/oin-sso-overview/ Note most of the content is good and not specific to the OIN Ensure any OIN-specific content is removed.</description>
+    </item>
+    <item>
+      <title>Choose a sign-in deplyment model </title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/plan/plan-your-solution/single-sign-on-sso/choose-a-sign-in-deplyment-model/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/plan/plan-your-solution/single-sign-on-sso/choose-a-sign-in-deplyment-model/</guid>
+      <description>Compare Okta’s sign-in deployment models Click here to give feedback about this page&#xA;About This Page Page ID: 693&#xA;Is this a new page?: Existing doc: changes are needed to update the doc and to fit the new IA&#xA;Target personas: Internal app builders, Saas Builder&#xA;Changes to be made:&#xA;Title change Add content related to the Direct Auth API. (need PM/other confirmation) Links to original docs:&#xA;Sign users in overview: https://developer.</description>
+    </item>
+    <item>
+      <title>Choose an authorization server</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/plan/plan-your-solution/single-sign-on-sso/choose-an-authorization-server/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/plan/plan-your-solution/single-sign-on-sso/choose-an-authorization-server/</guid>
+      <description>Decide which authorization server is right for you Click here to give feedback about this page&#xA;About This Page Page ID: 868&#xA;Is this a new page?: Existing doc: changes are needed to update the doc and to fit the new IA&#xA;Target personas: Internal app builders, Saas Builder&#xA;Links to original docs:&#xA;Which auth server should you choose - https://developer.okta.com/docs/concepts/auth-servers/ Page type: Concept&#xA;Content type: Explanation&#xA;Explanations present a more detailed dive into a single topic compared to Conceptual Overviews.</description>
     </item>
     <item>
       <title>Best practices for passwordless</title>

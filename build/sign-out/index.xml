@@ -8,6 +8,20 @@
     <language>en-us</language>
     <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/build/sign-out/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Sign a user out with auth.js</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/sign-out/sign-a-user-out-with-auth.js/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/sign-out/sign-a-user-out-with-auth.js/</guid>
+      <description>Sign a user out wiht auth.js Click here to give feedback about this page&#xA;About This Page Page ID: 244&#xA;Is this a new page?: Existing doc: changes are needed to update the doc and to fit the new IA&#xA;Target personas: Internal app builders, Saas Builder&#xA;Changes to be made: https://developer.okta.com/docs/guides/auth-js-redirect/main/#add-a-sign-out-function&#xA;Links to original docs:&#xA;https://developer.okta.com/docs/guides/auth-js-redirect/main/#add-a-sign-out-function&#xA;Page type: Task&#xA;Content type: How-to with code&#xA;A “How-to with code” illustrates how to perform a specific task that involves writing code.</description>
+    </item>
+    <item>
+      <title>Create your own sign-out form</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/sign-out/create-your-own-sign-out-form/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/sign-out/create-your-own-sign-out-form/</guid>
+      <description>Create your own sign-out form Click here to give feedback about this page&#xA;About This Page Page ID: 895&#xA;Is this a new page?: Existing doc: changes are needed to update the doc and to fit the new IA&#xA;Target personas: Internal app builders, Saas Builder&#xA;Changes to be made:&#xA;Update title Technically, this sign out could go under Build &gt; Add a sign-out solution but the desire was to keep as much as possible all the SDK docs in one space.</description>
+    </item>
+    <item>
       <title>Sign a user out from all OIDC SSO apps</title>
       <link>https://danielmaharry-okta.github.io:1313/iaproto/build/sign-out/sign-a-user-out-from-all-oidc-sso-apps/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -27,6 +41,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/sign-out/add-universal-logout-to-your-app/</guid>
       <description>Add Universal Logout to your app Click here to give feedback about this page&#xA;About This Page Page ID: 421&#xA;Is this a new page?: Existing doc: changes are needed to update the doc and to fit the new IA&#xA;Target personas: Internal app builders, Saas Builder&#xA;Description: This as-new doc needs to guide a user through an implementation of UL, including code and explanation of flow. The HTTP Response codes should not be included, and those looking for an overview of UL should be directed to Learn &gt; SLO and UL</description>
+    </item>
+    <item>
+      <title>Delete all stay signed-in sessions</title>
+      <link>https://danielmaharry-okta.github.io:1313/iaproto/build/sign-out/delete-all-stay-signed-in-sessions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://danielmaharry-okta.github.io:1313/iaproto/build/sign-out/delete-all-stay-signed-in-sessions/</guid>
+      <description>Delete all stay signed-in sessions Click here to give feedback about this page&#xA;About This Page Page ID: 894&#xA;Is this a new page?: Existing doc: changes are needed to update the doc and to fit the new IA&#xA;Target personas: Internal app builders, Saas Builder&#xA;Changes to be made: Complete rewrite into a howto with code&#xA;Links to original docs:&#xA;https://developer.okta.com/docs/guides/delete-all-stay-signed-in-sessions/main/&#xA;Page type: Task&#xA;Content type: How-to with code</description>
     </item>
   </channel>
 </rss>
