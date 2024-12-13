@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Create your own sign-out form :: DevDocs Navigation Menu Test</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/build/sign-out/create-your-own-sign-out-form/</link>
+    <description>Create your own sign-out form Click here to give feedback about this page&#xA;About This Page Page ID: 895&#xA;Is this a new page?: Existing doc: changes are needed to update the doc and to fit the new IA&#xA;Target personas: Internal app builders, Saas Builder&#xA;Changes to be made:&#xA;Update title Technically, this sign out could go under Build &gt; Add a sign-out solution but the desire was to keep as much as possible all the SDK docs in one space.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/build/sign-out/create-your-own-sign-out-form/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
