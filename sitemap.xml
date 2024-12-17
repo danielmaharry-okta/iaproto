@@ -271,7 +271,7 @@
     <loc>https://danielmaharry-okta.github.io:1313/iaproto/plan/plan-your-solution/single-sign-on-sso/choose-an-sso-protocol/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/plan/plan-your-solution/single-sign-on-sso/choose-a-sign-in-deplyment-model/</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/plan/plan-your-solution/single-sign-on-sso/choose-a-sign-in-deployment-model/</loc>
   </url>
   <url>
     <loc>https://danielmaharry-okta.github.io:1313/iaproto/plan/plan-your-solution/single-sign-on-sso/choose-an-authorization-server/</loc>
@@ -572,12 +572,6 @@
   </url>
   <url>
     <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-sessions/keep-a-user-sign-in-session-alive-with-a-refresh-token/</loc>
-  </url>
-  <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-sessions/keep-a-user-sign-in-session-alive-with-a-refresh-token/basics-and-configuration/</loc>
-  </url>
-  <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-sessions/keep-a-user-sign-in-session-alive-with-a-refresh-token/how-to-implement-in-your-app/</loc>
   </url>
   <url>
     <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-access/</loc>
