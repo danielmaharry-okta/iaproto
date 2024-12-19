@@ -3,7 +3,7 @@
   <channel>
     <title>Homepage :: DevDocs Navigation Menu Test</title>
     <link>https://danielmaharry-okta.github.io:1313/iaproto/</link>
-    <description>developer.okta.com Navigation prototype v3.0 Click here to give feedback about this page&#xA;Please give us your feedback on the redesigned navigation system for the developer documentation website.&#xA;The goal is a task-based navigation that makes it easier for developers to find the content they’re looking for… the answer to their question. We’ve biased the design to developers inexperienced with Identity and Access Management.&#xA;Please do NOT give us your feedback on the design and visuals of this prototype or its lack of actual documentation.</description>
+    <description>developer.okta.com Navigation prototype v3.1 Click here to give feedback about this page&#xA;Please give us your feedback on the redesigned navigation system for the developer documentation website.&#xA;The goal is a task-based navigation that makes it easier for developers to find the content they’re looking for… the answer to their question. We’ve biased the design to developers inexperienced with Identity and Access Management.&#xA;Please do NOT give us your feedback on the design and visuals of this prototype or its lack of actual documentation.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/index.xml" rel="self" type="application/rss+xml" />

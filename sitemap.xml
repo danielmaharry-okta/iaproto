@@ -55,6 +55,9 @@
     <loc>https://danielmaharry-okta.github.io:1313/iaproto/find-your-path/</loc>
   </url>
   <url>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/find-your-path/get-started/</loc>
+  </url>
+  <url>
     <loc>https://danielmaharry-okta.github.io:1313/iaproto/find-your-path/add-authentication-to-a-spa/</loc>
   </url>
   <url>
@@ -271,7 +274,7 @@
     <loc>https://danielmaharry-okta.github.io:1313/iaproto/plan/plan-your-solution/single-sign-on-sso/choose-an-sso-protocol/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/plan/plan-your-solution/single-sign-on-sso/choose-a-sign-in-deplyment-model/</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/plan/plan-your-solution/single-sign-on-sso/choose-a-sign-in-deployment-model/</loc>
   </url>
   <url>
     <loc>https://danielmaharry-okta.github.io:1313/iaproto/plan/plan-your-solution/single-sign-on-sso/choose-an-authorization-server/</loc>
@@ -572,12 +575,6 @@
   </url>
   <url>
     <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-sessions/keep-a-user-sign-in-session-alive-with-a-refresh-token/</loc>
-  </url>
-  <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-sessions/keep-a-user-sign-in-session-alive-with-a-refresh-token/basics-and-configuration/</loc>
-  </url>
-  <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-user-sessions/keep-a-user-sign-in-session-alive-with-a-refresh-token/how-to-implement-in-your-app/</loc>
   </url>
   <url>
     <loc>https://danielmaharry-okta.github.io:1313/iaproto/build/manage-access/</loc>
@@ -886,79 +883,82 @@
     <loc>https://danielmaharry-okta.github.io:1313/iaproto/publish/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/publish/submission-checklist/</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/publish/review-the-submission-checklist/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/publish/submission-checklist/check-your-app-works-under-oin/</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/publish/review-the-submission-checklist/check-your-app-works-under-oin/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/publish/submission-checklist/prepare-the-content-for-your-oin-product-page/</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/publish/review-the-submission-checklist/prepare-the-content-for-your-oin-product-page/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/publish/submission-checklist/prepare-your-application-logo/</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/publish/review-the-submission-checklist/prepare-your-application-logo/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/publish/submission-checklist/prepare-help-docs-for-your-customers-admins/</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/publish/review-the-submission-checklist/prepare-help-docs-for-your-customers-admins/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/publish/submission-checklist/check-your-browser-and-user-account-run-the-oin-wizard/</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/publish/review-the-submission-checklist/check-your-browser-and-user-account-run-the-oin-wizard/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/publish/submit-an-sso-integration/</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/publish/submit-an-integration/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/publish/submit-an-sso-integration/add-oidc-details-and-supporting-files/</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/publish/submit-an-integration/sso/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/publish/submit-an-sso-integration/add-saml-details-and-supporting-files/</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/publish/submit-an-integration/sso/add-integration-details-and-supporting-files/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/publish/submit-an-sso-integration/test-that-your-integrations-sign-in-flow-works/</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/publish/submit-an-integration/sso/add-integration-details-and-supporting-files/oidc/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/publish/submit-an-sso-integration/test-that-your-integrations-sign-in-flow-works/create-integration-copies-for-testing/</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/publish/submit-an-integration/sso/add-integration-details-and-supporting-files/saml/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/publish/submit-an-sso-integration/test-that-your-integrations-sign-in-flow-works/test-your-submission/</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/publish/submit-an-integration/sso/test-that-your-integrations-sign-in-flow-works/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/publish/submit-an-sso-integration/complete-your-submission-to-the-oin/</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/publish/submit-an-integration/sso/test-that-your-integrations-sign-in-flow-works/create-integration-copies-for-testing/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/publish/submit-a-lcm-integration/</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/publish/submit-an-integration/sso/test-that-your-integrations-sign-in-flow-works/test-your-submission/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/publish/submit-an-api-service-integration/</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/publish/submit-an-integration/sso/complete-your-submission-to-the-oin/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/publish/oin-submission-review-process/</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/publish/submit-an-integration/lcm/</loc>
+  </url>
+  <url>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/publish/submit-an-integration/api-service/</loc>
+  </url>
+  <url>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/publish/track-your-integrations-review-status/</loc>
   </url>
   <url>
     <loc>https://danielmaharry-okta.github.io:1313/iaproto/publish/update-your-integration/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/publish/update-your-integration/update-an-sso-oidc-integration-with-oin-wizard/</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/publish/update-your-integration/sso-oidc/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/publish/update-your-integration/update-an-sso-saml-integration-with-oin-wizard/</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/publish/update-your-integration/sso-saml/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/publish/update-your-integration/update-an-sso-oidc-integration-with-oin-manager/</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/publish/update-your-integration/lcm/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/publish/update-your-integration/update-an-sso-saml-integration-with-oin-manager/</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/publish/update-your-integration/api-service/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/publish/update-your-integration/update-an-lifecycle-management-integration/</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/publish/update-your-integration/notifications/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/publish/update-your-integration/update-a-service-app-integration/</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/publish/update-your-integration/notifications/update-your-users-on-new-versions-of-your-app/</loc>
   </url>
   <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/publish/update-your-integration/update-your-users-on-new-versions-of-your-app/</loc>
-  </url>
-  <url>
-    <loc>https://danielmaharry-okta.github.io:1313/iaproto/publish/update-your-integration/be-notified-when-apps-you-use-are-updated/</loc>
+    <loc>https://danielmaharry-okta.github.io:1313/iaproto/publish/update-your-integration/notifications/be-notified-when-apps-you-use-are-updated/</loc>
   </url>
   <url>
     <loc>https://danielmaharry-okta.github.io:1313/iaproto/publish/find-help-for-oin-issues/</loc>
