@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prepare your application logo :: DevDocs Navigation Menu Test</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/publish/review-the-submission-checklist/prepare-your-application-logo/</link>
+    <description>Prepare your application logo Click here to give feedback about this page&#xA;About This Page Page ID: 852&#xA;Is this a new page?: New doc with new content but also pulling from existing content&#xA;Target personas: Saas Builder&#xA;Description: Basically, the existing OIN prereqs page minus the OIN limitations page, which is being split out into its own page - “Review the OIN Restrictions”&#xA;Page type: Concept&#xA;Content type: Explanation</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/publish/review-the-submission-checklist/prepare-your-application-logo/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
