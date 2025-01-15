@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Limit scopes for particular clients :: DevDocs Navigation Menu Test</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/build/authorize-users/limit-scopes-for-particular-clients/</link>
+    <description>Limit scopes for particular clients Click here to give feedback about this page&#xA;About This Page Page ID: 277&#xA;Is this a new page?: New doc with new content but also pulling from existing content&#xA;Target personas: Internal app builders, Saas Builder&#xA;Changes to be made: See existing content link for more details.&#xA;Links to original docs:&#xA;The “Limit which scopes some clients can access” section in Configure an access policy: https://developer.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/build/authorize-users/limit-scopes-for-particular-clients/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

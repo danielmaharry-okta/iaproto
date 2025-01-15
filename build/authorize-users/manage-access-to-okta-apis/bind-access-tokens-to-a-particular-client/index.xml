@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bind access tokens to a particular client :: DevDocs Navigation Menu Test</title>
+    <link>https://danielmaharry-okta.github.io:1313/iaproto/build/authorize-users/manage-access-to-okta-apis/bind-access-tokens-to-a-particular-client/</link>
+    <description>Bind access tokens to a particular client Click here to give feedback about this page&#xA;About This Page Page ID: 423&#xA;Is this a new page?: Existing doc: changes are needed to update the doc and to fit the new IA&#xA;Target personas: Internal app builders, Saas Builder&#xA;Changes to be made:&#xA;Create dimensions for this page based on resource server type. Update title Links to original docs:&#xA;Configure OAuth 2.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/build/authorize-users/manage-access-to-okta-apis/bind-access-tokens-to-a-particular-client/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

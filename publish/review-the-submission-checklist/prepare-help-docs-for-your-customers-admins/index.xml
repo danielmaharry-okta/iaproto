@@ -3,7 +3,7 @@
   <channel>
     <title>Prepare help docs for your customer’s admins :: DevDocs Navigation Menu Test</title>
     <link>https://danielmaharry-okta.github.io:1313/iaproto/publish/review-the-submission-checklist/prepare-help-docs-for-your-customers-admins/</link>
-    <description>Prepare help docs for your customer’s admins Click here to give feedback about this page&#xA;About This Page Page ID: 854&#xA;Is this a new page?: New doc with new content but also pulling from existing content&#xA;Target personas: Saas Builder&#xA;Description: Basically, the existing OIN prereqs page minus the OIN limitations page, which is being split out into its own page - “Review the OIN Restrictions”&#xA;Page type: Concept</description>
+    <description>Prepare OIN help docs for your customer’s admins Click here to give feedback about this page&#xA;About This Page Page ID: 854&#xA;Is this a new page?: New doc with new content but also pulling from existing content&#xA;Target personas: Saas Builder&#xA;Description: Basically, the existing OIN prereqs page minus the OIN limitations page, which is being split out into its own page - “Review the OIN Restrictions”&#xA;Page type: Concept</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/publish/review-the-submission-checklist/prepare-help-docs-for-your-customers-admins/index.xml" rel="self" type="application/rss+xml" />

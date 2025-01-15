@@ -3,7 +3,7 @@
   <channel>
     <title>Submit an integration :: DevDocs Navigation Menu Test</title>
     <link>https://danielmaharry-okta.github.io:1313/iaproto/publish/submit-an-integration/</link>
-    <description>Submit a Single Sign-On (SSO) Integration Click here to give feedback about this page&#xA;About This Page Page ID: 856&#xA;Is this a new page?: Existing doc: changes are needed to update the doc and to fit the new IA&#xA;Target personas: Saas Builder&#xA;Description: How to submit your SSO integration (including the test process) using the OIN Wizard&#xA;Page type: Concept&#xA;Content type: Explanation&#xA;Explanations present a more detailed dive into a single topic compared to Conceptual Overviews.</description>
+    <description>Submit an Integration Click here to give feedback about this page&#xA;About This Page Page ID: 856&#xA;Is this a new page?: Existing doc: changes are needed to update the doc and to fit the new IA&#xA;Target personas: Saas Builder&#xA;Description: How to submit your SSO integration (including the test process) using the OIN Wizard&#xA;Page type: Concept&#xA;Content type: Explanation&#xA;Explanations present a more detailed dive into a single topic compared to Conceptual Overviews.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://danielmaharry-okta.github.io:1313/iaproto/publish/submit-an-integration/index.xml" rel="self" type="application/rss+xml" />
